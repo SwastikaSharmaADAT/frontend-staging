@@ -1,0 +1,83 @@
+{
+    "validationErrors": {
+        "image": "기사 이미지는 필수 항목입니다.",
+        "title": "제목은 필수 항목입니다",
+        "titleLength": "제목은 최대 200자 입력가능합니다",
+        "description": "상세설명은 필수 항목입니다",
+        "descriptionLength": "상세설명은 최대 5000자 입력가능합니다",
+        "category": "카테고리 분류는 필수 항목입니다",
+        "country": "국가는 필수 항목입니다",
+        "city": "도시는 필수 항목입니다",
+        "startDate": "시작일은 필수 항목입니다",
+        "endDate": "종료일은 필수 항목입니다",
+        "endDateLarge": "종료일이 시작일 이전일 수 없습니다"
+    },
+    "articleNotAvailable": "이 기사는 이용불가입니다",
+    "placeholderImage": "특징 이미지 추가",
+    "placeholderTitle": "제목 입력",
+    "placeholderDescription": "기사를 여기에 작성하세요",
+    "placeholderCountry": "국가",
+    "placeholderStartDate": "시작일",
+    "placeholderCity": "도시",
+    "placeholderEndDate": "종료일",
+    "category": "카테고리",
+    "categoryOptions": {
+        "option1": "소문",
+        "option2": "오늘의 그림",
+        "option3": "전시회"
+    },
+    "status": {
+        "draft": "초안",
+        "publish": "게시",
+        "pending": "승인 보류 중",
+        "rejected": "거부됨"
+    },
+    "articleFollowed": "팔로잉",
+    "articleFollow": "팔로우",
+    "articleUnFollow": "언팔로우",
+    "update": "업데이트",
+    "submit": "제출",
+    "buzzListing": {
+        "title": "예술 세계 이슈들을 확인해 보세요",
+        "titleShort": "소문",
+        "placeholderSearchTitle": "전시회 제목으로 검색",
+        "search": "검색",
+        "city": "도시",
+        "edit": "편집"
+    },
+    "exhibitionListing": {
+        "title": "전시회"
+    },
+    "potd": {
+        "title": "오늘의 그림"
+    },
+    "myArticle": {
+        "title": "내 기사",
+        "seeMoreText": "더 보기..."
+    },
+    "seeMoreText": "더 보기...",
+    "addArticleInfo": {
+        "mainSection": {
+            "heading": "기사 작성 방법",
+            "firstPara": "여러분 자신을 언론인이나 오피니언 기자로 생각해 보세요. 미술계와 미술 애호가들을 위해 흥미로운 것에 대해 쓰세요. 본인이나 자신의 예술작품을 알릴 수 있는 기회라기보다는 일반 관객이 관심을 가질 만한 주제에 대해 글을 쓸 수 있는 공간입니다",
+            "secondPara": "기사를 게재하기 위해서는 ARTMO에 대한 완전한 프로필이 있어야 합니다.",
+            "thirdPara": "출판 후, 당신은 출판인으로 인정될 것입니다."
+        },
+        "buzzSubSection": {
+            "heading": "소문:",
+            "firstPara": "ARTMO 사용자들이 관심 있는 주제에 대한 기사를 쓰세요. 소문 기사를 위한 좋은 예를 보세요.",
+            "anchorText": "여기"
+        },
+        "potdSubSection": {
+            "heading": "오늘의 사진 | POTD:",
+            "firstPara": "당신이 쓰고 싶은 매혹적이고 매력적인 사진이 있을 때 POTD 카테고리를 사용하세요. 그 이미지를 특집 이미지로 사용하고 그 사진의 이야기를 세상에 알리세요. POTD가 게시됩니다. ",
+            "anchorText": "여기"
+        },
+        "exhibitionSubSection": {
+            "heading": "전시회:",
+            "firstPara": "화랑 운영하거나 전시회를 조직하는 경우 이 카테고리를 사용합니다. 기획 중인 전시회에 대해 작성하시면 전시 카테고리에 당신의 글이 나옵니다.",
+            "secondPara": "당신의 전시 기사가 게시될 것입니다.",
+            "anchorText": "여기"
+        }
+    }
+}

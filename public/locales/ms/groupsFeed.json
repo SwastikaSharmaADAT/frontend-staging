@@ -1,0 +1,61 @@
+{
+    "createPost": {
+        "title": "Hasilkan pos",
+        "editPhoto": "Sunting foto",
+        "addPhoto": "Tambah foto",
+        "characterLimit": "/500",
+        "publish": "Terbit",
+        "placeholderWriteSomething": "Tulis sesuatu..."
+    },
+    "groupBarHead": {
+        "leave": "Tinggal",
+        "confirmLeave": "Adakah anda pasti mahu meninggalkan kumpulan?",
+        "uploadPhoto": "Muat Naik Foto",
+        "removePhoto": "Keluarkan Foto",
+        "changePhoto": "Tukar Foto",
+        "group": "Kumpulan",
+        "leaveGroup": "Tinggalkan kumpulan",
+        "joinGroup": "Sertai Kumpulan",
+        "lastActive": "Terakhir Aktif",
+        "members": " ahli",
+        "posts": "pos",
+        "editGroupSettings": "Sunting Setting Kumpulan"
+    },
+    "memberSection": {
+        "title": "Ahli-Ahli Kumpulan",
+        "members": "ahli-ahli",
+        "seeAll": "Lihat Semua..."
+    },
+    "invite": {
+        "title": "Jemput Kawan-Kawan",
+        "seeAll": "Lihat Semua",
+        "invited": "Dijemput",
+        "follower": "pengikut",
+        "followerPlural": "pengikut",
+        "allConnectionsInvited": "Semua sambungan anda telah dijemput.",
+        "noConnectionsToInvite": "Tiada sambungan untuk dijemput",
+        "inviteTo": "Jemput ke",
+        "invite": "Jemput",
+        "loading": "Muat Turun..."
+    },
+    "joinRequests": {
+        "title": "Permintaan Untuk Menyertai",
+        "follower": "pengikut",
+        "followerPlural": "pengikut",
+        "reject": "Tolak",
+        "accept": "Terima",
+        "noMoreRequests": "Tiada lagi permintaan untuk menyertai"
+    },
+    "listingPopup": {
+        "remove": "Keluarkan",
+        "admin": "(Admin)",
+        "moderator": "(Moderator)",
+        "follower": "pengikut",
+        "followerPlural": "pengikut",
+        "assignModerator": "Ditugaskan sebagai Moderator",
+        "removeFromGroup": "Keluarkan dari Kumpulan",
+        "addedAsModerator": "Ditambah sebagai Moderator",
+        "deleteConfirm": "Adakah anda pasti anda ingin mengeluarkan pengguna ini?"
+    },
+    "notAuthorized": "Tidak Dibenarkan"
+}

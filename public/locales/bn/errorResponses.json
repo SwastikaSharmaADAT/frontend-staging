@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "noContactsFound": "কোনো যোগাযোগ পাওয়া যায়নি",
+        "somethingWentWrong": "কোনো একটা সমস্যা হয়েছে, সামনে যেতে প্রবেশ করুন",
+        "sessionExpired": "সময় শেষ, দয়া করে পুনরায় প্রবেশ করুন",
+        "loginToContinue": "কাজ চালিয়ে যেতে দয়াকরে লগইন করুন"
+    },
+    "mediaLibrary": {
+        "limitMoreImages": "আরো মাত্র {{limit}} টি ছবি বাছাই করা যাবে"
+    },
+    "article": {
+        "articleNotFound": "অনুচ্ছেদ খুঁজে পাওয়া যায়নি"
+    },
+    "cart": {
+        "alreadyInCart": "এই পণ্যটি ইতোমধ্যেই আপনার ঝুড়িতে যুক্ত করা হয়েছে",
+        "removeItemError": "ঝুড়ি থেকে আইটেম সরাতে ত্রুটি দেখা দিয়েছে"
+    },
+    "subscriptions": {
+        "planExist": "আপনি ইতোমধ্যেই এই প্ল্যানটি কিনেছেন!",
+        "artworkNotFound": "শিল্পকর্ম পাওয়া যায়নি"
+    }
+}

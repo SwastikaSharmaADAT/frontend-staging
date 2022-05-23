@@ -1,0 +1,20 @@
+{
+    "myConnectionsLabel": "Kết nối của Tôi",
+    "connectionRequests": "Yêu cầu Kết nối",
+    "connectionRequestsSent": "Yêu cầu Kết nối đã Gửi",
+    "follower": "người theo dõi",
+    "followerPlural": "người theo dõi",
+    "disconnected": "đã bỏ kết nối",
+    "disconnect": "bỏ kết nối",
+    "loadMore": "Tải Thêm...",
+    "noConnections": "Chưa có Kết nối nào",
+    "ignore": "Bỏ qua",
+    "ignored": "Đã bỏ qua",
+    "connect": "kết nối",
+    "connected": "đã kết nối",
+    "noConnectionRequestsReceived": "Không nhận được Yêu cầu Kết nối nào",
+    "noConnectionRequestsSent": "Chưa gửi Yêu cầu Kết nối nào",
+    "requestDeleted": "Yêu cầu đã Xóa",
+    "deleteRequest": "Xóa Yêu cầu",
+    "noConnectionRequests": "Chưa nhận được Yêu cầu Kết nối nào"
+}

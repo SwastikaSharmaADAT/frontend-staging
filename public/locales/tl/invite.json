@@ -1,0 +1,16 @@
+{
+    "title": "MAG-IMBITA NG MGA KAIBIGAN",
+    "tagsInput": {
+        "placeholder": "Add emails manually. Magdagdag ng mga email, ipaghiwalay gamit ang kuwit o pindutin ang enter kada isang email."
+    },
+    "cancelButtonLabel": "Kanselahin",
+    "sendInvitesButtonLabel": "Ipadala ang mga imbitasyon",
+    "howInviteWork": "Paano ito gumagana?",
+    "emailTemplateText": "Maaari ko bang makita ang email bago ipadala?",
+    "pickEmailService": "Pumili ng iyong email service...",
+    "gmailText": "Gmail",
+    "outlookText": "Outlook",
+    "otherText": "Iba pa",
+    "selectedText": "Napili",
+    "emptyResultText": "Walang Resultang Nahanap"
+}

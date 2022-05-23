@@ -1,0 +1,27 @@
+{
+    "chooseImage": "Pumili ng larawan",
+    "uploadTab": {
+        "title": "Mag-upload ng mga File",
+        "dragDropHere": "Mag-drag at mag-drop ng mga file dito",
+        "or": "o",
+        "selectFiles": "+ Pumili ng mga file",
+        "supportedFormatsText": "*.jpeg, *.jpg at *.png na mga larawan lamang ang tatanggapin",
+        "maxLimitPrefix": "Hindi hihigit sa",
+        "maxLimitSuffix": "mga larawan na maaaring piliin o i-drop",
+        "moreImagesText": "{{limit}} mga larawan ang maaaring piliin o i-drop",
+        "maxFileSize": "Max File Size: 2 MB",
+        "minFileSize": "Min File Size: 100 kB",
+        "maxLimitText": "Hindi lalagpas sa {{limit}} ang maaaring piliin o i-drop"
+    },
+    "mediaTab": {
+        "title": "Media Library",
+        "pickATag": "Pumili ng Tag",
+        "loadMore": "Mag-load nang higit pa",
+        "deleteImage": "Magbura ng larawan",
+        "choose": "Pumili",
+        "saveAll": "I-save ang lahat",
+        "placeholderSearch": "Maghanap ng mga item...",
+        "placeholderDescription": "Magdagdag ng deskripsyong teksto...",
+        "placeholderEnterTag": "Maglagay ng Tag"
+    }
+}

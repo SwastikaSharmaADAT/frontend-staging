@@ -1,0 +1,62 @@
+{
+  "createPost": {
+    "title": "สร้างโพสต์",
+    "editPhoto": "ปรับแต่งรูป",
+    "addPhoto": "เพิ่มรูป",
+    "characterLimit": "/500",
+    "publish": "เผยแพร่",
+    "placeholderWriteSomething": "เริ่มเขียนอะไรซักหน่อย..."
+  },
+  "groupBarHead": {
+    "leave": "ออก",
+    "confirmLeave": "คุณแน่ใจใช่ไหมว่าต้องการออกจากกลุ่ม?",
+    "uploadPhoto": "อัพโหลดรูป",
+    "removePhoto": "เปลี่ยนรูป",
+    "changePhoto": "เอารูปออก",
+    "group": "กลุ่ม",
+    "leaveGroup": "ออกจากกลุ่ม",
+    "joinGroup": "เข้าร่วมกลุ่ม",
+    "lastActive": "ออนไลน์ล่าสุด",
+    "members": " สมชิก(หลายคน)",
+    "posts": "โพต์(หลายโพสต์)",
+    "editGroupSettings": "แก้ไขการตั้งค่ากลุ่ม",
+    "Leave": "ออก"
+  },
+  "memberSection": {
+    "title": "สมาชิกกลุ่ม",
+    "members": "สมาชิก",
+    "seeAll": "ดูทั้งหมด..."
+  },
+  "invite": {
+    "title": "เชิญเครือข่าย",
+    "seeAll": "ดูทั้งหมด",
+    "invited": "เชิญแล้ว",
+    "follower": "ผู้ติดตาม",
+    "followerPlural": "ผู้ติดตามหลายคน",
+    "allConnectionsInvited": "เครือข่ายทั้งหมดของคุณถูกเชิญแล้ว",
+    "noConnectionsToInvite": "ไม่มีเครือข่ายให้เชิญ",
+    "inviteTo": "เชิญไปยัง",
+    "invite": "เชิญ",
+    "loading": "กำลังโหลด..."
+  },
+  "joinRequests": {
+    "title": "คำขอเข้าร่วม",
+    "follower": "ผู้ติดตาม",
+    "followerPlural": "ผู้ติดตามหลายคน",
+    "reject": "ปฏิเสธ",
+    "accept": "ยอมรับ",
+    "noMoreRequests": "ไม่มีคำขอเข้าร่วมแล้ว"
+  },
+  "listingPopup": {
+    "remove": "เอาออก",
+    "admin": "(แอดมิน)",
+    "moderator": "(ผู้ดูแล)",
+    "follower": "ผู้ติดตาม",
+    "followerPlural": "ผู้ติดตามหลายคน",
+    "assignModerator": "มอบหมายให้เป็นผู้ดูแล",
+    "removeFromGroup": "เอาออกจากกลุ่ม",
+    "addedAsModerator": "เพิ่มให้เป็นผู้ดูแล",
+    "deleteConfirm": "คุณแน่ใจไหมว่าจะเอาผู้ใช้งานคนนี้ออก?"
+  },
+  "notAuthorized": "ไม่ได้รับอนุญาต"
+}

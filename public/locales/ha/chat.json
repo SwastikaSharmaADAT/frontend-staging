@@ -1,0 +1,24 @@
+{
+    "delete": "Goge",
+    "warningDeleteConversation": "Ka tabbata kanaso ka goge wannan hirar?",
+    "block": "Toshewa",
+    "unblock": "Budewa",
+    "blockWarning": "Ka tabbatar kanaso",
+    "thisUser": "wannan mai amfani?",
+    "placeholderMessage": "Rubuta sakon ka anan...",
+    "send": "Tura",
+    "blockText": "Bazaka iya maida martani a wannan hirar ba. Ko mai amfani ya mayar da sakonsa sirri ko an dakatar dashi.",
+    "noMessage": "Babu Sakonni",
+    "history": "Duba tarihin sakonni",
+    "emojiPicker": {
+        "smileys_people": "SMILEYS & MUTANE ",
+        "animals_nature": "DABBOBI & DUNIYA",
+        "food_drink": "ABINCI & ABUN SHA",
+        "travel_places": "TAFIYA & GURARE",
+        "activities": "AYYUKA",
+        "objects": "ABUBUWA",
+        "symbols": "ALAMOMI",
+        "flags": "TUTOCI",
+        "recently_used": "WADANDA AKAYI AMFANI DASU BADA DADEWA BA"
+    }
+}

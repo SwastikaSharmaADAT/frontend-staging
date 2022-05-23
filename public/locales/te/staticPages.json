@@ -1,0 +1,83 @@
+{
+    "pageNotFound": {
+        "404": "404",
+        "signUpTextNotFound": "మీకు ఇంకా ప్రొఫైల్ లేకపోతే సైన్ అప్ అవ్వండి...",
+        "pageNotFound": "క్షమాపణలు, మీరు అన్వేషిస్తున్న పేజీని మేము మీకు చూపలేకపోతున్నాము. <br/> ఈ కింది ఎంపికలలో ఏదో ఒకటి ప్రయత్నించి చూడండి, అవి పని చేయవచ్చు...",
+        "goBackHome": "వెనక్కి వెళ్లు"
+    },
+    "usersTermsConditions": {
+        "title": "వినియోగదారుని యొక్క నిబంధనలు & షరతులు",
+        "overview": "1. పరిశీలన",
+        "contentEligibility": "2. కంటెంట్ & అర్హత",
+        "feesPayments": "3. రుసుములు & చెల్లింపులు",
+        "accountTermination": "4. రద్దు & ఖాతా ఉపసంహరణ",
+        "provisions": "5. మరిన్ని అంశాలు",
+        "seePrivacyPolicy": "గోప్యతా విధానాన్ని చూడండి",
+        "seeVendorTermsConditions": "విక్రేత యొక్క నిబంధనలు & షరతులు చూడండి"
+    },
+    "privacyPolicyPage": {
+        "title": "గోప్యతా విధానం",
+        "seeVendorTermsConditions": "విక్రేత యొక్క నిబంధనలు & షరతులు చూడండి",
+        "seeUserTermsConditions": "వినియోగదారుని యొక్క నిబంధనలు & షరతులు చూడండి",
+        "accountPrivacySettings": "ఖాతా యొక్క గోప్యతా సెట్టింగులు",
+        "dataSecurity": "సమాచార భద్రత",
+        "collectingPersonalData": "వ్యక్తిగత సమాచారాన్ని సేకరించుట మరియు విశ్లేషణ చేయుట",
+        "adsOnArtmo": "ARTMOలో ప్రకటనలు"
+    },
+    "vendorTermsConditions": {
+        "title": "విక్రేత యొక్క నిబంధనలు & షరతులు",
+        "seePrivacyPolicy": "గోప్యతా విధానాన్ని చూడండి",
+        "seeUserTermsConditions": "వినియోగదారుని యొక్క నిబంధనలు & షరతులు చూడండి",
+        "impOverview": "ముందుగా... ఒక ముఖ్యమైన పరిశీలన",
+        "stepByStep": "అంచెలంచెలుగా",
+        "overview": "1. పరిశీలన",
+        "fees": "2. కమీషను | రుసుములు | చెల్లింపులు | తిరుగు చెల్లింపులు",
+        "termination": "3. రద్దు & ఖాతా ఉపసంహరణ",
+        "payoutSchedule": "4. విక్రయాల కోసం చెల్లింపుల కాలపట్టిక",
+        "contentEligibility": "5. కంటెంట్ & అర్హత",
+        "yourObligations": "6. మీ బాధ్యతలు",
+        "artmoObligations": "7. ARTMO బాధ్యతలు",
+        "returns": "8. తిరిగి ఇచ్చుట మరియు వివాదాలు",
+        "provisions": "9. మరిన్ని అంశాలు",
+        "shippingReturnPolicy": "షిప్పింగ్ & రిటర్న్ విధానాలు"
+    },
+    "whatIsArtmo": {
+        "title": "ARTMO అంటే ఏమిటి?",
+        "artNetwork": "ది ఆర్ట్ నెట్‌వర్క్",
+        "artEnthusiast": "కళా ఔత్సాహికులు",
+        "muchMore": "మరియు ఇంకెన్నో!",
+        "member": "సభ్యులు",
+        "pages": "పేజీలు",
+        "marketplace": "మార్కెట్ ప్లేస్",
+        "needHelp": "సహాయం కావాలా - మమ్మల్ని సంప్రదించండి...",
+        "artist": "కళాకారులు",
+        "gallery": "గ్యాలరీలు",
+        "university": "విశ్వవిద్యాలయాలు",
+        "shop": "దుకాణం"
+    },
+    "mobileApp": {
+        "title": "మొబైల్ యాప్",
+        "subHeading": "మీ మొబైల్ హోమ్-స్క్రీన్ నుండి ARTMOను ఎలా ప్రారంభించాలి?",
+        "note": "గమనిక",
+        "step": "స్టెప్",
+        "done": "పూర్తయినది"
+    },
+    "artworkUploadInst": {
+        "headerTitle": "కళాకృతులను అప్‌లోడ్ చేయుటకు సూచనలు",
+        "images": "చిత్రాలు",
+        "title": "శీర్షికలు",
+        "artMaterial": "కళ యొక్క మూలవస్తువు",
+        "series": "సిరీస్",
+        "limitedEdition": "పరిమిత ఎడిషన్లు",
+        "price": "ధర",
+        "dimension": "డైమెన్షన్",
+        "frame": "ఫ్రేమ్",
+        "medium": "మాధ్యమం",
+        "genre": "సాహిత్య ప్రక్రియ",
+        "subjectTags": "కళా విషయం యొక్క ట్యాగులు",
+        "description": "వివరణ",
+        "text": "వాక్యము",
+        "yourProfile": "మీ ప్రొఫైల్",
+        "pdf": "పీడిఎఫ్ (PDF)"
+    }
+}

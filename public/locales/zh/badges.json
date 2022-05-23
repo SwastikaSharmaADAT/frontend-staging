@@ -1,0 +1,20 @@
+{
+    "title": "徽章",
+    "promoteProfileSection": {
+        "title": "推广您的个人资料",
+        "description": "在您的网站上嵌入指向您的ARTMO个人资料的链接.",
+        "getLinkButton": "获取链接"
+    },
+    "badgeSections": {
+        "step1": "步骤 1: 选择颜色:",
+        "whiteRadioOption": "白色",
+        "blackRadioOption": "黑色",
+        "step2": "步骤 2: 选择尺寸:",
+        "largeRadioOption": "大",
+        "smallRadioOption": "小",
+        "step3": "步骤 3: 在您的网站上复制并粘贴代码:",
+        "copyButtonText": "复制代码",
+        "copiedButtonText": "已复制!",
+        "helpText": "帮助"
+    }
+}

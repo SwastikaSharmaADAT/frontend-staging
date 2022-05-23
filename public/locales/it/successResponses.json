@@ -1,0 +1,116 @@
+{
+    "auth": {
+        "passwordResetSuccess": "La Password è stata ripristinata!",
+        "signOutMessage": "L'utente è stato disconnesso!"
+    },
+    "articles": {
+        "articlePublish": "Articolo pubblicato",
+        "articleDraft": "Articolo salvato in bozze",
+        "articleUpdate": "Articolo aggiornato"
+    },
+    "dashboard": {
+        "settingsSaved": "Impostazioni salvate"
+    },
+    "groups": {
+        "userRemoved": "L'utente è stato rimosso dal gruppo",
+        "assignAsModerator": "Assegnato come Moderatore",
+        "inviteSent": "Invito inviato",
+        "postSentForApproval": "Il tuo ultimo post è stato inviato all'Amministratore/Moderatore per l'approvazione",
+        "postPublished": "Post pubblicato",
+        "groupPostAccepted": "Post accettato con successo",
+        "groupPostRejected": "Post rifiutato",
+        "joinRequestAccepted": "Richiesta accettata",
+        "joinRequestRejected": "Richiesta rifiutata",
+        "groupInviteAccept": "Invito al gruppo accettato",
+        "groupInviteReject": "Invito al gruppo ignorata",
+        "commentAddSuccess": "Commenti aggiunti",
+        "groupPhotoRemove": "Foto del gruppo rimossa",
+        "groupPhotoUpload": "Foto del gruppo caricata",
+        "commentDeleted": "Commento eliminato",
+        "groupPostAction": "Post {{type}}",
+        "joinRequest": "Richiesta di iscrizione a {{type}}"
+    },
+    "mediaLibrary": {
+        "updatedAllMedia": "Aggiornamento file multimediali.",
+        "updatedMedia": "File multimediali aggiornati."
+    },
+    "newsFeed": {
+        "postPublished": "Post pubblicato",
+        "videoPublished": "Video pubblicato",
+        "photoAlbumPublished": "Album di foto pubblicato",
+        "photoAlbumUpdated": "Album di foto caricato con successo",
+        "commentAdded": "Commento aggiunto",
+        "commentDeleted": "Commento eliminato",
+        "commentHide": "Commento nascosto",
+        "commentUnhide": "Commento visibile",
+        "commentUpdated": "Commento aggiornato",
+        "activityDeleted": "Attività eliminata"
+    },
+    "notification": {
+        "notificationRemoved": "Notifica rimossa!"
+    },
+    "pages": {
+        "pageCreated": "Pagina creata"
+    },
+    "profile": {
+        "profilePhotoUploaded": "'Foto del profilo aggiornata",
+        "coverPhotoUploaded": "Copertina foto aggiornata",
+        "profilePhotoRemoved": "Foto profilo aggiornata",
+        "coverPhotoRemoved": "Copertina foto rimossa",
+        "infoSaved": "Informazione salvata",
+        "profileUpdated": "Profilo aggiornato",
+        "connectionRequestSent": "Richiesta di connessione inviata",
+        "blockUser": "Utente {{type}}",
+        "blocked": "Utente bloccato",
+        "unblocked": "Utente sbloccato",
+        "follow": "Segui l'utente",
+        "unfollow": "Non segui più l'utente",
+        "noticeDeleted": "Avviso eliminato",
+        "techniqueUpdate": "Sezione tecniche aggiornata",
+        "expertiseUpdate": "Sezione esperienze aggiornata",
+        "awardUpdate": "Sezione premi aggiornata",
+        "publicationUpdate": "Sezione pubblicazioni aggiornata",
+        "exhibitionUpdate": "Sezione mostre precendenti aggiornata",
+        "aboutBusinessUpdate": "Sezione la mia Azienda | Professione aggiornata",
+        "disconnectedFromUser": "Disconnetti come utente",
+        "connectionRequestDeleted": "Richiesta di connessione eliminata",
+        "connectionRequestIgnored": "Richiesta di connessione ignorata",
+        "userConnected": "Utente connesso",
+        "followUnfollowUser": "L'utente è stato {{action}}"
+    },
+    "staticContent": {
+        "inviteSent": "Invito inviato"
+    },
+    "myAccount": {
+        "privacySettingsUpdated": "Impostazioni privacy dell'utente aggionate",
+        "webNotificationsSettingsUpdated": "Impostazioni notifiche web aggiornate",
+        "dataDownload": "Informazioni scaricate con successo",
+        "picsDownload": "Immagini scaricate con successo",
+        "passwordUpdated": "Password aggiornata",
+        "notificationUpdated": "Impostazioni notifiche aggiornate",
+        "accountDisconnected": "Il tuo account è disconnesso",
+        "userDataDelete": "Tutte le informazioni dell'utente sono state cancellate",
+        "photosDelete": "Tutti gli album e le foto sono stati cancellati",
+        "userDelete": "Account cancellato con successo"
+    },
+    "artworks": {
+        "artworkUpdated": "La tua opera d'arte è stata aggiornata.",
+        "artworkDeleted": "Opera d'arte eliminata",
+        "draftSave": "La tua opera d'arte è stata salvata in Bozze",
+        "sentForReview": "La tua opera d'arte è stata inviata all'amministratore per sottoporla a revisione",
+        "published": "Your artwork is published successfully"
+    },
+    "profileCompletePopup": {
+        "profileUpdated": "Profilo aggiornato con successo"
+    },
+    "subscriptions": {
+        "purchaseSuccess": "Iscrizione eseguita con successo",
+        "cancel": "L'iscrizione è stata cancellata",
+        "paymentReactivate": "Pagamento riattivato"
+    },
+    "messages": {
+        "chatDelete": "Chat eliminata con successo",
+        "userBlock": "L'utente è stato bloccato",
+        "messageSent": "Messaggi inviato"
+    }
+}

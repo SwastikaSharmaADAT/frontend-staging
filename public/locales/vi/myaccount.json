@@ -1,0 +1,161 @@
+{
+    "leftTabs": {
+        "account": "Tài khoản",
+        "changePassword": "Thay đổi Mật khẩu",
+        "setPassword": "Đặt Mật khẩu",
+        "privacy": "Riêng tư",
+        "notifications": "Thông báo",
+        "webNotifications": "Thông báo Web",
+        "socialConnect": "Kết nối Xã hội",
+        "myPhotos": "Ảnh của Tôi",
+        "deleteAccount": "Xóa Tài khoản"
+    },
+    "account": {
+        "title": "Tài khoản",
+        "username": "Tên đăng nhập",
+        "firstname": "Tên",
+        "lastname": "Họ",
+        "pagename": "Tên Trang",
+        "email": "Địa chỉ email",
+        "updateAccount": "Cập nhật Tài khoản",
+        "validationErrors": {
+            "firstname": "Cần nhập Tên",
+            "lastname": "Cần nhập Họ",
+            "firstnameLength": "Không quá 50 ký tự",
+            "lastnameLength": "Không quá 50 ký tự",
+            "pagename": "Cần nhập tên Trang",
+            "pagenameLength": "Không quá 50 ký tự"
+        }
+    },
+    "changePassword": {
+        "changeTitle": "Thay đổi Mật khẩu",
+        "setTitle": "Đặt Mật khẩu",
+        "currentPassword": "Mật khẩu Hiện tại",
+        "newPassword": "Mật khẩu Mới",
+        "confirmPassword": "Xác nhận Mật khẩu",
+        "updatePassword": "Cập nhật Mật khẩu",
+        "validationErrors": {
+            "currentPassword": "Vui lòng nhập mật khẩu hiện tại của bạn",
+            "newPassword": "Vui lòng nhập mật khẩu mới",
+            "confirmPassword": "Vui lòng xác nhận mật khẩu mới của bạn",
+            "passConditions": "Phải có 8 ký tự, ít nhất một chữ In hoa, một chữ In thường và một Chữ số",
+            "passNotMatch": "Mật khẩu không khớp"
+        }
+    },
+    "notifications": {
+        "title": "Thông báo",
+        "description": "Chọn những thông báo email bạn muốn nhận",
+        "headings": {
+            "followers": "Người theo dõi",
+            "friends": "Bạn bè",
+            "posts": "Bài đăng",
+            "messages": "Tin nhắn"
+        },
+        "checkboxLabels": {
+            "newFollowers": "Có người Mới Theo dõi Tôi",
+            "newConnectionAdded": "Tôi có Một Kết nối Mới",
+            "newConnectionRequest": "Tôi có Một Yêu cầu Kết nối Mới",
+            "groupPost": "Thông báo cho Tôi Khi Ai đó Đăng trong Nhóm",
+            "groupComments": "Thông báo cho Tôi Khi Ai đó Bình luận trong Nhóm",
+            "privateMessage": "Ai đó Gửi cho Tôi Một Tin nhắn Riêng",
+            "unreadMessage": "Tôi có Một Tin nhắn Chưa đọc"
+        },
+        "updateNotifications": "Thông báo Cập nhật"
+    },
+    "privacy": {
+        "title": "Riêng tư",
+        "profilePrivacy": "Riêng tư Hồ sơ",
+        "showProfileOptions": {
+            "everyone": "Tất cả mọi người",
+            "onlyMe": "Chỉ mình Tôi",
+            "following": "Chỉ những người tôi theo dõi xem được hồ sơ của tôi",
+            "followers": "Người theo dõi",
+            "connections": "Chỉ các Kết nối"
+        },
+        "tooltips": {
+            "tip1": "Ai có thể xem hồ sơ công khai của bạn?",
+            "tip2": "Ở đây bạn có thể ẩn bản thân khỏi việc xuất hiện trong danh mục công khai",
+            "tip3": "Bạn có muốn người khác nhìn thấy bạn đang trực tuyến không?",
+            "tip4": "Bạn có thể yêu cầu một file thông tin mà chúng tôi tin rằng liên quan và hữu dụng nhất cho bạn.",
+            "tip5": "Bạn có thể yêu cầu xóa dữ liệu chúng tôi có về bạn."
+        },
+        "hideProfile": "Ẩn hồ sơ của tôi khỏi danh mục",
+        "yes": "Có",
+        "no": "Không",
+        "showOnlineStatus": "Hiển thị trạng thái trực tuyến của tôi",
+        "activityWall": "Ai có thể xem hoạt động của bạn?",
+        "activityWallOptions": {
+            "public": "Công khai",
+            "onlyMe": "Chỉ mình Tôi",
+            "followers": "Người theo dõi",
+            "following": "Người tôi theo dõi"
+        },
+        "privateMessage": "Ai có thể gửi tin nhắn riêng cho tôi?",
+        "privateMessageOptions": {
+            "everyone": "Tất cả mọi người",
+            "nobody": "Không ai cả",
+            "following": "Chỉ người tôi theo dõi",
+            "followers": "Người theo dõi",
+            "connections": "Đã kết nối"
+        },
+        "downloadData": "Tải xuống dữ liệu của bạn",
+        "downloadDataDescription": "Nhập mật khẩu hiện tại của bạn để xác nhận trích xuất dữ liệu cá nhân của bạn.",
+        "downloadDataButton": "Yêu cầu dữ liệu",
+        "eraseData": "Xóa dữ liệu của bạn",
+        "eraseDataDescription": "Nhập mật khẩu hiện tại của bạn để xác nhận xóa dữ liệu cá nhân của bạn.",
+        "eraseDataButton": "Yêu cầu xóa dữ liệu",
+        "updatePrivacyButton": "Cập nhật Riêng tư"
+    },
+    "webNotifications": {
+        "title": "Thông báo Web",
+        "description": "Nhận Thông báo",
+        "checkboxLabels": {
+            "newReplies": "Khi Một Thành viên Trả lời Một trong số Những Bình luận của Tôi",
+            "newComments": "Khi Một Thành viên Bình luận về Bài đăng của Tôi",
+            "viewProfile": "Khi Một Thành viên Xem Hồ sơ của Tôi",
+            "privateMessage": "Khi Ai đó Gửi Tin nhắn Riêng cho Tôi",
+            "newFollower": "Khi Ai đó Theo dõi Tôi",
+            "newConnection": "Khi Ai đó Yêu cầu Kết nối",
+            "acceptConnection": "Khi Ai đó Đồng ý Kết nối",
+            "newLike": "Khi Ai đó Thích Bài đăng của Bạn",
+            "newMention": "Khi Ai đó Nhắc đến Tôi",
+            "groupRequestApproved": "Khi Yêu cầu tham gia Nhóm của Tôi được Chấp nhận",
+            "newGroupRequest": "Khi Một Người dùng Yêu cầu Tham gia Nhóm của Tôi",
+            "groupInvitation": "Khi Một Thành viên đã Mời Tham gia Một Nhóm",
+            "groupRole": "Khi Vai trò trong Nhóm của Tôi Thay đổi",
+            "likeArtwork": "Khi Ai đó Thích Một Tác phẩm Nghệ thuật"
+        },
+        "updateSettingsButton": "Thông báo Cập nhật"
+    },
+    "socialConnect": {
+        "title": "Kết nối Xã hội",
+        "notConnected": "Bạn không kết nối với bất kỳ tài khoản xã hội nào.",
+        "disconnectFacebook": "Ngắt kết nối với Facebook",
+        "disconnectLinkedin": "Ngắt kết nối với LinkedIn",
+        "passwordWarning": "*Vui lòng đặt mật khẩu trước khi ngắt kết nối tài khoản"
+    },
+    "myPhotos": {
+        "title": "Ảnh của tôi",
+        "warningText": "Ảnh và album sẽ bị xóa vĩnh viễn và không thể khôi phục lại một khi bị xóa.",
+        "button1": "Tải xuống ảnh của tôi",
+        "button2": "Xóa tất cả album và ảnh của tôi",
+        "downloadWarning": "* Tác vụ tải xuống ảnh của tôi có thể mất một chút thời gian để hoàn thành phụ thuộc vào số lượng ảnh đã tải lên.",
+        "imagesWarning": "Bạn chắc chắn muốn xóa tất cả album và ảnh của mình chứ?",
+        "buttonDelete": "xóa"
+    },
+    "deleteAccount": {
+        "title": "Xóa Tài khoản",
+        "warningText": "Bạn chắc chắn muốn xóa tài khoản của mình chứ? Điều này sẽ xóa toàn bộ dữ liệu về tài khoản của bạn khỏi trang. Nhập mật khẩu bên dưới để xóa tài khoản của bạn",
+        "button": "Xóa tài khoản",
+        "password": "Mật khẩu",
+        "passwordWarning": "*Vui lòng đặt mật khẩu trước khi ngắt kết nối tài khoản",
+        "managePaymentsTitle": "Quản lý Thanh toán cho Đăng ký Nhà cung cấp",
+        "managePaymentsText": "Nếu bạn muốn ngừng thanh toán, bạn không cần phải xóa hồ sơ của mình.<br/>Bạn có thể giữ nó.<br/>Bạn có thể dễ dàng hạ cấp xuống gói MIỄN PHÍ CƠ BẢN mà không cần thanh toán thêm.",
+        "managePaymentsText2": "Xem trên trang tổng quan của bạn",
+        "managePaymentsQuoteText": "Hạ cấp đăng ký của bạn",
+        "managePaymentsButtonText": "Đi tới Trang tổng quan> Đăng ký"
+    },
+    "imageContainer": {
+        "viewProfile": "Xem Hồ sơ"
+    }
+}

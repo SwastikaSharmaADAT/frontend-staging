@@ -1,0 +1,10 @@
+{
+    "title": "ВИДЕО",
+    "listing": {
+        "placeholderSearch": "Искать Видео по названию...",
+        "search": "Поиск",
+        "country": "Страна:",
+        "category": "Категория:",
+        "userType": "Тип Пользователя:"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "title": "動画",
+    "listing": {
+        "placeholderSearch": "タイトルで動画を検索...",
+        "search": "検索",
+        "country": "国:",
+        "category": "カテゴリー:",
+        "userType": "ユーザータイプ:"
+    }
+}

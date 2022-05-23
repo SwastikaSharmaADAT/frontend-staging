@@ -1,0 +1,70 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Presentazioni di oggi",
+        "seeMore": "Vedi altro ..."
+    },
+    "loggedOutBanner": {
+        "title": "Benvenuto nella tua",
+        "title2": "Comunità Artistica",
+        "descr": "Che l'arte sia la tua passione  o la tua professione, ti trovi  nel posto giusto.",
+        "joinInBtnText": "Unisciti a noi gratuitamente",
+        "network": "Network",
+        "blog": "Blog",
+        "news": "Notizie",
+        "group": "Gruppi",
+        "marketplace": "Mercatino",
+        "whatIsArtmo": "Che cos'è ARTMO?",
+        "learnMore": "Scopri di più ...",
+        "signUp": "Crea il tuo account gratuitamente",
+        "logIn": "Accesso",
+        "videos": "Video.",
+        "exhibition": "Mostre",
+        "gallery": "Gallerie"
+    },
+    "usersListing": {
+        "title": "CONNETTITI CON GLI AMANTI DELL'ARTE",
+        "follower": "follower",
+        "followers": "followers",
+        "unfollow": "smetti di seguire",
+        "follow": "segui",
+        "seeMore": "Vedi altro",
+        "following": "stai seguendo"
+    },
+    "gridSection": {
+        "home": "HOME",
+        "artists": "ARTISTI",
+        "galleries": "GALLERIE",
+        "exhibitions": "MOSTRE",
+        "users": "UTENTI",
+        "artwork": "OPERE D'ARTE",
+        "genres": "GENERI",
+        "universities": "UNIVERSITA'"
+    },
+    "artworkSection": {
+        "title": "ACQUISTA E VENDI LA TUA ARTE SENZA COMMISSIONI ASSOCIATE",
+        "priceOnRequest": "Prezzo su richiesta",
+        "artist": "Artista",
+        "member": "Membro",
+        "seeMore": "Vedi altro ..."
+    },
+    "buzzSection": {
+        "title": "SCORPI LE NOVITÀ NEL MONDO DELL’ARTE",
+        "seeMore": "Vedi altro ..."
+    },
+    "videosSection": {
+        "title": "VIDEO",
+        "seeMore": "Vedi altro ..."
+    },
+    "exhibitionsSection": {
+        "title": "TROVA FIERE IN TUTTO IL MONDO",
+        "selectCountry": "seleziona un paese",
+        "latest": "più recente"
+    },
+    "potdSection": {
+        "title": "IMMAGINE DEL GIORNO",
+        "seeMore": "Vedi altro ..."
+    },
+    "joinInSection": {
+        "joinInTitle": "Unisciti a noi, è gratis."
+    }
+}

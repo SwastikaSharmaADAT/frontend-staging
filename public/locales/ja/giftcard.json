@@ -1,0 +1,37 @@
+ {
+  "title": "ギフトカード",
+  "linkToMyGiftCard": "ギフトカードを見る",
+  "giftCardSection": {
+    "title": "プロフィールを公開",
+    "description": "ARTMOプロフィールへのリンクをWebサイトに埋め込む。",
+    "getLinkButton": "リンクを取得"
+  },
+  "giftCardContent": {
+    "singular": "ギフトカード",
+    "title": "EメールでARTMOギフトカードを送る。受取人は、作品の購入に使用することができます。",
+    "selectAmount": "金額を選択:",
+    "quesion": "ギフトカードを送る...",
+    "namePlaceholder": "名前を入力",
+    "emailPlaceholder": "Eメールを入力",
+    "lastNote": "カード情報はマイアカウントで確認できます。アカウントのEメールに確認のレシートが届きます。",
+    "buttonText": "チェックアウトに進む",
+    "hello": "こんにちは",
+    "sentFrom": "このギフトカードは...から送られたものです。",
+    "use": "このカードを利用して作品を購入する。",
+    "seeHere": "作品紹介はこちら...",
+    "expiryDate": "* 有効期限: "
+  },
+  "myGiftCardContent": {
+    "title": "あなたのギフトカード:",
+    "to": "To",
+    "name": " ビョルン・アンデルセン",
+    "validUntil": "有効期限",
+    "purchasedOn": "購入日",
+    "used": "使用済み",
+    "valid": "有効",
+    "expired": "期限切れ",
+    "makeCard": "アートを贈る。",
+    "buttonText": "ARTMOカードを購入",
+    "noGiftCard": "ギフトカートはありません"
+  }
+}

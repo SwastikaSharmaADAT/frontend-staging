@@ -1,0 +1,83 @@
+{
+    "pageNotFound": {
+        "404": "Упс!",
+        "signUpTextNotFound": "Или зарегистрируйтесь, если у вас пока нет профиля ...",
+        "pageNotFound": "Мы не можем найти страницу, которую вы ищете.<br/>Возможно, вы захотите попробовать один из этих вариантов; Это должно делать свое дело...",
+        "goBackHome": "Возвращаться"
+    },
+    "usersTermsConditions": {
+        "title": "ПОЛЬЗОВАТЕЛЬСКИЕ УСЛОВИЯ СОГЛАШЕНИЯ",
+        "overview": "1. ОБЩЕЕ ПРЕДСТАВЛЕНИЕ",
+        "contentEligibility": "2. КОНТЕНТ: ИСПОЛЬЗОВАНИЕ И ОГРАНИЧЕНИЯ",
+        "feesPayments": "3. КОМИССИЯ И ОПЛАТА",
+        "accountTermination": "4. РАСТОРЖЕНИЕ СОГЛАШЕНИЯ И УДАЛЕНИЕ АККАУНТА",
+        "provisions": "5. ДОПОЛНИТЕЛЬНЫЕ ПОЛОЖЕНИЯ",
+        "seePrivacyPolicy": "Посмотреть Политику Конфиденциальности",
+        "seeVendorTermsConditions": "Посмотреть Публичную Оферту"
+    },
+    "privacyPolicyPage": {
+        "title": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
+        "seeVendorTermsConditions": "Посмотреть Публичную Оферту",
+        "seeUserTermsConditions": "Посмотреть Пользовательские Условия Соглашения",
+        "accountPrivacySettings": "НАСТРОЙКИ БЕЗОПАСНОСТИ АККАУНТА",
+        "dataSecurity": "БЕЗОПАСНОСТЬ ДАННЫХ",
+        "collectingPersonalData": "СБОР И ОБРАБОТКА ПЕРСОНАЛЬНЫХ ДАННЫХ",
+        "adsOnArtmo": "РЕКЛАМА НА ARTMO"
+    },
+    "vendorTermsConditions": {
+        "title": "ПУБЛИЧНАЯ ОФЕРТА",
+        "seePrivacyPolicy": "Посмотреть Политику Конфиденциальности",
+        "seeUserTermsConditions": "Посмотреть Пользовательские Условия Соглашения",
+        "impOverview": "Для начала ... важный обзор информации",
+        "stepByStep": "Шаг за Шагом",
+        "overview": "1. ОБЩЕЕ ПРЕДСТАВЛЕНИЕ",
+        "fees": "2. СДЕЛКИ | КОМИССИЯ | ОПЛАТА | ВОЗВРАТ",
+        "termination": "3. РАСТОРЖЕНИЕ СОГЛАШЕНИЯ И УДАЛЕНИЕ АККАУНТА",
+        "payoutSchedule": "4. ПОЛУЧЕНИЕ ОПЛАТЫ ЗА ПРОДАЖУ",
+        "contentEligibility": "5. КОНТЕНТ: ИСПОЛЬЗОВАНИЕ И ОГРАНИЧЕНИЯ",
+        "yourObligations": "6. ВАША ОТВЕТСТВЕННОСТЬ",
+        "artmoObligations": "7. ОТВЕТСТВЕННОСТЬ ARTMO",
+        "returns": "8. ВОЗВРАТЫ И ДИСПУТЫ",
+        "provisions": "9. ДОПОЛНИТЕЛЬНЫЕ ПОЛОЖЕНИЯ",
+        "shippingReturnPolicy": "ПОЛИТИКА ДОСТАВКИ И ВОЗВРАТА"
+    },
+    "whatIsArtmo": {
+        "title": "Что такое ARTMO?",
+        "artNetwork": "Арт Платформа",
+        "artEnthusiast": "Ценители Прекрасного",
+        "muchMore": "и многое другое!",
+        "member": "Члены",
+        "pages": "Страницы",
+        "marketplace": "Рынок",
+        "needHelp": "Нужна помощь - свяжитесь с нами ...",
+        "artist": "Художники",
+        "gallery": "Галерея",
+        "university": "Университет",
+        "shop": "Маркетплейс"
+    },
+    "mobileApp": {
+        "title": "Мобильное Приложение",
+        "subHeading": "Как начать пользоваться ARTMO с домашнего экрана телефона",
+        "note": "Примечание:",
+        "step": "Шаг",
+        "done": "Готово"
+    },
+    "artworkUploadInst": {
+        "headerTitle": "Инструкция по Загрузке Произведения",
+        "images": "Изображения",
+        "title": "Название",
+        "artMaterial": "Использованный Материал",
+        "series": "Собрание",
+        "limitedEdition": "Лимитированное Издание",
+        "price": "Цена",
+        "dimension": "Размеры",
+        "frame": "Обрамление",
+        "medium": "Способ Выражения",
+        "genre": "Жанр",
+        "subjectTags": "Тэги Темы",
+        "description": "Описание",
+        "text": "Текст",
+        "yourProfile": "Ваш Профиль",
+        "pdf": "PDF"
+    }
+}

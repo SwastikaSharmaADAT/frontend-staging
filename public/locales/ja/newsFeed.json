@@ -1,0 +1,122 @@
+{
+    "addContent": {
+        "placeholderAdd": "追加する...",
+        "post": "投稿",
+        "video": "動画",
+        "album": "アルバム",
+        "article": "記事",
+        "artwork": "作品"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "フォトアルバムを追加",
+        "limitText": "画像を追加(最大50)",
+        "addImages": "画像を追加",
+        "placeholderAddTitle": "タイトルを追加",
+        "writeSomething": "何か書く...",
+        "firstPhotoInfo": "最初の画像はアルバムカバーになります。",
+        "publish": "公開",
+        "errorLabels": {
+            "maxCharacter100": "最大文字数は100文字です",
+            "titleRequired": "タイトルは必須です",
+            "maxCharacter500": "最大文字数は500文字です"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "フォトアルバムを編集",
+        "updateButton": "更新"
+    },
+    "addPostPopup": {
+        "title": "投稿を作成",
+        "editPhoto": "画像を編集",
+        "addPhoto": "画像を追加",
+        "writeSomething": "何か書く...",
+        "postDescCount": "/200",
+        "publish": "公開"
+    },
+    "editPostPopup": {
+        "title": "投稿を編集",
+        "updateButton": "更新"
+    },
+    "addVideoPopup": {
+        "title": "動画を追加",
+        "validUrlError": "有効なURLを入力してください",
+        "placeholderEnterLink": "YouTube, Vimeoのリンクを挿入...",
+        "placeholderWriteSomething": "何か書く...",
+        "addCategory": "カテゴリーを追加",
+        "next": "次",
+        "publish": "公開",
+        "update": "更新"
+    },
+    "editVideoPopup": {
+        "title": "映像投稿を編集",
+        "updateButton": "更新"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "新規アクティビティ",
+        "refresh": "リフレッシュ"
+    },
+    "hashtags": {
+        "title": "トップハッシュタグ",
+        "noHashtagsAdded": "追加されたハッシュタグはありません",
+        "post": "投稿",
+        "postPlural": "投稿"
+    },
+    "manageArtwork": {
+        "follower": "フォロワー",
+        "followerPlural": "フォロワー",
+        "visit": "訪問 ",
+        "manage": "管理 ",
+        "noPageFound": "ページがありません"
+    },
+    "profile": {
+        "follower": "フォロワー",
+        "followerPlural": "フォロワー",
+        "profileCompleteness": "プロフィールの完成度",
+        "editProfile": "プロフィールを編集"
+    },
+    "singlePost": {
+        "photo": "画像",
+        "photoPlural": "画像",
+        "seeInStore": "ストアで見る",
+        "deleteText": "コメントを削除します。よろしいですか？",
+        "capsHide": "非表示",
+        "capsUnhide": "表示",
+        "hide": "非表示",
+        "unhide": "表示",
+        "areYouSure": "よろしいですか？",
+        "thisComment": "このコメントですか？",
+        "update": "更新",
+        "like": "いいね",
+        "comment": "コメント",
+        "liked": "いいね済み",
+        "likedBy": "いいね by",
+        "lowerLike": "いいね",
+        "lowerLikePlural": "いいね",
+        "lowerUnlike": "いいねの取り消し",
+        "lowerComment": "コメント",
+        "lowerCommentPlural": "コメント",
+        "share": "シェア",
+        "pending": "ペンディング",
+        "deleteActivity": "このアクティビティを削除します。よろしいですか？",
+        "accept": "許可",
+        "reject": "拒否",
+        "delete": "削除",
+        "seeMore": "もっと見る..",
+        "price": "Price",
+        "priceOnRequest": "価格はお問い合わせください",
+        "placeholderComment": "コメントを挿入...",
+        "publish": "公開",
+        "loadMoreText": "もっと見る...",
+        "loadMoreRepliesText": "返信をもっと見る...",
+        "edit": "編集",
+        "commentRemoved": "このコメントは削除されています",
+        "replyRemoved": "この返信は削除されました"
+    },
+    "singleActivity": {
+        "activityNotAvailable": "このアクティビティは利用できません",
+        "seeMore": "もっと見る...",
+        "alreadyHaveAnAccount": "アカウントを持っていますか？",
+        "signUp": "サインアップ",
+        "logIn": "ログイン"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "title": "విక్రయదారుని సబ్‌స్క్రిప్షన్",
+    "artistPage": {
+        "sectionLabels": {
+            "sellCommissionFree": "కమీషను లేకుండా మీ కళను విక్రయించండి",
+            "connectWithCollectors": "సేకరణ చేసేవారితో నేరుగా కనెక్ట్ అవ్వండి",
+            "cancelSubscription": "మీ సబ్‌స్క్రిప్షన్ ను ఏ సమయంలో అయినా రద్దు చేసుకోండి",
+            "basicPlan": "బేసిక్ ప్లాన్ పూర్తిగా ఉచితం"
+        }
+    },
+    "memberPage": {
+        "chooseThePlan": "మీకు సరిపడే ప్లాన్ ను ఎంచుకోండి...",
+        "planLabels": {
+            "plus": "ప్లస్",
+            "pro": "ప్రో",
+            "lifetime": "జీవితకాలము"
+        },
+        "gatewayFees": "గేట్ వే రుసుము",
+        "cancelAnytime": "ఏ సమయంలోనైనా రద్దు చేసుకోండి"
+    },
+    "faq": {
+        "title": "తరచుగా అడుగు ప్రశ్నలు",
+        "askQuestion": "ప్రశ్నను అడగండి",
+        "questionLabels": {
+            "subscriptionFee": "నేను సబ్‌స్క్రిప్షన్ రుసుము ఎందుకు చెల్లించాలి?",
+            "basicAccount": "బేసిక్ ఖాతా కేవలం ఉచిత్ర ట్రయిల్ మాత్రమేనా?",
+            "cancelSubscription": "సబ్‌స్క్రిప్షన్ ఏ సమయంలో అయినా రద్దు చేసుకోవొచ్చా మరియు నాకు రుసుము తిరిగి ఇవ్వబడుతుందా?",
+            "paymentForSelling": "నా కళాకృతి అమ్ముడైతే ఎలా మరియు ఎప్పుడు నాకు డబ్బు అందుతుంది?",
+            "publishAndSell": "నేను ఏ కళాకృతిని అయినా ప్రచురించి, అమ్ముకోవచ్చా?",
+            "howArtmoSurvive": "కమీషను రుసుము లేకుండా ARTMO ఎలా నిలదొక్కుకుంటుంది?"
+        }
+    },
+    "perMonth": "/నెల",
+    "pricingSelectLabels": {
+        "monthly": "నెలవారీ చెల్లింపు,",
+        "quarterly": "మూడునెలలకు చెల్లింపు,",
+        "halfYearly": "అర్థసంవత్సరపు చెల్లింపు,",
+        "yearly": "సంవత్సరపు చెల్లింపు,"
+    },
+    "freePricing": "ఉచితం",
+    "currencySwitcher": "కరెన్సీ మార్చుకొనుటకు",
+    "commission": "కమీషను",
+    "getText": "పొందండి",
+    "signUpText": "చేరడం",
+    "noneText": "ఏదీ లేదు",
+    "includedText": "చేర్చబడింది",
+    "notIncludedText": "చేర్చబడలేదు",
+    "vendorPaymentPopup": {
+        "yourChoice": "మీ ఎంపిక",
+        "price": "ధర",
+        "every": "ప్రతి",
+        "month": "నెల",
+        "months": "నెలలు",
+        "proceedToPayment": "చెల్లింపునకు కొనసాగండి"
+    },
+    "underagePopup": {
+        "hi": "హాయ్",
+        "backToProfile": "ప్రొఫైల్ కు తిరిగి వెళ్ళండి"
+    },
+    "productLimits": {
+        "publishAndSell": "ప్రచురించండి & అమ్మండి...",
+        "basic": "5 కళాకృతులు వరకు",
+        "artistPlus": "20 కళాకృతులు వరకు",
+        "unlimited": "అపరిమితమైన కళాకృతులు"
+    },
+    "termsCondsPopup": {
+        "title": "విక్రేత నిబంధనలు & షరతులు",
+        "agreeAndProceed": "అంగీకరించి ముందుకు సాగండి",
+        "agreeAndSubscribeTo": "అంగీకరించి సబ్స్క్రయిబ్ చేసుకోండి"
+    },
+    "artworkListing": {
+        "byText": "చేత"
+    },
+    "roleChangeWarning": "కొనసాగేందుకు నిర్ణయించుకుంటే, మీ వినియోగదారుని రకాన్ని ప్రస్తుతం ఉన్న దాని నుండి మార్పు కోరుతున్నట్టు",
+    "toText": "కు",
+    "toggleMemberLabel": "సభ్యులకు",
+    "toggleArtistLabel": "కళాకారులకు",
+    "pickPlanHeading": "మీకు అనువైన ప్లాన్ ను ఎన్నుకోండి.",
+    "promoteWorkHeading": "మీ కళను కమిషను లేకుండా ప్రచారం చేసుకోండి మరియు విక్రయించండి.",
+    "makeArtSeenHeading": "మీ కళను విక్రయించండి.",
+    "categories":{
+        "artistConnectDirectly":"కొనుగోలుదారులతో నేరుగా కనెక్ట్ అవ్వండి",
+        "artistEnablePayment":"చెల్లింపు గేట్ వేలకు అధికారమివ్వండి: పేపాల్, వీసా, మాస్టర్ కార్డ్",
+        "enableAcceptPayment":"ప్రత్యక్ష చెల్లింపులను ఆమోదించండి",
+        "artistDashboardManage":"డాష్‌బోర్డ్: ఖాతా & సేకరణలు నిర్వహించుకోండి",
+        "artistShippingPolicy":"మీ సొంత షిప్పింగ్ విధానాలు",
+        "artistCreateCertificate":"మీ కళాకృతులకు ప్రామాణికత ధ్రువపత్రం సృష్టించండి",
+        "artistHelpDesk":"ARTMO హెల్ప్ డెస్క్",
+        "artistPublishArticle":"మీ కళాకృతులు గురించి మరియు ప్రదర్శనల గురించి వ్యాసాలు ప్రచురించండి",
+        "artistBacklinkCollection":"మీ హోంపేజీకు ARTMO సేకరణలను బ్యాక్-లింక్ చేయండి",
+        "artistDisputeSupport":"ఖాతాదారు వివాదాల మధ్యవర్తిత్వం",
+        "memberConnectBuyers":"కొనుగోలుదారులతో నేరుగా కనెక్ట్ అవ్వండి",
+        "memberEnablePayment":"చెల్లింపు గేట్ వేలకు అధికారమివ్వండి: పేపాల్, వీసా, మాస్టర్ కార్డ్",
+        "memberAcceptPayment":"ప్రత్యక్ష చెల్లింపులను ఆమోదించండి",
+        "memberDashboardManage":"డాష్‌బోర్డ్: ఖాతా & సేకరణలు నిర్వహించుకోండి",
+        "memberShippingPolicy":"మీ సొంత షిప్పింగ్ విధానాలు",
+        "memberHelpDesk":"ARTMO హెల్ప్ డెస్క్",
+        "memberBacklinkCollection":"మీ హోంపేజీకు ARTMO సేకరణలను బ్యాక్-లింక్ చేయండి",
+        "memberDisputeSupport":"ఖాతాదారు వివాదాల మధ్యవర్తిత్వం",
+        "artistBadge":"ప్రీమియం విక్రేత బ్యాడ్జ్ <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+        "memberBadge":"ప్రీమియం విక్రేత బ్యాడ్జ్ <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+      }
+}

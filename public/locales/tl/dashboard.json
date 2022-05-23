@@ -1,0 +1,156 @@
+{
+    "tabLabels": {
+        "dashboard": "DASHBOARD",
+        "mediaLibrary": "MEDIA LIBRARY",
+        "artworks": "MGA ARTWORK",
+        "orders": "MGA ORDER",
+        "customers": "MGA CUSTOMER",
+        "settings": "MGA SETTING",
+        "addArtwork": "Magdagdag ng Artwork"
+    },
+    "incompletePopup": {
+        "mainText": "Great seeing you here, starting uploading your artworks.",
+        "subText": "Before you can upload and publish artworks you would need to complete your profile."
+    },
+    "knowledgeBase": {
+        "title": "KNOWLEDGEBASE"
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "learnMore": "Higit pang alamin",
+        "sections": {
+            "sec1": "PAG-AAPRUBA NG ARTWORK",
+            "sec2": "PAANO KO MAPAPAAPRUBA ANG AKING ARTWORK?",
+            "sec3": "Pakisuyong tignan ang Instruksyon para sa Artwork Upload dito",
+            "sec4": "PAANO NAIBEBENTA ANG ARTWORK?",
+            "here": "dito."
+        }
+    },
+    "artworks": {
+        "title": " Mga Artwork",
+        "addNew": "Magdagdag ng panibago",
+        "learnMore": "Higit pang alamin",
+        "draft": "draft",
+        "published": "Nai-publish",
+        "underReview": "Nakabinbing pag-apruba",
+        "sold": "Naibenta",
+        "pending": "Kailangan ang Pag-eedit",
+        "show": "Ipakita",
+        "entries": "Mga Entry",
+        "placeholderSearch": "Maghanap",
+        "eur": "EUR",
+        "quickEdit": {
+            "title": "Quick Edit",
+            "confirmButton": "Oo",
+            "markAsSoldText": "Sigurado ka bang gusto mong markahan ang artwork na ito bilang nabenta na? Hindi na ito mababago",
+            "switchLeft": "Nabenta na",
+            "switchRight": "Available",
+            "saveChanges": "I-save ang mga pagbabago",
+            "selfNotePlaceholder": "Self Note",
+            "titlePlaceholder": "Titulo",
+            "pricePlaceholder": "Presyo",
+            "priceOnRequestPlaceholder": "Price on Request"
+        },
+        "delete": {
+            "confirmButton": "Oo",
+            "confirmDeleteText": "Sigurado ka bang nais mong burahin ang artwork na ito?"
+        },
+        "hover": {
+            "view": "Tignan",
+            "quickEdit": "Quick Edit",
+            "edit": "I-edit",
+            "delete": "Burahin"
+        }
+    },
+    "orders": {},
+    "settings": {
+        "title": "Mga Setting",
+        "learnMore": "Higit pang alamin",
+        "saveChanges": "I-save ang mga pagbabago",
+        "updateChanges": "I-update ang mga pagbabago",
+        "optionTitles": {
+            "general": "General",
+            "vacation": "Vacation",
+            "subscription": "Subskripsyon",
+            "payouts": " Mga Payout"
+        },
+        "general": {
+            "vendorEmail": "Email ng Vendor",
+            "timezone": "Timezone",
+            "shippingPolicy": "Polisiya sa Shipping",
+            "validationErrors": {
+                "email": "Pakisuyong mag-enter ng balidong email address",
+                "shippingPolicy": "Ang Polisiya sa Shipping ay maaaring isulat sa loob ng 1000 character"
+            }
+        },
+        "vacation": {
+            "vacationMode": "I-enable ang Vacation Mode",
+            "disablePurchase": "I-disable ang pagbili habang nasa Vacation Mode",
+            "vacationMessage": "Vacation Message",
+            "validationErrors": {
+                "vacationMessage": "Ang Vacation Message ay maaaring isulat sa loob ng 1000 character"
+            }
+        },
+        "subscription": {
+            "paymentsVia": "Pagbabayad gamit ng",
+            "paypalEmail": "PayPal email",
+            "cardNumber": "Numero ng card",
+            "changePaymentData": "Baguhin ang Payment Data",
+            "subscriptionPeriod": "Period ng Subskripsyon",
+            "price": "Presyo",
+            "eur": "EUR",
+            "upcomingPayment": "Paparating na Bayad",
+            "upgradeMembership": "I-upgrade ang Subskripsyon",
+            "downgradeYourAccount": "I-downgrade ang Iyong Subskripsyon",
+            "cancelSubscription": "Kanselahin ang iyong Subskripsyon",
+            "cancelConfirmText": "Sigurado ka bang nais mong kanselahin ang iyong subskripsyon?",
+            "buttonYes": "Oo",
+            "changePaymentText": "Sigurado ka bang nais mong baguhin ang pamamaraan ng pagbabayad?",
+            "basicPlanText": "Ito ay libreng plano. Walang bayad na kailangan."
+        },
+        "payouts": {
+            "wireTransfer": "Wire Transfer",
+            "payPal": "PayPal",
+            "paymentTypeQuestion": "Paano mo gustong matanggap ang bayad mula sa iyong art sales",
+            "country": "Bansa",
+            "bankAccountNumber": "Bank Account Number",
+            "email": "Email",
+            "routingNumber": "Routing Number",
+            "validationErrors": {
+                "bankAccountNumber": "Ang bank account number ay hindi hihigit sa 24 numero",
+                "routingNumber": "Ang routing number ay hindi hihigit sa 24 numero",
+                "country": "Ang Bansa ay kailangan",
+                "email": "Ang email ay kailangan",
+                "bankAccountNumberLength": "Ang bank account number ay hindi hihigit sa 24 numero",
+                "routingNumberLength": "Ang routing number ay hindi hihigit sa 24 numero",
+                "paymentType": "Ang pamamaraan ng pagbabayad ay kailangan",
+                "invalidEmail": "Maglagay ng balidong email address"
+            }
+        }
+    },
+    "knowledgebase": {
+        "accordion1": "Paano i-set ang Vacation Mode",
+        "accordion2": "Paano mag-submit ng artwork",
+        "accordion3": "Bakit ang produkto ko ay hindi nakikita sa mga Koleksyon?",
+        "accordion4": "Photo Requirements",
+        "accordion5": "Katibayan ng Awtentisidad (i-download)"
+    },
+    "purchaseSubscriptionMessage": "Bumili muna ng subskripsyon",
+    "profileCompletionPopup": {
+        "title": "Kumpletuhin ang iyong Account",
+        "addProfileImage": "Magdagdag ng profile image",
+        "startSellingArt": "Simulang Magbenta ng Art",
+        "placeholder": {
+            "phone": "Numero ng Telepono",
+            "city": "Siyudad",
+            "country": "Bansa"
+        },
+        "validationErrors": {
+            "profileImageRequired": "Ang Larawan sa Profile ay kailangan",
+            "cityRequired": "Ang siyudad ay kailangan",
+            "countryRequired": "Ang bansa ay kailangan",
+            "phoneRequired": "Ang numero ng telepono ay kailangan",
+            "invalidPhone": "Ang numero ng telepono ay hindi balido"
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "title": "বিক্রেতার সাবস্ক্রিপশন",
+    "artistPage": {
+        "sectionLabels": {
+            "sellCommissionFree": "আপনার শিল্প কোনো কমিশন ছাড়াই বিক্রি করুন",
+            "connectWithCollectors": "সংগ্রহকারীদের সাথে সংযুক্ত হন",
+            "cancelSubscription": "আপনার সাবস্ক্রিপশন যেকোনো সময় বাতিল করুন",
+            "basicPlan": "BASIC প্ল্যানটি বিনামূল্যের"
+        }
+    },
+    "memberPage": {
+        "chooseThePlan": "সেই প্ল্যানটি বেছে নিন যেটা আপনার সাথে বেশি যায়",
+        "planLabels": {
+            "plus": "প্লাস",
+            "pro": "প্রো",
+            "lifetime": "আজীবন"
+        },
+        "gatewayFees": "গেটওয়ে ফি",
+        "cancelAnytime": "যেকোনো সময় বাতিল করুন"
+    },
+    "faq": {
+        "title": "ঘন ঘন যেই প্রশ্নগুলো করা হয়",
+        "askQuestion": "একটি প্রশ্ন করুন",
+        "questionLabels": {
+            "subscriptionFee": "আমি কেন সাবস্ক্রিপশন ফি দেবো?",
+            "basicAccount": "BASIC প্ল্যানটি কি শুধুমাত্র ফ্রি ট্রায়াল?",
+            "cancelSubscription": "আমি কি যেকোনো সময় বাতিল করতে পারবো? আমি কি টাকা ফেরত পাবো?",
+            "paymentForSelling": "আমার কোনো শিল্পকর্ম বিক্রি হলে কখন এবং কিভাবে আমি টাকা পাবো?",
+            "publishAndSell": "আমি কি যেকোনো শিল্প প্রকাশ এবং বিক্রি করতে পারবো?",
+            "howArtmoSurvive": "কোনো কমিশন ফি না নিলে ARTMO কিভাবে টিকে থাকে?"
+        }
+    },
+    "perMonth": "/মাস",
+    "pricingSelectLabels": {
+        "monthly": "মাসিক টাকা প্রদান,",
+        "quarterly": "ত্রৈমাসিক টাকা প্রদান,",
+        "halfYearly": "অর্ধবার্ষিক টাকা প্রদান,",
+        "yearly": "বার্ষিক টাকা প্রদান,"
+    },
+    "freePricing": "বিনামূল্যে",
+    "currencySwitcher": "মূদ্রা পরিবর্তনকারী",
+    "commission": "কমিশন",
+    "getText": "নিন",
+    "signUpText": "নিবন্ধন করুন",
+    "noneText": "কোনটিই নয়",
+    "includedText": "অন্তর্ভুক্ত",
+    "notIncludedText": "অন্তর্ভুক্ত নয়",
+    "vendorPaymentPopup": {
+        "yourChoice": "আপনার পছন্দ",
+        "price": "মূল্য",
+        "every": "প্রতিটা",
+        "month": "মাস",
+        "months": "মাসগুলি",
+        "proceedToPayment": "পেমেন্ট করতে অগ্রসর হোন"
+    },
+    "underagePopup": {
+        "hi": "হ্যালো",
+        "backToProfile": "প্রোফাইলে ফিরে যান"
+    },
+    "productLimits": {
+        "publishAndSell": "প্রকাশ করুন এবং বিক্রি করুন...",
+        "basic": "৫টি শিল্পকর্ম পর্যন্ত",
+        "artistPlus": "২০টি শিল্পকর্ম পর্যন্ত",
+        "unlimited": "অসীম সংখ্যক"
+    },
+    "termsCondsPopup": {
+        "title": "বিক্রেতার শর্তাবলী",
+        "agreeAndProceed": "রাজি এবং অগ্রসর হোন",
+        "agreeAndSubscribeTo": "রাজি এবং সাবস্ক্রাইব করুন"
+    },
+    "artworkListing": {
+        "byText": "মাধ্যমে"
+    },
+    "roleChangeWarning": "অগ্রসর হওয়ার মাধ্যমে, আপনি আপনার ব্যবহারকারীর ধরণ এটা থেকে পরিবর্তনে সম্মত ",
+    "toText": "পর্যন্ত",
+    "toggleMemberLabel": "সদস্যদের জন্য",
+    "toggleArtistLabel": "শিল্পীগণের জন্য",
+    "pickPlanHeading": "একটি প্ল্যান পছন্দ করুন যেটা আপনার ভালো লাগে",
+    "promoteWorkHeading": "বিনা কমিশনে আপনার শিল্প প্রচার এবং বিক্রি করুন",
+    "makeArtSeenHeading": "আপনার শিল্প বিক্রি করুন",
+    "categories":{
+        "artistConnectDirectly":"ক্রেতাদের সাথে সরাসরি সংযোগ করুন",
+        "artistEnablePayment":"পেমেন্ট গেটওয়ে সক্ষম করুন: পেপাল, ভিসা, মাস্টারকার্ড",
+        "enableAcceptPayment":"সরাসরি পেমেন্ট গ্রহণ করুন",
+        "artistDashboardManage":"ড্যাশবোর্ড: সংগ্রহ এবং অ্যাকাউন্ট পরিচালনা করুন",
+        "artistShippingPolicy":"আপনার নিজস্ব শিপিং নীতি",
+        "artistCreateCertificate":"আপনার শিল্পকর্মের জন্য প্রামাণিকতার শংসাপত্র তৈরি করুন",
+        "artistHelpDesk":"ARTMO সহায়তা ডেস্ক",
+        "artistPublishArticle":"আপনার কাজ এবং প্রদর্শনী সম্পর্কে নিবন্ধ প্রকাশ এবং পোস্ট করুন",
+        "artistBacklinkCollection":"আপনার হোমপেজে আপনার ARTMO সংগ্রহের পিছনে লিঙ্ক করুন",
+        "artistDisputeSupport":"গ্রাহক বিরোধ মধ্যস্থতা সমর্থন",
+        "memberConnectBuyers":"ক্রেতাদের সাথে সরাসরি সংযোগ করুন",
+        "memberEnablePayment":"পেমেন্ট গেটওয়ে সক্ষম করুন: পেপাল, ভিসা, মাস্টারকার্ড",
+        "memberAcceptPayment":"সরাসরি পেমেন্ট গ্রহণ করুন",
+        "memberDashboardManage":"ড্যাশবোর্ড: সংগ্রহ এবং অ্যাকাউন্ট পরিচালনা করুন",
+        "memberShippingPolicy":"আপনার নিজস্ব শিপিং নীতি",
+        "memberHelpDesk":"ARTMO সহায়তা ডেস্ক",
+        "memberBacklinkCollection":"আপনার হোমপেজে আপনার ARTMO সংগ্রহের পিছনে লিঙ্ক করুন",
+        "memberDisputeSupport":"গ্রাহক বিরোধ মধ্যস্থতা সমর্থন",
+        "artistBadge":"প্রিমিয়াম বিক্রেতা ব্যাজ <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+        "memberBadge":"প্রিমিয়াম বিক্রেতা ব্যাজ <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+      }
+}

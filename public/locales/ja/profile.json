@@ -1,0 +1,362 @@
+{
+    "placeholderIntro": "簡単な紹介",
+    "about": {
+        "title": "ABOUT",
+        "edit": "編集",
+        "cancel": "キャンセル",
+        "save": "保存",
+        "noAboutText": "aboutテキストが追加されていません",
+        "placeholderAbout": "aboutテキストを追加....",
+        "characterLimit": "/1000",
+        "errorAbout": "最大文字長1000を超えました"
+    },
+    "biography": {
+        "title": "バイオグラフィー",
+        "edit": "編集",
+        "cancel": "キャンセル",
+        "save": "保存",
+        "noBiographyText": "バイオグラフィーテキストは追加されていません",
+        "placeholderBiography": "ここにバイオグラフィーを追加する....",
+        "characterLimit": "/1000"
+    },
+    "activity": {
+        "title": "アクティビティ",
+        "descriptionNotAdded": "説明文が追加されていません",
+        "reactions": "リアクション",
+        "noActivityText": "アクティビティがありません",
+        "seeAll": "すべて見る",
+        "add": "追加"
+    },
+    "album": {
+        "title": "アルバム",
+        "seeAll": "すべて見る",
+        "add": "追加",
+        "noAlbumFound": "アルバムがありません",
+        "edit": "Edit"
+    },
+    "artwork": {
+        "title": "作品",
+        "likedArtworks": "LIKEした作品",
+        "noArtworkFound": "作品がありません",
+        "seeAll": "すべて見る",
+        "add": "追加"
+    },
+    "award": {
+        "title": "アワード",
+        "noAwardFound": "アワードがありません",
+        "addImages": "画像を追加",
+        "placeholderDescription": "アートアワードの説明文を挿入する。",
+        "characterLimit": "/1000",
+        "edit": "編集",
+        "cancel": "キャンセル",
+        "save": "保存"
+    },
+    "basicInfo": {
+        "fillDetailsText": "これらのフィールドを記入してください",
+        "placeholderFirstName": "名",
+        "placeholderLastName": "姓",
+        "placeholderCity": "都市",
+        "placeholderCountry": "国を選択",
+        "placeholderEmail": "Email",
+        "save": "保存",
+        "cancel": "キャンセル"
+    },
+    "business": {
+        "title": "自分のビジネスについて | 専門",
+        "noBusinessFound": "ビジネスについて | 専門がありません",
+        "addImages": "画像を追加",
+        "placeholderDescription": "ビジネスについて | 専門の説明を追加する。",
+        "characterLimit": "/1000",
+        "edit": "編集",
+        "cancel": "キャンセル",
+        "save": "保存"
+    },
+    "connectionsPopup": {
+        "follower": "フォロワー",
+        "followerPlural": "フォロワー",
+        "connected": "接続済み",
+        "requestPending": "リクエストペンディング",
+        "requestSent": "送信済みリクエスト",
+        "connect": "接続",
+        "userConnectionsTitle": "のコネクション"
+    },
+    "contact": {
+        "title": "連絡先情報",
+        "noContactInfoFound": "連絡先情報がありません",
+        "email": "メール",
+        "skype": "Skype",
+        "phone": "電話番号",
+        "address": "住所",
+        "openingHours": "オープン時間",
+        "socialMedia": "ソーシャルメディア",
+        "placeholderEmail": "メール",
+        "placeholderSkype": "Skype",
+        "phoneNumber": "電話番号",
+        "placeholderAddress": "住所",
+        "placeholderOpenHours": "オープン時間",
+        "edit": "編集",
+        "cancel": "キャンセル",
+        "save": "保存"
+    },
+    "expertise": {
+        "title": "専門知識",
+        "noExpertiseFound": "専門知識が見つかりません",
+        "addImages": "画像を追加",
+        "placeholderDescription": "アートの専門知識の説明を追加する。",
+        "characterLimit": "/1000",
+        "edit": "編集",
+        "cancel": "キャンセル",
+        "save": "保存"
+    },
+    "followersPopup": {
+        "follower": "フォロワー",
+        "followerPlural": "フォロワー",
+        "followed": "フォロー済み",
+        "unfollow": "フォロー解除",
+        "follow": "フォロー解除",
+        "userFollowersTitle": "のフォロー"
+    },
+    "followingPopup": {
+        "follower": "フォロワー",
+        "followerPlural": "フォロワー",
+        "followed": "フォロー済み",
+        "unfollow": "フォロー解除",
+        "follow": "フォロー解除",
+        "noFollowing": "フォローしている人はいません",
+        "userFollowersTitle": "のフォロワー",
+        "followPlural": "フォロー"
+    },
+    "group": {
+        "title": "グループ",
+        "noGroupsFound": "ユーザーが購読しているグループはありません",
+        "member": "メンバー",
+        "memberPlural": "メンバー",
+        "browseGroups": "グループを閲覧",
+        "create": "作成"
+    },
+    "invite": {
+        "title": "友達を招待",
+        "desc1": "連絡先にメッセージを送信する。",
+        "desc2": "ここにいることを伝える。",
+        "invite": "招待"
+    },
+    "messagePopup": {
+        "or": "もしくは",
+        "seeMore": "続きを見る...",
+        "learnMore": "詳しくみる"
+    },
+    "pastExhibition": {
+        "title": "過去の展示",
+        "addImages": "画像を追加",
+        "noExhibitionsFound": "過去の展示はありません",
+        "placeholderDescription": "過去の展示の説明を追加する。",
+        "characterLimit": "/1000",
+        "edit": "編集",
+        "cancel": "キャンセル",
+        "save": "保存"
+    },
+    "personalInfo": {
+        "title": "個人情報",
+        "noInfoFound": "追加された個人情報はありません",
+        "city": "都市",
+        "country": "国",
+        "profession": "専門性",
+        "company": "会社",
+        "industry": "事業",
+        "website": "ウェブサイト",
+        "languages": "言語",
+        "visibleInfo": "デフォルトで公開しない",
+        "dateOfBirth": "生年月日",
+        "gender": "性別",
+        "relationshipStatus": "交際ステータス",
+        "placeholderCity": "都市",
+        "placeholderCountry": "国を選択",
+        "placeholderProfession": "専門",
+        "placeholderCompany": "会社",
+        "placeholderIndustry": "事業",
+        "placeholderLanguages": "言語を選択",
+        "placeholderWebsite": "ウェブサイト",
+        "placeholderDob": "生年月日",
+        "errorDob": "生年月日は必須です",
+        "genderDropdown": {
+            "option1": "性別を選択",
+            "option2": "男性",
+            "option3": "女性",
+            "option4": "その他"
+        },
+        "relationDropdown": {
+            "option1": "交際ステータスを選択",
+            "option2": "独身",
+            "option3": "既婚",
+            "option4": "交際中"
+        },
+        "edit": "編集",
+        "cancel": "キャンセル",
+        "save": "保存"
+    },
+    "coverImage": {
+        "menuOptions": {
+            "title": "カバー画像を変更",
+            "upload": "画像をアップロード",
+            "change": "画像を変更",
+            "remove": "画像を削除"
+        }
+    },
+    "profileHead": {
+        "profileImage": {
+            "menuOptions": {
+                "title": "画像を変更",
+                "upload": "画像をアップロード",
+                "change": "画像を変更",
+                "remove": "画像を削除"
+            }
+        },
+        "connected": "接続済み",
+        "requestPending": "ペンディング中のリクエスト",
+        "requestSent": "送信済みリクエスト",
+        "connect": "接続",
+        "shareProfile": "プロフィールを共有",
+        "unblock": "アンロック",
+        "block": "ブロック",
+        "tooltip": {
+            "text": "もう一つのプロファイルタイプには、異なるサブスクリプションモデルがあります。",
+            "seeMore": "もっと見る..."
+        },
+        "profileDesc": {
+            "artist": {
+                "firstline": "<b>あなたはアーティストです！</b>",
+                "secondline": "あなたは自分が作った作品を販売できます。"
+            },
+            "member": {
+                "firstline": "あなたはアーティスト<b><i>ではありません<i></b>！",
+                "secondline": "あなたは所有している作品を販売できます。"
+            }
+        },
+        "edit": "編集",
+        "cancel": "キャンセル",
+        "save": "保存",
+        "followed": "フォロー済み",
+        "follow": "フォロー",
+        "message": "メッセージ",
+        "more": "もっと見る...",
+        "artistProfile": "アーティストプロフィール",
+        "memberProfile": "メンバープロフィール",
+        "enterName": "名前を入力してください",
+        "enterInstitute": "機関名を入力してください",
+        "placeholderFirstName": "名",
+        "placeholderInstitureName": "機関名",
+        "placeholderLastName": "姓"
+    },
+    "notices": {
+        "title": "通知",
+        "notNoticesFound": "通知はありません!!"
+    },
+    "profileCompleteness": {
+        "title": "プロフィール完成度",
+        "incompleteLabel": "次の項目を入力してください",
+        "coverPicUrl": "カバー画像",
+        "profilePicUrl": "プロフィール画像",
+        "city": "都市",
+        "mobile": "電話番号",
+        "address": "住所",
+        "openingHours": "オープニング時間",
+        "country": "国",
+        "aboutMe": "About",
+        "profession": "専門",
+        "industry": "産業",
+        "company": "会社",
+        "email": "Eメール"
+    },
+    "publication": {
+        "title": "公開済み",
+        "noPublicationsFound": "公開済み情報はありません",
+        "addImages": "画像を追加",
+        "placeholderDescription": "公開済み情報の説明を追加する。",
+        "characterLimit": "/1000",
+        "edit": "編集",
+        "cancel": "キャンセル",
+        "save": "保存"
+    },
+    "allSectionHeader": {
+        "add": "追加",
+        "seeAll": "すべて見る"
+    },
+    "share": {
+        "copiedText": "コピーしました!",
+        "copyLink": "リンクをコピー",
+        "share": "シェア",
+        "profileShareTitle": "のプロフィール"
+    },
+    "technique": {
+        "title": "技術",
+        "noTechFound": "技術が見つかりません",
+        "addImages": "画像を追加",
+        "placeholderDescription": "アートの技術の説明を追加する。",
+        "characterLimit": "/1000",
+        "edit": "編集",
+        "cancel": "キャンセル",
+        "save": "保存",
+        "your": "あなたの",
+        "photo": "画像",
+        "apply": "適用"
+    },
+    "profileNavigator": {
+        "profile": "プロフィール",
+        "see": "見る",
+        "art": "のアート",
+        "about": "ABOUT",
+        "contact": "連絡先情報",
+        "activity": "アクティビティ",
+        "videos": "動画",
+        "artworks": "作品",
+        "likedArtworks": "Likeした作品",
+        "albums": "アルバム",
+        "groups": "グループ",
+        "technique": "技術",
+        "expertise": "専門性",
+        "awards": "アワード",
+        "pastExhibitions": "過去の展示",
+        "publications": "公開情報",
+        "personalInfo": "個人情報",
+        "business": "自分のビジネスについて"
+    },
+    "connections": {
+        "title": "コネクション",
+        "noConnectionsFound": "コネクションはありません",
+        "seeAll": "すべて見る...",
+        "followers": "フォロワー",
+        "following": "フォロー中"
+    },
+    "video": {
+        "title": "動画",
+        "noVideosFound": "動画はありません"
+    },
+    "visibility": {
+        "public": "公開(ログイン済みユーザー)",
+        "private": "非公開",
+        "connectionsOnly": "コネクションのみ"
+    },
+    "blockSection": {
+        "accountUnavailable": "このアカウントは利用できません",
+        "goToHome": "ホームに行く"
+    },
+    "emailShare": {
+        "bodyText2": "\n連絡を取り合う！\nARTMO~もっと詳しく知るのです https://artmo.com/what-is-artmo",
+        "profileShare" : {
+            "subject" : "ARTMOをチェックしてください",
+            "bodyText1": "こんにちは,\nArtMoをチェックアウトしてアートネットワークに参加することに興味があるかもしれません。\n私のプロフィールを見るにはここをクリックしてください: "
+        },
+        "articleShare": {
+            "subject" : "ARTMOに関するこの記事をチェックしてください",
+            "bodyText1": "こんにちは,\n私はあなたがArtmoに関するこの記事をチェックすることに興味があるかもしれないと思います。\n読むにはここをクリックしてください: "
+        },
+        "artworkShare":{
+            "subject" : "ArtMoでこのアートワークをチェックしてください",
+            "bodyText1": "こんにちは,\nArtmoでこの素晴らしいアートワークをチェックすることに興味があると思います。\nアートワークを見るにはここをクリックしてください: "
+        },
+        "postShare": {
+            "subject" : "ArtMoでこの投稿をチェックしてください",
+            "bodyText1": "こんにちは,\n私はあなたがArtmoでこの投稿をチェックすることに興味があるかもしれないと思います。\n読むにはここをクリックしてください: "
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "createPost": {
+        "title": "পোস্ট তৈরি করুন",
+        "editPhoto": "ছবি পরিমার্জন করুন",
+        "addPhoto": "ছবি সংযুক্ত করুন",
+        "characterLimit": "/২০০",
+        "publish": "প্রকাশ করুন",
+        "placeholderWriteSomething": "কিছু লিখুন..."
+    },
+    "groupBarHead": {
+        "leave": "বের হোন",
+        "confirmLeave": "আপনি কি নিশ্চিত আপনি এই গ্রুপ থেকে বের হতে চান?",
+        "uploadPhoto": "ছবি আপলোড করুন",
+        "removePhoto": "ছবি পরিবর্তন করুন",
+        "changePhoto": "ছবি সরান",
+        "group": "গ্রুপ",
+        "leaveGroup": "গ্রুপ থেকে বের হন",
+        "joinGroup": "গ্রুপে যুক্ত হন",
+        "lastActive": "শেষ সক্রিয় থাকার সময়",
+        "members": " সদস্য(বৃন্দ)",
+        "posts": "পোস্ট(গুলি)",
+        "editGroupSettings": "গ্রুপ সেটিংস পরিমার্জন করুন",
+        "Leave": "বের হন"
+    },
+    "memberSection": {
+        "title": "গ্রুপের সদস্যগণ",
+        "members": "সদস্যগণ",
+        "seeAll": "সব দেখুন"
+    },
+    "invite": {
+        "title": "সংযোগের আমন্ত্রণ দিন",
+        "seeAll": "সব দেখুন",
+        "invited": "আমন্ত্রিত",
+        "follower": "অনুসারী",
+        "followerPlural": "অনুসারীগণ",
+        "allConnectionsInvited": "আপনার সকল সংযুক্ত সদস্যদের আমন্ত্রণ পাঠানো হয়েছে",
+        "noConnectionsToInvite": "আমন্ত্রণ জানানোর মতো কোনো কানেকশন নেই",
+        "inviteTo": "আমন্ত্রণ",
+        "invite": "আমন্ত্রণ",
+        "loading": "লোড হচ্ছে..."
+    },
+    "joinRequests": {
+        "title": "যুক্ত হওয়ার আবেদনগুলি",
+        "follower": "অনুসারী",
+        "followerPlural": "অনুসারীগণ",
+        "reject": "প্রত্যাখ্যান",
+        "accept": "গ্রহণ",
+        "noMoreRequests": "আর কোনো যুক্ত হওয়ার আবেদন নেই"
+    },
+    "listingPopup": {
+        "remove": "সরান",
+        "admin": "(এডমিন)",
+        "moderator": "(মডারেটর)",
+        "follower": "অনুসারী",
+        "followerPlural": "অনুসারীগণ",
+        "assignModerator": "মডারেটর হিসেবে নিযুক্ত করুন",
+        "removeFromGroup": " গ্রুপ থেকে সরান",
+        "addedAsModerator": "মডারেটর হিসেবে যুক্ত",
+        "deleteConfirm": " আপনি কি নিশ্চিত আপনি এই ব্যবহারকারীকে সরাতে চান?"
+    },
+    "notAuthorized": "অনুমোদিত নয়"
+}

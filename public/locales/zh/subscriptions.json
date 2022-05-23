@@ -1,0 +1,114 @@
+{
+    "title": "卖家订阅",
+    "artistPage": {
+        "sectionLabels": {
+            "sellCommissionFree": "出售您的艺术作品，无需支付佣金",
+            "connectWithCollectors": "与买家直接联系",
+            "cancelSubscription": "随时取消你的订阅",
+            "basicPlan": "基础会员免费"
+        }
+    },
+    "memberPage": {
+        "chooseThePlan": "选择最适合您的版本...",
+        "planLabels": {
+            "plus": "Plus会员",
+            "pro": "Pro会员",
+            "lifetime": "永久会员"
+        },
+        "gatewayFees": "网关费用",
+        "cancelAnytime": "随时取消"
+    },
+    "faq": {
+        "title": "常见问题",
+        "askQuestion": "提出问题",
+        "questionLabels": {
+            "subscriptionFee": "我为什么要支付订阅费?",
+            "basicAccount": "基础会员只是免费试用吗?",
+            "cancelSubscription": "我可以随时取消并获得退款吗?",
+            "paymentForSelling": "当我售出作品后，如何及何时能获得付款?",
+            "publishAndSell": "我可以发布和出售任何艺术品吗?",
+            "howArtmoSurvive": "ARTMO不收取佣金，是如何维持运行的?"
+        }
+    },
+    "perMonth": "/mo",
+    "pricingSelectLabels": {
+        "monthly": "每月计费,",
+        "quarterly": "每季度计费,",
+        "halfYearly": "每半年计费,",
+        "yearly": "每年计费,"
+    },
+    "freePricing": "免费",
+    "currencySwitcher": "货币切换器",
+    "commission": "佣金",
+    "helpDesk": "ARTMO 服务台",
+    "directPayments": "接受直接付款",
+    "backLink": "在您的主页上反向链接您的 ARTMO 收藏",
+    "connectDirectly": "直接与买家联系",
+    "certificates": "为您的艺术品制作真品证书",
+    "mediation": "客户纠纷调解支持",
+    "manageCollection": "仪表板：管理集合和帐户",
+    "gateways": "启用支付网关：Paypal、Visa、MasterCard",
+    "badge": "高级卖家徽章",
+    "articles": "发布和发布有关您的作品和展览的文章",
+    "shippingPolicy": "您自己的运输政策",
+    "getText": "获得",
+    "signUpText": "报名",
+    "noneText": "无",
+    "includedText": "包含",
+    "notIncludedText": "不含",
+    "vendorPaymentPopup": {
+        "yourChoice": "你的选择",
+        "price": "价格",
+        "every": "每个",
+        "month": "月",
+        "months": "月",
+        "proceedToPayment": "继续付款"
+    },
+    "underagePopup": {
+        "hi": "嗨",
+        "backToProfile": "返回配置文件"
+    },
+    "productLimits": {
+        "publishAndSell": "发布和销售...",
+        "basic": "最多5件艺术品",
+        "artistPlus": "最多20件艺术品",
+        "unlimited": "无限艺术作品数量"
+    },
+    "termsCondsPopup": {
+        "title": "供应商条款和条件",
+        "agreeAndProceed": "同意并继续",
+        "agreeAndSubscribeTo": "同意并订阅"
+    },
+    "artworkListing": {
+        "byText": "按"
+    },
+    "roleChangeWarning": "通过下一步，您同意改变您的用户类型进行，更改前是",
+    "toText": "更改后是",
+    "toggleMemberLabel": "适用于会员",
+    "toggleArtistLabel": "适用于艺术家",
+    "pickPlanHeading": "选择一个适合您的计划.",
+    "promoteWorkHeading": "免费推广和销售您的艺术作品.",
+    "makeArtSeenHeading": "出售您的艺术品.",
+    "categories":{
+        "artistConnectDirectly":"直接与买家联系",
+        "artistEnablePayment":"启用支付网关：Paypal、Visa、MasterCard",
+        "enableAcceptPayment":"接受直接付款",
+        "artistDashboardManage":"仪表板：管理集合和帐户",
+        "artistShippingPolicy":"您自己的运输政策",
+        "artistCreateCertificate":"为您的艺术品制作真品证书",
+        "artistHelpDesk":"ARTMO 服务台",
+        "artistPublishArticle":"发布和发布有关您的作品和展览的文章",
+        "artistBacklinkCollection":"在您的主页上反向链接您的 ARTMO 收藏",
+        "artistDisputeSupport":"客户纠纷调解支持",
+        "memberConnectBuyers":"直接与买家联系",
+        "memberEnablePayment":"启用支付网关：Paypal、Visa、MasterCard",
+        "memberAcceptPayment":"接受直接付款",
+        "memberDashboardManage":"仪表板：管理集合和帐户",
+        "memberShippingPolicy":"您自己的运输政策",
+        "memberHelpDesk":"ARTMO 服务台",
+        "memberBacklinkCollection":"在您的主页上反向链接您的 ARTMO 收藏",
+        "memberDisputeSupport":"客户纠纷调解支持",
+        "artistBadge":"高级卖家徽章 <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+        "memberBadge":"高级卖家徽章 <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+      }
+}

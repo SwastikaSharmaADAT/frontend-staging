@@ -1,0 +1,16 @@
+{
+    "title": "ZAPROŚ KONEKSJE",
+    "tagsInput": {
+        "placeholder": "Dodaj adresy e-mail ręcznie. Oddziel je przecinkami lub spacjami."
+    },
+    "cancelButtonLabel": "Anuluj",
+    "sendInvitesButtonLabel": "Wyślij zaproszenia",
+    "howInviteWork": "Jak to działa?",
+    "emailTemplateText": "Czy mogę zobaczyć e-mail przed wysłaniem?",
+    "pickEmailService": "Wybierz serwis e-mail...",
+    "gmailText": "Gmail",
+    "outlookText": "Outlook",
+    "otherText": "Inne",
+    "selectedText": "Wybrane",
+    "emptyResultText": "Brak wyników"
+}

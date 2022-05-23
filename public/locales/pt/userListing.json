@@ -1,0 +1,17 @@
+{
+    "heading": "A REDE DE ARTE",
+    "listing": {
+        "country": "País:",
+        "placeholderCity": "Cidade",
+        "userType": "Tipo de Usuário:",
+        "sortBy": "Ordenar por:",
+        "search": "Buscar",
+        "searchUsers": "Buscar usuários...",
+        "searchbyname": "Buscar por nome..."
+    },
+    "follower": "seguidor",
+    "followers": "seguidores",
+    "unfollow": "Deixar de seguir",
+    "follow": "Seguir",
+    "editProfile": "Editar Perfil"
+}

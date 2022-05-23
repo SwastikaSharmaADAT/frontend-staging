@@ -1,0 +1,37 @@
+ {
+  "title": "Thẻ Quà tặng",
+  "linkToMyGiftCard": "Xem Thẻ Quà tặng của bạn",
+  "giftCardSection": {
+    "title": "Quảng bá Hồ sơ của Bạn",
+    "description": "Nhúng đường dẫn đến hồ sơ ARTMO của bạn trên trang web của bạn.",
+    "getLinkButton": "Lấy Đường dẫn"
+  },
+  "giftCardContent": {
+    "singular": "Thẻ Quà tặng",
+    "title": "Gửi một Thẻ Quà tặng ARTMO qua email. Người nhận có thể sử dụng nó để mua các tác phẩm nghệ thuật.",
+    "selectAmount": "Chọn số lượng:",
+    "quesion": "Gửi thẻ quà tặng này đến ...",
+    "namePlaceholder": "Nhập Tên",
+    "emailPlaceholder": "Nhập địa chỉ Email",
+    "lastNote": "Thông tin thẻ sẽ hiện trong mục Tài khoản của Tôi. Bạn sẽ nhận được một biên lai xác nhận vào email của bạn.",
+    "buttonText": "Tiến hành Thanh toán",
+    "hello": "Xin chào",
+    "sentFrom": "Đây là Thẻ Quà tặng của bạn được gửi từ ...",
+    "use": "Sủ dụng thẻ này để mua sắm tác phẩm nghệ thuật.",
+    "seeHere": "Xem Tác phẩm nghệ thuật tại Đây...",
+    "expiryDate": "* Ngày Hết hạn: "
+  },
+  "myGiftCardContent": {
+    "title": "Thẻ Quà tặng của Bạn:",
+    "to": "Đến",
+    "name": " Bjorn Andersen",
+    "validUntil": "Có giá trị đến",
+    "purchasedOn": "Được mua vào",
+    "used": "Đã sử dụng",
+    "valid": "Còn giá trị sử dụng",
+    "expired": "Đã hết hạn",
+    "makeCard": "Tạo một Món quà từ Nghệ thuật.",
+    "buttonText": "Mua một Thẻ ARTMO",
+    "noGiftCard": "Không có thẻ Quà tặng nào"
+  }
+}

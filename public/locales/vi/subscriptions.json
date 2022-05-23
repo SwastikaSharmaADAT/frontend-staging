@@ -1,0 +1,103 @@
+{
+    "title": "ĐĂNG KÝ NHÀ CUNG CẤP",
+    "artistPage": {
+        "sectionLabels": {
+            "sellCommissionFree": "Miễn Hoa hồng Bán Tác phẩm của Bạn",
+            "connectWithCollectors": "Kết nối Trực tiếp với các Nhà sưu tầm",
+            "cancelSubscription": "Hủy Đăng ký của Bạn Bất cứ lúc nào",
+            "basicPlan": "Gói BASIC hoàn toàn MIỄN PHÍ"
+        }
+    },
+    "memberPage": {
+        "chooseThePlan": "Chọn GÓI phù hợp nhất với bạn...",
+        "planLabels": {
+            "plus": "Plus",
+            "pro": "Pro",
+            "lifetime": "Lifetime"
+        },
+        "gatewayFees": "Phí Cổng dịch vụ",
+        "cancelAnytime": "Hủy bỏ bất cứ lúc nào"
+    },
+    "faq": {
+        "title": "Những câu hỏi thường gặp",
+        "askQuestion": "Đặt Câu hỏi",
+        "questionLabels": {
+            "subscriptionFee": "Tại sao tôi phải trả phí đăng ký?",
+            "basicAccount": "Tài khoản BASIC có phải chỉ là bản dùng thử miễn phí không?",
+            "cancelSubscription": "Tôi có được hủy bất cứ lúc nào và được hoàn tiền không?",
+            "paymentForSelling": "Bằng cách nào và khi nào tôi nhận được khoản thanh toán khi tác phẩm của tôi được bán?",
+            "publishAndSell": "Tôi có thể xuất bản và bán bất cứ tác phẩm nghệ thuật nào tôi muốn không?",
+            "howArtmoSurvive": "ARTMO tồn tại thế nào khi không có hoa hồng?"
+        }
+    },
+    "perMonth": "/tháng",
+    "pricingSelectLabels": {
+        "monthly": "Thanh toán theo tháng,",
+        "quarterly": "Thanh toán theo quý,",
+        "halfYearly": "Thanh toán mỗi nửa năm,",
+        "yearly": "Thanh toán theo năm,"
+    },
+    "freePricing": "miễn phí",
+    "currencySwitcher": "Chuyển đổi Tiền tệ",
+    "commission": "Hoa hồng",
+    "getText": "nhận",
+    "signUpText": "Đăng ký",
+    "noneText": "Không",
+    "includedText": "Đã bao gồm",
+    "notIncludedText": "Không bao gồm",
+    "vendorPaymentPopup": {
+        "yourChoice": "Lựa chọn của bạn",
+        "price": "Giá",
+        "every": "mỗi",
+        "month": "tháng",
+        "months": "tháng",
+        "proceedToPayment": "Tiến hành Thanh toán"
+    },
+    "underagePopup": {
+        "hi": "Xin chào",
+        "backToProfile": "Quay lại Hồ sơ"
+    },
+    "productLimits": {
+        "publishAndSell": "Xuất bản và bán...",
+        "basic": "đến 5 tác phẩm nghệ thuật",
+        "artistPlus": "đến 20 tác phẩm nghệ thuật",
+        "unlimited": "không giới hạn tác phẩm nghệ thuật"
+    },
+    "termsCondsPopup": {
+        "title": "Các Điều khoản & Điều kiện dành cho Nhà cung cấp",
+        "agreeAndProceed": "Đồng ý và Tiến hành",
+        "agreeAndSubscribeTo": "Đồng ý và Đăng ký"
+    },
+    "artworkListing": {
+        "byText": "bởi"
+    },
+    "roleChangeWarning": "Bằng việc tiếp tục, bạn đồng ý chuyển loại người dùng của mình từ",
+    "toText": "sang",
+    "toggleMemberLabel": "Dành cho Thành viên",
+    "toggleArtistLabel": "Dành cho Nghệ sĩ",
+    "pickPlanHeading": "Chọn một gói phù hợp với bạn.",
+    "promoteWorkHeading": "Quảng bá và bán tác phẩm của Bạn mà không cần trả hoa hồng.",
+    "makeArtSeenHeading": "Bán Tác phẩm của Bạn.",
+    "categories":{
+        "artistConnectDirectly":"Kết nối trực tiếp với người mua",
+        "artistEnablePayment":"Kích hoạt các cổng thanh toán: Paypal, Visa, MasterCard",
+        "enableAcceptPayment":"Chấp nhận thanh toán trực tiếp",
+        "artistDashboardManage":"Trang tổng quan: Quản lý Bộ sưu tập & Tài khoản",
+        "artistShippingPolicy":"Chính sách vận chuyển của riêng bạn",
+        "artistCreateCertificate":"Tạo chứng chỉ xác thực cho các tác phẩm nghệ thuật của bạn",
+        "artistHelpDesk":"Bộ phận trợ giúp ARTMO",
+        "artistPublishArticle":"Xuất bản và đăng các bài báo về công việc và triển lãm của bạn",
+        "artistBacklinkCollection":"Xuất bản và đăng các bài báo về công việc và triển lãm của bạn",
+        "artistDisputeSupport":"Hỗ trợ hòa giải tranh chấp khách hàng",
+        "memberConnectBuyers":"Kết nối trực tiếp với người mua",
+        "memberEnablePayment":"Kích hoạt các cổng thanh toán: Paypal, Visa, MasterCard",
+        "memberAcceptPayment":"Chấp nhận thanh toán trực tiếp",
+        "memberDashboardManage":"Trang tổng quan: Quản lý Bộ sưu tập & Tài khoản",
+        "memberShippingPolicy":"Chính sách vận chuyển của riêng bạn",
+        "memberHelpDesk":"Bộ phận trợ giúp ARTMO",
+        "memberBacklinkCollection":"Xuất bản và đăng các bài báo về công việc và triển lãm của bạn",
+        "memberDisputeSupport":"Hỗ trợ hòa giải tranh chấp khách hàng",
+        "artistBadge":"Huy hiệu Người bán cao cấp <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+        "memberBadge":"Huy hiệu Người bán cao cấp <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+      }
+}

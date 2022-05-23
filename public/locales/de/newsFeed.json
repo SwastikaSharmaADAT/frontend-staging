@@ -1,0 +1,122 @@
+{
+    "addContent": {
+        "placeholderAdd": "Hinzufügen...",
+        "post": "Post",
+        "video": "Video",
+        "album": "Album",
+        "article": "Artikel",
+        "artwork": "Kunstwerk"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "Ein Fotoalbum hinzufügen",
+        "limitText": "Bilder hinzufügen (max 50)",
+        "addImages": "Bilder hinzufügen",
+        "placeholderAddTitle": "Titel hinzufügen",
+        "writeSomething": "Schreibe etwas...",
+        "firstPhotoInfo": "Das erste Foto wird das Titelbild des Albums sein.",
+        "publish": "Veröffentlichen",
+        "errorLabels": {
+            "maxCharacter100": "Nur 100 Zeichen erlaubt",
+            "titleRequired": "Titel ist erforderlich",
+            "maxCharacter500": "Nur 500 Zeichen erlaubt"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "Foto-Album editieren",
+        "updateButton": "Speichern"
+    },
+    "addPostPopup": {
+        "title": "Post erstellen",
+        "editPhoto": "Foto editieren",
+        "addPhoto": "Foto hinzufügen",
+        "writeSomething": "Schreibe etwas...",
+        "postDescCount": "/200",
+        "publish": "Veröffentlichen"
+    },
+    "editPostPopup": {
+        "title": "Post editieren",
+        "updateButton": "Speichern"
+    },
+    "addVideoPopup": {
+        "title": "Ein Video hinzufügen",
+        "validUrlError": "Eine gültige URL eingeben",
+        "placeholderEnterLink": "Füge einen Link ein von YouTube, Vimeo...",
+        "placeholderWriteSomething": "Schreibe etwas...",
+        "addCategory": "Kategorie hinzufügen",
+        "next": "Nächster",
+        "publish": "Veröffentlichen",
+        "update":"Speichern"
+    },
+    "editVideoPopup": {
+        "title": "Video-Post editieren",
+        "updateButton": "Speichern"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "Neue Aktivität hinzugefügt",
+        "refresh": "Aktualisierung"
+    },
+    "hashtags": {
+        "title": "TOP HASHTAGS",
+        "noHashtagsAdded": "Keine hashtags hinzugefügt",
+        "post": "Post",
+        "postPlural": "Posts"
+    },
+    "manageArtwork": {
+        "follower": "Follower",
+        "followerPlural": "Followers",
+        "visit": "Besuch ",
+        "manage": "Verwalten ",
+        "noPageFound": "Keine Seite gefunden"
+    },
+    "profile": {
+        "follower": "Follower",
+        "followerPlural": "Followers",
+        "profileCompleteness": "Profil-Vollständigkeit",
+        "editProfile": "Profil bearbeiten"
+    },
+    "singlePost": {
+        "photo": "Foto",
+        "photoPlural": "Fotos",
+        "seeInStore": "Im Marktplatz ansehen",
+        "deleteText": "Möchtest Du den Kommentar wirklich löschen?",
+        "capsHide": "Ausblenden",
+        "capsUnhide": "Einblenden",
+        "hide": "Ausblenden",
+        "unhide": "Einblenden",
+        "areYouSure": "Bist Du sicher Du möchtest",
+        "thisComment": "diesen Kommentar?",
+        "update": "Aktualisieren",
+        "like": "Like",
+        "comment": "Kommentar",
+        "liked": "Liked",
+        "likedBy": "Liked von",
+        "lowerLike": "Likes",
+        "lowerLikePlural": "Like",
+        "lowerUnlike": "Unlike",
+        "lowerComment": "Kommentar",
+        "lowerCommentPlural": "Kommentare",
+        "share": "Teilen",
+        "pending": "Steht aus",
+        "deleteActivity": "Möchtest Du diese Aktivität wirklich löschen?",
+        "accept": "Akzeptieren",
+        "reject": "Ablehnen",
+        "delete": "Löschen",
+        "seeMore": "Mehr sehen..",
+        "price": "Preis",
+        "priceOnRequest": "Preis auf Anfrage",
+        "placeholderComment":"Kommentar einfügen...",
+        "publish":"Veröffentlichen",
+        "loadMoreText":"Mehr laden...",
+        "loadMoreRepliesText":"Weitere Antworten laden...",
+        "edit":"Editieren",
+        "commentRemoved":"Dieser Kommentar wurde entfernt",
+        "replyRemoved":"Diese Antwort wurde entfernt"
+    },
+    "singleActivity": {
+        "activityNotAvailable": "Diese Aktivität ist nicht verfügbar",
+        "seeMore": "Mehr sehen...",
+        "alreadyHaveAnAccount": "Du hast bereits ein Profil?",
+        "signUp": "Registrieren",
+        "logIn": "Log In"
+    }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "शैली",
+  "tabs": {
+    "genre": "शैली",
+    "media": "मीडिया",
+    "timePeriod": "समय सीमा",
+    "genreSubTabs": {
+      "definition": "परिभाषा",
+      "abstractExpressionism": "सार अभिव्यंजनावाद",
+      "abstract": "सार",
+      "calligraphy": "सुलेख",
+      "conceptual": "वैचारिक",
+      "concrete": "ठोस",
+      "constructivism": "रचनावाद",
+      "cubism": "क्यूबिज्म",
+      "documentary": "दस्तावेज़ी",
+      "expressionism": "अभिव्यंजनावाद",
+      "fantastic": "शानदार",
+      "figurative": "आलंकारिक",
+      "illustration": "चित्रण",
+      "impressionism": "प्रभाववाद",
+      "magicalRealism": "जादुई यथार्थवाद",
+      "minimalism": "अतिसूक्ष्मवाद",
+      "naiveArt": "अनुभवहीन कला",
+      "pop": "पॉप",
+      "realism": "यथार्थवाद",
+      "surrealism": "अतियथार्थवाद"
+    },
+    "mediaSubTabs": {
+      "definition": "परिभाषा",
+      "collage": "समुच्चित चित्रकला",
+      "design": "डिज़ाइन",
+      "digital": "डिजिटल",
+      "drawing": "चित्रकारी",
+      "mixed": "मिश्रित",
+      "multimedia": "मल्टीमीडिया",
+      "newMedia": "नया माध्यम",
+      "painting": "चित्र",
+      "sculpture": "मूर्ति"
+    },
+    "timeperiodSubTabs": {
+      "definition": "परिभाषा",
+      "contemporary": "समकालीन",
+      "modern": "आधुनिक"
+    }
+  }
+}

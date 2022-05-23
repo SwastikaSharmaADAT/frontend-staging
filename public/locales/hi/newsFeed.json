@@ -1,0 +1,122 @@
+{
+  "addContent": {
+    "placeholderAdd": "जोड़ना...",
+    "post": "पोस्ट",
+    "video": "वीडियो",
+    "album": "एलबम",
+    "article": "वस्तु",
+    "artwork": "कलाकृति"
+  },
+  "addPhotoAlbumPopup": {
+    "title": "एक फोटो एलबम जोड़ें",
+    "limitText": "छवियां जोड़ें (अधिकतम 50)",
+    "addImages": "छवियां जोड़ें",
+    "placeholderAddTitle": "शीर्षक जोडें",
+    "writeSomething": "कुछ लिखेंगे...",
+    "firstPhotoInfo": "पहली फ़ोटो होगी एल्बम की कवर छवि.",
+    "publish": "प्रकाशित करना",
+    "errorLabels": {
+      "maxCharacter100": "केवल 100 वर्णों की अनुमति है",
+      "titleRequired": "शीर्षक आवश्यक है",
+      "maxCharacter500": "केवल 500 वर्णों की अनुमति है"
+    }
+  },
+  "editPhotoAlbumPopup": {
+    "title": "फोटो एलबम संपादित करें",
+    "updateButton": "अपडेट"
+  },
+  "addPostPopup": {
+    "title": "एक पोस्ट बनाएं",
+    "editPhoto": "फ़ोटो संपादित करें",
+    "addPhoto": "फ़ोटो जोड़ें",
+    "writeSomething": "कुछ लिखेंगे...",
+    "postDescCount": "/200",
+    "publish": "प्रकाशित करना"
+  },
+  "editPostPopup": {
+    "title": "Edit Post",
+    "updateButton": "अपडेट"
+  },
+  "addVideoPopup": {
+    "title": "एक वीडियो जोड़ें",
+    "validUrlError": "क्रुपया मान्य यूआरएल दर्ज करें",
+    "placeholderEnterLink": " लिंक डालें यूट्यूब से वीमियो से...",
+    "placeholderWriteSomething": "कुछ लिखेंगे...",
+    "addCategory": " श्रेणी जोड़ना",
+    "next": "अगला",
+    "publish": "प्रकाशित करना",
+    "update": "अपडेट"
+  },
+  "editVideoPopup": {
+    "title": "वीडियो पोस्ट देखें",
+    "updateButton": "अपडेट"
+  },
+  "refreshOverlay": {
+    "newActivityAdded": "नई गतिविधि जोड़ी गई",
+    "refresh": "रिफ्रेश"
+  },
+  "hashtags": {
+    "title": "शीर्ष हैशटैग",
+    "noHashtagsAdded": "कोई हैशटैग नहीं जोड़ा गया",
+    "post": "पोस्ट",
+    "postPlural": "पोस्ट"
+  },
+  "manageArtwork": {
+    "follower": "अनुयायी",
+    "followerPlural": "अनुयायियों",
+    "visit": "जाना",
+    "manage": "प्रबंधित",
+    "noPageFound": "कोई पेज नहीं मिला"
+  },
+  "profile": {
+    "follower": "अनुयायी",
+    "followerPlural": "अनुयायियों",
+    "profileCompleteness": "प्रोफ़ाइल पूर्णता",
+    "editProfile": "प्रोफ़ाइल संपादित करें"
+  },
+  "singlePost": {
+    "photo": "तस्वीर",
+    "photoPlural": "तस्वीरें",
+    "seeInStore": "स्टोर में देखें",
+    "deleteText": "क्या आप वाकई अपनी टिप्पणी हटाना चाहते हैं?",
+    "capsHide": "छिपाना",
+    "capsUnhide": "सामने लाएँ",
+    "hide": "छिपाना",
+    "unhide": "सामने लाएँ",
+    "areYouSure": "क्या आप निस्चय ही यह कार्य करना चाहते हैं",
+    "thisComment": "यह टिप्पणी?",
+    "update": "अपडेट करें",
+    "like": "पसंद",
+    "comment": "टिप्पणी",
+    "liked": "पसंद किया",
+    "likedBy": "पसंद किया गया",
+    "lowerLike": "पसंद",
+    "lowerLikePlural": "पसंद",
+    "lowerUnlike": "नापसंद",
+    "lowerComment": "टिप्पणी",
+    "lowerCommentPlural": "टिप्पणियाँ",
+    "share": "बांटना",
+    "pending": "विचाराधीन",
+    "deleteActivity": "क्या आप वाकई इस गतिविधि को हटाना चाहते हैं?",
+    "accept": "स्वीकार करना",
+    "reject": "अस्वीकार",
+    "delete": "हटाएं",
+    "seeMore": "और देखें..",
+    "price": "Price",
+    "priceOnRequest": "विनती पर कीमत",
+    "placeholderComment": "अपनी टिप्पणी डालें...",
+    "publish": "प्रकाशित",
+    "loadMoreText": "और लोड करें...",
+    "loadMoreRepliesText": "और जवाब लोड करें...",
+    "edit": "संपादित करें",
+    "commentRemoved": "यह कमेंट हटा दिया गया है",
+    "replyRemoved": "यह जवाब हटा दिया गया है"
+  },
+  "singleActivity": {
+    "activityNotAvailable": "यह गतिविधि उपलब्ध नहीं है",
+    "seeMore": "और ज्यादा देखें...",
+    "alreadyHaveAnAccount": "क्या आपके पास पहले से एक खाता मौजूद है?",
+    "signUp": "साइन अप",
+    "logIn": "लॉग इन"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "title": "バッジ",
+    "promoteProfileSection": {
+        "title": "プロフィールを宣伝する",
+        "description": "あなたのウェブサイトにARTMOのプロフィールへのリンクを埋め込む。",
+        "getLinkButton": "リンクを取得"
+    },
+    "badgeSections": {
+        "step1": "ステップ1: 色を選択:",
+        "whiteRadioOption": "白",
+        "blackRadioOption": "黒",
+        "step2": "ステップ2: サイズを選択:",
+        "largeRadioOption": "Large",
+        "smallRadioOption": "Small",
+        "step3": "ステップ3: あなたのウェブサイトにコードをコピー＆ペースト:",
+        "copyButtonText": "コードをコピー",
+        "copiedButtonText": "コピーしました!",
+        "helpText": "ヘルプ"
+    }
+}

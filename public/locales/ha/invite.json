@@ -1,0 +1,16 @@
+{
+    "title": "GAYYACI ABOKAI",
+    "tagsInput": {
+        "placeholder": "Kara imel da hannu. Rabasu da comma ko danna enter bayan ko wanne imel."
+    },
+    "cancelButtonLabel": "Goge",
+    "sendInvitesButtonLabel": "Tura gayyata",
+    "howInviteWork": "Ya hakan yake aiki?",
+    "emailTemplateText": "Zan iya ganin imel din kafin na tura?",
+    "pickEmailService": "zabi kamfanin imel din ka...",
+    "gmailText": "Gmail",
+    "outlookText": "Outlook",
+    "otherText": "Wasu",
+    "selectedText": "An Zaba",
+    "emptyResultText": "Babu Sakamako"
+}

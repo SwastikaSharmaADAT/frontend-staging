@@ -1,0 +1,47 @@
+{
+    "title": "Gatunek",
+    "tabs": {
+        "genre": "Gatunek",
+        "media": "Media",
+        "timePeriod": "Epoka",
+        "genreSubTabs": {
+            "definition": "Definicja",
+            "abstractExpressionism": "Ekspresjonizm abstrakcyjny",
+            "abstract": "Abstrakcja",
+            "calligraphy": "Kaligrafia",
+            "conceptual": "Sztuka konceptualna",
+            "concrete": "Sztuka konkretna",
+            "constructivism": "Konstruktywizm",
+            "cubism": "Kubizm",
+            "documentary": "Dokument",
+            "expressionism": "Ekspresjonizm",
+            "fantastic": "Fantastyka",
+            "figurative": "Sztuka figuratywna",
+            "illustration": "Ilustracja",
+            "impressionism": "Impresjonizm",
+            "magicalRealism": "Realizm magiczny",
+            "minimalism": "Minimalizm",
+            "naiveArt": "Prymitywizm",
+            "pop": "Pop Art",
+            "realism": "Realizm",
+            "surrealism": "Surrealizm"
+        },
+        "mediaSubTabs": {
+            "definition": "Definicja",
+            "collage": "Kolaż",
+            "design": "Dizajn",
+            "digital": "Sztuka cyfrowa",
+            "drawing": "Rysunek",
+            "mixed": "Mixed Media",
+            "multimedia": "Multimedia",
+            "newMedia": "Nowe Media",
+            "painting": "Malarstwo",
+            "sculpture": "Rzeźba"
+        },
+        "timeperiodSubTabs": {
+            "definition": "Definicja",
+            "contemporary": "Sztuka współczesna",
+            "modern": "Nowoczesność"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "delete": "삭제하기",
+    "warningDeleteConversation": "이 대화를 삭제하시겠습니까?",
+    "block": "차단",
+    "unblock": "차단 해제",
+    "blockWarning": "원합니까?",
+    "thisUser": "이 사용자?",
+    "placeholderMessage": "여기에 메시지를 입력하세요...",
+    "send": "보내기",
+    "blockText": "이 대화에 답할 수 없습니다. 사용자가 메시지를 비공개로 만들었거나 일시 중단되었습니다.",
+    "noMessage": "메시지 없음",
+    "history": "채팅 기록 보기",
+    "emojiPicker": {
+        "smileys_people": "스마일상 & 사람들 ",
+        "animals_nature": "동물 & 자연",
+        "food_drink": "음식 & 마실것",
+        "travel_places": "여행 & 장소",
+        "activities": "활동",
+        "objects": "객체",
+        "symbols": "기호",
+        "flags": "깃발",
+        "recently_used": "최근 사용됨"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "validationErrors": {
+        "image": "Gambar artikel wajib diisi",
+        "title": "Judul Wajib Diisi",
+        "titleLength": "Judul hanya maksimal 200 karakter",
+        "description": "Deskripsi wajib diisi",
+        "descriptionLength": "Deskripsi Judul hanya maksimal 5000 karakter",
+        "category": "Kategori wajib diisi",
+        "country": "Negara wajib diisi",
+        "city": "Kota wajib diisi",
+        "startDate": "Tanggal mulai wajib diisi",
+        "endDate": "Tanggal akhir wajid diisi",
+        "endDateLarge": "Tanggal akhir tidak dapat diatur sebelum tanggal mulai"
+    },
+    "articleNotAvailable": "Artikel ini tidak tersedia",
+    "placeholderImage": "Tambahkan fitur gambar",
+    "placeholderTitle": "Sisipkan judul",
+    "placeholderDescription": "Tulis artikel anda disini...",
+    "placeholderCountry": "Negara",
+    "placeholderStartDate": "Tanggal mulai",
+    "placeholderCity": "Kota",
+    "placeholderEndDate": "Tanggal akhir",
+    "category": "Kategori",
+    "categoryOptions": {
+        "option1": "Buzz",
+        "option2": "Gambar hari ini",
+        "option3": "Pameran"
+    },
+    "status": {
+        "draft": "Konsep",
+        "publish": "Diterbitkan",
+        "pending": "Menunggu persetujuan",
+        "rejected": "Ditolak"
+    },
+    "articleFollowed": "Mengikuti",
+    "articleFollow": "Ikuti",
+    "articleUnFollow": "Berhenti mengikuti",
+    "update": "Pembaharuan",
+    "submit": "Kirimkan",
+    "buzzListing": {
+        "title": "LIHAT APA YANG MENGGERAKAN DUNIA SENI",
+        "titleShort": "BUZZ",
+        "placeholderSearchTitle": "Telusuri pameran berdasarkan judul...",
+        "search": "Telusuri",
+        "city": "Kota",
+        "edit": "edit"
+    },
+    "exhibitionListing": {
+        "title": "PAMERAN"
+    },
+    "potd": {
+        "title": "GAMBAR HARI INI"
+    },
+    "myArticle": {
+        "title": "Artikel Saya",
+        "seeMoreText": "Lihat lebih banyak..."
+    },
+    "seeMoreText": "Lihat lebih banyak...",
+    "addArticleInfo": {
+        "mainSection": {
+            "heading": "Bagaimana menulis sebuah artikel",
+            "firstPara": "Pikirkan diri Anda sebagai jurnalis atau penulis opini. Tulis tentang sesuatu yang menarik bagi dunia seni dan pecinta seni. Kesempatan untuk mempromosikan diri Anda atau karya seni Anda sendiri, artikel Anda adalah ruang untuk menulis tentang topik yang akan menarik minat khalayak umum.",
+            "secondPara": "Anda harus memiliki profil yang lengkap di ARTMO sebelum Anda dapat menerbitkan artikel.",
+            "thirdPara": "Setelah diterbitkan, Anda akan dikenali sebagai seorang penerbit."
+        },
+        "buzzSubSection": {
+            "heading": "Buzz:",
+            "firstPara": "Tulis artikel tentang topik yang menarik bagi pengguna ARTMO. Lihat contoh yang bagus untuk artikel Buzz",
+            "anchorText": "disini"
+        },
+        "potdSubSection": {
+            "heading": "Gambar hari ini| POTD:",
+            "firstPara": "Gunakan kategori POTD ketika Anda memiliki foto menawan dan menarik yang ingin Anda tulis. Gunakan gambar itu sebagai gambar fitur dan kemudian ceritakan kepada dunia kisah foto itu. POTD Anda akan dipublikasikan ",
+            "anchorText": "disini"
+        },
+        "exhibitionSubSection": {
+            "heading": "Pameran:",
+            "firstPara": "Gunakan kategori ini jika Anda mengoperasikan sebuah galeri atau menyelenggarakan pameran. Tulis tentang pameran yang Anda selenggarakan dan artikel Anda akan terlihat di kategori Pameran.",
+            "secondPara": "Artikel pameran Anda akan diterbitkan ",
+            "anchorText": "disini"
+        }
+    }
+}

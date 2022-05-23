@@ -1,0 +1,24 @@
+{
+    "delete": "Vee uit",
+    "warningDeleteConversation": "Is u seker u wil hierdie gsprek uitvee?",
+    "block": "Blok",
+    "unblock": "Deblokkeer",
+    "blockWarning": "Is u seker u wil",
+    "thisUser": "Hierdie Gebruiker?",
+    "placeholderMessage": "Tik u boodskap hier...",
+    "send": "Stuur",
+    "blockText": "Jy kan nie op hierdie gesprek antwoord nie. Óf die gebruiker het boodskappe privaat gemaak óf is opgeskort.",
+    "noMessage": "Geen Boodskappe",
+    "history": "Bekyk kletsgeskiedenis",
+    "emojiPicker": {
+        "smileys_people": "SMILEYS & MENSE",
+        "animals_nature": "DIERE & NATUUR",
+        "food_drink": "VOEDSEL & DRANK",
+        "travel_places": "REIS & PLEKKE",
+        "activities": "AKTIWITEITE",
+        "objects": "VOORWERPE",
+        "symbols": "SIMBOLE",
+        "flags": "VLAE",
+        "recently_used": "ONLANGS GEBRUIK"
+    }
+}

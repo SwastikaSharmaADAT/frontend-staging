@@ -1,0 +1,48 @@
+{
+  "connectingTheArtWorld": "कला की दुनिया को जोड़ना",
+  "login": "लॉग इन करें",
+  "freeSignup": "मुक्त साइन अप",
+  "signup": "साइन अप",
+  "search": "उपयोगकर्ता खोजें...",
+  "legacyPageInfo": "आप यहां अपने पेज तक पहुंच सकते हैं",
+  "loginMenu": {
+    "home": "घर",
+    "groups": "समूहों",
+    "network": "नेटव",
+    "messages": "संदेशों",
+    "notifications": "सूचनाएं",
+    "cart": "कार्ट",
+    "artwork": "कलाकृति",
+    "me": "मैं",
+    "more": "और....",
+    "sellArt": "कला बेचें",
+    "dashboard": "डैशबोर्ड",
+    "myarticles": "आर्टिकल्स"
+  },
+  "logoutMenu": {
+    "artwork": "कलाकृति",
+    "cart": "कार्ट",
+    "more": "और...."
+  },
+  "subMenu": {
+    "createPage": "पृष्ठ बनाएँ",
+    "switchPage": "पेज पर स्विच करें",
+    "inviteFriends": "अपने दोस्तो को आमंत्रित करें",
+    "referral": "रेफरल कार्यक्रम",
+    "switchTo": "स्विच तक",
+    "profile": "प्रोफ़ाइल",
+    "page": "मेरा पेज",
+    "myAccount": "मेरा खाता",
+    "signOut": "साइन आउट",
+    "settings": "सेटिंग्स और गोपनीयता"
+  },
+  "cart": {
+    "removeWarning": "क्या आप वाकई इस आइटम को हटाना चाहते हैं?",
+    "yes": "हां",
+    "checkoutButton": "चेकआउट",
+    "emptyCartWarning": "आपका कार्ट खाली है!",
+    "outOfStock": "स्टॉक खत्म हो गया!",
+    "seeArtworks": "कलाकृति देखें",
+    "buttonYes": "हां"
+  }
+}

@@ -1,0 +1,62 @@
+{
+    "createPost": {
+        "title": "Utwórz Post",
+        "editPhoto": "Edytuj Zdjęcie",
+        "addPhoto": "Dodaj Zdjęcie",
+        "characterLimit": "/500",
+        "publish": "Opublikuj",
+        "placeholderWriteSomething": "Napisz coś..."
+    },
+    "groupBarHead": {
+        "leave": "Opuść",
+        "confirmLeave": "Czy na pewno chcesz opuścić tę grupę?",
+        "uploadPhoto": "Załaduj Zdjęcie",
+        "removePhoto": "Zmień Zdjęcie",
+        "changePhoto": "Usuń Zdjęcie",
+        "group": "Grupa",
+        "leaveGroup": "Opuść Grupę",
+        "joinGroup": "Dołącz do Grupy",
+        "lastActive": "Ostatnia aktywność",
+        "members": " użytkownik(ów)",
+        "posts": "post(ów)",
+        "editGroupSettings": "Edytuj Ustawienia Grupy",
+        "Leave": "Opuść"
+    },
+    "memberSection": {
+        "title": "Członkowie grupy",
+        "members": "użytkowników",
+        "seeAll": "Zobacz wszystkie..."
+    },
+    "invite": {
+        "title": "Zaproś Kontakty",
+        "seeAll": "Zobacz wszystkich",
+        "invited": "Zaproszony",
+        "follower": "obserwujący",
+        "followerPlural": "obserwujących",
+        "allConnectionsInvited": "Wszystkie kontakty zostały zaproszone.",
+        "noConnectionsToInvite": "Brak kontaktów do zaproszenia.",
+        "inviteTo": "Zaproś do",
+        "invite": "Zaproś",
+        "loading": "Ładuję..."
+    },
+    "joinRequests": {
+        "title": "Zapytania o dołączenie",
+        "follower": "obserwujący",
+        "followerPlural": "obserwujących",
+        "reject": "Odrzuć",
+        "accept": "Akceptuj",
+        "noMoreRequests": "Nie znaleziono więcej zapytań"
+    },
+    "listingPopup": {
+        "remove": "Usuń",
+        "admin": "(Admin)",
+        "moderator": "(Moderator)",
+        "follower": "obserwujący",
+        "followerPlural": "obserwujących",
+        "assignModerator": "Dodaj jako Moderator",
+        "removeFromGroup": "Usuń z Grupy",
+        "addedAsModerator": "Dodano jako Moderator",
+        "deleteConfirm": "Czy chcesz usunąć tego użytkownika"
+    },
+    "notAuthorized": "Nie autoryzowano"
+}

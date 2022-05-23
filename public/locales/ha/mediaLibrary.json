@@ -1,0 +1,27 @@
+{
+    "chooseImage": "Zabi Hoto",
+    "uploadTab": {
+        "title": "Saka hotuna",
+        "dragDropHere": "Janyo ka ajiye hotuna anan",
+        "or": "ko",
+        "selectFiles": "+ Zabi Hotuna",
+        "supportedFormatsText": "Kadai *.jpeg, *.jpg da *.png kalar hotuna kawai za'a karba",
+        "maxLimitPrefix": "Mafi yawa shine",
+        "maxLimitSuffix": "za'a iya zaban hotun ko a yanke",
+        "moreImagesText": "{{limit}} sauran hotuna da za'a iya zaba a ajiye",
+        "maxFileSize": "Iyakan Girman Fayil: 2 MB",
+        "minFileSize": "Iyakan Kankantan Fayil: 100 kB",
+        "maxLimitText": "Iyakan {{limit}} hotuna da za'a iya zaba a ajiye"
+    },
+    "mediaTab": {
+        "title": "Labirarin Midiya",
+        "pickATag": "Zabi Tambari",
+        "loadMore": "Shiga Saura",
+        "deleteImage": "Goge Hoto",
+        "choose": "Zabi",
+        "saveAll": "Ajiye Duka",
+        "placeholderSearch": "Nemi kaya...",
+        "placeholderDescription": "Kara rubutun kwatance...",
+        "placeholderEnterTag": "Shigar da Tambari"
+    }
+}

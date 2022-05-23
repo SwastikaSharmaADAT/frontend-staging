@@ -1,0 +1,37 @@
+  stages:
+   - sonarscanner
+   - build
+  sonar:
+   stage: sonarscanner
+   script:
+    - source /etc/environment 
+    - sonar-scanner -Dsonar.projectKey=ARTMO-Frontend -Dsonar.sources=. -Dsonar.host.url=$sonar_host -Dsonar.login=$sonar_login -Dsonar.exclusions=node_modules/*
+   only: 
+    - merge_requests
+    - development
+  build_development:
+   stage: build
+   when: manual
+   script:
+    - "rsync -auvz --delete -e 'ssh -p 22' --stats --exclude-from=deployment-exclude-list.txt . $dev_user@$dev_host:$dev_path;"
+   only:
+    - development1
+ 
+  build_staging:
+   stage: build
+   when: manual
+   before_script:
+    - echo REACT_APP_AUTH_SERVICE_API_ENDPOINT=$REACT_APP_AUTH_SERVICE_API_ENDPOINT_STAGING >>  env/.env.staging
+    - echo REACT_APP_USER_SERVICE_API_ENDPOINT=$REACT_APP_USER_SERVICE_API_ENDPOINT_STAGING >> env/.env.staging
+    - echo REACT_APP_SOCKET_ENDPOINT=$REACT_APP_SOCKET_ENDPOINT_STAGING >> env/.env.staging
+    - echo REACT_APP_LINKEDIN_APP_CLIENT_ID=$REACT_APP_LINKEDIN_APP_CLIENT_ID >> env/.env.staging
+    - echo REACT_APP_LINKEDIN_APP_CLIENT_SECRET=$REACT_APP_LINKEDIN_APP_CLIENT_SECRET >> env/.env.staging
+    - echo REACT_APP_LINKEDIN_APP_STATE=$REACT_APP_LINKEDIN_APP_STATE >> env/.env.staging
+    - echo REACT_APP_FACEBOOK_APP_STATE=$REACT_APP_FACEBOOK_APP_STATE >> env/.env.staging
+    - echo REACT_APP_FACEBOOK_LOGIN_APP_ID=$REACT_APP_FACEBOOK_LOGIN_APP_ID >> env/.env.staging
+   script:
+    - echo "yarn && CI=false && yarn build-staging"
+    - echo "aws s3 sync build s3://web-staging.artonline.gallery --acl public-read --profile ARTMO"
+   allow_failure: false
+   only:
+    - staging1

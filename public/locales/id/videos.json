@@ -1,0 +1,10 @@
+{
+    "title": "VIDEO",
+    "listing": {
+        "placeholderSearch": "Telusuri video berdasarkan judul...",
+        "search": "Telusuri",
+        "country": "Negara:",
+        "category": "Kategori:",
+        "userType": "Jenis pengguna:"
+    }
+}

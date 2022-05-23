@@ -1,0 +1,47 @@
+{
+    "title": "Genre",
+    "tabs": {
+        "genre": "Salo",
+        "media": "Midiya",
+        "timePeriod": "Lokaci",
+        "genreSubTabs": {
+            "definition": "Ma'ana",
+            "abstractExpressionism": "Abstract Expressionism",
+            "abstract": "Tsakure",
+            "calligraphy": "Calligraphy",
+            "conceptual": "Conceptual",
+            "concrete": "Concrete",
+            "constructivism": "Constructivism",
+            "cubism": "Cubism",
+            "documentary": "Documentary",
+            "expressionism": "Expressionism",
+            "fantastic": "Fantastic",
+            "figurative": "Figurative",
+            "illustration": "Illustration",
+            "impressionism": "Impressionism",
+            "magicalRealism": "Magical Realism",
+            "minimalism": "Minimalism",
+            "naiveArt": "Naive Art",
+            "pop": "Pop",
+            "realism": "Realism",
+            "surrealism": "Surrealism"
+        },
+        "mediaSubTabs": {
+            "definition": "Ma'ana",
+            "collage": "Collage",
+            "design": "Design",
+            "digital": "Na'ura",
+            "drawing": "Zane",
+            "mixed": "Gauraye",
+            "multimedia": "Multimedia",
+            "newMedia": "Sabon Midiya",
+            "painting": "Painting",
+            "sculpture": "Sculpture"
+        },
+        "timeperiodSubTabs": {
+            "definition": "Ma'ani",
+            "contemporary": "Contemporary",
+            "modern": "Zamani"
+        }
+    }
+}

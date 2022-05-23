@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "noContactsFound": "Không tìm thấy liên hệ nào",
+        "somethingWentWrong": "Có lỗi, vui lòng đăng nhập để tiếp tục",
+        "sessionExpired": "Phiên đăng nhập đã hết hạn, vui lòng đăng nhập lại",
+        "loginToContinue": "Vui lòng đăng nhập để tiếp tục."
+    },
+    "mediaLibrary": {
+        "limitMoreImages": "Chỉ có thể chọn {{limit}} ảnh nữa"
+    },
+    "article": {
+        "articleNotFound": "Không tìm thấy bài viết"
+    },
+    "cart": {
+        "alreadyInCart": "Sản phẩm này đã được thêm vào giỏ hàng của bạn",
+        "removeItemError": "Lỗi khi xóa món hàng khỏi giỏ hàng"
+    },
+    "subscriptions": {
+        "planExist": "Bạn đã mua gói này rồi!",
+        "artworkNotFound": "Không tìm thấy tác phẩm nghệ thuật"
+    }
+}

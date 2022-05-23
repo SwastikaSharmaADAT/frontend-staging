@@ -1,0 +1,161 @@
+{
+  "leftTabs": {
+    "account": "Rekening",
+    "changePassword": "Verander Wagwoord",
+    "setPassword": "Stel Wagwoord",
+    "privacy": "Privaatheid",
+    "notifications": "Kennisgewings",
+    "webNotifications": "Webkennisgewings",
+    "socialConnect": "Sosiale Konneksie",
+    "myPhotos": "My Fotos",
+    "deleteAccount": "Vee Rekening Uit"
+  },
+  "account": {
+    "title": "Rekening",
+    "username": "Gebruikersnaam",
+    "firstname": "Voornaam",
+    "lastname": "Van",
+    "pagename": "Bladsy Naam",
+    "email": "Email Adres",
+    "updateAccount": "Dateer Rekening Op",
+    "validationErrors": {
+      "firstname": "Eerste naam word benodig",
+      "lastname": "Van word benodig",
+      "firstnameLength": "Moet 50 karakters of minder wees",
+      "lastnameLength": "Moet 50 karakters of minder wees",
+      "pagename": "Bladsy naam word benodig",
+      "pagenameLength": "Moet 50 karakters of minder wees"
+    }
+  },
+  "changePassword": {
+    "changeTitle": "Verander Wagwoord",
+    "setTitle": "Stel Wagwoord",
+    "currentPassword": "Huidige Wagwoord",
+    "newPassword": "Nuwe Wagwoord",
+    "confirmPassword": "Bevestig Wagwoord",
+    "updatePassword": "Dateer Wagwoord Op",
+    "validationErrors": {
+      "currentPassword": "Voer asseblief u huidige wagwoord in",
+      "newPassword": "Voer asseblief 'n nuwe wagwoord in",
+      "confirmPassword": "Bevestig asseblief u nuwe wagwoord",
+      "passConditions": "Moet 8 karakters bevat, ten minste een hoofletter, een kleinletter en een getal ",
+      "passNotMatch": "Wagwoorde stem nie ooreen nie"
+    }
+  },
+  "notifications": {
+    "title": "Kennisgewings",
+    "description": "Kies watter e-pos kennisgewigs u wil ontvang",
+    "headings": {
+      "followers": "Volgelinge",
+      "friends": "Vriende",
+      "posts": "Berigte",
+      "messages": "Boodskappe"
+    },
+    "checkboxLabels": {
+      "newFollowers": "Ek Word Gevolg Deur Iemand Nuut",
+      "newConnectionAdded": "Ek Het 'n Nuwe Konneksie",
+      "newConnectionRequest": "Ek Het 'n Nuwe Konneksie Versoek",
+      "groupPost": "Stel My In Kennis Wanneer Iemand Op Die Groep Plaas",
+      "groupComments": "Stel My In Kennis Wanneer Iemand Kommentaar In Die Groep Lewer",
+      "privateMessage": "Iemand Stuur Aan My 'n Privaat Boodskap",
+      "unreadMessage": "Ek Het 'n Ongeleesde Boodskap"
+    },
+    "updateNotifications": "Dateer Kennisgewings Op"
+  },
+  "privacy": {
+    "title": "Privaatheid",
+    "profilePrivacy": "Profiel Privaatheid",
+    "wys Profielopsies": {
+      "everyone": "Almal",
+      "onlyMe": "Slegs Ek",
+      "following": "Slegs mense wat ek volg kan my profiel sien",
+      "followers": "Volgelinge",
+      "connections": "Slegs Konneksies"
+    },
+    "tooltips": {
+      "tip1": "Wie kan u publieke profiel sien?",
+      "tip2": "Hier kan jy jouself wegsteek om in die publieke gids te verskyn",
+      "tip3": "Wil jy hê dat ander mense moet sien dat hy aanlyn is?",
+      "tip4": "Jy kan 'n lêer aanvra met die inligting wat ons glo die relevantste en nuttigste vir jou is.",
+      "tip5": "Jy kan die uitvee van die data wat ons oor jou het versoek."
+    },
+    "hideProfile": "Versteek my profiel in die gids",
+    "yes": "Ja",
+    "no": "Nee",
+    "showOnlineStatus": "Wys my aanlyn status",
+    "activityWall": "Wie kan u aktiwiteitsmuur sien?",
+    "aktiwiteitMuurOpsies": {
+      "public": "Publiek",
+      "onlyMe": "Slegs Ek",
+      "followers": "Volgelinge",
+      "following": "Mense wat ek volg"
+    },
+    "privateMessage": "Wie kan privaat boodskappe aan my stuur?",
+    "privaatboodskapopsies": {
+      "everyone": "Almal",
+      "nobody": "Niemand",
+      "following": "Slegs mense wat ek volg",
+      "followers": "Volgelinge",
+      "connections": "Konneksies"
+    },
+    "downloadData": "Laai u data af",
+    "downloadDataDescription": "Voer u nuwe wagwoord in om 'n nuwe uitvoer van u persoonlike data te bevestig.",
+    "downloadDataButton": "Versoek data",
+    "eraseData": "Vee u data uit",
+    "eraseDataDescription": "Voer u nuwe wagwoord in om die uitvee van u persoonlike date te bevestig.",
+    "eraseDataButton": "Versoek uitvee van data",
+    "updatePrivacyButton": "Dateer Privaatheid Op"
+  },
+  "webNotifications": {
+    "title": "Webkennisgewings",
+    "description": "Ontvang Kennisgewings",
+    "checkboxLabels": {
+      "newReplies": "Wanneer 'n Lid Antwoord Op Een Van My Opmerkings",
+      "newComments": "Wanneer 'n Lid Kommentaar Lewer Op My Boodskappe",
+      "viewProfile": "Wanneer 'n Lid Na My Profiel Kyk",
+      "privateMessage": "Wanneer Iemand 'n Privaat Boodskap Aan My Stuur",
+      "newFollower": "Wanneer Iemand My Volg",
+      "newConnection": "Wanneer Iemand Versoek Om Aan Te Sluit",
+      "acceptConnection": "Wanneer Iemand Konneksie Aanvaar",
+      "newLike": "Wanneer Iemand Van My Boodskap Hou",
+      "newMention": "Wanneer Iemand My Noem",
+      "groupRequestApproved": "Wanneer My Groepversoek Goedgekeur Is",
+      "newGroupRequest": "Wanneer 'n Nuwe Gebruiker Versoek Om By My Groep Aan Te Sluit",
+      "groupInvitation": "Wanneeer 'n Lid Uitnooi Om By 'n Groep Aan Te Sluit",
+      "groupRole": "Wanneer My Groeprolle Verander Is",
+      "likeArtwork": "Wanneer Iemand Van 'n Kunswerk Hou"
+    },
+    "updateSettingsButton": "Dateer Kennisgewings Op"
+  },
+  "socialConnect": {
+    "title": "Sosiale Konneksie",
+    "notConnected": "U is nie aan enige sosiale media-rekening gekoppel nie.",
+    "disconnectFacebook": "Ontkoppel van Facebook",
+    "disconnectLinkedin": "Ontkoppel van LinkedIn",
+    "passwordWarning": "*Stel asseblief u wagwoord voor die rekening ontkoppel word"
+  },
+  "myPhotos": {
+    "title": "My Fotos",
+    "warningText": "Sodra foto's en albums uitgevee is, word hulle permanent uitgevee en kan dit nie herstel word nie.",
+    "button1": "Laai my foto's af",
+    "button2": "Vee al my albums en foto's uit",
+    "downloadWarning": "* Aflaai van my foto's taak kan 'n rukkie neem om te voltooi, afhangende van die aantal foto's wat opgelaai is.",
+    "imagesWarning": "Is jy seker jy wil al jou albums en prente uitvee?",
+    "buttonDelete": "skrap"
+  },
+  "deleteAccount": {
+    "title": "Skrap rekening",
+    "warningText": "Is jy seker jy wil jou rekening uitvee? Dit sal al jou rekeningdata van die werf uitvee. Om jou rekening uit te vee, voer jou wagwoord hieronder in",
+    "button": "Skrap rekening",
+    "password": "Wagwoord",
+    "passwordWarning": "*Stel asseblief jou wagwoord in voordat jy die rekening ontkoppel",
+    "managePaymentsTitle": "Bestuur Betalings vir Verskafferintekening",
+    "managePaymentsText": "As jy betalings wil stop, hoef jy nie jou profiel uit te vee nie.<br/>Jy kan dit behou.<br/>Jy kan maklik afgradeer na die GRATIS BASIESE plan sonder dat verdere betalings nodig is.",
+    "managePaymentsText2": "Sien op jou paneelbord",
+    "managePaymentsQuoteText": "Gradeer jou intekening af",
+    "managePaymentsButtonText": "Gaan na Paneelbord> Intekening"
+  },
+  "imageContainer": {
+    "viewProfile": "Besigtig Profiel"
+  }
+}

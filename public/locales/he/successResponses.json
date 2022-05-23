@@ -1,0 +1,113 @@
+{
+  "auth": {
+    "passwordResetSuccess": "הסיסמה אופסה!",
+    "signOutMessage": "המשתמש התנתק!"
+  },
+  "articles": {
+    "articlePublish": "מאמר פורסם",
+    "articleDraft": "מאמר נשמר לטיוטות",
+    "articleUpdate": "מאמר עודכן"
+  },
+  "dashboard": {
+    "settingsSaved": "הגדרות נשמרו"
+  },
+  "groups": {
+    "userRemoved": "המשתמש הוסר מהקבוצה",
+    "assignAsModerator": "מונה כמפעיל",
+    "inviteSent": "הזמנה נשלחה",
+    "postSentForApproval": "ההודעה האחרונה שלך נשלחה לאישור מנהל/מפעיל",
+    "postPublished": "פוסט קבוצתי פורסם",
+    "groupPostAccepted": "הפוסט התקבל בהצלחה",
+    "groupPostRejected": "הפוסט נדחה",
+    "joinRequestAccepted": "בקשת ההצטרפות התקבלה",
+    "joinRequestRejected": "בקשת ההצטרפות נדחתה",
+    "groupInviteAccept": "ההזמנה הקבוצתית התקבלה",
+    "groupInviteReject": "ההזמנה הקבוצתית התעלמה",
+    "commentAddSuccess": "התגובה נוספה",
+    "groupPhotoRemove": "תמונת הקבוצה הוסרה",
+    "groupPhotoUpload": "תמונת הקבוצה הועלתה",
+    "commentDeleted": "תגובה נמחקה"
+  },
+  "mediaLibrary": {
+    "updatedAllMedia": "עודכנו כל קבצי המדיה.",
+    "updatedMedia": "קובץ מדיה עודכן."
+  },
+  "newsFeed": {
+    "postPublished": "פוסט פורסם",
+    "videoPublished": "הסרטון פורסם",
+    "photoAlbumPublished": "אלבום התמונות פורסם בהצלחה",
+    "photoAlbumUpdated": "אלבום התמונות עודכן בהצלחה",
+    "commentAdded": "התגובה נוספה",
+    "commentDeleted": "התגובה נמחקה",
+    "commentHide": "התגובה הוסתרה",
+    "commentUnhide": "התגובה גלויה",
+    "commentUpdated": "התגובה עודכנה",
+    "activityDeleted": "הפעילות נמחקה"
+  },
+  "notification": {
+    "notificationRemoved": "ההודעה הוסרה!"
+  },
+  "pages": {
+    "pageCreated": "העמוד נוצר"
+  },
+  "profile": {
+    "profilePhotoUploaded": "תמונת הפרופיל הועלתה",
+    "coverPhotoUploaded": "תמונת הרקע הועלתה",
+    "profilePhotoRemoved": "תמונת הפרופיל הוסרה",
+    "coverPhotoRemoved": "תמונת הרקע הוסרה",
+    "infoSaved": "המידע נשמר",
+    "profileUpdated": "הפרופיל עודכן",
+    "connectionRequestSent": "בקשת החיבור נשלחה",
+    "blockUser": "משתמש {{type}}ed",
+    "blocked": "משתמש נחסם",
+    "unblocked": "הוסרה חסימת המשתמש",
+    "follow": "עוקב אחר המשתמש",
+    "unfollow": "הוסר העוקב אחר המשתמש",
+    "noticeDeleted": "ההודעה נמחקה",
+    "techniqueUpdate": "מדור הטכניקה עודכן",
+    "expertiseUpdate": "מדור המומחיות עודכן",
+    "awardUpdate": "מדור הפרסים עודכן",
+    "publicationUpdate": "מדור הפרסומים עודכן",
+    "exhibitionUpdate": "מדור תערוכות קודמות עודכן",
+    "aboutBusinessUpdate": "אודות העסק שלי | מדור המקצוע עודכן",
+    "disconnectedFromUser": "מנותק ממשתמש",
+    "connectionRequestDeleted": "בקשת החיבור נמחקה",
+    "connectionRequestIgnored": "בקשת החיבור התעלמה",
+    "userConnected": "משתמש מחובר"
+  },
+  "staticContent": {
+    "inviteSent": "הזמנה נשלחה"
+  },
+  "myAccount": {
+    "privacySettingsUpdated": "הגדרות פרטיות המשתמש עודכנו",
+    "webNotificationsSettingsUpdated": "הגדרות התראות האינטרנט עודכנו",
+    "dataDownload": "הנתונים הורדו בהצלחה",
+    "picsDownload": "התמונות הורדו בהצלחה",
+    "passwordUpdated": "סיסמא עודכנה",
+    "notificationUpdated": "הגדרות ההתראות עודכנו",
+    "accountDisconnected": "החשבון שלך מנותק",
+    "userDataDelete": "כל נתוני המשתמש נמחקו",
+    "photosDelete": "כל האלבומים והתמונות נמחקו",
+    "userDelete": "החשבון נמחק בהצלחה",
+  },
+  "artworks": {
+    "artworkUpdated": "יצירות האמנות שלך עודכנו.",
+    "artworkDeleted": "יצירות האמנות נמחקו",
+    "draftSave": "יצירות האמנות שלך נשמרו במצב טיוטה",
+    "sentForReview": "יצירות האמנות שלך נשלחו לבדיקת מנהל",
+    "published": "היצירה שלך פורסמה בהצלחה",
+  },
+  "profileCompletePopup": {
+    "profileUpdated": "הפרופיל עודכן בהצלחה",
+  },
+  "subscriptions": {
+    "purchaseSuccess": "מינוי נרכש בהצלחה",
+    "cancel": "המנוי בוטל",
+    "paymentReactivate": "התשלום הופעל מחדש",
+  },
+  "messages": {
+    "chatDelete": "הצ'אט נמחק בהצלחה",
+    "userBlock": "המשתמש חסום",
+    "messageSent": "הודעה נשלחה",
+  }
+}

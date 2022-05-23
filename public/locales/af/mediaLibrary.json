@@ -1,0 +1,26 @@
+{
+  "chooseImage": "Kies Beeld",
+  "uploadTab": {
+    "title": "Laai Lêers Op",
+    "dragDropHere": "Sleep lêers hierheen",
+    "or": "of",
+    "selectFiles": "+ Kies Lêers",
+    "supportedFormatsText": "Slegs *.jpeg, *.jpg en *.png beelde sal aanvaar word",
+    "maxLimitPrefix": "'n Maksimum van",
+    "maxLimitSuffix": "beelde kan gekies of laat val word",
+    "moreImagesText": "meer beelde kan gekies of laat val word",
+    "maxFileSize": "Maksimum lêergrootte: 10 MB",
+    "minFileSize": "Minimum lêergrootte: 50 kB"
+  },
+  "mediaTab": {
+    "title": "Media Biblioteek",
+    "pickATag": "Kies 'n Merker",
+    "loadMore": "Laai Meer",
+    "deleteImage": "Vee Beeld Uit",
+    "choose": "Kies",
+    "saveAll": "Stoor Almal",
+    "placeholderSearch": "Soek vir items...",
+    "placeholderDescription": "Voeg beskrywende teks by...",
+    "placeholderEnterTag": "Tik merker in"
+  }
+}

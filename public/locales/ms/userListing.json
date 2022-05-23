@@ -1,0 +1,17 @@
+{
+    "heading": "RANGKAIAN SENI",
+    "listing": {
+        "country": "Negara:",
+        "placeholderCity": "Bandar",
+        "userType": "Jenis Pengguna:",
+        "sortBy": "Susun Mengikut:",
+        "search": "Cari",
+        "searchUsers": "Cari pengguna...",
+        "searchbyname": "Cari mengikut nama..."
+    },
+    "follower": "pengikut",
+    "followers": "pengikut-pengikut",
+    "unfollow": "Nyahikut",
+    "follow": "Ikut",
+    "editProfile": "Sunting Profil"
+}

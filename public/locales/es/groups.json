@@ -1,0 +1,77 @@
+{
+    "groupbarHeading": "GRUPOS",
+    "placeholderSearchGroups": "Buscar Grupos",
+    "allCategories": "Todas las Categorias",
+    "noCategoriesFound": "No se encontraron categorías",
+    "allTags": "Todas las Tags",
+    "noTagsFound": "No se encontraron tags",
+    "search": "Buscar",
+    "clear": "Eliminar",
+    "groupListing": {
+        "confirmButtonText": "Salir",
+        "confirmLeaveText": "¿Estás seguro de que quieres dejar este grupo?",
+        "sortedBy": "Ordenado por",
+        "recentActivity": "Actividad reciente",
+        "group": "Grupo",
+        "manageGroupLabel": "Administrar la configuración del grupo",
+        "leaveGroup": "Salir del grupo",
+        "cancelRequest": "Cancelar petición",
+        "invitedBy": "Te invitó",
+        "wouldYouJoin": "¿Le gustaría unirse a este grupo?",
+        "accept": "Aceptar",
+        "ignore": "Ignorar",
+        "lastActive": "Última actividad",
+        "members": "miembro (s)",
+        "posts": "publicaciones",
+        "noGroupsFound": "No se encontraron grupos",
+        "loadMore": "Carga más..."
+    },
+    "toolTip": {
+        "tip1": "Cualquier miembro del sitio puede unirse a este grupo.",
+        "tip2": "Este grupo aparecerá en el directorio de grupos y en los resultados de búsqueda.",
+        "tip3": "El contenido y la actividad del grupo serán visibles para cualquier miembro del sitio."
+    },
+    "createGroup": {
+        "placeholderName": "Nombre",
+        "placeholderDescription": "Descripción",
+        "privacyTitle": "Privacidad",
+        "privacyPublic": "Público",
+        "privacyPublicContent": {
+            "point1": "Cualquier miembro del sitio puede unirse a este grupo.",
+            "point2": "Este grupo aparecerá en el directorio de grupos y en los resultados de búsqueda.",
+            "point3": "El contenido y la actividad del grupo serán visibles para cualquier miembro del sitio."
+        },
+        "privacyPrivate": "Privado",
+        "privacyPrivateContent": {
+            "point1": "Solo los usuarios que soliciten membresía y sean aceptados pueden unirse al grupo.",
+            "point2": "Este grupo aparecerá en el directorio de grupos y en los resultados de búsqueda.",
+            "point3": "El contenido y la actividad del grupo solo serán visibles para los miembros del grupo."
+        },
+        "privacyHidden": "Oculto",
+        "privacyHiddenContent": {
+            "point1": "Solo los usuarios invitados pueden unirse al grupo.",
+            "point2": "Este grupo no aparecerá en el directorio de grupos ni en los resultados de búsqueda.",
+            "point3": "El contenido y la actividad del grupo solo serán visibles para los miembros del grupo."
+        },
+        "postModeration": "Moderación de Publicaciones",
+        "moderationTypes": {
+            "option1": "Seleccionar tipo de moderación de publicaciones",
+            "option2": "Publicado Automáticamente",
+            "option3": "Publicado Tras Revisión"
+        },
+        "inviteFeature": "Habilitar la función de Invitaciones",
+        "whoCanInvite": "¿Quién puede invitar a miembros al grupo?",
+        "inviteOptions": {
+            "option1": "Seleccione el tipo de invitación",
+            "option2": "Admin",
+            "option3": "Admin y Moderador",
+            "option4": "Todos"
+        },
+        "category": "Categoría",
+        "placeholderCategory": "Seleccionar categorías",
+        "tags": "Tags",
+        "placeholderTags": "Seleccionar tags",
+        "save": "Salvar",
+        "update": "Actualizar"
+    }
+}

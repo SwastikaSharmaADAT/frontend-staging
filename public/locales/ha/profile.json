@@ -1,0 +1,362 @@
+{
+    "placeholderIntro": "Short Intro",
+    "about": {
+        "title": "GAME DA",
+        "edit": "Gyara",
+        "cancel": "Sauke",
+        "save": "Ajiye",
+        "noAboutText": "Ba'a saka bayanin game da ba",
+        "placeholderAbout": "Saka game da anan....",
+        "characterLimit": "/1000",
+        "errorAbout": "Ya wuce matsakaicin haruffa Tsawon 1000"
+    },
+    "biography": {
+        "title": "TARIHIN RAYUWA",
+        "edit": "Gyara",
+        "cancel": "Soke",
+        "save": "Ajiye",
+        "noBiographyText": "Babu rubutun tarihin rayuwa da aka ajiye",
+        "placeholderBiography": "A saka tarihin rayuwa anan....",
+        "characterLimit": "/1000"
+    },
+    "activity": {
+        "title": "Ayyuka",
+        "descriptionNotAdded": "Ba'a saka kwatance ba",
+        "reactions": "yunkuri",
+        "noActivityText": "Babu ayyuka anan",
+        "seeAll": "Kalli Duka",
+        "add": "Kara"
+    },
+    "album": {
+        "title": "ALBAM",
+        "seeAll": "Kalli Duka",
+        "add": "Kara",
+        "noAlbumFound": "Ba'a samu albam ba",
+        "edit": "Edit"
+    },
+    "artwork": {
+        "title": "ZANUKA",
+        "likedArtworks": "ZANUKA DA AKESO",
+        "noArtworkFound": "Ba'a samu zane ba",
+        "seeAll": "Kalli Duka",
+        "add": "Kara"
+    },
+    "award": {
+        "title": "LAMBAR YABO",
+        "noAwardFound": "Ba'a samu lambar yabo ba",
+        "addImages": "Kara hotuna",
+        "placeholderDescription": "Shigar da kwatancen lambar yabon zanen ka.",
+        "characterLimit": "/1000",
+        "edit": "Gyara",
+        "cancel": "Sauke",
+        "save": "Ajiye"
+    },
+    "basicInfo": {
+        "fillDetailsText": "Ka shigar da bayanan wajen nan",
+        "placeholderFirstName": "Sunan Farko",
+        "placeholderLastName": "Sunan Karshe",
+        "placeholderCity": "Gari",
+        "placeholderCountry": "Zabi Kasa",
+        "placeholderEmail": "Email",
+        "save": "Ajiye",
+        "cancel": "Sauke"
+    },
+    "business": {
+        "title": "Game da kasuwanci na | Sana'a",
+        "noBusinessFound": "Babu bayanai game da kasuwanci na | sana'a anan",
+        "addImages": "Kara hotuna",
+        "placeholderDescription": "Shigar da kwatancen kasuwanci na | sana'a.",
+        "characterLimit": "/1000",
+        "edit": "Gyara",
+        "cancel": "Sauke",
+        "save": "Ajiye"
+    },
+    "connectionsPopup": {
+        "follower": "mai bi",
+        "followerPlural": "masu bi",
+        "connected": "Haduwa",
+        "requestPending": "neman jira",
+        "requestSent": "An tura nema",
+        "connect": "Hada",
+        "userConnectionsTitle": "'s Haduwa"
+    },
+    "contact": {
+        "title": "BAYANAN TUNTUBA",
+        "noContactInfoFound": "Babu bayanan tuntuba da aka saka",
+        "email": "Imel",
+        "skype": "Skype",
+        "phone": "Lambar Waya",
+        "address": "Adireshi",
+        "openingHours": "Lokutan Aiki",
+        "socialMedia": "Shafin Sada Zumunta",
+        "placeholderEmail": "Imel",
+        "placeholderSkype": "Skype",
+        "phoneNumber": "Lambar Waya",
+        "placeholderAddress": "Adireshi",
+        "placeholderOpenHours": "Lokutan Aiki",
+        "edit": "Gyara",
+        "cancel": "Sauke",
+        "save": "Ajiye"
+    },
+    "expertise": {
+        "title": "KWAREWA",
+        "noExpertiseFound": "Babu kwarewa anan",
+        "addImages": "Kara hotuna",
+        "placeholderDescription": "Shigar da kwatancen kwarewar zanen ka.",
+        "characterLimit": "/1000",
+        "edit": "Gyara",
+        "cancel": "Sauke",
+        "save": "Ajiye"
+    },
+    "followersPopup": {
+        "follower": "mai bi",
+        "followerPlural": "masu bi",
+        "followed": "An bi",
+        "unfollow": "Anki bi",
+        "follow": "Anki bi",
+        "userFollowersTitle": "'s Masu bi"
+    },
+    "followingPopup": {
+        "follower": "mai bi",
+        "followerPlural": "masu bi",
+        "followed": "An bi",
+        "unfollow": "Anki bi",
+        "follow": "Anki bi",
+        "noFollowing": "Babu bi",
+        "userFollowersTitle": "'s Masu bi",
+        "followPlural": "An bi"
+    },
+    "group": {
+        "title": "RUKUNONI",
+        "noGroupsFound": "Mai amfani baiyi kwatancen rukuni ba",
+        "member": "memba",
+        "memberPlural": "membobi",
+        "browseGroups": "Shiga Rukunoni",
+        "create": "Kirkiri"
+    },
+    "invite": {
+        "title": "GAYYACI ABOKAI",
+        "desc1": "Tura sako zuwa lambobin abokan ka.",
+        "desc2": "Fada musu cewa kana nan.",
+        "invite": "Gayyata"
+    },
+    "messagePopup": {
+        "or": "OR",
+        "seeMore": "Duba ƙarin...",
+        "learnMore": "Koya Saura"
+    },
+    "pastExhibition": {
+        "title": "NUNAWA NA BAYA",
+        "addImages": "Kara hotuna",
+        "noExhibitionsFound": "Babu nuni na baya anan",
+        "placeholderDescription": "Shigar da kwatancen nunin ka na baya.",
+        "characterLimit": "/1000",
+        "edit": "Gyara",
+        "cancel": "Sauke",
+        "save": "Ajiye"
+    },
+    "personalInfo": {
+        "title": "BAYANAN KAI",
+        "noInfoFound": "Babu bayanan kai da aka saka",
+        "city": "Gari",
+        "country": "Kasa",
+        "profession": "Sana'a",
+        "company": "Kamfani",
+        "industry": "Kampani",
+        "website": "Yanar-gizo",
+        "languages": "Yaruka",
+        "visibleInfo": "Saitin asali a boye ga al'umma",
+        "dateOfBirth": "Ranar Haihuwa",
+        "gender": "Jinsi",
+        "relationshipStatus": "Yanayin Dangantaka",
+        "placeholderCity": "Gari",
+        "placeholderCountry": "Zabi Kasa",
+        "placeholderProfession": "Sana'a",
+        "placeholderCompany": "Kamfani",
+        "placeholderIndustry": "Kampani",
+        "placeholderLanguages": "Zabi Yaruka",
+        "placeholderWebsite": "Yanar-gizo",
+        "placeholderDob": "Ranar Haihuwa",
+        "errorDob": "Ana bukatar ranar haihuwa",
+        "genderDropdown": {
+            "option1": "Zabi jinsi",
+            "option2": "Namiji",
+            "option3": "Mace",
+            "option4": "Daban"
+        },
+        "relationDropdown": {
+            "option1": "Zabi yanayin dangantaka",
+            "option2": "Mara Aure",
+            "option3": "Mai Aure",
+            "option4": "Hadin-Gwiwa"
+        },
+        "edit": "Gyara",
+        "cancel": "Sauke",
+        "save": "Ajiye"
+    },
+    "coverImage": {
+        "menuOptions": {
+            "title": "Canja hoton cova",
+            "upload": "Daura Hoto",
+            "change": "Canja Hoto",
+            "remove": "Cire Hoto"
+        }
+    },
+    "profileHead": {
+        "profileImage": {
+            "menuOptions": {
+                "title": "Canja Hoto",
+                "upload": "Daura Hoto",
+                "change": "Canja Hoto",
+                "remove": "Cire Hoto"
+            }
+        },
+        "connected": "Hadawa",
+        "requestPending": "Neman yana jira",
+        "requestSent": "An tura Nema",
+        "connect": "Hada",
+        "shareProfile": "Raba Shafi",
+        "unblock": "Bude",
+        "block": "Toshe",
+        "tooltip": {
+            "text": "Dayan shafin yana da tsarin biya na daban.",
+            "seeMore": "Kalli saura..."
+        },
+        "profileDesc": {
+            "artist": {
+                "firstline": "<b>Kai mai zane ne!</b>",
+                "secondline": "Zaka iya sayar da zanen da ka kirkira."
+            },
+            "member": {
+                "firstline": "Kai <b><i>NOT<i></b> Mai Zane ne!",
+                "secondline": "Zaka iya sayar da zanuka da ka mallaka."
+            }
+        },
+        "edit": "Gyara",
+        "cancel": "Sauke",
+        "save": "Ajiye",
+        "followed": "An bi",
+        "follow": "Bi",
+        "message": "Sako",
+        "more": "Saura...",
+        "artistProfile": "Shafin Mai Zane",
+        "memberProfile": "Shafin Memba",
+        "enterName": "Shigar da sunan ka",
+        "enterInstitute": "Shigar da sunan makarantar ka",
+        "placeholderFirstName": "Sunan Farko",
+        "placeholderInstitureName": "Sunan Makaranta",
+        "placeholderLastName": "Sunan Karshe"
+    },
+    "notices": {
+        "title": "SANARWA",
+        "notNoticesFound": "Babu sanarwar da za'a nuna!!"
+    },
+    "profileCompleteness": {
+        "title": "CIKAR SHAFI",
+        "incompleteLabel": "Cike wadannan guraren",
+        "coverPicUrl": "Hoton Cover",
+        "profilePicUrl": "Hoton Shafi",
+        "city": "Gari",
+        "mobile": "Lambar Waya",
+        "address": "Adireshi",
+        "openingHours": "Lokutan Budewa",
+        "country": "Kasa",
+        "aboutMe": "Gameda",
+        "profession": "Sana'a",
+        "industry": "Fanni",
+        "company": "Kamfani",
+        "email": "Imel"
+    },
+    "publication": {
+        "title": "WALLAFAWA",
+        "noPublicationsFound": "Babu abinda aka wallafa",
+        "addImages": "Kara hotuna",
+        "placeholderDescription": "Shigar da kwatancen abubuwan da ka wallafa.",
+        "characterLimit": "/1000",
+        "edit": "Gyara",
+        "cancel": "Sauke",
+        "save": "Ajiye"
+    },
+    "allSectionHeader": {
+        "add": "Kara",
+        "seeAll": "Kalli Duka"
+    },
+    "share": {
+        "copiedText": "An Kwafa!",
+        "copyLink": "Hanyar Kwafa",
+        "share": "Rabawa",
+        "profileShareTitle": "'s shafi"
+    },
+    "technique": {
+        "title": "TSARI",
+        "noTechFound": "Babu tsari anan",
+        "addImages": "Kara hotuna",
+        "placeholderDescription": "Shigar da kwatancen tsarin zanen ka.",
+        "characterLimit": "/1000",
+        "edit": "Gyara",
+        "cancel": "Sauke",
+        "save": "Ajiye",
+        "your": "naka",
+        "photo": "hoto",
+        "apply": "Daura"
+    },
+    "profileNavigator": {
+        "profile": "Shafi",
+        "see": "Kalla",
+        "art": "'s Zane",
+        "about": "GAME DA",
+        "contact": "BAYANIN TUNTUBA",
+        "activity": "AYYUKA",
+        "videos": "BIDIYOYI",
+        "artworks": "ZANUKA",
+        "likedArtworks": "Zanuka da akeso",
+        "albums": "ALBAMS",
+        "groups": "RUKUNONI",
+        "technique": "TSARI",
+        "expertise": "KWAREWA",
+        "awards": "LAMBAR YABO",
+        "pastExhibitions": "NUNAWA NA BAYA",
+        "publications": "WALLAFAWA",
+        "personalInfo": "BAYANAN KA",
+        "business": "GAME DA KASUWANCI"
+    },
+    "connections": {
+        "title": "Hadaka",
+        "noConnectionsFound": "Babu Hadaka",
+        "seeAll": "Kalli Duka...",
+        "followers": "Masu bi",
+        "following": "An bi"
+    },
+    "video": {
+        "title": "Bidiyoyi",
+        "noVideosFound": "Babu bidiyo anan"
+    },
+    "visibility": {
+        "public": "Waje(Mai amfani aciki)",
+        "private": "Sirri",
+        "connectionsOnly": "Hadaka-kawai"
+    },
+    "blockSection": {
+        "accountUnavailable": "This account is unavailable",
+        "goToHome": "Go to Home"
+    },
+    "emailShare": {
+        "bodyText2": "\nCi gaba da tuntubar juna!\nMene ne ARTMO ~ Koyi Saura https://artmo.com/what-is-artmo",
+        "profileShare" : {
+            "subject" : "Shiga aga ARTMO",
+            "bodyText1": "Slm,\nIna tunanin zakuyi sha'awan duba ARTMO da kuma shiga Netwok din Zane.\nDanna don ganin shafi na: "
+        },
+        "articleShare": {
+            "subject" : "Duba wannan rubutun akan ARTMO",
+            "bodyText1": "Slm,\nIna tunanin zakuyi sha'awan duba wannan rubutun akan ARTMO.\nDanna domin karantawa: "
+        },
+        "artworkShare":{
+            "subject" : "Duba wannan zanen akan ARTMO",
+            "bodyText1": "Slm,\nIna tunanin zakuyi sha'awan duba wannan shahararren zanen akan ARTMO.\nDanna nan don ganin zanen: "
+        },
+        "postShare": {
+            "subject" : "Duba wannan rubutun akan ARTMO",
+            "bodyText1": "Slm,\nIna tunanin zakuyi sha'awan duba wannan rubutun akan ARTMO.\nDanna don karantawa: "
+        }
+    }
+}

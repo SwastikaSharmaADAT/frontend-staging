@@ -1,0 +1,161 @@
+{
+  "leftTabs": {
+    "account": "Konto",
+    "changePassword": "Passwort ändern",
+    "setPassword": "Passwort setzen",
+    "privacy": "Privatsphäre",
+    "notifications": "Mitteilungen",
+    "webNotifications": "Web Mitteilungen",
+    "socialConnect": "Soziale-Netzwerke Verbindungen",
+    "myPhotos": "Meine Fotos",
+    "deleteAccount": "Konto löschen"
+  },
+  "account": {
+    "title": "Konto",
+    "username": "Nutzername",
+    "firstname": "Vorname",
+    "lastname": "Nachname",
+    "pagename": "Seiten-Name",
+    "email": "E-Mail Addresse",
+    "updateAccount": "Update Konto",
+    "validationErrors": {
+      "firstname": "Vorname ist erforderlich",
+      "lastname": "Nachname ist erforderlich",
+      "firstnameLength": "Maximal 50 Buchstaben",
+      "lastnameLength": "Maximal 50 Buchstaben",
+      "pagename": "Seiten-Name ist erforderlich",
+      "pagenameLength": "Maximal 50 Buchstaben"
+    }
+  },
+  "changePassword": {
+    "changeTitle": "Passwort ändern",
+    "setTitle": "Passwort setzen",
+    "currentPassword": "Aktuelles Passwort",
+    "newPassword": "Neues Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "updatePassword": "Passwort speichern",
+    "validationErrors": {
+      "currentPassword": "Bitte dein Passwort eingeben",
+      "newPassword": "Bitte ein neues Passwort eingeben",
+      "confirmPassword": "Bitte das neue Passwort bestätigen",
+      "passConditions": "Das Passwort muss mindestens 8 Buchstaben, einen Großbuchstaben, einen kleinen Buchstaben und eine Nummer haben.",
+      "passNotMatch": "Passwörter sind nicht identisch"
+    }
+  },
+  "notifications": {
+    "title": "Mitteilungen",
+    "description": "Wähle aus welche E-Mail-Mitteilungen du bekommen möchtest",
+    "headings": {
+      "followers": "Followers",
+      "friends": "Kontakte",
+      "posts": "Posts",
+      "messages": "Nachrichten"
+    },
+    "checkboxLabels": {
+      "newFollowers": "Ein neuer Follower",
+      "newConnectionAdded": "Ein neuer Kontakt",
+      "newConnectionRequest": "Eine neue Kontakt-Anfrage",
+      "groupPost": "Benachrichtige mich, wenn jemand in der Gruppe postet",
+      "groupComments": "Benachrichtige mich, wenn jemand in der Gruppe kommentiert",
+      "privateMessage": "Jemand schickt mir eine private Nachricht",
+      "unreadMessage": "Ich habe eine ungelesene Nachricht"
+    },
+    "updateNotifications": "Update Mitteilungen"
+  },
+  "privacy": {
+    "title": "Privatsphäre",
+    "profilePrivacy": "Profil-Privatsphäre",
+    "showProfileOptions": {
+      "everyone": "Jeder",
+      "onlyMe": "Nur ich",
+      "following": "Nur Personen, denen ich folge, können mein Profil sehen",
+      "followers": "Followers",
+      "connections": "Nur meine Kontakte"
+    },
+    "tooltips":{
+      "tip1":"Wer kann mein öffentliches Profil sehen?",
+      "tip2":"Hier kannst du dein Profil in den öffentlichen Verzeichnissen verbergen",
+      "tip3":"Möchtest du, dass andere sehen, dass du online bist?",
+      "tip4":"Du kannst eine Datei mit den relevantesten gespeicherten Informationen anfordern.",
+      "tip5":"Du kannst die Löschung deiner auf ARTMO gespeicherten Daten verlangen."
+    },
+    "hideProfile": "Mein Profil aus den Verzeichnissen ausblenden",
+    "yes": "Ja",
+    "no": "Nein",
+    "showOnlineStatus": "Meinen Online-Status anzeigen",
+    "activityWall": "Wer kann meine Aktivitäten sehen (Posts auf Home)?",
+    "activityWallOptions": {
+      "public": "Öffentlich",
+      "onlyMe": "Nur ich",
+      "followers": "Followers",
+      "following": "Nutzer denen ich folge"
+    },
+    "privateMessage": "Wer kann mir private Nachrichten schicken?",
+    "privateMessageOptions": {
+      "everyone": "Jeder",
+      "nobody": "Niemand",
+      "following": "Nur Nutzer denen ich folge",
+      "followers": "Followers",
+      "connections": "Nutzer mit denen ich vernetzt bin"
+    },
+    "downloadData": "Meine Daten herunterladen",
+    "downloadDataDescription": "Gib dein aktuelles Passwort ein, um einen erneuten Export deiner persönlichen Daten zu bestätigen.",
+    "downloadDataButton": "Daten anfordern",
+    "eraseData": "Lösche meine Daten",
+    "eraseDataDescription": "Gib dein aktuelles Passwort ein, um die Löschung meiner persönlichen Daten zu bestätigen.",
+    "eraseDataButton": "Datenlöschung anfordern",
+    "updatePrivacyButton": "Update Privatsphäre"
+  },
+  "webNotifications": {
+    "title": "Mitteilungen",
+    "description": "Ich erhalte Mitteilungen auf meinem Profil für folgende Aktionen:",
+    "checkboxLabels": {
+      "newReplies": "Wenn jemand auf einen meiner Kommentare antwortet.",
+      "newComments": "Wenn jemand auf einen meiner Posts einen Kommentar abgibt.",
+      "viewProfile": "Wenn sich jemand mein Profil angeschaut hat.",
+      "privateMessage": "Wenn mir jemand eine private Nachricht geschickt hat.",
+      "newFollower": "Wenn mir jemand folgt.",
+      "newConnection": "Wenn sich jemand mit mir vernetzen möchte.",
+      "acceptConnection": "Wenn jemand die Vernetzung akzeptiert hat.",
+      "newLike": "Wenn jemand meinen Post ge-liked hat.",
+      "newMention": "Wenn mich jemand erwähnt hat.",
+      "groupRequestApproved": "Wenn meine Anfrage, einer privaten Gruppe beizutreten, akzeptiert wurde.",
+      "newGroupRequest": "Wenn jemand meiner privaten Gruppe beitreten möchte.",
+      "groupInvitation": "Wenn jemand eingeladen wurde, einer Gruppe beizutreten.",
+      "groupRole": "Wenn meine Gruppen-Rolle geändert wurde.",
+      "likeArtwork": "Wenn jemand eines meiner Kunstwerke ge-lieked hat."
+    },
+    "updateSettingsButton": "Update Mitteilungen"
+  },
+  "socialConnect": {
+    "title": "Social-Media-Verknüpfung",
+    "notConnected": "Du hast keines deiner anderen Social-Media-Profilen verknüpft.",
+    "disconnectFacebook": "Verknüpfung mit Facebook trennen.",
+    "disconnectLinkedin": "Verknüpfung mit LinkedIn trennen.",
+    "passwordWarning": "*Bitte lege ein ARTMO Passwort fest, bevor du das Social-Media-Konto trennst."
+  },
+  "myPhotos": {
+    "title": "Meine Fotos",
+    "warningText": "ACHTUNG: Gelöschte Fotos & Alben werden dauerhaft gelöscht und können nicht wiederhergestellt werden!",
+    "button1": "Meine Fotos herunterladen",
+    "button2": "Alle meine Alben & Fotos löschen",
+    "downloadWarning": "* Das Herunterladen der Fotos kann je nach Anzahl einige Zeit in Anspruch nehmen. Eine schnelle Internet-Verbindung ist empfehlenswert.",
+    "imagesWarning":"Möchtest du wirklich alle Alben und Bilder endgültig löschen?",
+    "buttonDelete":"Löschen"
+  },
+  "deleteAccount": {
+    "title": "Konto löschen",
+    "warningText": "Möchtest du dein Profil wirklich löschen? Dadurch werden alle Daten von der ARTMO Plattform gelöscht. Um das Konto zu löschen, bitte hier dein Passwort eingeben.",
+    "button": "Konto löschen",
+    "password": "Passwort",
+    "passwordWarning": "*Bitte lege ein ARTMO Passwort fest, bevor du das Social-Media-Konto trennst.",
+    "managePaymentsTitle": "Zahlungen für Lieferantenabonnements verwalten",
+    "managePaymentsText": "Wenn Sie Zahlungen stoppen möchten, müssen Sie Ihr Profil nicht löschen.<br/>Du kannst es behalten.<br/>Sie können ganz einfach auf den FREE BASIC-Plan herabstufen, ohne dass weitere Zahlungen erforderlich sind.",
+    "managePaymentsText2": "Siehe auf Ihrem Dashboard",
+    "managePaymentsQuoteText": "Downgrade Ihres Abonnements",
+    "managePaymentsButtonText": "Gehe zu Dashboard > Abonnement"
+  },
+  "imageContainer": {
+    "viewProfile": "Profil anzeigen"
+  }
+}

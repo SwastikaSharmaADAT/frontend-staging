@@ -1,0 +1,86 @@
+{
+    "validationErrors": {
+        "image": "Ang larawan sa artikulo ay kailangan",
+        "title": "Ang Titulo ay kailangan",
+        "titleLength": "Ang Titulo ay limitado lang sa loob ng 200 karakter",
+        "description": "Ang Deskripsyon ay kailangan",
+        "descriptionLength": "Ang deskripsyon ay limitado lang sa loob ng 5000 karakter",
+        "category": "Ang Kategorya ay kailangan",
+        "country": "Ang Bansa ay kailangan",
+        "city": "Ang Siyudad ay kailangan",
+        "startDate": "Ang Start Date ay kailangan",
+        "endDate": "Ang End date ay kailangan",
+        "endDateLarge": "Ang End date ay hindi pwedeng i-set bago ang start date"
+    },
+    "articleNotAvailable": "Ang artikulong ito ay hindi na available",
+    "placeholderImage": "Magdagdag ng feature na larawan",
+    "placeholderTitle": "Maglagay ng titulo",
+    "placeholderDescription": "Isulat ang iyong artikulo rito...",
+    "placeholderCountry": "Bansa",
+    "placeholderStartDate": "Start Date",
+    "placeholderCity": "Siyudad",
+    "placeholderEndDate": "End Date",
+    "category": "Kategorya",
+    "categoryOptions": {
+        "option1": "Buzz",
+        "option2": "Larawan sa Araw ng Ito",
+        "option3": "Eksibisyon"
+    },
+    "status": {
+        "draft": "Draft",
+        "publish": "Nai-publish",
+        "pending": "Kinakailangan ng Pag-aapruba",
+        "rejected": "Hindi tinanggap"
+    },
+    "articleFollowed": "Pina-follow",
+    "articleFollow": "I-follow",
+    "articleUnFollow": "I-unFollow",
+    "update": "I-update",
+    "submit": "Ipasa",
+    "buzzListing": {
+        "title": "ALAMIN KUNG ANO ANG NAGPAPAGALAW SA MUNDO NG SINING",
+        "titleShort": "BUZZ",
+        "placeholderSearchTitle": "Magsearch ng mga eksibisyon ayon sa titulo...",
+        "search": "Mag-search",
+        "city": "Siyudad",
+        "edit": "Mag-edit"
+    }, 
+    "exhibitionListing": {
+        "title": "MGA EKSIBISYON"
+    },
+    "potd": {
+        "title": "LARAWAN SA ARAW NA ITO"
+    },
+    "myArticle": {
+        "title": "Aking mga Artikulo",
+        "seeMoreText": "Tignan nang higit pa..."
+    },
+    "seeMoreText": "Tignan nang higit pa...",
+    "addArticleInfo": {
+        "mainSection": {
+            "heading": "Paano Sumulat ng Artikulo",
+            "firstPara": "Isipin ang sarili bilang isang journalist o kolumnista. Sumulat ng kahit anong interestante para sa mundo ng sining at sa mga umiibig dito. Imbis na isang oportunidad upang ipakilala ang iyong sarili o ang iyong artwork, Ang iyong artikulo ay isang espasyo para sumulat ng isang paksang magiging interestante para sa madla.",
+            "secondPara": "Kailangan mo ng kumpletong profile sa ARTMO bago ka makapaglimbag ng artikulo.",
+            "thirdPara": "Matapos mag-publish, ikaw ay kikilalanin bilang isang publisher."
+        },
+        "buzzSubSection": {
+            "heading": "Buzz:",
+            "firstPara": "Sumulat ng isang arikulo tungkol sa paksang interesante para sa mga gumagamit ng ARTMO. Tumingin nang mga magagandang sample para mga artikulong Buzz",
+            "anchorText": "dito"
+        },
+        "potdSubSection": {
+            "heading": "Picture of the day | POTD:",
+            "firstPara": "Gumamit ng kategorya mula sa POTD kung gusto mong sumulat tungkol sa isang kamangha-manghang larawan. Gamitin ang larawang ito bilang feature image at sabihin sa mundo ang istorya ng lawarawang ito. Ang iyong POTD ay mapa-publish",
+            "anchorText": "dito"
+        },
+        "exhibitionSubSection": {
+            "heading": "Eksibisyon:",
+            "firstPara": "Gamitin ang kategoryang ito kung ikaw ay nagpapatakbo ng gallery o mag-oorganisa ng eksibisyon. Sumulat tungkol sa eksibisyon na inoorganisa mo at ang iyong artikulo ay makikita sa kategoryang Eksibisyon.",
+            "secondPara": "Ang iyong artikulong pang eksibisyon ay mapa-publish ",
+            "anchorText": "dito"
+        }
+    },
+    "exhib/Users/domo/Desktop/05.17.2021. ARTMO Translation filesitionListing": {
+        "title": "MGA EKSIBISYON"
+    }
+}

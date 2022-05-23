@@ -1,0 +1,46 @@
+{
+    "connectingTheArtWorld": "СОЕДИНЕНИЕ В МИР ИСКУССТВА",
+    "login": "Войти",
+    "freeSignup": "Бесплатная Регистрация",
+    "signup": "Зарегистрироваться",
+    "search": "Искать пользователя по имени..",
+    "legacyPageInfo":"Вы можете получить доступ к Вашей странице здесь",
+    "loginMenu": {
+        "home": "Домашняя Страница",
+        "groups": "Группы",
+        "network": "Друзья",
+        "messages": "Сообщения",
+        "notifications": "Уведомления",
+        "cart": "Корзина",
+        "artwork": "Произведения",
+        "me": "Я",
+        "more": "Больше",
+        "sellArt": "Продать Произведение",
+        "dashboard": "Дашборд",
+        "myarticles": "Статьи"
+    },
+    "logoutMenu": {
+        "artwork": "Произведения",
+        "cart": "Корзина",
+        "more": "Больше"
+    },
+    "subMenu": {
+        "createPage": "Создать Страницу",
+        "switchPage": "Поменять Страницу",
+        "switchTo": "Поменять на",
+        "profile": "Мой Профиль",
+        "page": "Моя Страница",
+        "myAccount": "Мой Аккаунт",
+        "signOut": "Выйти",
+        "settings": "Настройки и Безопасность"
+    },
+    "cart": {
+        "removeWarning": "Вы уверены, что хотите удалить этот товар?",
+        "yes": "Да",
+        "checkoutButton": "ПРОВЕРКА",
+        "emptyCartWarning": "Ваша корзина пуста!",
+        "outOfStock": "Нет в Наличии!",
+        "seeArtworks":"Посмотреть Произведения",
+        "buttonYes":"Да"
+    }
+}

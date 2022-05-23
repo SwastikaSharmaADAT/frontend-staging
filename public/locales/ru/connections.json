@@ -1,0 +1,19 @@
+{
+    "myConnectionsLabel": "Мои друзья",
+    "connectionRequests": "Заявки в друзья",
+    "connectionRequestsSent": "Отправленные заявки",
+    "follower": "подписчик(ца)",
+    "followerPlural": "подписчики",
+    "disconnected": "Удалено",
+    "disconnect": "Удалить из друзей",
+    "loadMore": "Загрузить больше...",
+    "noConnections": "Нет друзей",
+    "ignore": "Игнорировать",
+    "ignored": "В игноре",
+    "connect": "Отправить заявку",
+    "connected": "Одобрено",
+    "noConnectionRequestsReceived": "Нет полученных заявок",
+    "noConnectionRequestsSent": "Нет отправленных заявок",
+    "requestDeleted": "Запрос удалён",
+    "deleteRequest": "Удалить запрос"
+}

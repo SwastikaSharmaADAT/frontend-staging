@@ -1,0 +1,25 @@
+{
+  "chooseImage": "Wähle Bild-Datei",
+  "uploadTab": {
+    "title": "Bild-Datei hochladen",
+    "dragDropHere": "Bild-Dateien hierher ziehen und ablegen",
+    "or": "or",
+    "selectFiles": "+ Wähle Bild-Datei",
+    "supportedFormatsText": "Nur die folgenden Formate verwenden: *.jpeg, *.jpg, *.png",
+    "maxLimitText": "Höchstens {{limit}} Bild-Dateien können ausgewählt und zum Hochaden abgelegt werden.",
+    "moreImagesText": "{{limit}} Bild-Dateien können ausgewählt und zum Hochaden abgelegt werden",
+    "maxFileSize": "Max Datei-Größe: 2 MB",
+    "minFileSize": "Min Datei-Größe: 100 kB"
+  },
+  "mediaTab": {
+    "title": "Meine Fotos",
+    "pickATag": "Wähle einen Tag",
+    "loadMore": "Mehr laden",
+    "deleteImage": "Bild-Datei löschen",
+    "choose": "Wähle",
+    "saveAll": "Alle speichern",
+    "placeholderSearch": "Suche nach ...",
+    "placeholderDescription": "Füge Beschreibungs-Text hinzu ...",
+    "placeholderEnterTag": "Tag Name"
+  }
+}

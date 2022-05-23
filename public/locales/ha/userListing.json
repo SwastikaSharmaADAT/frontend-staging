@@ -1,0 +1,17 @@
+{
+    "heading": "NETWOK DIN ZANE",
+    "listing": {
+        "country": "Kasa:",
+        "placeholderCity": "Gari",
+        "userType": "Kalar mai Amfani:",
+        "sortBy": "Ware ta:",
+        "search": "Nema",
+        "searchUsers": "Nemo masu amfani...",
+        "searchbyname": "Nemo ta hanyar suna..."
+    },
+    "follower": "mai bi",
+    "followers": "masu bi",
+    "unfollow": "Daina bi",
+    "follow": "Bibiya",
+    "editProfile": "Gyara Shafi"
+}

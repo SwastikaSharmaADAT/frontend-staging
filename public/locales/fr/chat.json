@@ -1,0 +1,24 @@
+{
+    "delete": "Effacer",
+    "warningDeleteConversation": "Voulez-vous vraiment supprimer cette conversation ?",
+    "block": "Bloquer",
+    "unblock": "Débloquer",
+    "blockWarning": "Êtes-vous sûr de vouloir",
+    "thisUser": "cet utilisateur ?",
+    "placeholderMessage": "Tapez votre message ici...",
+    "send": "Envoyer",
+    "blockText": "Vous ne pouvez pas répondre à cette conversation. Soit l'utilisateur a rendu la messagerie privée, soit il a été suspendu.",
+    "noMessage": "Pas de Messages",
+    "history": "Afficher l'historique des messages",
+    "emojiPicker": {
+        "smileys_people": "SMILEYS & GENS",
+        "animals_nature": "ANIMAUX & NATURE",
+        "food_drink": "NOURRITURE & BOISSONS",
+        "travel_places": "VOYAGE & LIEUX",
+        "activities": "ACTIVITÉS",
+        "objects": "OBJETS",
+        "symbols": "SYMBOLES",
+        "flags": "DRAPEAUX",
+        "recently_used": "UTILISÉ RÉCEMMENT"
+    }
+}

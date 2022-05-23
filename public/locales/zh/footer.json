@@ -1,0 +1,12 @@
+{
+    "copyrightText": "ARTMO™ | © 2020 | 德国服务商 | 来自全球200多个国家的艺术爱好者、艺术家、画廊和艺术类院校",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "tcp": "条款 | 条件 | 隐私",
+    "language": "语言",
+    "cookieConsent" : {
+        "cookieText": "我们使用Cookie来提供我们的服务，确保您的最佳体验。我们将认为您对我们的服务感到满意而继续使用此网站。",
+        "policyText": "隐私政策",
+        "acceptBtnText": "确定"
+    }
+}

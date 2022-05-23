@@ -1,0 +1,17 @@
+{
+    "heading": "LA RETE DELL'ARTE",
+    "listing": {
+        "country": "Nazione:",
+        "placeholderCity": "Città",
+        "userType": "Tipologia utente:",
+        "sortBy": "Ordina per:",
+        "search": "Cerca",
+        "searchUsers": "Cerca utenti...",
+        "searchbyname": "Cerca per nome..."
+    },
+    "follower": "follower",
+    "followers": "followers",
+    "unfollow": "Non seguire",
+    "follow": "Segui",
+    "editProfile": "Modifica profilo"
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Thể loại",
+    "tabs": {
+        "genre": "Thể loại",
+        "media": "Phương tiện",
+        "timePeriod": "Giai đoạn",
+        "genreSubTabs": {
+            "definition": "Định nghĩa",
+            "abstractExpressionism": "Biểu hiện Trừu tượng",
+            "abstract": "Trừu tượng",
+            "calligraphy": "Thư pháp",
+            "conceptual": "Khái niệm",
+            "concrete": "Cụ thể",
+            "constructivism": "Kiến tạo",
+            "cubism": "Lập thể",
+            "documentary": "Tư liệu",
+            "expressionism": "Biểu hiện",
+            "fantastic": "Hư ảo",
+            "figurative": "Biểu hình",
+            "illustration": "Minh họa",
+            "impressionism": "Ấn tượng",
+            "magicalRealism": "Hiện thực Huyền ảo",
+            "minimalism": "Tối giản",
+            "naiveArt": "Nghệ thuật Ngây thơ",
+            "pop": "Đại chúng",
+            "realism": "Hiện thực",
+            "surrealism": "Siêu thực"
+        },
+        "mediaSubTabs": {
+            "definition": "Định nghĩa",
+            "collage": "Ghép",
+            "design": "Thiết kế",
+            "digital": "Kỹ thuật số",
+            "drawing": "Vẽ",
+            "mixed": "Phức hợp",
+            "multimedia": "Đa phương tiện",
+            "newMedia": "Phương tiện Mới",
+            "painting": "Hội họa",
+            "sculpture": "Điêu khắc"
+        },
+        "timeperiodSubTabs": {
+            "definition": "Định nghĩa",
+            "contemporary": "Đương đại",
+            "modern": "Hiện đại"
+        }
+    }
+}

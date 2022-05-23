@@ -1,0 +1,17 @@
+{
+    "heading": "ది ఆర్ట్ నెట్‌వర్క్",
+    "listing": {
+        "country": "దేశం:",
+        "placeholderCity": "నగరం",
+        "userType": "వినియోగదారు రకం:",
+        "sortBy": "క్రమబద్ధీకరించండి:",
+        "search": "వెతకండి",
+        "searchUsers": "వినియోగదారులను వెతకండి.",
+        "searchbyname": "పేరు ద్వారా వెతకండి..."
+    },
+    "follower": "అనుచరుడు",
+    "followers": "అనుచరులు",
+    "unfollow": "అనుచరించవద్దు",
+    "follow": "అనుచరించు",
+    "editProfile": "ప్రొఫైల్ సవరించండి"
+}

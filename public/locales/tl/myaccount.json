@@ -1,0 +1,161 @@
+{
+    "leftTabs": {
+        "account": "Account",
+        "changePassword": "Magpalit ng Password",
+        "setPassword": "Mag-set ng Password",
+        "privacy": "Privacy",
+        "notifications": "Mga Notipikasyon",
+        "webNotifications": "Mga Notipikasyon sa Web",
+        "socialConnect": "Social Connect",
+        "myPhotos": "Aking mga Larawan",
+        "deleteAccount": "Burahin ang Account"
+    },
+    "account": {
+        "title": "Account",
+        "username": "Username",
+        "firstname": "Pangalan",
+        "lastname": "Apelyido",
+        "pagename": "Page Name",
+        "email": "Email Address",
+        "updateAccount": "I-update ang Account",
+        "validationErrors": {
+            "firstname": "Kailangan ang Pangalan",
+            "lastname": "Kailangan ang Apelyido",
+            "firstnameLength": "Kailagang 50 mga karakter or mas mababa",
+            "lastnameLength": "Kailagang 50 mga karakter or mas mababa",
+            "pagename": "Ang Page Name ay kailangan",
+            "pagenameLength": "Kailagang 50 mga karakter or mas mababa"
+        }
+    },
+    "changePassword": {
+        "changeTitle": "Magpalit ng Password",
+        "setTitle": "Mag-set ng Password",
+        "currentPassword": "Kasalukuyang Password",
+        "newPassword": "BagongPassword",
+        "confirmPassword": "Kumpirmahin ang Password",
+        "updatePassword": "I-update ang Password",
+        "validationErrors": {
+            "currentPassword": "Pakisuyong ilagay ang kasalukuyang password",
+            "newPassword": "Pakisuyong maglagay ng bagong password",
+            "confirmPassword": "Pakisuyong kumpirmahin ang bagong password",
+            "passConditions": "Kailangang mayroon itong 8 mga karakter, isa o higit pang Uppercase, isang Lowercase at isang Numero",
+            "passNotMatch": "Ang mga password ay hindi magkatugma"
+        }
+    },
+    "notifications": {
+        "title": "Mga Notipikasyon",
+        "description": "Piliin kung anong mga notipikasyon sa email ang nais mong matanggap",
+        "headings": {
+            "followers": "Mga follower",
+            "friends": "Friends",
+            "posts": "Mga Post",
+            "messages": "Mga mensahe"
+        },
+        "checkboxLabels": {
+            "newFollowers": "May bagong nagpa-follow sa akin",
+            "newConnectionAdded": "Nagkaroon ako ng bagong koneksyon",
+            "newConnectionRequest": "Nagkaroon ako ng Bagong Connection Request",
+            "groupPost": "I-notify Ako kapag may Nagpost sa Group",
+            "groupComments": "I-notify Ako kapag May Nag-comment sa Group",
+            "privateMessage": "May Nagpadala sa Akin ng Pribadong Mensahe",
+            "unreadMessage": "Mayroon akong Hindi pa nababasang Mensahe"
+        },
+        "updateNotifications": "I-update ang mga Notipikasyon"
+    },
+    "privacy": {
+        "title": "Privacy",
+        "profilePrivacy": "Profile Privacy",
+        "showProfileOptions": {
+            "everyone": "Lahat",
+            "onlyMe": "Ako lang",
+            "following": "Ang mga taong pina-follow ko lang ang makakakita ng aking profile",
+            "followers": "Mga Follower",
+            "connections": " Mga Koneksyon lang"
+        },
+        "tooltips": {
+            "tip1": "Sino ang nakakakita ng aking pampublikong profile?",
+            "tip2": "Dito mo maaaring itago ang iyong sarili para hindi lumabas sa public directory",
+            "tip3": "Nais mo bang ipagbigay-alam sa ibang mga tao na ikaw ay online?",
+            "tip4": "Maaari kang magrequest ng isang file na may impormasyon na sa tingin namin ay may silbi sa iyo.",
+            "tip5": "Maaari mong i-request na burahin ang mga datos na mayroon kami tungkol sa iyo."
+        },
+        "hideProfile": "Itago ang aking profile mula sa directory",
+        "yes": "Oo",
+        "no": "Hindi",
+        "showOnlineStatus": "Ipakita ang aking online status",
+        "activityWall": "Sino ang mga makakakita ang acitvity wall mo?",
+        "activityWallOptions": {
+            "public": "Publiko",
+            "onlyMe": "Ako lang",
+            "followers": "Mga Follower",
+            "following": "Mga taong pina-follow ko"
+        },
+        "privateMessage": "Who can send me private messages? Sino ang mga maaaring magpadala sa akin ng mga pribadong mensahe?",
+        "privateMessageOptions": {
+            "everyone": "Lahat",
+            "nobody": "Wala",
+            "following": "Ang mga taong pina-follow ko lang",
+            "followers": "Mga Follower",
+            "connections": "Konektado"
+        },
+        "downloadData": "I-download ang iyong data",
+        "downloadDataDescription": "Ilagay ang iyong kasalukuyang password para makumpirma ang bagong export ng iyong personal na data.",
+        "downloadDataButton": "Mag-request ng data",
+        "eraseData": "Burahin ang iyong data",
+        "eraseDataDescription": "Ilagay ang iyong kasalukuyang password para makumpirma ang pagbura ng iyong personal na data.",
+        "eraseDataButton": "Mag-Request ng pagbura ng data",
+        "updatePrivacyButton": "I-Update ang Privacy"
+    },
+    "webNotifications": {
+        "title": "Mga Web Notification",
+        "description": "Tatanggap ng mga Notification",
+        "checkboxLabels": {
+            "newReplies": "Kapag ang Isang Miyembro ay nag-reply sa Isa sa mga Comment Ko",
+            "newComments": "Kapag ang Isang Miyembro ang nag-comment sa aking mga post",
+            "viewProfile": "Kapag ang Isang Miyembro ay Tumingin sa Aking Profile",
+            "privateMessage": "Kapag May Nagpadala sa Akin ng Pribadong Mensahe",
+            "newFollower": "May Nag-follow sa Akin",
+            "newConnection": "Kapag May nagrequest na Kumonekta",
+            "acceptConnection": "Kapag May tumanggap ng Aking Connection",
+            "newLike": "Kapag May Nag-like ng Aking Post",
+            "newMention": "Kapag May nag-Mention sa Akin",
+            "groupRequestApproved": "Kapag ang Aking Group Request ay Na-aprubahan",
+            "newGroupRequest": "Kapag ang Isang User ay nag-Request na Sumali sa Aking Group",
+            "groupInvitation": "Kapag ang Isang Miyembro ay Naimbitahan na Sumali sa isang Grupo",
+            "groupRole": "Kapag ang Aking mga Group Role ay napalitan",
+            "likeArtwork": "Kapag May Nag-like ng isang Artwork"
+        },
+        "updateSettingsButton": "I-update ang mga Notification"
+    },
+    "socialConnect": {
+        "title": "Social Connect",
+        "notConnected": "Hindi ka naka-konekta sa alinmang social media account",
+        "disconnectFacebook": "Mag-disconnect mula sa Facebook",
+        "disconnectLinkedin": "Mag-disconnect mula sa LinkedIn",
+        "passwordWarning": "*Pakisuyong i-set ang iyong password bago i-disconnect ang account"
+    },
+    "myPhotos": {
+        "title": "Aking mga Larawan",
+        "warningText": "Kapag ang mga larawan at album ay burado na, sila ay burado nang permanente at hindi na maisasalba.",
+        "button1": "I-download ang aking mga larawan",
+        "button2": "Burahin ang lahat ng aking mga larawan at album",
+        "downloadWarning": "* Ang pagda-download ng mga larawan ay maaaring kumuha ng panahon bago matapos depende sa bilang ng mga larawang naka-upload.",
+        "imagesWarning": "Sigurado ka bang gusto mong burahin ang lahat ng iyong album at larawan?",
+        "buttonDelete": "burahin"
+    },
+    "deleteAccount": {
+        "title": "Burahin ang Account",
+        "warningText": "Sigurado ka bang gusto mong burahin ang iyong account? Mabubura nito ang lahat ng iyong datos sa account mula sa site. Para burahin ang iyong account, ilagay ang iyong password sa ibaba",
+        "button": "Burahin ang Account",
+        "password": "Password",
+        "passwordWarning": "*Pakisuyong i-set ang iyong password bago i-disconnect ang account",
+        "managePaymentsTitle": "Pamahalaan ang Mga Pagbabayad para sa Subscription ng Vendor",
+        "managePaymentsText": "Kung gusto mong ihinto ang mga pagbabayad, hindi mo kailangang tanggalin ang iyong profile.<br/>Maaari mo na yang itago.<br/>Madali kang makakapag-downgrade sa LIBRENG BATAYANG plano nang walang karagdagang mga pagbabayad na kinakailangan.",
+        "managePaymentsText2": "Tingnan sa iyong dashboard",
+        "managePaymentsQuoteText": "I-downgrade ang Iyong Subscription",
+        "managePaymentsButtonText": "Pumunta sa Dashboard > Subscription"
+    },
+    "imageContainer": {
+        "viewProfile": "Tignan ang Profile"
+    }
+}

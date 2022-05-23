@@ -1,0 +1,46 @@
+{
+  "connectingTheArtWorld": "AANSLUITING VAN DIE KUNSWÍRELD",
+  "login": "Teken Aan",
+  "freeSignup": "Gratis Aanteken",
+  "signup": "Aanteken",
+  "search": "Soek gebruikers...",
+  "legacyPageInfo": "Jy kan toegang tot jou bladsy hier kry",
+  "loginMenu": {
+    "home": "Tuis",
+    "groups": "Groepe",
+    "network": "Netwerk",
+    "messages": "Boodskappe",
+    "notifications": "Kennisgewings",
+    "cart": "Mandjie",
+    "artwork": "Kunswerk",
+    "me": "Ek",
+    "more": "Meer....",
+    "sellArt": "Verkoop Kuns",
+    "dashboard": "Paneelbord",
+    "myarticles": "Artikels"
+  },
+  "logoutMenu": {
+    "artwork": "Kunswerk",
+    "cart": "Mandjie",
+    "more": "Meer...."
+  },
+  "subMenu": {
+    "createPage": "Skep 'n bladsy",
+    "switchPage": "Skakel oor na bladsy",
+    "switchTo": "Skakel oor na",
+    "profile": "My Profiel",
+    "page": "My Bladsy",
+    "myAccount": "My Rekening",
+    "signOut": "Teken Uit",
+    "settings": "Instellings en privaatheid"
+  },
+  "cart": {
+    "removeWarning": "Is u seker dat u hierdie item wil verwyder?",
+    "yes": "Ja",
+    "checkoutButton": "UITTEKEN",
+    "emptyCartWarning": "U mandjie is leeg!",
+    "outOfStock": "Uit Voorraad Uit!",
+    "seeArtworks": "Sien Kunswerke",
+    "buttonYes": "Ja"
+  }
+}

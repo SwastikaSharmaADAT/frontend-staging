@@ -1,0 +1,156 @@
+{
+  "tabLabels": {
+    "dashboard": "PANEELBORD",
+    "mediaLibrary": "MEDIA BIBLIOTEEK",
+    "artworks": "KUNSWERKE",
+    "orders": "BESTELLINGS",
+    "customers": "KLI�ENTE",
+    "settings": "INSTELLINGS",
+    "addArtwork": "Voeg Kunswerk By"
+  },
+  "incompletePopup": {
+    "mainText": "Wonderlik om jou hier te sien, begin om jou kunswerke op te laai.",
+    "subText": "Voordat jy kunswerke kan oplaai en publiseer, sal jy jou profiel moet voltooi."
+  },
+  "knowledgeBase": {
+    "title": "KENNIS BASIS"
+  },
+  "dashboard": {
+    "title": "Paneelbord",
+    "learnMore": "Leer Meer",
+    "sections": {
+      "sec1": "KUNSWERK GOEDKEURING",
+      "sec2": "HOE KRY EK MY KUNSWERK GOEDGEKEUR?",
+      "sec3": "Sien asseblief die instruksies vir die oplaai van kunswerke hier",
+      "sec4": "HOE WORD KUNSWERKE VERKOOP?",
+      "here": "hier."     
+    }
+  },
+  "artworks": {
+    "title": "Kunswerke",
+    "addNew": "Voeg Nuwe By",
+    "learnMore": "Leer Meer",
+    "draft": "konsep",
+     "published": "Gepubliseerd",
+        "underReview": "Hangende Goedkeuring",
+        "sold": "Verkoop",
+        "pending": "Wysiging Benodig",
+    "show": "Wys",
+    "entries": "Inskrywings",
+    "placeholderSearch": "Soek",
+    "eur": "EUR",
+    "quickEdit": {
+      "title": "Vinnige Redigering",
+      "confirmButton": "Ja",
+      "markAsSoldText": "Is jy seker jy wil hierdie kunswerk as verkoop merk? Dit kan nie ongedaan gemaak word nie",
+      "switchLeft": "verkoop",
+      "switchRight": "Beskikbaar",
+      "saveChanges": "Stoor Veranderinge",
+       "selfNotePlaceholder": "Self Nota",
+            "titlePlaceholder": "Titel",
+            "pricePlaceholder": "Prys",
+            "priceOnRequestPlaceholder": "Prys op Aanvraag"
+    },
+    "delete": {
+      "confirmButton": "Ja",
+      "confirmDeleteText": "Is jy seker jy wil hierdie kunswerk uitvee?"
+    },
+    "hover": {
+      "view": "Beskou",
+      "quickEdit": "Vinnige Redigering",
+      "edit": "Redigeer",
+      "delete": "Vee Uit"
+    }
+  },
+  "orders": {},
+  "settings": {
+    "title": "Instellings",
+    "learnMore": "Leer Meer",
+    "saveChanges": "Stoor Veranderinge",
+    "updateChanges": "Dateer Veranderinge Op",
+    "optionTitles": {
+      "general": "Algemeen",
+      "vacation": "Vakansie",
+      "subscription": "Intekening",
+      "payouts": "Uitbetalings"
+    },
+    "general": {
+      "vendorEmail": "Verskaffer-e-pos",
+      "timezone": "Tydsone",
+      "shippingPolicy": "Versendingsbeleid",
+      "validationErrors": {
+        "email": "Voer asseblief 'n geldige e-pos adres in",
+        "shippingPolicy": "Versendingsbeleid kan 'n maksimum van 1000 karakters h�"
+      }
+    },
+    "vacation": {
+      "vacationMode": "Aktiveer Vakansiemodus",
+      "disablePurchase": "Skakel Aankope Tydens Vakansie Af",
+      "vacationMessage": "Vakansieboodskap",
+      "validationErrors": {
+        "vacationMessage": "Vakansieboodskap kan 'n maksimum van 1000 karakters h�"
+      }
+    },
+    "subscription": {
+      "paymentsVia": "Betalings via",
+      "paypalEmail": "PayPal e-pos",
+      "cardNumber": "Kaartnommer",
+      "changePaymentData": "Verander Betalingsdata",
+      "subscriptionPeriod": "Intekeningstydperk",
+      "price": "Prys",
+      "eur": "EUR",
+      "upcomingPayment": "Komende Betaling",
+      "upgradeMembership": "Gradeer Lidmaatskap Op",
+      "downgradeYourAccount": "Gradeer U Rekening Af",
+       "cancelSubscription": "Kanselleer U Intekening",
+            "cancelConfirmText": "Is u seker dat u, u intekening wil kanselleer?",
+            "buttonYes": "Ja",
+            "changePaymentText": "Is u seker u wil die tipe betaling verander?",
+            "basicPlanText": "Dit is 'n gratis plan.  Geen betaling nodig."
+    },
+    "payouts": {
+      "wireTransfer": "Elektroniese Oorbetaling",
+      "payPal": "PayPal",
+      "paymentTypeQuestion": "Hoe wil u geld van u kunsverkope ontvang?",
+      "country": "Land",
+      "bankAccountNumber": "Bankrekeningnommer",
+      "email": "E-pos",
+      "routingNumber": "Roeterings Nommer",
+      "validationErrors": {
+        "bankAccountNumber": "Bankrekeningnommer word benodig",
+                "routingNumber": "Roetingnommer word vereis",
+                "country": "Land word vereis",
+                "email": "E-pos word vereis",
+                "bankAccountNumberLength": "Bankrekeningnommer kan 'n maksimum van 24 van 24 syfers h�",
+                "routingNumberLength": "Roetingnommer kan 'n maksimum van 24 syfers h�",
+                "paymentType": "Betalingstipte word vereis",
+                "invalidEmail": "Gee 'n geldige e-posadres"
+      }
+    }
+  },
+  "knowledgebase": {
+    "accordion1": "Hoe om vakansiemodus te stel?",
+    "accordion2": "Hoe dien ek 'n kunswerk in?",
+    "accordion3": "Waarom is my produk nie sigbaar in Versamelings nie?",
+    "accordion4": "Fotovereistes",
+    "accordion5": "Egtheidssertifikaat (aflaai)"
+   },
+    "purchaseSubscriptionMessage": "Koop asseblief eers 'n intekening",
+    "profileCompletionPopup": {
+        "title": "Voltooi u Rekening",
+        "addProfileImage": "Voeg profielprent by",
+        "startSellingArt": "Begin om Kuns te Verkoop",
+        "placeholder": {
+            "phone": "Telefoonnommer",
+            "city": "Stad",
+            "country": "Land"
+        },
+        "validationErrors": {
+            "profileImageRequired": "Profielprent word vereis",
+            "cityRequired": "Stad word benodig",
+            "countryRequired": "Land word benodig",
+            "phoneRequired": "Telefoonnommer word bnodig",
+            "invalidPhone": "Telefoonnommr is ongeldig"
+        }
+    }
+}

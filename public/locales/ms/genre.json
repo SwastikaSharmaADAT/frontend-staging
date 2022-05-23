@@ -1,0 +1,48 @@
+{
+    "title": "Genre",
+    "tabs": {
+        "genre": "Genre",
+        "media": "Media",
+        "timePeriod": "Tempoh Masa",
+        "genreSubTabs": {
+            "definition": "Definisi",
+            "abstractExpressionism": "Expresionisme Abstrak",
+            "abstract": "Abstrak",
+            "calligraphy": "Kaligrafi",
+            "conceptual": "Konseptual",
+            "concrete": "Konkrit",
+            "constructivism": "Konstruktivisme",
+            "cubism": "Kubisme",
+            "documentary": "Dokumentari",
+
+            "expressionism": "Ekspresionisme",
+            "fantastic": "Fantasi",
+            "figurative": "Kiasan",
+            "illustration": "Ilustrasi",
+            "impressionism": "Impresionisme",
+            "magicalRealism": "Realisme Magik",
+            "minimalism": "Minimalisme",
+            "naiveArt": "Seni Naif",
+            "pop": "Pop",
+            "realism": "Realisme",
+            "surrealism": "Surealisme"
+        },
+        "mediaSubTabs": {
+            "definition": "Definisi",
+            "collage": "Kolaj",
+            "design": "Desain",
+            "digital": "Digital",
+            "drawing": "Melukis",
+            "mixed": "Campuran",
+            "multimedia": "Multimedia",
+            "newMedia": "Media Baru",
+            "painting": "Lukisan",
+            "sculpture": "Arca"
+        },
+        "timeperiodSubTabs": {
+            "definition": "Definisi",
+            "contemporary": "Kontemporari",
+            "modern": "Moden"
+        }
+    }
+}

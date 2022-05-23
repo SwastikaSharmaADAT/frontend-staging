@@ -1,0 +1,106 @@
+.accordion {
+    border: 0 !important;
+    border-radius: 0 !important;
+    margin: 30px 0;
+  }
+  
+  .accordion__button {
+    display: flex;
+    align-items: center;
+    width: auto;
+    justify-content: space-between;
+    background: #fff !important;
+    border: 2px solid #eee !important;
+    box-sizing: border-box;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+    margin: 0 !important;
+    font-size: 16px;
+    line-height: 22px;
+    color: #222222 !important;
+    padding: 15px !important;
+    box-shadow: none;
+  }
+  
+  .accordion__button:focus,
+  .accordion__button:hover {
+    outline: 0;
+    box-shadow: none;
+    background: #fff;
+  }
+  
+  .accordion__button:before {
+    order: 2;
+    margin-top: -5px;
+    color: #666;
+  }
+  
+  .accordion__button:before {
+    transform: rotate(45deg) !important;
+  }
+  
+  .accordion__button[aria-expanded='true']::before,
+  .accordion__button[aria-selected='true']::before {
+    transform: rotate(224deg) !important;
+    margin-top: 4px;
+  }
+  
+  .accordion__panel {
+    padding: 20px;
+    animation: fadein 0.35s ease-in;
+    border: 2px solid #eee;
+    box-sizing: border-box;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+    border-top: 0;
+    margin: 0 0 15px;
+    color: #222;
+    background: #fff;
+    font-size: 16px;
+    line-height: 22px;
+    box-shadow: none;
+  }
+  
+  .accordion__panel p {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    line-height: 22px;
+  }
+  
+  .accordion__item {
+    margin: 0 0 15px;
+  }
+  
+  .accordion__button:hover {
+    background-color: #fff;
+  }
+  
+  .accordion__item + .accordion__item {
+    border-top: 0 !important;
+  }
+  
+  @media (max-width: 767px) {
+    .accordion {
+      margin: 0px;
+    }
+  
+    .accordion__button {
+      font-size: 16px;
+      line-height: normal;
+      padding: 10px;
+    }
+  
+    .accordion__panel {
+      padding: 15px;
+      font-size: 14px;
+    }
+  
+    .accordion__panel p,
+    .accordion__button {
+      font-size: 14px;
+    }
+  
+    .accordion__button span {
+      max-width: 80%;
+    }
+  }
+  

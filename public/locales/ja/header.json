@@ -1,0 +1,46 @@
+{
+    "connectingTheArtWorld": "アートワールドを繋ぐ",
+    "login": "ログイン",
+    "freeSignup": "無料でサインアップ",
+    "signup": "サインアップ",
+    "search": "ユーザーを検索...",
+    "legacyPageInfo": "ここから自分のページにアクセスできます",
+    "loginMenu": {
+        "home": "ホーム",
+        "groups": "グループ",
+        "network": "ネットワーク",
+        "messages": "メッセージ",
+        "notifications": "お知らせ",
+        "cart": "カート",
+        "artwork": "作品",
+        "me": "Me",
+        "more": "もっと見る....",
+        "sellArt": "作品を売る",
+        "dashboard": "ダッシュボード",
+        "myarticles": "記事"
+    },
+    "logoutMenu": {
+        "artwork": "作品",
+        "cart": "カート",
+        "more": "もっと見る...."
+    },
+    "subMenu": {
+        "createPage": "ページを作成",
+        "switchPage": "ページに切り替え",
+        "switchTo": "切り替え",
+        "profile": "プロフィール",
+        "page": "マイページ",
+        "myAccount": "マイアカウント",
+        "signOut": "サインアウト",
+        "settings": "設定 & プライバシー"
+    },
+    "cart": {
+        "removeWarning": "本当にこの商品を削除してよろしいですか？",
+        "yes": "はい",
+        "checkoutButton": "チェックアウト",
+        "emptyCartWarning": "カートが空です！",
+        "outOfStock": "在庫切れです!",
+        "seeArtworks": "作品を見る",
+        "buttonYes": "はい"
+    }
+}

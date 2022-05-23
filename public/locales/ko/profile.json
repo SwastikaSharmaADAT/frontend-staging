@@ -1,0 +1,362 @@
+{
+    "placeholderIntro": "짧은 소개",
+    "about": {
+        "title": "소개",
+        "edit": "편집",
+        "cancel": "취소",
+        "save": "저장",
+        "noAboutText": "추가된 텍스트 없음",
+        "placeholderAbout": "여기에 대해 추가하세요",
+        "characterLimit": "/1000",
+        "errorAbout": "최대 글자 수 1000자 초과"
+    },
+    "biography": {
+        "title": "바이오그래피",
+        "edit": "편집",
+        "cancel": "취소",
+        "save": "저장",
+        "noBiographyText": "추가된 바이오그래피 없음",
+        "placeholderBiography": "여기에 바이오그래피 추가하기....",
+        "characterLimit": "/1000"
+    },
+    "activity": {
+        "title": "활동",
+        "descriptionNotAdded": "설명이 추가되지 않았습니다",
+        "reactions": "반응",
+        "noActivityText": "활동을 찾을 수 없습니다",
+        "seeAll": "전체 보기",
+        "add": "추가"
+    },
+    "album": {
+        "title": "앨범",
+        "seeAll": "전체 보기",
+        "add": "추가",
+        "noAlbumFound": "앨범을 찾을 수 없습니다",
+        "edit": "편집"
+    },
+    "artwork": {
+        "title": "예술작품",
+        "likedArtworks": "좋아하는 예술작품",
+        "noArtworkFound": "예술작품을 찾을 수 없습니다",
+        "seeAll": "전체 보기",
+        "add": "추가"
+    },
+    "award": {
+        "title": "수상",
+        "noAwardFound": "입상을 찾을 수 없습니다",
+        "addImages": "이미지 추가",
+        "placeholderDescription": "예술 입상 설명을 입력하세요",
+        "characterLimit": "/1000",
+        "edit": "편집",
+        "cancel": "취소",
+        "save": "저장"
+    },
+    "basicInfo": {
+        "fillDetailsText": "입력란에 기재 해주세요",
+        "placeholderFirstName": "이름",
+        "placeholderLastName": "성",
+        "placeholderCity": "도시",
+        "placeholderCountry": "국가 선택",
+        "placeholderEmail": "이메일",
+        "save": "저장",
+        "cancel": "취소"
+    },
+    "business": {
+        "title": "나의 비즈니스 | 직업",
+        "noBusinessFound": "나의 비즈니스 | 직업을 찾을 수 없습니다",
+        "addImages": "이미지 추가",
+        "placeholderDescription": "나의 비즈니스 | 직업에 대한 설명을 입력하세요",
+        "characterLimit": "/1000",
+        "edit": "편집",
+        "cancel": "취소",
+        "save": "저장"
+    },
+    "connectionsPopup": {
+        "follower": "팔로워",
+        "followerPlural": "팔로워",
+        "connected": "연결된",
+        "requestPending": "요청 보류",
+        "requestSent": "보낸 요청",
+        "connect": "연결",
+        "userConnectionsTitle": "의 연결"
+    },
+    "contact": {
+        "title": "연락 정보",
+        "noContactInfoFound": "연락 정보가 추가되지 않았습니다",
+        "email": "이메일",
+        "skype": "스카이프",
+        "phone": "전화",
+        "address": "주소",
+        "openingHours": "개장 시간",
+        "socialMedia": "소셜미디어",
+        "placeholderEmail": "이메일",
+        "placeholderSkype": "스카이프",
+        "phoneNumber": "전화번호",
+        "placeholderAddress": "주소",
+        "placeholderOpenHours": "개장 시간",
+        "edit": "편집",
+        "cancel": "취소",
+        "save": "저장"
+    },
+    "expertise": {
+        "title": "전문지식",
+        "noExpertiseFound": "전문지식을 찾을 수 없습니다",
+        "addImages": "이미지 추가",
+        "placeholderDescription": "귀하의 예술 전문지식 설명을 입력하세요",
+        "characterLimit": "/1000",
+        "edit": "편집",
+        "cancel": "취소",
+        "save": "저장"
+    },
+    "followersPopup": {
+        "follower": "팔로워",
+        "followerPlural": "팔로워",
+        "followed": "팔로우합니다",
+        "unfollow": "언팔로우",
+        "follow": "언팔로우",
+        "userFollowersTitle": "의 팔로워"
+    },
+    "followingPopup": {
+        "follower": "팔로워",
+        "followerPlural": "팔로워",
+        "followed": "팔로우합니다",
+        "unfollow": "언팔로우",
+        "follow": "언팔로우",
+        "noFollowing": "팔로잉이 없습니다",
+        "userFollowersTitle": "의 팔로워",
+        "followPlural": "팔로잉"
+    },
+    "group": {
+        "title": "그룹",
+        "noGroupsFound": "사용자는 어느 그룹도 구독하지 않고있습니다",
+        "member": "회원",
+        "memberPlural": "회원",
+        "browseGroups": "그룹 검색",
+        "create": "생성"
+    },
+    "invite": {
+        "title": "친구 초대",
+        "desc1": "친구들에게 메시지를 보내보세요",
+        "desc2": "ARTMO로 초대하세요",
+        "invite": "초대하기"
+    },
+    "messagePopup": {
+        "or": "또는",
+        "seeMore": "더 보기...",
+        "learnMore": "더 알아보기"
+    },
+    "pastExhibition": {
+        "title": "지난 전시회",
+        "addImages": "이미지 추가",
+        "noExhibitionsFound": "지난 전시회를 찾을 수 없습니다",
+        "placeholderDescription": "지난 전시회에 대한 설명을 입력하세요",
+        "characterLimit": "/1000",
+        "edit": "편집",
+        "cancel": "취소",
+        "save": "저장"
+    },
+    "personalInfo": {
+        "title": "개인 정보",
+        "noInfoFound": "개인 정보를 찾을 수 없습니다",
+        "city": "도시",
+        "country": "국가",
+        "profession": "직업",
+        "company": "회사",
+        "industry": "분야",
+        "website": "웹사이트",
+        "languages": "언어",
+        "visibleInfo": "비공개로 기본 설정하기",
+        "dateOfBirth": "생년월일",
+        "gender": "성별",
+        "relationshipStatus": "관계 상태",
+        "placeholderCity": "도시",
+        "placeholderCountry": "국가 설정",
+        "placeholderProfession": "직업",
+        "placeholderCompany": "회사",
+        "placeholderIndustry": "분야",
+        "placeholderLanguages": "언어 선택",
+        "placeholderWebsite": "웹사이트",
+        "placeholderDob": "생년월일",
+        "errorDob": "생일은 필수 입력 항목입니다",
+        "genderDropdown": {
+            "option1": "성별 선택",
+            "option2": "남자",
+            "option3": "여자",
+            "option4": "다양성"
+        },
+        "relationDropdown": {
+            "option1": "관계 상태를 선택해주세요",
+            "option2": "싱글",
+            "option3": "기혼",
+            "option4": "파트너있음"
+        },
+        "edit": "편집",
+        "cancel": "취소",
+        "save": "저장"
+    },
+    "coverImage": {
+        "menuOptions": {
+            "title": "커버사진 변경",
+            "upload": "사진 업로드",
+            "change": "사진 변경",
+            "remove": "사진 삭제"
+        }
+    },
+    "profileHead": {
+        "profileImage": {
+            "menuOptions": {
+                "title": "사진 변경",
+                "upload": "사진 업로드",
+                "change": "사진 변경",
+                "remove": "사진 삭제"
+            }
+        },
+        "connected": "연결됨",
+        "requestPending": "요청 보류",
+        "requestSent": "전송된 요청",
+        "connect": "연결",
+        "shareProfile": "프로필 공유",
+        "unblock": "차단 해제",
+        "block": "차단",
+        "tooltip": {
+            "text": "다른 프로필 유형은 다른 구독 모델을 가지고 있습니다",
+            "seeMore": "더보기"
+        },
+        "profileDesc": {
+            "artist": {
+                "firstline": "<b>당신은 예술가입니다!</b>",
+                "secondline": "당신이 만든 예술작품을 판매할 수 있습니다."
+            },
+            "member": {
+                "firstline": "당신은 <b><i>결코<i></b>예술가가 아닙니다!",
+                "secondline": "당신이 개인적으로 소유하고 있는 예술작품을 판매할 수 있습니다."
+            }
+        },
+        "edit": "편집",
+        "cancel": "취소",
+        "save": "저장",
+        "followed": "팔로우한",
+        "follow": "팔로우",
+        "message": "메시지",
+        "more": "더보기",
+        "artistProfile": "예술가 프로필",
+        "memberProfile": "회원 프로필",
+        "enterName": "이름을 입력하세요",
+        "enterInstitute": "기관명을 입력하세요",
+        "placeholderFirstName": "이름",
+        "placeholderInstitureName": "기관명",
+        "placeholderLastName": "성"
+    },
+    "notices": {
+        "title": "안내문",
+        "notNoticesFound": "표시할 안내문이 없습니다"
+    },
+    "profileCompleteness": {
+        "title": "프로필 완성도",
+        "incompleteLabel": "다음 분야를 입력하세요",
+        "coverPicUrl": "커버 사진",
+        "profilePicUrl": "프로필 사진",
+        "city": "도시y",
+        "mobile": "전화번호",
+        "address": "주소",
+        "openingHours": "영업시간",
+        "country": "국가",
+        "aboutMe": "정보",
+        "profession": "직업",
+        "industry": "업계",
+        "company": "회사",
+        "email": "이메일"
+    },
+    "publication": {
+        "title": "출판물",
+        "noPublicationsFound": "출판물을 찾을 수 없습니다",
+        "addImages": "이미지 추가",
+        "placeholderDescription": "출판물 설명을 입력하세요",
+        "characterLimit": "/1000",
+        "edit": "편집",
+        "cancel": "취소",
+        "save": "저장"
+    },
+    "allSectionHeader": {
+        "add": "추가",
+        "seeAll": "전체 보기"
+    },
+    "share": {
+        "copiedText": "복사하였습니다",
+        "copyLink": "링크 복사",
+        "share": "공유",
+        "profileShareTitle": "의 프로필"
+    },
+    "technique": {
+        "title": "테크닉",
+        "noTechFound": "테크닉을 찾을 수 없습니다",
+        "addImages": "이미지 추가",
+        "placeholderDescription": "귀하의 예술 테크닉에 대한 설명을 입력하세요",
+        "characterLimit": "/1000",
+        "edit": "편집",
+        "cancel": "취소",
+        "save": "저장",
+        "your": "귀하의",
+        "photo": "사진",
+        "apply": "적용"
+    },
+    "profileNavigator": {
+        "profile": "프로필",
+        "see": "보기",
+        "art": "예술",
+        "about": "소개",
+        "contact": "연락처 정보",
+        "activity": "활동",
+        "videos": "비디오",
+        "artworks": "예술작품",
+        "likedArtworks": "좋아하는 예술작품",
+        "albums": "앨범",
+        "groups": "그룹",
+        "technique": "테크닉",
+        "expertise": "전문지식",
+        "awards": "입상",
+        "pastExhibitions": "지난 전시회",
+        "publications": "출판물",
+        "personalInfo": "개인 정보",
+        "business": "나의 비즈니스 소개"
+    },
+    "connections": {
+        "title": "연결",
+        "noConnectionsFound": "연결이 없습니다",
+        "seeAll": "전체 보기",
+        "followers": "팔로워",
+        "following": "팔로잉"
+    },
+    "video": {
+        "title": "비디오",
+        "noVideosFound": "비디오를 찾을 수 없습니다"
+    },
+    "visibility": {
+        "public": "공개(로그인 한 사용자)",
+        "private": "비공개",
+        "connectionsOnly": "연결된 사용자만"
+    },
+    "blockSection": {
+        "accountUnavailable": "이 계정을 사용할 수 없습니다.",
+        "goToHome": "홈으로 가기"
+    },
+    "emailShare": {
+        "bodyText2": "\n계속 연락하세요!\nArtmo란 무엇입니까 ~ 자세히 알아보기 https://artmo.com/what-is-artmo",
+        "profileShare" : {
+            "subject" : "Artmo를 확인하세요",
+            "bodyText1": "안녕하십니까,\n나는 당신이 Artmo를 체크 아웃하고 아트 네트워크에 가입하는 데 관심이있을 것 같습니다.\n내 프로필을 보려면 여기를 클릭하세요. "
+        },
+        "articleShare": {
+            "subject" : "Artmo에서 이 기사를 확인하세요",
+            "bodyText1": "안녕하십니까,\nArtmo에서 이 기사를 확인하는 데 관심이있을 수 있습니다.\n그것을 읽으려면 여기를 클릭하세요: "
+        },
+        "artworkShare":{
+            "subject" : "Artmo에서 이 작품을 확인하세요",
+            "bodyText1": "안녕하십니까,\n나는 당신이 Artmo에서 이 놀라운 작품을 확인하는 데 관심이있을 것이라고 생각합니다.\n예술작품을 보려면 여기를 클릭하세요. "
+        },
+        "postShare": {
+            "subject" : "Artmo에서 이 게시물을 확인하세요",
+            "bodyText1": "안녕하십니까,\n나는이 게시물을 Artmo에서 체크 아웃하는 데 관심이있을 수 있다고 생각합니다.\n그것을 읽으려면 여기를 클릭하세요. "
+        }
+    }
+}

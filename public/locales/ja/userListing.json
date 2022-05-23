@@ -1,0 +1,17 @@
+{
+    "heading": "アートネットワーク",
+    "listing": {
+        "country": "国:",
+        "placeholderCity": "都市",
+        "userType": "ユーザータイプ:",
+        "sortBy": "並び替え:",
+        "search": "検索",
+        "searchUsers": "ユーザーを検索...",
+        "searchbyname": "名前で検索..."
+    },
+    "follower": "フォロワー",
+    "followers": "フォロワー",
+    "unfollow": "フォロー解除",
+    "follow": "フォロー",
+    "editProfile": "プロフィール編集"
+}

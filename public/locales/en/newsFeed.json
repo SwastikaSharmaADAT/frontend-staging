@@ -1,0 +1,122 @@
+{
+    "addContent": {
+        "placeholderAdd": "Add...",
+        "post": "Post",
+        "video": "Video",
+        "album": "Album",
+        "article": "Article",
+        "artwork": "Artwork"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "Add a Photo Album",
+        "limitText": "Add images (max 50)",
+        "addImages": "Add images",
+        "placeholderAddTitle": "Add Title",
+        "writeSomething": "Write something...",
+        "firstPhotoInfo": "The first photo will be the album’s cover image.",
+        "publish": "Publish",
+        "errorLabels": {
+            "maxCharacter100": "Only 100 characters allowed",
+            "titleRequired": "Title is required",
+            "maxCharacter500": "Only 500 characters allowed"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "Edit Photo Album",
+        "updateButton": "Update"
+    },
+    "addPostPopup": {
+        "title": "Create a Post",
+        "editPhoto": "Edit Photo",
+        "addPhoto": "Add Photo",
+        "writeSomething": "Write something...",
+        "postDescCount": "/200",
+        "publish": "Publish"
+    },
+    "editPostPopup": {
+        "title": "Edit Post",
+        "updateButton": "Update"
+    },
+    "addVideoPopup": {
+        "title": "Add a Video",
+        "validUrlError": "Please enter a valid URL",
+        "placeholderEnterLink": "Insert a link from YouTube, Vimeo...",
+        "placeholderWriteSomething": "Write something...",
+        "addCategory": "Add Category",
+        "next": "Next",
+        "publish": "Publish",
+        "update":"Update"
+    },
+    "editVideoPopup": {
+        "title": "Edit Video Post",
+        "updateButton": "Update"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "New activity added",
+        "refresh": "Refresh"
+    },
+    "hashtags": {
+        "title": "TOP HASHTAGS",
+        "noHashtagsAdded": "No hashtags added",
+        "post": "post",
+        "postPlural": "posts"
+    },
+    "manageArtwork": {
+        "follower": "follower",
+        "followerPlural": "followers",
+        "visit": "Visit ",
+        "manage": "Manage ",
+        "noPageFound": "No page found"
+    },
+    "profile": {
+        "follower": "follower",
+        "followerPlural": "followers",
+        "profileCompleteness": "Profile completeness",
+        "editProfile": "Edit Profile"
+    },
+    "singlePost": {
+        "photo": "photo",
+        "photoPlural": "photos",
+        "seeInStore": "See in Store",
+        "deleteText": "Are you sure you want to delete your comment?",
+        "capsHide": "Hide",
+        "capsUnhide": "Unhide",
+        "hide": "hide",
+        "unhide": "unhide",
+        "areYouSure": "Are you sure you want to",
+        "thisComment": "this comment?",
+        "update": "Update",
+        "like": "Like",
+        "comment": "Comment",
+        "liked": "Liked",
+        "likedBy": "Liked by",
+        "lowerLike": "likes",
+        "lowerLikePlural": "like",
+        "lowerUnlike": "unlike",
+        "lowerComment": "comment",
+        "lowerCommentPlural": "comments",
+        "share": "Share",
+        "pending": "Pending",
+        "deleteActivity": "Are you sure you want to delete this activity?",
+        "accept": "Accept",
+        "reject": "Reject",
+        "delete": "Delete",
+        "seeMore": "See more..",
+        "price": "Price",
+        "priceOnRequest": "Price On Request",
+        "placeholderComment":"Insert your comment...",
+        "publish":"Publish",
+        "loadMoreText":"Load more...",
+        "loadMoreRepliesText":"Load more replies...",
+        "edit":"Edit",
+        "commentRemoved":"This comment has been removed",
+        "replyRemoved":"This reply has been removed"
+},
+    "singleActivity": {
+        "activityNotAvailable": "This activity is not available",
+        "seeMore": "See More...",
+        "alreadyHaveAnAccount": "Already have an account?",
+        "signUp": "Sign Up",
+        "logIn": "Log in"
+    }
+}

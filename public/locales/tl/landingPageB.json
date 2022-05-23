@@ -1,0 +1,70 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Feature Ngayong Araw",
+        "seeMore": "Tignan nang higit pa..."
+    },
+    "loggedOutBanner": {
+        "title": "Welcome sa Iyong",
+        "title2": "Komunidad ng Sining",
+        "descr": "Ang sining man ay iyong iniibig  o propesyon, ikaw ay napunta  sa tamang lugar.",
+        "joinInBtnText": "JSumali nang Libre",
+        "network": "Network",
+        "blog": "Blog",
+        "news": "Mga Balita",
+        "group": "Mga Group",
+        "marketplace": "Merkado",
+        "whatIsArtmo": "Ano ang ARTMO?",
+        "learnMore": "Matuto nang higit pa ...",
+        "signUp": "Lumikha ng iyong account nang libre",
+        "logIn": "Log In",
+        "videos": "Mga video",
+        "exhibition": "Mga eksibisyon",
+        "gallery": "Mga gallery"
+    },
+    "usersListing": {
+        "title": "MAKIPAG-UGNAYAN SA MGA MAHAL SA SINING",
+        "follower": "follower",
+        "followers": "followers",
+        "unfollow": "I-Unfollow",
+        "follow": "I-Follow",
+        "seeMore": "Tignan nang higit pa",
+        "following": "Pina-follow"
+    },
+    "gridSection": {
+        "home": "HOME",
+        "artists": "MGA ARTISTA",
+        "galleries": "MGA GALLERY",
+        "exhibitions": "MGA EKSIBISYON",
+        "users": "MGA USER",
+        "artwork": "ARTWORK",
+        "genres": "MGA GENRE",
+        "universities": " MGA UNIBERSIDAD"
+    },
+    "artworkSection": {
+        "title": "BUMILI AT IBENTA ANG IYONG SINING NA WALANG KASONG MGA KOMISYON",
+        "priceOnRequest": "Price on Request",
+        "artist": "Artista",
+        "member": "Miyembro",
+        "seeMore": "Tignan nang higit pa ..."
+    },
+    "buzzSection": {
+        "title": "TINGNAN ANG NANGYAYARI SA MUNDO NG SINING",
+        "seeMore": "Tignan nang higit pa ..."
+    },
+    "videosSection": {
+        "title": "MGA VIDEO",
+        "seeMore": "Tignan nang higit pa ..."
+    },
+    "exhibitionsSection": {
+        "title": "MAGHANAP NG MGA EKSIBISYON SA BUONG MUNDO",
+        "selectCountry": "pumili ng lokasyon",
+        "latest": "kamakailan lang"  
+    },
+    "potdSection": {
+        "title": "LARAWAN SA ARAW NA ITO",
+        "seeMore": "Tignan nang higit pa ..."
+    },
+    "joinInSection": {
+        "joinInTitle": "Sumali na, libre ito."
+    }
+}

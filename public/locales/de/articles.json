@@ -1,0 +1,78 @@
+{
+    "validationErrors": {
+        "image": "Ein Bild ist erforderlich",
+        "title": "Ein Titel ist erforderlich",
+        "titleLength": "Der Titel darf nicht mehr als 200 Zeichen haben",
+        "description": "Eine Beschreibung ist erforderlich",
+        "descriptionLength": "Eine Beschreibung darf nicht mehr als 5000 Zeichen haben",
+        "category": "Kategorie ist erforderlich",
+        "country": "Land ist erforderlich",
+        "city": "Stadt ist erforderlich",
+        "startDate": "Beginn-Datum ist erforderlich",
+        "endDate": "End-Datum ist erforderlich",
+        "endDateLarge": "End-Datum kann nicht vor dem Beginn-Datum liegen"
+    },
+    "articleNotAvailable":"Dieser Artikel ist nicht verfügbar",
+    "placeholderImage": "Füge ein Titel-Bild ein",
+    "placeholderTitle": "Füge den Titel ein",
+    "placeholderDescription": "Schreibe den Artikel hier...",
+    "placeholderCountry": "Land",
+    "placeholderStartDate": "Start-Datum",
+    "placeholderCity": "Stadt",
+    "placeholderEndDate": "End-Datum",
+    "category": "Kategorie",
+    "categoryOptions": {
+        "option1": "Buzz",
+        "option2": "Bild des Tages",
+        "option3": "Ausstellung"
+    },
+    "articleFollowed": "Folge",
+    "articleFollow": "Folgen",
+    "articleUnFollow": "Nicht folgen",
+    "update": "Update",
+    "submit": "Hochladen",
+    "buzzListing": {
+        "title": "WAS DIE KUNSTWELT BEWEGT",
+        "titleShort": "BUZZ",
+        "placeholderSearchTitle": "Suche Ausstellungen nach dem Titel...",
+        "search": "Suche",
+        "city": "Stadt",
+        "edit": "Editieren"
+    },
+    "exhibitionListing": {
+        "title": "AUSSTELLUNGEN"
+    },
+    "potd": {
+        "title": "BILD DES TAGES"
+    },
+    
+    "myArticle": {
+        "title": "Meine Artikel",
+        "seeMoreText": "Mehr sehen..."
+    },
+    "seeMoreText":"Mehr sehen...",
+    "addArticleInfo": {
+        "mainSection" : {
+            "heading": "Wie schreibe ich einen Artikel ..." ,
+            "firstPara": "Betrachte dich als Journalist. Schreibe über etwas Interessantes für die Kunstwelt und Kunstliebhaber. Dein Artikel sollte nicht etwas über dich selbst sein oder eines deiner Kunstwerke bewerben. Es sollte ein Thema behandeln, dass das allgemeine Publikum interessiert.",
+            "secondPara": "Du benötigst ein vollständig ausgefülltes Profil auf ARTMO, bevor dein Artikel veröffentlicht wird.",
+            "thirdPara": "Nach der Veröffentlichung wirst du mit einem Profil-Link auf dem Artikel zu sehen sein."
+        },
+        "buzzSubSection":{
+            "heading": "Buzz:",
+            "firstPara": "Schreibe einen Artikel zu einem Thema, das für ARTMO-Nutzer von Interesse ist. Siehe tolle Beispiele für Buzz-Artikel..",
+            "anchorText": "hier"
+        },
+        "potdSubSection":{
+            "heading": "Bild des Tages | POTD:",
+            "firstPara": "Verwende die POTD-Kategorie, wenn du ein fesselndes und faszinierendes Foto hast, über das du schreiben möchten. Verwende dieses Bild als Feature-Bild und erzähle der Welt die Geschichte dieses Fotos. Der POTD-Artikel wird veröffentlicht ",
+            "anchorText": "hier"
+        },
+        "exhibitionSubSection":{
+            "heading": "Ausstellung:",
+            "firstPara": "Diese Kategorie ist für Gallerien gedacht. Verwende diese Kategorie, wenn du eine Galerie betreibst und eine Page für deine Gallerie erstellt hast. Schreibe über die Ausstellung mit Details und Ort- und Zeitange. Der Artikel wird in der Kategorie Ausstellungen angezeigt.",
+            "secondPara": "Ihr Ausstellungs-Artikel wird veröffentlicht",
+            "anchorText": "hier"
+        }
+    }
+}

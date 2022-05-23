@@ -1,0 +1,17 @@
+{
+    "heading": "예술 네트워크",
+    "listing": {
+        "country": "국가:",
+        "placeholderCity": "도시",
+        "userType": "사용자 유형:",
+        "sortBy": "정렬 기준:",
+        "search": "검색",
+        "searchUsers": "사용자 검색...",
+        "searchbyname": "이름으로 검색..."
+    },
+    "follower": "팔로워",
+    "followers": "팔로워",
+    "unfollow": "언팔로우",
+    "follow": "팔로우",
+    "editProfile": "프로필 편집"
+}

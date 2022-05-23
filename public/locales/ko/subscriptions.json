@@ -1,0 +1,103 @@
+{
+    "title": "판매자 구독",
+    "artistPage": {
+        "sectionLabels": {
+            "sellCommissionFree": "예술 작품을 수수료 없이 판매하세요",
+            "connectWithCollectors": "수집가와 직접 연락",
+            "cancelSubscription": "언제든지 구독 취소 가능",
+            "basicPlan": "베이직 플랜 무료"
+        }
+    },
+    "memberPage": {
+        "chooseThePlan": "나에게 가장 적합한 플랜을 선택하세요",
+        "planLabels": {
+            "plus": "플러스",
+            "pro": "프로",
+            "lifetime": "평생"
+        },
+        "gatewayFees": "게이트웨이 수수료",
+        "cancelAnytime": "언제든 취소"
+    },
+    "faq": {
+        "title": "많이 하는 질문",
+        "askQuestion": "질문이 있으시면 물어보세요",
+        "questionLabels": {
+            "subscriptionFee": "구독료를 내는 이유는?",
+            "basicAccount": "베이직 계정은 무료 체험 계정인가요?",
+            "cancelSubscription": "언제든지 구독 취소 가능하고 환불 받을 수 있나요?",
+            "paymentForSelling": "나의 작품이 판매되면 언제 어떻게 대금을 받게 되나요?",
+            "publishAndSell": "원하는 작품 모두 발행하고 판매할 수 있나요?",
+            "howArtmoSurvive": "수수료가 없으면 ARTMO는 어떻게 운영이 가능하나요?"
+        }
+    },
+    "perMonth": "/mo",
+    "pricingSelectLabels": {
+        "monthly": "매월 청구,",
+        "quarterly": "분기별 청구,",
+        "halfYearly": "연2회 청구,",
+        "yearly": "연별 청구,"
+    },
+    "freePricing": "무료",
+    "currencySwitcher": "환율 계산기",
+    "commission": "수수료",
+    "getText": "가지다",
+    "signUpText": "가입하기",
+    "noneText": "없음",
+    "includedText": "포함된",
+    "notIncludedText": "미포함",
+    "vendorPaymentPopup": {
+        "yourChoice": "당신의 선택",
+        "price": "가격",
+        "every": "매",
+        "month": "달",
+        "months": "달",
+        "proceedToPayment": "결제 진행"
+    },
+    "underagePopup": {
+        "hi": "Hi",
+        "backToProfile": "프로필로 되돌아가기"
+    },
+    "productLimits": {
+        "publishAndSell": "게시 후 판매...",
+        "basic": "최대 5개 작품",
+        "artistPlus": "최대 20개의 예술 작품",
+        "unlimited": "무제한의 예술 작품"
+    },
+    "termsCondsPopup": {
+        "title": "판매자 약관",
+        "agreeAndProceed": "동의 후 진행",
+        "agreeAndSubscribeTo": "동의 후 구독"
+    },
+    "artworkListing": {
+        "byText": "기준"
+    },
+    "roleChangeWarning": "계속 진행하면 사용자 유형이 다음에서 변경되는 것에 동의하는 것입니다",
+    "toText": "까지",
+    "toggleMemberLabel": "맴버 용",
+    "toggleArtistLabel": "예술가 용",
+    "pickPlanHeading": "당신에게 맞는 플랜을 선택하십시오.",
+    "promoteWorkHeading": "예술품을 커미션 없이 무료로 홍보 및 판매합니다.",
+    "makeArtSeenHeading": "당신의 예술 작품을 판매하세요.",
+    "categories":{
+        "artistConnectDirectly":"구매자와 직접 연결",
+        "artistEnablePayment":"결제 게이트웨이 활성화: 페이팔, 비자, 마스터카드",
+        "enableAcceptPayment":"직접 지불 수락",
+        "artistDashboardManage":"대시보드: 컬렉션 및 계정 관리",
+        "artistShippingPolicy":"자체 배송 정책",
+        "artistCreateCertificate":"작품에 대한 정품 인증서 만들기",
+        "artistHelpDesk":"ARTMO 헬프 데스크",
+        "artistPublishArticle":"작업 및 전시회에 대한 기사 게시 및 게시",
+        "artistBacklinkCollection":"홈페이지에서 ARTMO 컬렉션을 역링크합니다.",
+        "artistDisputeSupport":"고객 분쟁 조정 지원",
+        "memberConnectBuyers":"구매자와 직접 연결",
+        "memberEnablePayment":"결제 게이트웨이 활성화: 페이팔, 비자, 마스터카드",
+        "memberAcceptPayment":"직접 지불 수락",
+        "memberDashboardManage":"대시보드: 컬렉션 및 계정 관리",
+        "memberShippingPolicy":"자체 배송 정책",
+        "memberHelpDesk":"ARTMO 헬프 데스크",
+        "memberBacklinkCollection":"홈페이지에서 ARTMO 컬렉션을 역링크합니다.",
+        "memberDisputeSupport":"고객 분쟁 조정 지원",
+        "artistBadge":"프리미엄 판매자 배지 <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+        "memberBadge":"프리미엄 판매자 배지 <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+      }
+}

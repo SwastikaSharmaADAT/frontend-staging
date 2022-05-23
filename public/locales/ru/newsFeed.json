@@ -1,0 +1,122 @@
+{
+    "addContent": {
+        "placeholderAdd": "Добавить...",
+        "post": "Пост",
+        "video": "Видео",
+        "album": "Альбом",
+        "article": "Статью",
+        "artwork": "Произведение"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "Добавить Фото Альбом",
+        "limitText": "Добавить изображения (макс. 50)",
+        "addImages": "Добавить изображения",
+        "placeholderAddTitle": "Добавить Название",
+        "writeSomething": "Напишите что-нибудь...",
+        "firstPhotoInfo": "Ваша первая фотография будет обложкой альбома.",
+        "publish": "Опубликовать",
+        "errorLabels": {
+            "maxCharacter100": "Допустимо только 100 символов",
+            "titleRequired": "Необходимо указать название",
+            "maxCharacter500": "Допустимо только 500 символов"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "Редактировать Фото Альбом",
+        "updateButton": "Обновить"
+    },
+    "addPostPopup": {
+        "title": "Написать пост",
+        "editPhoto": "Редактировать Фото",
+        "addPhoto": "Добавить Фото",
+        "writeSomething": "Напишите что-нибудь...",
+        "postDescCount": "/200",
+        "publish": "Опубликовать"
+    },
+    "editPostPopup": {
+        "title": "Редактировать Пост",
+        "updateButton": "Обновить"
+    },
+    "addVideoPopup": {
+        "title": "Добавить Видео",
+        "validUrlError": "Пожалуйста, введите корректный URL адрес",
+        "placeholderEnterLink": "Вставьте ссылку из YouTube, Vimeo...",
+        "placeholderWriteSomething": "Напишите что-нибудь...",
+        "addCategory": "Добавьте Категорию",
+        "next": "Далее",
+        "publish": "Опубликовать",
+        "update":"Обновить"
+    },
+    "editVideoPopup": {
+        "title": "Редактировать Пост с Видео",
+        "updateButton": "Обновить"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "Добавлена Новая Деятельность",
+        "refresh": "Обновить"
+    },
+    "hashtags": {
+        "title": "ТОП ХЭШТЕГОВ",
+        "noHashtagsAdded": "Хэштеги не добавлены",
+        "post": "пост",
+        "postPlural": "посты"
+    },
+    "manageArtwork": {
+        "follower": "подписчик(ца)",
+        "followerPlural": "подписчик",
+        "visit": "Посетить ",
+        "manage": "Управлять ",
+        "noPageFound": "Страница не найдена"
+    },
+    "profile": {
+        "follower": "подписчик(ца)",
+        "followerPlural": "подписчики",
+        "profileCompleteness": "Заполненность профиля",
+        "editProfile": "Редактировать Профиль"
+    },
+    "singlePost": {
+        "photo": "фотография",
+        "photoPlural": "фотографии",
+        "seeInStore": "Посмотреть в Маркетплейсе",
+        "deleteText": "Вы уверены, что хотите удалить свой комментарий?",
+        "capsHide": "Скрыть",
+        "capsUnhide": "Не скрывать",
+        "hide": "скрыть",
+        "unhide": "не скрывать",
+        "areYouSure": "Вы уверены, что хотите",
+        "thisComment": "этот комментарий?",
+        "update": "Обновить",
+        "like": "Нравится",
+        "comment": "Прокомментировать",
+        "liked": "Понравилось",
+        "likedBy": "Понравилось",
+        "lowerLike": "понравилось",
+        "lowerLikePlural": "понравилось",
+        "lowerUnlike": "не понравилось",
+        "lowerComment": "комментарий",
+        "lowerCommentPlural": "комментарии",
+        "share": "Поделиться",
+        "pending": "Ожидание",
+        "deleteActivity": "Вы уверены, что хотите удалить эту деятельность?",
+        "accept": "Принять",
+        "reject": "Отменить",
+        "delete": "Удалить",
+        "seeMore": "Увидеть больше..",
+        "price": "Цена",
+        "priceOnRequest": "Цена по Запросу",
+        "placeholderComment":"Введите Ваш комментарий...",
+        "publish":"Опубликовать",
+        "loadMoreText":"Загрузить больше...",
+        "loadMoreRepliesText":"Загрузить больше ответов...",
+        "edit":"Редактировать",
+        "commentRemoved":"Этот комментарий был удалён",
+        "replyRemoved":"Этот ответ был удалён"
+},
+    "singleActivity": {
+        "activityNotAvailable": "Эта деятельность недоступна",
+        "seeMore": "Посмотреть больше...",
+        "alreadyHaveAnAccount": "Уже есть аккаунт?",
+        "signUp": "Зарегистрироваться",
+        "logIn": "Войти"
+    }
+}

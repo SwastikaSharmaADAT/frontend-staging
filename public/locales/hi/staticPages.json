@@ -1,0 +1,83 @@
+{
+  "pageNotFound": {
+    "404": "उफ़!!",
+    "signUpTextNotFound": "या साइन अप करें यदि आपके पास अभी तक कोई प्रोफ़ाइल नहीं है ...",
+    "pageNotFound": "हमें वह पृष्ठ नहीं मिल रहा है जिसे आप ढूंढ रहे हैं। <br/> आप इन विकल्पों में से किसी एक को आजमा सकते हैं; यह ट्रिक काम आना चाहिए...",
+    "goBackHome": "पीछे जाएं"
+  },
+  "usersTermsConditions": {
+    "title": "उपयोगकर्ता नियम और शर्तें",
+    "overview": "1. ओवरव्यू",
+    "contentEligibility": "2. सामग्री और पात्रता",
+    "feesPayments": "3. शुल्क और भुगतान",
+    "accountTermination": "4. समाप्ति और खाता रद्दीकरण",
+    "provisions": "5. आगे के प्रावधान",
+    "seePrivacyPolicy": "See Privacy Policy",
+    "seeVendorTermsConditions": "गोपनीयता नीति देखें"
+  },
+  "privacyPolicyPage": {
+    "title": "गोपनीयता नीति",
+    "seeVendorTermsConditions": "विक्रेता के नियम और शर्तें देखें",
+    "seeUserTermsConditions": "उपयोगकर्ता के नियम और शर्तें देखें",
+    "accountPrivacySettings": "खाता गोपनीयता सेटिंग्स",
+    "dataSecurity": "डाटा सुरक्षा",
+    "collectingPersonalData": "व्यक्तिगत डेटा का संग्रह और प्रसंस्करण",
+    "adsOnArtmo": "Artmo पर विज्ञापन"
+  },
+  "vendorTermsConditions": {
+    "title": "विक्रेता के नियम और शर्तें",
+    "seePrivacyPolicy": "गोपनीयता नीति देखें",
+    "seeUserTermsConditions": "उपयोगकर्ता के नियम और शर्तें देखें",
+    "impOverview": "सबसे पहले ... एक महत्वपूर्ण अवलोकन",
+    "stepByStep": "स्टेप बाई स्टेप",
+    "overview": "1. ओवरव्यू",
+    "fees": "2. कमीशन | शुल्क | भुगतान | शुल्कवापसीयों",
+    "termination": "3. समाप्ति और खाता रद्दीकरण",
+    "payoutSchedule": "4. बिक्री के लिए भुगतान अनुसूची",
+    "contentEligibility": "5. सामग्री और पात्रता",
+    "yourObligations": "6. आपके दायित्व",
+    "artmoObligations": "7. ARTMO' के दायित्व",
+    "returns": "8. रिटर्न और विवाद",
+    "provisions": "9. आगे के प्रावधान",
+    "shippingReturnPolicy": "शिपिंग और वापसी नीति"
+  },
+  "whatIsArtmo": {
+    "title": " ARTMO क्या है?",
+    "artNetwork": "कला नेटवर्क",
+    "artEnthusiast": "कला उत्साही",
+    "muchMore": "और भी बहुत कुछ!",
+    "member": "सदस्य",
+    "pages": "पेजेस",
+    "marketplace": "मार्केटप्लेस",
+    "needHelp": "मदद की ज़रूरत है - हमसे संपर्क करें...",
+    "artist": "कलाकार",
+    "gallery": "गैलरी",
+    "university": "विश्वविद्यालय",
+    "shop": "दुकान"
+  },
+  "mobileApp": {
+    "title": "मोबाइल ऐप",
+    "subHeading": " अपने मोबाइलकी होम स्क्रीन से ARTMO कैसे शुरू करें ",
+    "note": "नोट",
+    "step": "चरण",
+    "done": "हो गया"
+  },
+  "artworkUploadInst": {
+    "headerTitle": "आर्टवर्क अपलोड निर्देश",
+    "images": "चित्र",
+    "title": "शीर्षक",
+    "artMaterial": "कला सामाग्री",
+    "series": "सीरिस",
+    "limitedEdition": "सीमित संस्करण",
+    "price": "कीमत",
+    "dimension": "आयाम",
+    "frame": "फ़्रेम",
+    "medium": "मध्यम",
+    "genre": "शैली",
+    "subjectTags": "सब्जेक्ट टैग्स",
+    "description": "विवरण",
+    "text": "टेक्स्ट",
+    "yourProfile": "आपकी प्रोफाइल",
+    "pdf": "PDF"
+  }
+}

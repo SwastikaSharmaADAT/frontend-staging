@@ -1,0 +1,103 @@
+{
+  "title": "VERKOPER INTEKENING",
+  "artistPage": {
+    "sectionLabels": {
+      "sellCommissionFree": "Verkoop u kuns kommissie-vry",
+      "connectWithCollectors": "Maak direk kontak met versamelaars",
+      "cancelSubscription": "Kanselleer u intekening op enige tyd",
+      "basicPlan": "BASIESE Plan is GRATIS"
+    }
+  },
+  "memberPage": {
+    "chooseThePlan": "Kies die PLAN wat u die beste pas...",
+    "planLabels": {
+      "plus": "Plus",
+      "pro": "Pro",
+      "lifetime": "Leeftyd"
+    },
+    "gatewayFees": "Gateway Fooie",
+    "cancelAnytime": "Kanselleer Enige Tyd"
+  },
+  "faq": {
+    "title": "Vrae wat gereeld gevra word",
+    "askQuestion": "Vra 'n Vraag",
+    "questionLabels": {
+      "subscriptionFee": "Waarom sou ek intekengeld betaal?",
+      "basicAccount": "Is die BASIESE rekening net 'n gratis toets?",
+      "cancelSubscription": "Kan ek enige tyd kanselleer en kry ek 'n terugbetaling?",
+      "paymentForSelling": "Hoe en wanneer word ek betaal wanneer een van my stukke verkoop is?",
+      "publishAndSell": "Kan ek enige kuns wat ek wil publiseer en verkoop?",
+      "howArtmoSurvive": "Geen kommissiegeld nie, hoe kan ARTMO oorleef?"
+    }
+  },
+  "perMonth": "/per Maand",
+  "pricingSelectLabels": {
+    "monthly": "Maandeliks gefaktureer,",
+    "quarterly": "Kwartaaliks gefaktureer,",
+    "halfYearly": "Halfjaarliks gefaktureer,",
+    "yearly": "Jaarliks gefaktureer,"
+  },
+  "freePricing": "gratis",
+  "currencySwitcher": "Valutaskakelaar",
+  "commission": "Kommissie",
+  "getText": "kry",
+  "signUpText": "Teken Aan",
+  "noneText": "Geen",
+  "includedText": "Ingesluit",
+  "notIncludedText": "Nie Ingesluit",
+  "vendorPaymentPopup": {
+    "yourChoice": "U Keuse",
+    "price": "Prys",
+    "every": "elke",
+    "month": "maand",
+    "months": "maande",
+    "proceedToPayment": "Gaan voort na betaling"
+  },
+  "underagePopup": {
+    "hi": "Hi",
+    "backToProfile": "Terug na profiel"
+  },
+  "productLimits": {
+    "publishAndSell": "Publiseer en verkoop...",
+    "basic": "tot op 5 kunswerke",
+    "artistPlus": "tot op 20 kunswerke",
+    "unlimited": "onbeperkte kunswerke"
+  },
+  "termsCondsPopup": {
+    "title": "Verkoper se bepalings en voorwaardes",
+    "agreeAndProceed": "Stem in en gaan voort",
+    "agreeAndSubscribeTo": "Stem in en teken in by"
+  },
+  "artworkListing": {
+    "byText": "by"
+  },
+  "roleChangeWarning": "Deur voort te gaan stem u in om u verbruikerstipe te verander van",
+  "toText": "na",
+  "toggleMemberLabel": "Vir Lede",
+  "toggleArtistLabel": "Vir Kunstenaars",
+  "pickPlanHeading": "Kies 'n plan wat by u pas.",
+  "promoteWorkHeading": "Bevorder en verkoop jou kuns kommissievry.",
+  "makeArtSeenHeading": "Verkoop U Kuns.",
+  "categories": {
+    "artistConnectDirectly": "Verbind direk met kopers",
+    "artistEnablePayment": "Aktiveer betalingspoorte: Paypal, Visa, MasterCard",
+    "enableAcceptPayment": "Aanvaar Directe Betalings",
+    "artistDashboardManage": "Paneelbord: Bestuur versameling en rekeninge",
+    "artistShippingPolicy": "Jou eie afleweringsbeleid",
+    "artistCreateCertificate": "Skep egtheidsertifikate vir jou kunswerke",
+    "artistHelpDesk": "ARTMO Hulptoonbank",
+    "artistPublishArticle": "Publiseer en plaas artikels oor jou werk en uitstallings",
+    "artistBacklinkCollection": "Skakel jou ARTMO-versameling terug op jou tuisblad",
+    "artistDisputeSupport": "Kliëntgeskilbemiddelingondersteuning",
+    "memberConnectBuyers": "Verbind direk met kopers",
+    "memberEnablePayment": "Aktiveer betalingspoorte: Paypal, Visa, MasterCard",
+    "memberAcceptPayment": "Aanvaar direkte betalings",
+    "memberDashboardManage": "Paneelbord: Bestuur versameling en rekeninge",
+    "memberShippingPolicy": "Jou eie afleweringsbeleid",
+    "memberHelpDesk": "ARTMO Hulptoonbank",
+    "memberBacklinkCollection": "Skakel jou ARTMO-versameling terug op jou tuisblad",
+    "memberDisputeSupport": "Kliëntgeskilbemiddelingondersteuning",
+    "artistBadge": "Premium Verkoper Kenteken<img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+    "memberBadge": "Premium Verkoper Kenteken<img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+  }
+}

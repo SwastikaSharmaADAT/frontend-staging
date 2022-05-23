@@ -1,0 +1,10 @@
+{
+  "title": "วิดีโอ",
+  "listing": {
+    "placeholderSearch": "ค้นหาวิดีโดจากชื่อ...",
+    "search": "ค้นหา",
+    "country": "ประเทศ:",
+    "category": "หมวดหมู่:",
+    "userType": "ประเภทผู้ใช้:"
+  }
+}

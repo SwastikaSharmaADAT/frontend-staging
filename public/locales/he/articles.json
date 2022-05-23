@@ -1,0 +1,83 @@
+{
+  "validationErrors": {
+    "image": "נדרשת תמונת מאמר",
+    "title": "יש להזין כותרת",
+    "titleLength": "הכותרת יכולה להכיל 200 תווים לכל היותר",
+    "description": "נדרש תיאור",
+    "descriptionLength": "התיאור יכול לכלול 5000 תווים לכל היותר",
+    "category": "נדרשת קטגוריה",
+    "country": "נדרשת מדינה",
+    "city": "נדרשת עיר",
+    "startDate": "נדרש תאריך התחלה",
+    "endDate": "נדרש תאריך סיום",
+    "endDateLarge": "לא ניתן להגדיר תאריך סיום לפני תאריך ההתחלה"
+  },
+  "articleNotAvailable": "מאמר זה אינו זמין",
+  "placeholderImage": "הוסף תמונת היום",
+  "placeholderTitle": "הוסף כותרת",
+  "placeholderDescription": "כתוב את המאמר שלך כאן...",
+  "placeholderCountry": "מדינה",
+  "placeholderStartDate": "תאריך התחלה",
+  "placeholderCity": "עיר",
+  "placeholderEndDate": "תאריך סיום",
+  "category": "Category", "קטגוריה"
+  "categoryOptions": {
+    "option1": "באזז",
+    "option2": "תמונת היום",
+    "option3": "תערוכה"
+  },
+  "status": {
+    "draft": "טיוטה",
+    "publish": "פורסם",
+    "pending": "ממתין לאישור",
+    "rejected": "נדחה",
+  },
+  "articleFollowed": "עוקב",
+  "articleFollow": "עקוב",
+  "articleUnFollow": "בטל עוקב",
+  "update": "עדכן",
+  "submit": "שלח",
+  "buzzListing": {
+    "title": "ראה מה קורה בעולם האמנות",
+    "titleShort": "באזז",
+    "placeholderSearchTitle": "חפש תערוכות לפי כותרת...",
+    "search": "חפש",
+    "city": "עיר",
+    "edit": "ערוך"
+  },
+  "exhibitionListing": {
+    "title": "תערוכות"
+  },
+  "potd": {
+    "title": "תמונת היום"
+  },
+  "myArticle": {
+    "title": "המאמרים שלי",
+    "seeMoreText": "ראה עוד...",
+  },
+  "seeMoreText": "ראה עוד...",
+  "addArticleInfo": {
+    "mainSection": {
+      "heading": "כיצד לכתוב מאמר",
+      "firstPara": "תחשוב על עצמך כעיתונאי או כותב דעה. כתוב על משהו שמעניין את עולם האמנות וחובבי האמנות. במקום הזדמנות לקדם את עצמך או את יצירות האמנות שלך, המאמר שלך הוא מקום לכתוב על נושא שיעניין את כלל הקהל.",
+      "secondPara": "אתה צריך שיהיה לך פרופיל מלא ב-ARTMO לפני שתוכל לפרסם מאמר.",
+      "thirdPara": "לאחר הפרסום, תוכר כמוציא לאור.",
+    },
+    "buzzSubSection": {
+      "heading": "Buzz:", "באזז:"
+      "firstPara": "כתוב מאמר על נושא שמעניין את משתמשי ARTMO. ראה דוגמאות מצוינות למאמרי באזז",
+      "anchorText": "כאן",
+    },
+    "potdSubSection": {
+      "heading": "תמונת היום",
+      "firstPara": "השתמש בקטגוריית תמונת היום כשיש לך תמונה כובשת ומרתקת שאתה רוצה לכתוב עליה. השתמש בתמונה הזו כתמונה העליונה ואז ספר לעולם את הסיפור של התמונה הזו. תמונת היום שלך תפורסם",
+      "anchorText": "כאן",
+    },
+    "exhibitionSubSection": {
+      "heading": "תערוכה:",
+      "firstPara": "השתמש בקטגוריה זו אם אתה מפעיל גלריה או מארגן תערוכה. כתוב על התערוכה שאתה מארגן והמאמר שלך יופיע בקטגוריית התערוכה.",
+      "secondPara": "מאמר התערוכה שלך יפורסם",
+      "anchorText": "כאן",
+    }
+  }
+}

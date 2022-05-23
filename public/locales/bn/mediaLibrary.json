@@ -1,0 +1,27 @@
+{
+    "chooseImage": "ছবি পছন্দ করুন",
+    "uploadTab": {
+        "title": "ফাইলসমূহ আপলোড করুন",
+        "dragDropHere": "ড্র্যাগ করে এনে এখানে ফাইলগুলি ফেলুন",
+        "or": "অথবা",
+        "selectFiles": "+ ফাইল পছন্দ করুন",
+        "supportedFormatsText": "শুধুমাত্র *.jpeg, *.jpg and *.png ফরম্যাটের ছবি গ্রহণযোগ্য",
+        "maxLimitPrefix": "সর্বোচ্চ",
+        "maxLimitSuffix": "টি ছবি বাছাই করা যাবে",
+        "moreImagesText": "{{limit}} টি অতিরিক্ত ছবি বাছাই করা যাবে",
+        "maxFileSize": "সর্বোচ্চ ফাইল এর আকার ; ২ মেগাবাইট",
+        "minFileSize": "সর্বনিম্ন ফাইলের আকার; ১০০ কিলোবাইট",
+        "maxLimitText": "সর্বোচ্চ {{limit}} টি ছবি বাছাই করা যাবে"
+    },
+    "mediaTab": {
+        "title": "মিডিয়া লাইব্রেরী",
+        "pickATag": "একটি ট্যাগ বেছে নিন",
+        "loadMore": "আরো লোড করুন",
+        "deleteImage": "ছবি মুছে ফেলুন",
+        "choose": "পছন্দ করুন",
+        "saveAll": "সবকিছু সংরক্ষন করুন",
+        "placeholderSearch": "আইটেম খুঁজুন",
+        "placeholderDescription": "বিবরণ সংযুক্ত করুন",
+        "placeholderEnterTag": "ট্যাগ প্রবেশ করান"
+    }
+}

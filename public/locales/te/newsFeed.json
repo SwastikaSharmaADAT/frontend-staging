@@ -1,0 +1,122 @@
+{
+    "addContent": {
+        "placeholderAdd": "జతచేయండి...",
+        "post": "పోస్ట్",
+        "video": "వీడియో",
+        "album": "ఆల్బం",
+        "article": "వ్యాసము",
+        "artwork": "కళాకృతి"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "ఛాయాచిత్ర ఆల్బంను జతచేయండి",
+        "limitText": "చిత్రాలను జతచేయండి (గరిష్టంగా 50)",
+        "addImages": "చిత్రాలను జతచేయండి",
+        "placeholderAddTitle": "శీర్షికను వ్రాయండి",
+        "writeSomething": "సంబంధిత సమాచారాన్ని ఇక్కడ వ్రాయండి...",
+        "firstPhotoInfo": "మీరు ఎన్నుకున్న మొదటి చిత్రం ఆల్బం యొక్క కవర్ చిత్రంగా ప్రచురితం అవుతుంది.",
+        "publish": "ప్రచురించండి",
+        "errorLabels": {
+            "maxCharacter100": "కేవలం 100 క్యారెక్టర్లు మాత్రమే అనుమతించబడుతాయి",
+            "titleRequired": "శీర్షిక అవసరము",
+            "maxCharacter500": "కేవలం 500 క్యారెక్టర్లు మాత్రమే అనుమతించబడుతాయి"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "ఛాయాచిత్ర ఆల్బంను సవరించండి",
+        "updateButton": "అప్‌డేట్‌"
+    },
+    "addPostPopup": {
+        "title": "పోస్టును సృష్టించండి",
+        "editPhoto": "ఛాయాచిత్రాన్ని సవరించండి",
+        "addPhoto": "ఛాయాచిత్రాన్ని జతచేయండి",
+        "writeSomething": "సంబంధిత సమాచారాన్ని ఇక్కడ వ్రాయండి...",
+        "postDescCount": "/200",
+        "publish": "ప్రచురించండి"
+    },
+    "editPostPopup": {
+        "title": "పోస్టును సవరించండి",
+        "updateButton": "అప్‌డేట్‌"
+    },
+    "addVideoPopup": {
+        "title": "వీడియోను జతచేయండి",
+        "validUrlError": "దయచేసి సరైన URLను ఎంటర్ చేయండి",
+        "placeholderEnterLink": "యూట్యూబ్, విమియో మొదలగు వాటి నుండి లింక్ ను పొందుపరచండి...",
+        "placeholderWriteSomething": "సంబంధిత సమాచారాన్ని ఇక్కడ వ్రాయండి...",
+        "addCategory": "విభాగాన్ని జతచేయండి",
+        "next": "తర్వాత",
+        "publish": "ప్రచురించండి",
+        "update": "అప్‌డేట్‌"
+    },
+    "editVideoPopup": {
+        "title": "వీడియో పోస్టును సవరించండి",
+        "updateButton": "అప్‌డేట్‌"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "కొత్త కార్యాచరణ జతచేయబడింది",
+        "refresh": "రిఫ్రెష్"
+    },
+    "hashtags": {
+        "title": "ఉత్తమ హాష్ ట్యాగ్లు",
+        "noHashtagsAdded": "ఎటువంటి హాష్ ట్యాగ్లు జతచేయలేదు",
+        "post": "పోస్ట్",
+        "postPlural": "పోస్టులు"
+    },
+    "manageArtwork": {
+        "follower": "అనుచరించు వారు",
+        "followerPlural": "అనుచరులు",
+        "visit": "సందర్శించు",
+        "manage": "నిర్వహణ",
+        "noPageFound": "పేజీ లభించలేదు"
+    },
+    "profile": {
+        "follower": "అనుచరించు వారు",
+        "followerPlural": "అనుచరులు",
+        "profileCompleteness": "ప్రొఫైల్ పరిపూర్ణత స్థాయి",
+        "editProfile": "ప్రొఫైల్ సవరించండి"
+    },
+    "singlePost": {
+        "photo": "ఛాయాచిత్రం",
+        "photoPlural": "ఛాయాచిత్రాలు",
+        "seeInStore": "స్టోర్ లో చూడండి",
+        "deleteText": "మీరు మీ కామెంట్ ను ఖచ్చితంగా తొలగించాలి అనుకుంటున్నారా?",
+        "capsHide": "దాచిపెట్టు",
+        "capsUnhide": "బహిర్గతం చేయు",
+        "hide": "దాచిపెట్టు",
+        "unhide": "బహిర్గతం చేయు",
+        "areYouSure": "మీరు ఖచ్చితంగా అనుకుంటున్నారా?",
+        "thisComment": "ఈ కామెంట్?",
+        "update": "అప్‌డేట్‌",
+        "like": "ఇష్టపడు",
+        "comment": "కామెంట్",
+        "liked": "ఇష్టపడ్డారు",
+        "likedBy": "ఇష్టపడబడినది",
+        "lowerLike": "ఇష్టతల సంఖ్య",
+        "lowerLikePlural": "ఇష్టతలు",
+        "lowerUnlike": "ఇష్టతను తొలగించు",
+        "lowerComment": "కామెంట్",
+        "lowerCommentPlural": "కామెంట్లు",
+        "share": "పంచుము",
+        "pending": "పెండింగ్‌లో ఉంది",
+        "deleteActivity": "ఈ కార్యాచరణను మీరు ఖచ్చితంగా నిర్మూలించాలి అనుకుంటున్నారా?",
+        "accept": "అంగీకరించు",
+        "reject": "తిరస్కరించు",
+        "delete": "నిర్మూలించు ",
+        "seeMore": "మరిన్ని చూడుము...",
+        "price": "ధర",
+        "priceOnRequest": "అభ్యర్థన మీద ధర చూపబడుతుంది",
+        "placeholderComment": "మీ కామెంట్ పొందుపరచండి...",
+        "publish": "ప్రచురించండి",
+        "loadMoreText": "మరింత చూడండి...",
+        "loadMoreRepliesText": "మరిన్ని స్పందనలను చూపండి...",
+        "edit": "సవరించండి",
+        "commentRemoved": "ఈ కామెంట్ తొలగించబడింది",
+        "replyRemoved": "ఈ స్పందన తొలగించబడింది"
+    },
+    "singleActivity": {
+        "activityNotAvailable": "ఈ కార్యాచరణ అందుబాటులో లేదు",
+        "seeMore": "మరిన్ని చూడండి...",
+        "alreadyHaveAnAccount": "ఇదివరకే మీకు ఖాతా ఉందా?",
+        "signUp": "సైన్ అప్",
+        "logIn": "లాగ్ ఇన్"
+    }
+}

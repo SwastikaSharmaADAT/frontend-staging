@@ -1,0 +1,17 @@
+{
+    "heading": "THE ART NETWORK",
+    "listing": {
+        "country": "Country:",
+        "placeholderCity": "City",
+        "userType": "User Type:",
+        "sortBy": "Sort By:",
+        "search": "Search",
+        "searchUsers": "Search users...",
+        "searchbyname": "Search by name..."
+    },
+    "follower": "follower",
+    "followers": "followers",
+    "unfollow": "Unfollow",
+    "follow": "Follow",
+    "editProfile": "Edit Profile"
+}

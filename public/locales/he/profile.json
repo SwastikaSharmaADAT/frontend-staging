@@ -1,0 +1,362 @@
+{
+  "placeholderIntro": "הקדמה קצרה",
+  "about": {
+    "title": "אודות",
+    "edit": "ערוך",
+    "cancel": "ביטול",
+    "save": "שמור",
+    "noAboutText": "לא הוסף טקסט אודות",
+    "placeholderAbout": "הוסף אודות כאן....",
+    "characterLimit": "/1000",
+    "errorAbout": "חורג מאורך התווים המרבי של 1000",
+  },
+  "biography": {
+    "title": "ביוגרפיה",
+    "edit": "ערוך",
+    "cancel": "בטל",
+    "save": "שמור",
+    "noBiographyText": "לא נוסף טקסט ביוגרפיה",
+    "placeholderBiography": "הוסף ביוגרפיה כאן....",
+    "characterLimit": "/1000",
+  },
+  "activity": {
+    "title": "פעילות",
+    "descriptionNotAdded": "לא הוסף תיאור",
+    "reactions": "תגובות",
+    "noActivityText": "לא נמצאה פעילות",
+    "seeAll": "ראה הכל",
+    "add": "הוסף"
+  },
+  "album": {
+    "title": "אלבומים",
+    "seeAll": "ראה הכל",
+    "add": "הוסף",
+    "noAlbumFound": "לא נמצאו אלבומים",
+    "edit": "Edit", "ערוך"
+  },
+  "artwork": {
+    "title": "יצירות אמנות",
+    "likedArtworks": "יצירות אומנות שאהבתי",
+    "noArtworkFound": "לא נמצאו יצירות אמנות",
+    "seeAll": "ראה הכל",
+    "add": "הוסף"
+  },
+  "award": {
+    "title": "פרסים",
+    "noAwardFound": "לא נמצאו פרסים",
+    "addImages": "הוסף תמונות",
+    "placeholderDescription": "הוסף תיאור של פרסי האמנות שלך.",
+    "characterLimit": "/1000",
+    "edit": "ערוך",
+    "cancel": "ביטול",
+    "save": "שמור"
+  },
+  "basicInfo": {
+    "fillDetailsText": "אנא מלא שדות אלו",
+    "placeholderFirstName": "שם פרטי",
+    "placeholderLastName": "שם משפחה",
+    "placeholderCity": "עיר",
+    "placeholderCountry": "בחר מדינה",
+    "placeholderEmail": "Email","דוא"ל"
+    "save": "שמור",
+    "cancel": "ביטול"
+  },
+  "business": {
+    "title": "אודות העסק | המקצוע שלי",
+    "noBusinessFound": "לא נמצא מידע על העסק | המקצוע שלי",
+    "addImages": "הוסף תמונות",
+    "placeholderDescription": "הוסף תיאור של אודות העסק שלי | המקצוע שלי.",
+    "characterLimit": "/1000",
+    "edit": "ערוך",
+    "cancel": "ביטול",
+    "save": "שמור"
+  },
+  "connectionsPopup": {
+    "follower": "עוקב",
+    "followerPlural": "עוקבים",
+    "connected": "מחובר",
+    "requestPending": "בקשה בהמתנה",
+    "requestSent": "בקשה נשלחה",
+    "connect": "חיבור",
+    "userConnectionsTitle": "החיבורים של"
+  },
+  "contact": {
+    "title": "פרטים ליצירת קשר",
+    "noContactInfoFound": "לא נוספו פרטי קשר",
+    "email": "דוא\"ל",
+    "skype": "סקייפ",
+    "phone": "טלפון",
+    "address": "כתובת",
+    "openingHours": "שעות פעילות",
+    "socialMedia": "מדיה חברתית",
+    "placeholderEmail": "דוא\"ל",
+    "placeholderSkype": "סקייפ",
+    "phoneNumber": "מספר טלפון",
+    "placeholderAddress": "כתובת",
+    "placeholderOpenHours": "שעות פעילות",
+    "edit": "ערוך",
+    "cancel": "ביטול",
+    "save": "שמור"
+  },
+  "expertise": {
+    "title": "מומחיות",
+    "noExpertiseFound": "לא נמצאה מומחיות",
+    "addImages": "הוסף תמונות",
+    "placeholderDescription": "הוסף תיאור למומחיות האמנות שלך",
+    "characterLimit": "/1000",
+    "edit": "ערוך",
+    "cancel": "ביטול",
+    "save": "שמור"
+  },
+  "followersPopup": {
+    "follower": "עוקב",
+    "followerPlural": "עוקבים",
+    "followed": "עוקב",
+    "unfollow": "הסר עוקב",
+    "follow": "הסר עוקב",
+    "userFollowersTitle": "העוקבים של "
+  },
+  "followingPopup": {
+    "follower": "עוקב",
+    "followerPlural": "עוקבים",
+    "followed": "עוקב",
+    "unfollow": "הסר עוקב",
+    "follow": "הסר עוקב",
+    "noFollowing": "לא עוקב",
+    "userFollowersTitle": "העוקבים של ",
+    "followPlural": "עוקבים"
+  },
+  "group": {
+    "title": "קבוצות",
+    "noGroupsFound": "המשתמש לא נרשם לשום קבוצה",
+    "member": "חבר",
+    "memberPlural": "חברי",
+    "browseGroups": "עיין בקבוצות",
+    "create": "צור"
+  },
+  "invite": {
+    "title": "הזמן חברים",
+    "desc1": "שלח הודעה לאנשי הקשר שלך.",
+    "desc2": "תאמר להם שאתה כאן.",
+    "invite": "הזמן"
+  },
+  "messagePopup": {
+    "or": "או",
+    "seeMore": "See more...","ראה עוד..."
+    "learnMore": "למד עוד"
+  },
+  "pastExhibition": {
+    "title": "תערוכות קודמות",
+    "addImages": "הוסף תמונות",
+    "noExhibitionsFound": "לא נמצאו תערוכות קודמות",
+    "placeholderDescription": "הכנס תיאור של התערוכות הקודמות שלך.",
+    "characterLimit": "/1000",
+    "edit": "ערוך",
+    "cancel": "ביטול",
+    "save": "שמור"
+  },
+  "personalInfo": {
+    "title": "מידע אישי",
+    "noInfoFound": "מידע אישי לא הוסף",
+    "city": "עיר",
+    "country": "מדינה",
+    "profession": "מקצוע",
+    "company": "חברה",
+    "industry": "תעשייה",
+    "website": "אתר",
+    "languages": "שפות",
+    "visibleInfo": "מוסתר לציבור כברירת מחדל",
+    "dateOfBirth": "תאריך לידה",
+    "gender": "מין",
+    "relationshipStatus": "מצב משפחתי",
+    "placeholderCity": "עיר",
+    "placeholderCountry": "בחר מדינה",
+    "placeholderProfession": "מקצוע",
+    "placeholderCompany": "חברה",
+    "placeholderIndustry": "תעשייה",
+    "placeholderLanguages": "בחר שפות",
+    "placeholderWebsite": "אתר",
+    "placeholderDob": "תאריך לידה",
+    "errorDob": "תאריך לידה נדרש",
+    "genderDropdown": {
+      "option1": "בחר מין",
+      "option2": "זכר",
+      "option3": "נקבה",
+      "option4": "אחר"
+    },
+    "relationDropdown": {
+      "option1": "בחר מצב משפחתי",
+      "option2": "רווק",
+      "option3": "נשוי",
+      "option4": "בזוגיות"
+    },
+    "edit": "ערוך",
+    "cancel": "ביטול",
+    "save": "שמור"
+  },
+  "coverImage": {
+    "menuOptions": {
+      "title": "שנה תמונת רקע",
+      "upload": "העלה תמונה",
+      "change": "שנה תמונה",
+      "remove": "הסר תמונה"
+    }
+  },
+  "profileHead": {
+    "profileImage": {
+      "menuOptions": {
+        "title": "שנה תמונה",
+        "upload": "העלה תמונה",
+        "change": "שנה תמונה",
+        "remove": "הסר תמונה"
+      }
+    },
+    "connected": "מחובר",
+    "requestPending": "בקשה בהמתנה",
+    "requestSent": "בקשה נשלחה",
+    "connect": "חיבור",
+    "shareProfile": "שתף פרופיל",
+    "unblock": "הסר חסימה",
+    "block": "חסום",
+    "tooltip": {
+      "text": "לסוג הפרופיל האחר יש דגמי מנוי שונים.",
+      "seeMore": "הצג עוד..."
+    },
+    "profileDesc": {
+      "artist": {
+        "firstline": "<b>אתה אמן!</b>",
+        "secondline": "אתה יכול למכור יצירות אמנות שיצרת.",
+      },
+      "member": {
+        "firstline": "אתה <b><i>לא<i></b> אמן!",
+        "secondline": "אתה יכול למכור יצירות אמנות שבבעלותך.",
+      }
+    },
+    "edit": "ערוך",
+    "cancel": "ביטול",
+    "save": "שמור",
+    "followed": "עוקב",
+    "follow": "עקוב",
+    "message": "הודעה",
+    "more": "More...",
+    "artistProfile": "פרופיל אמן",
+    "memberProfile": "פרופיל חבר",
+    "enterName": "אנא הזן את שמך",
+    "enterInstitute": "אנא הזן שם מוסד",
+    "placeholderFirstName": "שם פרטי",
+    "placeholderInstitureName": "שם מוסד",
+    "placeholderLastName": "שם משפחה"
+  },
+  "notices": {
+    "title": "הערות",
+    "notNoticesFound": "אין הערות להצגה!!"
+  },
+  "profileCompleteness": {
+    "title": "שלמות פרופיל",
+    "incompleteLabel": "מלא את השדות הבאים",
+    "coverPicUrl": "תמונת נושא",
+    "profilePicUrl": "תמונת פרופיל",
+    "city": "עיר",
+    "mobile": "מספר טלפון",
+    "address": "כתובת",
+    "openingHours": "שעות פעילות",
+    "country": "מדינה",
+    "aboutMe": "אודות",
+    "profession": "עיסוק",
+    "industry": "תעשייה",
+    "company": "חברה",
+    "email": "דוא"ל",
+  },
+  "publication": {
+    "title": "פרסומים",
+    "noPublicationsFound": "לא נמצאו פרסומים",
+    "addImages": "הוסף תמונות",
+    "placeholderDescription": "הוסף תיאור לפרסומים שלך.",
+    "characterLimit": "/1000",
+    "edit": "ערוך",
+    "cancel": "ביטול",
+    "save": "שמור"
+  },
+  "allSectionHeader": {
+    "add": "הוסף",
+    "seeAll": "הצג הכל"
+  },
+  "share": {
+    "copiedText": "הועתק!",
+    "copyLink": "העתק קישור",
+    "share": "שתף",
+    "profileShareTitle": "הפרופיל של "
+  },
+  "technique": {
+    "title": "טכניקה",
+    "noTechFound": "לא נמצאו טכניקות",
+    "addImages": "הוסף תמונות",
+    "placeholderDescription": "הוסף תיאור של הטכניקה שלך.",
+    "characterLimit": "/1000",
+    "edit": "ערוך",
+    "cancel": "ביטול",
+    "save": "שמור",
+    "your": "שלך",
+    "photo": "תמונה",
+    "apply": "החל"
+  },
+  "profileNavigator": {
+    "profile": "פרופיל",
+    "see": "ראה",
+    "art": "האמנות של ",
+    "about": "אודות",
+    "contact": "פרטי יצירת קשר",
+    "activity": "פעילות",
+    "videos": "סרטונים",
+    "artworks": "יצירות אמנות",
+    "likedArtworks": "יצירות אמנות שאהבתי",
+    "albums": "אלבומים",
+    "groups": "קבוצות",
+    "technique": "טכניקה",
+    "expertise": "מומחיות",
+    "awards": "פרסים",
+    "pastExhibitions": "תערוכות עבר",
+    "publications": "פרסומים",
+    "personalInfo": "מידע אישי",
+    "business": "אודות העסק שלי"
+  },
+  "connections": {
+    "title": "חיבורים",
+    "noConnectionsFound": "אין חיבורים",
+    "seeAll": "הצג הכל",
+    "followers": "עוקבים",
+    "following": "עוקב"
+  },
+  "video": {
+    "title": "סרטונים",
+    "noVideosFound": "לא נמצאו סרטונים"
+  },
+  "visibility": {
+    "public": "ציבורי (משתמש מחובר)",
+    "private": "פרטי",
+    "connectionsOnly": "חיבורים בלבד"
+  },
+  "blockSection": {
+    "accountUnavailable": "חשבון זה אינו זמין",
+    "goToHome": "חזור לעמוד הבית",
+  },
+  "emailShare": {
+    "bodyText2": "\nשמור על קשר!\nמה זה ARTMO ~ למד עוד https://artmo.com/what-is-artmo",
+    "profileShare": {
+      "subject": "בדוק את ARTMO",
+      "bodyText1": "שלום, \nאני חושב שאתה עשוי להיות מעוניין לבדוק את ARTMO ולהצטרף לרשת האמנות. \nלחץ כאן כדי לראות את הפרופיל שלי:",
+    },
+    "articleShare": {
+      "subject": "בדוק את המאמר הזה על ARTMO",
+      "bodyText1": "שלום,\nאני חושב שאולי יעניין אותך לבדוק את המאמר הזה על ARTMO.\לחץ כאן כדי לקרוא אותו:",
+    },
+    "artworkShare": {
+      "subject": "בדוק את היצירה הזו ב-ARTMO",
+      "bodyText1": "שלום,\nאני חושב שאולי יעניין אותך לבדוק את היצירה המדהימה הזו ב-ARTMO.\nלחץ כאן כדי לראות את היצירה: ",
+    },
+    "postShare": {
+      "subject": "בדוק את הפוסט הזו ב-ARTMO",
+      "bodyText1": "שלום,\nאני חושב שאולי יעניין אותך לבדוק את הפוסט הזה ב-ARTMO.\לחץ כאן כדי לקרוא אותו:",
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+    "title": "VENDOR SUBSCRIPTION",
+    "artistPage": {
+        "sectionLabels": {
+            "sellCommissionFree": "Sell commission-free",
+            "connectWithCollectors": "Connect with buyers directly",
+            "cancelSubscription": "Cancel anytime",
+            "basicPlan": "Basic plan is free"
+        }
+    },
+    "memberPage": {
+        "chooseThePlan": "Choose the PLAN which suits you best...",
+        "planLabels": {
+            "plus": "Plus",
+            "pro": "Pro",
+            "lifetime": "Lifetime"
+        },
+        "gatewayFees": "Gateway Fees",
+        "cancelAnytime": "Cancel anytime"
+    },
+    "faq": {
+        "title": "Frequently asked questions",
+        "askQuestion": "Ask a Question",
+        "questionLabels": {
+            "subscriptionFee": "Why would I pay a subscription fee?",
+            "basicAccount": "Is the BASIC account just a free trial?",
+            "cancelSubscription": "Can I cancel anytime and do I get a refund?",
+            "paymentForSelling": "How and when do I get paid when one of my pieces is sold?",
+            "publishAndSell": "Can I publish and sell any art I want?",
+            "howArtmoSurvive": "No commission fee, how can ARTMO survive?"
+        }
+    },
+    "perMonth": "/mo",
+    "pricingSelectLabels": {
+        "monthly": "Billed monthly,",
+        "quarterly": "Billed quarterly,",
+        "halfYearly": "Billed half yearly,",
+        "yearly": "Billed yearly,"
+    },
+    "freePricing": "free",
+    "currencySwitcher": "Currency Switcher",
+    "commission": "Commission",
+    "getText": "get",
+    "signUpText": "Sign Up",
+    "noneText": "None",
+    "includedText": "Included",
+    "notIncludedText": "Not included",
+    "vendorPaymentPopup": {
+        "yourChoice": "Your choice",
+        "price": "Price",
+        "every": "every",
+        "month": "month",
+        "months": "months",
+        "proceedToPayment": "Proceed to Payment"
+    },
+    "underagePopup": {
+        "hi": "Hi",
+        "backToProfile": "Back to Profile"
+    },
+    "productLimits": {
+        "publishAndSell": "Publish and sell...",
+        "basic": "up to 5 artworks",
+        "artistPlus": "up to 20 artworks",
+        "unlimited": "unlimited artworks"
+    },
+    "termsCondsPopup": {
+        "title": "Vendor Terms & Conditions",
+        "agreeAndProceed": "Agree and Proceed",
+        "agreeAndSubscribeTo": "Agree and Subscribe to",
+        "termsLabels": {
+            "introAgreement": "1. Introduction, Your Agreement",
+            "useOfArtmo": "2. Use of ARTMO",
+            "privacyNotice": "3. Privacy Notice",
+            "account": "4. Account",
+            "devicesServices": "5. Use of Devices and Services",
+            "modifyTerms": "6. Modification of these Terms of Service"
+        }
+    },
+    "artworkListing": {
+        "byText": "by"
+    },
+    "roleChangeWarning": "By proceeding, you agree to have your user type changed from",
+    "toText": "to",
+    "toggleMemberLabel": "For Members",
+    "toggleArtistLabel": "For Artists",
+    "pickPlanHeading": "Pick a plan that suits you.",
+    "promoteWorkHeading": "Promote and sell your art commission-free.",
+    "makeArtSeenHeading": "Sell Your Art.",
+    "categories":{
+        "artistConnectDirectly":"Connect Directly with Buyers",
+        "artistEnablePayment":"Enable Payment Gateways: Paypal, Visa, MasterCard",
+        "enableAcceptPayment":"Accept Direct Payments",
+        "artistDashboardManage":"Dashboard: Manage Collection & Account",
+        "artistShippingPolicy":"Your Own Shipping Policy",
+        "artistCreateCertificate":"Create Certificates of Authenticity for your artworks",
+        "artistHelpDesk":"ARTMO Help Desk",
+        "artistPublishArticle":"Publish and Post articles about your work and exhibitions",
+        "artistBacklinkCollection":"Back-Link your ARTMO collection on your Homepage",
+        "artistDisputeSupport":"Customer dispute mediation support",
+        "memberConnectBuyers":"Connect Directly with Buyers",
+        "memberEnablePayment":"Enable Payment Gateways: Paypal, Visa, MasterCard",
+        "memberAcceptPayment":"Accept Direct Payments",
+        "memberDashboardManage":"Dashboard: Manage Collection & Account",
+        "memberShippingPolicy":"Your Own Shipping Policy",
+        "memberHelpDesk":"ARTMO Help Desk",
+        "memberBacklinkCollection":"Back-Link your ARTMO collection on your Homepage",
+        "memberDisputeSupport":"Customer dispute mediation support",
+        "artistBadge":"Premium Seller Badge <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+        "memberBadge":"Premium Seller Badge <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+      }
+}

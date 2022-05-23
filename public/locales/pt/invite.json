@@ -1,0 +1,16 @@
+{
+  "title": "CONVIDE AMIGOS",
+  "tagsInput": {
+    "placeholder": "Adicione emails manualmente. Separe por vírgula ou pressione Enter após cada e-mail."
+  },
+  "cancelButtonLabel": "Cancelar",
+  "sendInvitesButtonLabel": "Enviar Convites",
+  "howInviteWork": "Como isso funciona?",
+  "emailTemplateText": "Posso ver o e-mail antes de enviar?",
+  "pickEmailService": "Escolha seu serviço de e-mail...",
+  "gmailText": "Gmail",
+  "outlookText": "Outlook",
+  "otherText": "Outro",
+  "selectedText": "Selecionado",
+  "emptyResultText": "Nenhum Resultado Encontrado"
+}

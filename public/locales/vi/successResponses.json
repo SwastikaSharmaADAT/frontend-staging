@@ -1,0 +1,116 @@
+{
+    "auth": {
+        "passwordResetSuccess": "Mật khẩu đã được đặt lại!",
+        "signOutMessage": "Người dùng đã đăng xuất!"
+    },
+    "articles": {
+        "articlePublish": "Đã xuất bản bài viết",
+        "articleDraft": "Bài viết đã được lưu vào bản nháp",
+        "articleUpdate": "Đã cập nhật bài viết"
+    },
+    "dashboard": {
+        "settingsSaved": "Đã lưu cài đặt"
+    },
+    "groups": {
+        "userRemoved": "Người dùng đã được xóa khỏi nhóm",
+        "assignAsModerator": "Đã chỉ định làm Mod",
+        "inviteSent": "Đã gửi lời mời",
+        "postSentForApproval": "Bài đăng gần đây của bạn đã được gửi cho Admin/Mod phê duyệt",
+        "postPublished": "Đã xuất bản bài đăng trong nhóm",
+        "groupPostAccepted": "Chấp nhận bài đăng thành công",
+        "groupPostRejected": "Từ chối bài đăng thành công",
+        "joinRequestAccepted": "Đã chấp nhận yêu cầu tham gia",
+        "joinRequestRejected": "Đã từ chối yêu cầu tham gia",
+        "groupInviteAccept": "Đã chấp nhận lời mời tham gia nhóm",
+        "groupInviteReject": "Đã bỏ qua lời mời tham gia nhóm",
+        "commentAddSuccess": "Đã thêm bình luận",
+        "groupPhotoRemove": "Đã bỏ ảnh nhóm",
+        "groupPhotoUpload": "Ảnh nhóm đã được tải lên",
+        "commentDeleted": "Đã xóa bình luận",
+        "groupPostAction": "Bài đăng đã {{type}}",
+        "joinRequest": "Yêu cầu tham gia đã {{type}}"
+    },
+    "mediaLibrary": {
+        "updatedAllMedia": "Đã cập nhật tất cả file phương tiện.",
+        "updatedMedia": "Đã cập nhật file phương tiện."
+    },
+    "newsFeed": {
+        "postPublished": "Đã xuất bản bài đăng",
+        "videoPublished": "Đã xuất bản video",
+        "photoAlbumPublished": "Đã xuất bản album ảnh",
+        "photoAlbumUpdated": "Đã cập nhật album ảnh thành công",
+        "commentAdded": "Đã thêm bình luận",
+        "commentDeleted": "Đã xóa bình luận",
+        "commentHide": "Đã ẩn bình luận",
+        "commentUnhide": "Đã hiện bình luận",
+        "commentUpdated": "Đã cập nhật bình luận",
+        "activityDeleted": "Đã xóa hoạt động"
+    },
+    "notification": {
+        "notificationRemoved": "Đã bỏ thông báo!"
+    },
+    "pages": {
+        "pageCreated": "Đã tạo trang"
+    },
+    "profile": {
+        "profilePhotoUploaded": "‘Ảnh hồ sơ đã được tải lên",
+        "coverPhotoUploaded": "Ảnh bìa đã được tải lên",
+        "profilePhotoRemoved": "Đã bỏ ảnh hồ sơ",
+        "coverPhotoRemoved": "Đã bỏ ảnh bìa",
+        "infoSaved": "Đã lưu thông tin",
+        "profileUpdated": "Đã cập nhật hồ sơ",
+        "connectionRequestSent": "Đã gửi yêu cầu kết nối",
+        "blockUser": "Người dùng đã {{type}}",
+        "blocked": "Đã chặn người dùng",
+        "unblocked": "Đã bỏ chặn người dùng",
+        "follow": "Đã theo dõi người dùng",
+        "unfollow": "Đã bỏ theo dõi người dùng",
+        "noticeDeleted": "Đã xóa thông báo",
+        "techniqueUpdate": "Đã cập nhật mục Kỹ thuật",
+        "expertiseUpdate": "Đã cập nhật mục Chuyên môn",
+        "awardUpdate": "Đã cập nhật mục Giải thưởng",
+        "publicationUpdate": "Đã cập nhật mục Công bố",
+        "exhibitionUpdate": "Đã cập nhật mục Các cuộc Triển lãm Trước đây",
+        "aboutBusinessUpdate": "Đã cập nhật mục Về Công việc Kinh doanh | Nghề nghiệp của Tôi",
+        "disconnectedFromUser": "Đã bỏ kết nối với người dùng",
+        "connectionRequestDeleted": "Đã xóa yêu cầu kết nối",
+        "connectionRequestIgnored": "Đã bỏ qua yêu cầu kết nối",
+        "userConnected": "Đã kết nối với người dùng",
+        "followUnfollowUser": "Người dùng đã {{action}}"
+    },
+    "staticContent": {
+        "inviteSent": "Đã gửi lời mời"
+    },
+    "myAccount": {
+        "privacySettingsUpdated": "Đã cập nhật cài đặt riêng tư người dùng",
+        "webNotificationsSettingsUpdated": "Đã cập nhật cài đặt thông báo web",
+        "dataDownload": "Đã tải dữ liệu thành công",
+        "picsDownload": "Đã tải ảnh thành công",
+        "passwordUpdated": "Đã cập nhật mật khẩu",
+        "notificationUpdated": "Đã cập nhật cài đặt thông báo",
+        "accountDisconnected": "Đã ngắt kết nối tài khoản của bạn",
+        "userDataDelete": "Đã xóa tất cả dữ liệu người dùng",
+        "photosDelete": "Đã xóa tất cả album và ảnh",
+        "userDelete": "Đã xóa tài khoản thành công"
+    },
+    "artworks": {
+        "artworkUpdated": "Tác phẩm Nghệ thuật của bạn đã được cập nhật.",
+        "artworkDeleted": "Đã xóa Tác phẩm Nghệ thuật",
+        "draftSave": "Tác phẩm Nghệ thuật của bạn đã được lưu trong chế độ Bản nháp",
+        "sentForReview": "Tác phẩm Nghệ thuật của bạn đã được gửi cho Admin kiểm duyệt",
+        "published": "Tác phẩm nghệ thuật của bạn đã được xuất bản thành công"
+    },
+    "profileCompletePopup": {
+        "profileUpdated": "Đã cập nhật hồ sơ thành công"
+    },
+    "subscriptions": {
+        "purchaseSuccess": "Đã mua gói đăng ký thành công",
+        "cancel": "Đã hủy bỏ đăng ký",
+        "paymentReactivate": "Đã kích hoạt lại thanh toán"
+    },
+    "messages": {
+        "chatDelete": "Đã xóa cuộc trò chuyện thành công",
+        "userBlock": "Đã chặn người dùng",
+        "messageSent": "Đã gửi tin nhắn"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "groupbarHeading": "Grupy",
+    "placeholderSearchGroups": "Szukaj grup",
+    "allCategories": "Wszystkie kategorie",
+    "noCategoriesFound": "Nie znaleziono kategorii",
+    "allTags": "Wszystkie tagi",
+    "noTagsFound": "Nie znaleziono tagów",
+    "search": "Szukaj",
+    "clear": "Wyczyść",
+    "groupListing": {
+        "confirmButtonText": "Opuść",
+        "confirmLeaveText": "Czy chcesz opuścić grupę?",
+        "sortedBy": "Sortuj",
+        "recentActivity": "Ostatnie aktualności",
+        "group": "Grupa",
+        "manageGroupLabel": "Zarządzaj ustawieniami grupy",
+        "leaveGroup": "Opuść Grupę",
+        "cancelRequest": "Usuń Zapytanie",
+        "invitedBy": "Zostałaś zaproszona przez",
+        "wouldYouJoin": "Czy chcesz dołączyć do tej grupy?",
+        "accept": "Akceptuj",
+        "ignore": "Ignoruj",
+        "lastActive": "Ostatnia aktywność",
+        "members": "użytkownik(ów)",
+        "posts": "post(ów)",
+        "noGroupsFound": "Nie znaleziono grup",
+        "loadMore": "Zobacz więcej..."
+    },
+    "toolTip": {
+        "tip1": "Każdy może dołączyć do tej grupy.",
+        "tip2": "Ta grupa będzie pokazana na liście grup i w wynikach wyszukiwania.",
+        "tip3": "Zawartość grupy będzie dostępna dla każdego użytkownika."
+    },
+    "createGroup": {
+        "placeholderName": "Nazwa",
+        "placeholderDescription": "Opis",
+        "privacyTitle": "Prywatność",
+        "privacyPublic": "Publiczna",
+        "privacyPublicContent": {
+            "point1": "Każdy może dołączyć do tej grupy.",
+            "point2": "Ta grupa będzie pokazana na liście grup i w wynikach wyszukiwania.",
+            "point3": "Zawartość grupy będzie dostępna dla każdego użytkownika."
+        },
+        "privacyPrivate": "Prywatna",
+        "privacyPrivateContent": {
+            "point1": "Tylko zaakceptowani użytkownicy mają dostęp do grupy.",
+            "point2": "Ta grupa będzie pokazana na liście grup i w wynikach wyszukiwania.",
+            "point3": "Zawartość grupy będzie dostępna tylko dla członków grupy."
+        },
+        "privacyHidden": "Ukryta",
+        "privacyHiddenContent": {
+            "point1": "Tylko zaproszeni użytkownicy mają dostęp do grupy.",
+            "point2": "Ta grupa nie będzie pokazana na liście grup i w wynikach wyszukiwania.",
+            "point3": "Zawartość grupy będzie dostępna tylko dla członków grupy."
+        },
+        "postModeration": "Moderacja",
+        "moderationTypes": {
+            "option1": "Wybierz typ moderacji postów",
+            "option2": "Autopublikacja",
+            "option3": "Publikacja tylko po moderacji"
+        },
+        "inviteFeature": "Włącz Zaproszenia do grupy",
+        "whoCanInvite": "Kto może zapraszać do grupy?",
+        "inviteOptions": {
+            "option1": "Wybierz typ zaproszenia",
+            "option2": "Administrator",
+            "option3": "Administrator i moderatorzy",
+            "option4": "Wszyscy"
+        },
+        "category": "Kategoria",
+        "placeholderCategory": "Wybierz kategorie",
+        "tags": "Tagi",
+        "placeholderTags": "Wybierz tagi",
+        "save": "Zapisz",
+        "update": "Zaktualizuj"
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "auth": {
+        "passwordResetSuccess": "비밀번호가 재설정 되었습니다!",
+        "signOutMessage": "사용자 로그아웃이 되었습니다!"
+    },
+    "articles": {
+        "articlePublish": "기사가 게시되었습니다",
+        "articleDraft": "기사 초안이 저장되었습니다",
+        "articleUpdate": "기사가 업데이트되었습니다"
+    },
+    "dashboard": {
+        "settingsSaved": "설정이 저장되었습니다"
+    },
+    "groups": {
+        "userRemoved": "사용자가 그룹에서 삭제되었습니다",
+        "assignAsModerator": "중재자로 지명되었습니다",
+        "inviteSent": "초대가 발송되었습니다",
+        "postSentForApproval": "승인을 위하여 최신 게시물이 관리자/중재자에게 보내졌습니다",
+        "postPublished": "그룹 게시물이 발행되었습니다",
+        "groupPostAccepted": "게시물이 정상적으로 받아들여졌습니다",
+        "groupPostRejected": "게시물이 정상적으로 거부되었습니다",
+        "joinRequestAccepted": "가입 요청이 수락되었습니다",
+        "joinRequestRejected": "가입 요청이 거부되었습니다",
+        "groupInviteAccept": "그룹 초대가 수락되었습니다",
+        "groupInviteReject": "그룹 초대가 무시되었습니다",
+        "commentAddSuccess": "추가된 댓글",
+        "groupPhotoRemove": "그룹 사진이 삭제되었습니다",
+        "groupPhotoUpload": "그룹 사진이 업로드 되었습니다",
+        "commentDeleted": "댓글이 삭제되었습니다",
+        "groupPostAction": "포스트가 {{type}}되었습니다",
+        "joinRequest": "가입 요청이{{type}}되었습니다"
+    },
+    "mediaLibrary": {
+        "updatedAllMedia": "모든 미디어 파일을 업데이트 하였습니다",
+        "updatedMedia": "미디어 파일을 업데이트 하였습니다"
+    },
+    "newsFeed": {
+        "postPublished": "게시물이 발행되었습니다",
+        "videoPublished": "비디오가 발행되었습니다",
+        "photoAlbumPublished": "사진 앨범이 발행되었습니다",
+        "photoAlbumUpdated": "포토 앨범이 성공적으로 업데이트되었습니다.",
+        "commentAdded": "댓글이 추가되었습니다",
+        "commentDeleted": "댓글이 삭제되었습니다",
+        "commentHide": "댓글을 숨겼습니다",
+        "commentUnhide": "댓글 숨김을 해제하였습니다",
+        "commentUpdated": "댓글을 업데이트하였습니다",
+        "activityDeleted": "활동이 삭제되었습니다"
+    },
+    "notification": {
+        "notificationRemoved": "알림이 삭제되었습니다!"
+    },
+    "pages": {
+        "pageCreated": "생성된 페이지"
+    },
+    "profile": {
+        "profilePhotoUploaded": "의 프로필 사진이 업로드 되었습니다",
+        "coverPhotoUploaded": "커버 사진이 업로드 되었습니다",
+        "profilePhotoRemoved": "프로필 사진이 삭제되었습니다",
+        "coverPhotoRemoved": "커버 사진이 삭제되었습니다",
+        "infoSaved": "정보가 저장되었습니다",
+        "profileUpdated": "프로필이 업데이트 되었습니다",
+        "connectionRequestSent": "연결 요청을 보냈습니다",
+        "blockUser": "사용자가 {{type}}했습니다",
+        "blocked": "사용자가 차단되었습니다",
+        "unblocked": "사용자 차단이 해제되었습니다",
+        "follow": "사용자가 팔로우되었습니다",
+        "unfollow": "사용자가 언팔로우되었습니다",
+        "noticeDeleted": "안내문을 지웠습니다",
+        "techniqueUpdate": "테크닉 섹션이 업데이트 되었습니다",
+        "expertiseUpdate": "전문지식 섹션이 업데이트 되었습니다",
+        "awardUpdate": "입상 섹션이 업데이트 되었습니다",
+        "publicationUpdate": "출판물 섹션이 업데이트 되었습니다",
+        "exhibitionUpdate": "지난 전시회 섹션이 업데이트 되었습니다",
+        "aboutBusinessUpdate": "나의 비즈니스|직업 섹션이 업데이트 되었습니다",
+        "disconnectedFromUser": "사용자로부터 연결을 끊었씁니다",
+        "connectionRequestDeleted": "연결 요청을 삭제하였습니다",
+        "connectionRequestIgnored": "연결 요청을 무시하였습니다",
+        "userConnected": "사용자가 연결되었습니다",
+        "followUnfollowUser": "사용자가 {{action}}했습니다"
+    },
+    "staticContent": {
+        "inviteSent": "초대를 보냈습니다"
+    },
+    "myAccount": {
+        "privacySettingsUpdated": "사용자 프라이버시 설정이 업데이트 되었습니다",
+        "webNotificationsSettingsUpdated": "웹 알림 설정이 업데이트 되었습니다",
+        "dataDownload": "데이터가 성공적으로 다운로드 되었습니다",
+        "picsDownload": "사진이 성공적으로 다운로드 되었습니다",
+        "passwordUpdated": "비밀번호가 업데이트 되었습니다",
+        "notificationUpdated": "아림 설정이 업데이트 되었습니다",
+        "accountDisconnected": "계정이 연결 해제되었습니다",
+        "userDataDelete": "사용자의 모든 데이터가 삭제됩니다",
+        "photosDelete": "모든 앨범과 사진이 삭제됩니다",
+        "userDelete": "계정을 성공적으로 삭제했습니다"
+    },
+    "artworks": {
+        "artworkUpdated": "귀하의 예술작품이 업데이트 되었습니다",
+        "artworkDeleted": "예술작품이 삭제되었습니다",
+        "draftSave": "귀하의 예술작품이 초안 모드로 저장되었습니다",
+        "sentForReview": "승인을 위하여 예술작품이 관리자에게 전송되었습니다",
+        "published": "당신의 예술 작품이 성공적으로 게시되었습니다"
+    },
+    "profileCompletePopup": {
+        "profileUpdated": "프로필이 성공적으로 업데이트가 되었습니다."
+    },
+    "subscriptions": {
+        "purchaseSuccess": "성공적으로 구독했습니다",
+        "cancel": "구독 취소가 되었습니다",
+        "paymentReactivate": "결제가 다시 활성화되었습니다"
+    },
+    "messages": {
+        "chatDelete": "채팅이 성공적으로 삭제되었습니다",
+        "userBlock": "사용자가 차단되었습니다",
+        "messageSent": "메시지 보냄"
+    }
+}

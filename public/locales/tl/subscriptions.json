@@ -1,0 +1,103 @@
+{
+    "title": "SUBSKRIPSYON NG VENDOR",
+    "artistPage": {
+        "sectionLabels": {
+            "sellCommissionFree": "Ibenta ang Iyong Art nang Walang Komisyon",
+            "connectWithCollectors": "Kumonekta sa mga Kolektor nang Direkta",
+            "cancelSubscription": "Kanselahin ang Iyong Subskripsyon Kahit  Kailan",
+            "basicPlan": "ANG BASIC PLAN ay LIBRE"
+        }
+    },
+    "memberPage": {
+        "chooseThePlan": "Pumili ng PLAN na pinakabagay sa iyo...",
+        "planLabels": {
+            "plus": "Plus",
+            "pro": "Pro",
+            "lifetime": "Lifetime"
+        },
+        "gatewayFees": "Gateway Fees",
+        "cancelAnytime": "Kanselahin anumang oras"
+    },
+    "faq": {
+        "title": "Mga Tanong na Madalas Itanong",
+        "askQuestion": "Magtanong",
+        "questionLabels": {
+            "subscriptionFee": "Bakit ko kailangang magbayad ng subskripsyon?",
+            "basicAccount": "Ang BASIC account ba ay isang libreng trial lang?",
+            "cancelSubscription": "Maaari ba akong magkansela ng account at makakuha ng refund?",
+            "paymentForSelling": "Paano at kailan ako mababayaran kapag ang isa sa mga piece ay naibenta?",
+            "publishAndSell": "Maaari ba akong mag-publish at magbenta ng anumang art na gusto ko?",
+            "howArtmoSurvive": "Walang bayad sa komisyon, paano nakapagpapatuloy ang ARTMO?"
+        }
+    },
+    "perMonth": "/buwan",
+    "pricingSelectLabels": {
+        "monthly": "Bini-bill kada buwan,",
+        "quarterly": "Bini-bill kada quarter,",
+        "halfYearly": "Bini-bill kada kalahating taon,",
+        "yearly": "Bini-bill kada Taon,"
+    },
+    "freePricing": "Libre",
+    "currencySwitcher": "Currency Switcher",
+    "commission": "Komisyon",
+    "getText": "kunin",
+    "signUpText": "Mag-Sign Up",
+    "noneText": "Wala",
+    "includedText": "Kasama",
+    "notIncludedText": "Hindi Kasama",
+    "vendorPaymentPopup": {
+        "yourChoice": "Iyong Pagpipili",
+        "price": "Presyo",
+        "every": "kada",
+        "month": "buwan",
+        "months": "mga buwan",
+        "proceedToPayment": "Tumungo sa Pagbabayad"
+    },
+    "underagePopup": {
+        "hi": "Hi",
+        "backToProfile": "Bumalik sa Profile"
+    },
+    "productLimits": {
+        "publishAndSell": "Mag-publish at magbenta...",
+        "basic": "hanggang sa 5 mga artwork",
+        "artistPlus": "hanggang sa 20 mga artwork",
+        "unlimited": "walang limitasyong mga artwork"
+    },
+    "termsCondsPopup": {
+        "title": "Mga Termino at Kondisyon ng Vendor",
+        "agreeAndProceed": "Sumang-ayon at Tumuloy",
+        "agreeAndSubscribeTo": "Sumang-ayon at Mag-subscribe sa"
+    },
+    "artworkListing": {
+        "byText": "ni"
+    },
+    "roleChangeWarning": "Sa pagpapatuloy, sumasang-ayon ka na ang iyong tipo ng user ay nabago mula sa",
+    "toText": "sa",
+    "toggleMemberLabel": "Para sa mga Miyembro",
+    "toggleArtistLabel": "Para sa mga Artista",
+    "pickPlanHeading": "Pumili ng plan na nababagay sa iyo.",
+    "promoteWorkHeading": "I-promote at ibenta ang iyong art nang walang komisyon.",
+    "makeArtSeenHeading": "Ibenta ang iyong Art.",
+    "categories":{
+        "artistConnectDirectly":"Direktang Kumonekta sa Mga Mamimili",
+        "artistEnablePayment":"Paganahin ang Mga Gateway ng Pagbabayad: Paypal, Visa, MasterCard",
+        "enableAcceptPayment":"Tanggapin ang Mga Direktang Pagbabayad",
+        "artistDashboardManage":"Dashboard: Pamahalaan ang Koleksyon at Account",
+        "artistShippingPolicy":"Ang Iyong Sariling Patakaran sa Pagpapadala",
+        "artistCreateCertificate":"Lumikha ng Mga Sertipiko ng Awtentisidad para sa iyong mga art",
+        "artistHelpDesk":"Help Desk ng ARTMO",
+        "artistPublishArticle":"Mag-publish at Mag-post ng mga artikulo tungkol sa iyong propesyon at mga eksibisyon",
+        "artistBacklinkCollection":"Iback-link ang iyong koleksyon ng ARTMO sa iyong Homepage",
+        "artistDisputeSupport":"Suporta sa pamamagitan ng hindi pagkakaunawaan ng customer",
+        "memberConnectBuyers":"Direktang Kumonekta sa Mga Mamimili",
+        "memberEnablePayment":"Paganahin ang Mga Gateway ng Pagbabayad: Paypal, Visa, MasterCard",
+        "memberAcceptPayment":"Tanggapin ang Mga Direktang Pagbabayad",
+        "memberDashboardManage":"Dashboard: Pamahalaan ang Koleksyon at Account",
+        "memberShippingPolicy":"Ang Iyong Sariling Patakaran sa Pagpapadala",
+        "memberHelpDesk":"Help Desk ng ARTMO",
+        "memberBacklinkCollection":"Iback-link ang iyong koleksyon ng ARTMO sa iyong Homepage",
+        "memberDisputeSupport":"Suporta sa pamamagitan ng hindi pagkakaunawaan ng customer",
+        "artistBadge":"Premium Seller Badge <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+        "memberBadge":"Premium Seller Badge <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+      }
+}

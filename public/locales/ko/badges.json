@@ -1,0 +1,20 @@
+{
+    "title": "배지",
+    "promoteProfileSection": {
+        "title": "프로필 홍보",
+        "description": "당신의 웹 사이트에 ARTMO 프로필에 대한 링크를 삽입했습니다.",
+        "getLinkButton": "링크 얻기"
+    },
+    "badgeSections": {
+        "step1": "1단계: 색상 선택:",
+        "whiteRadioOption": "흰색",
+        "blackRadioOption": "검은색",
+        "step2": "2단계: 사이즈 선택:",
+        "largeRadioOption": "라지",
+        "smallRadioOption": "스몰",
+        "step3": "3단계: 웹 사이트에 코드 복사하여 붙여넣기:",
+        "copyButtonText": "코드 복사하기",
+        "copiedButtonText": "복사됨!",
+        "helpText": "도움말"
+    }
+}

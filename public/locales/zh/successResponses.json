@@ -1,0 +1,116 @@
+{
+    "auth": {
+        "passwordResetSuccess": "密码已重置!",
+        "signOutMessage": "用户已注销!"
+    },
+    "articles": {
+        "articlePublish": "发布的文章",
+        "articleDraft": "文章保存到草稿",
+        "articleUpdate": "文章已更新"
+    },
+    "dashboard": {
+        "settingsSaved": "设置已保存"
+    },
+    "groups": {
+        "userRemoved": "用户已从组中删除",
+        "assignAsModerator": "指定为主持人",
+        "inviteSent": "邀请已发送",
+        "postSentForApproval": "您最近的帖子已发送给管理员/版主审批",
+        "postPublished": "群贴发布",
+        "groupPostAccepted": "帖子已被成功接受",
+        "groupPostRejected": "帖子已被拒绝",
+        "joinRequestAccepted": "加入请求已被接受",
+        "joinRequestRejected": "加入请求已被拒绝",
+        "groupInviteAccept": "已接受群邀请",
+        "groupInviteReject": "已忽略群邀请",
+        "commentAddSuccess": "评论添加",
+        "groupPhotoRemove": "已移除群照片",
+        "groupPhotoUpload": "已更新群照片",
+        "commentDeleted": "评论已删除",
+        "groupPostAction": "发布 {{type}}成功",
+        "joinRequest": "加入请求 {{type}}成功"
+    },
+    "mediaLibrary": {
+        "updatedAllMedia": "已更新所有媒体文件.",
+        "updatedMedia": "更新的媒体文件."
+    },
+    "newsFeed": {
+        "postPublished": "帖子已发布",
+        "videoPublished": "视频已发布",
+        "photoAlbumPublished": "相册已发布",
+        "photoAlbumUpdated": "相册更新成功",
+        "commentAdded": "评论已添加",
+        "commentDeleted": "评论已删除",
+        "commentHide": "评论隐藏",
+        "commentUnhide": "取消评论隐藏",
+        "commentUpdated": "评论已更新",
+        "activityDeleted": "活动已删除"
+    },
+    "notification": {
+        "notificationRemoved": "通知已删除!"
+    },
+    "pages": {
+        "pageCreated": "页面已创建"
+    },
+    "profile": {
+        "profilePhotoUploaded": "'个人资料照片已上传",
+        "coverPhotoUploaded": "封面照片已上传",
+        "profilePhotoRemoved": "个人资料照片已移除",
+        "coverPhotoRemoved": "封面照片已移除",
+        "infoSaved": "信息已保存",
+        "profileUpdated": "简介已更新",
+        "connectionRequestSent": "已发送连接请求",
+        "blockUser": "用户已 {{type}}设定",
+        "blocked":"用户已阻止",
+        "unblocked":"用户未阻止",
+        "follow":"用户已被关注",
+        "unfollow":"用户已取消关注",
+        "noticeDeleted": "通知已删除",
+        "techniqueUpdate": "技术部分更新",
+        "expertiseUpdate": "专业知识部分已更新",
+        "awardUpdate": "奖项部分已更新",
+        "publicationUpdate": "出版物部分已更新",
+        "exhibitionUpdate": "过往展出部分已更新",
+        "aboutBusinessUpdate": "关于我的业务|专业部分已更新",
+        "disconnectedFromUser": "已断开与用户的连接",
+        "connectionRequestDeleted": "已删除连接请求",
+        "connectionRequestIgnored": "已忽略连接请求",
+        "userConnected": "用户已连接",
+        "followUnfollowUser": "用户已被 {{action}}设定"
+    },
+    "staticContent": {
+        "inviteSent": "邀请已发送"
+    },
+    "myAccount": {
+        "privacySettingsUpdated": "用户隐私设置已更新",
+        "webNotificationsSettingsUpdated": "网站通知设置已更新",
+        "dataDownload": "数据下载成功",
+        "picsDownload": "图片下载成功",
+        "passwordUpdated": "密码已更新",
+        "notificationUpdated": "通知设置已更新",
+        "accountDisconnected": "您的帐户已断开连接",
+        "userDataDelete":"已删除所有用户数据",
+        "photosDelete":"已删除所有相册和照片",
+        "userDelete":"已成功删除帐户"
+    },
+    "artworks": {
+        "artworkUpdated": "您的作品已更新.",
+        "artworkDeleted": "作品已删除",
+        "draftSave": "您的作品已以草稿模式保存",
+        "sentForReview": "您的作品已送交管理员审核",
+        "published":"您的作品已成功发布"
+    },
+    "profileCompletePopup": {
+        "profileUpdated": "介绍更新成功"
+    },
+    "subscriptions": {
+        "purchaseSuccess": "购买订阅成功",
+        "cancel": "订阅已取消",
+        "paymentReactivate":"重新激活付款"
+    },
+    "messages": {
+        "chatDelete": "删除聊天记录成功",
+        "userBlock": "用户被阻止",
+        "messageSent":"消息已发送"
+    }
+}

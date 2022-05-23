@@ -1,0 +1,16 @@
+{
+  "title": "הזמן חברים",
+  "tagsInput": {
+    "placeholder": "הוסף מיילים ידנית. הפרד בפסיק או הקש אנטר לאחר כל דוא\"ל."
+  },
+  "cancelButtonLabel": "בטל",
+  "sendInvitesButtonLabel": "שלח הזמנות",
+  "howInviteWork": "איך זה עובד?",
+  "emailTemplateText": "האם אוכל לראות את הדוא\"ל לפני שליחה?",
+  "pickEmailService": "בחר את שירות הדוא\"ל שלך....",
+  "gmailText": "ג'ימייל",
+  "outlookText": "אאוטלוק",
+  "otherText": "אחר",
+  "selectedText": "נבחר",
+  "emptyResultText": "לא נמצאו תוצאות"
+}

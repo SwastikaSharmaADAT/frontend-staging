@@ -1,0 +1,10 @@
+{
+    "title": "VIDEO",
+    "listing": {
+        "placeholderSearch": "Cerca i video per titolo...",
+        "search": "Cerca",
+        "country": "nazione:",
+        "category": "Categoria:",
+        "userType": "Tipo utente:"
+    }
+}

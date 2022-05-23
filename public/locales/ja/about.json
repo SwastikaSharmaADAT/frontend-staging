@@ -1,0 +1,27 @@
+{
+    "about": "about",
+    "labels": {
+        "option1": "アートネットワーク",
+        "option2": "ショップ",
+        "option3": "チーム",
+        "option4": "キャリア",
+        "option5": "IP",
+        "option6": "免責事項",
+        "option7": "利用規約 & ポリシー",
+        "option8": "IR情報"
+    },
+    "career": {
+        "jobOpening": {
+            "title": "求人情報"
+        },
+        "lisbonPortugal": {
+            "title": "リスボン | ポルトガル",
+            "option1": "インターンシップ",
+            "option2": "ソーシャルメディアマネージャー & デジタルマーケター",
+            "option3": "WooCommerceエキスパート"
+        },
+        "hamburgGermany": {
+            "title": "ハンブルグ | ドイツ"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "NOOI VRIENDE UIT",
+  "tagsInput": {
+    "placeholder": "Voeg e-pos handmatig by. Skei deur 'n komma of druk Enter na elke e-pos."
+  },
+  "cancelButtonLabel": "Kanselleer",
+  "sendInvitesButtonLabel": "Stuur Uitnodigings",
+  "howInviteWork": "Hoe werk dit?",
+  "emailTemplateText": "Kan ek die e-pos sien voordat ek dit stuur?",
+  "pickEmailService": "Kies u e-pos diens...",
+  "gmailText": "Gmail",
+  "emailText": "E-pos",
+  "outlookText": "Outlook",
+  "otherText": "Ander",
+  "selectedText": "Gekies",
+  "emptyResultText": "Geen Resultate Gevind"
+}

@@ -1,0 +1,20 @@
+{
+    "myConnectionsLabel": "I miei collegamenti",
+    "connectionRequests": "Richieste di collegamento",
+    "connectionRequestsSent": "Richieste di connessione inviate",
+    "follower": "seguace",
+    "followerPlural": "seguaci",
+    "disconnected": "collegamento eliminato",
+    "disconnect": "eliminare collegamento",
+    "loadMore": "Carica altri...",
+    "noConnections": "Nessuna connessione",
+    "ignore": "Ignora",
+    "ignored": "Ignorato",
+    "connect": "connetti",
+    "connected": "connesso",
+    "noConnectionRequestsReceived": "Nessuna richiesta di connessione ricevuta",
+    "noConnectionRequestsSent": "Nessuna richiesta di connessione inviata",
+    "requestDeleted": "Richiesta eliminata",
+    "deleteRequest": "Eliminare richiesta",
+    "noConnectionRequests": "Nessuna richiesta di connessione ricevuta"
+}

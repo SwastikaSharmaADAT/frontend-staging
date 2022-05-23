@@ -1,0 +1,62 @@
+{
+    "createPost": {
+        "title": "投稿を作成",
+        "editPhoto": "写真を編集",
+        "addPhoto": "写真を追加",
+        "characterLimit": "/500",
+        "publish": "公開",
+        "placeholderWriteSomething": "何か書く..."
+    },
+    "groupBarHead": {
+        "leave": "退出",
+        "confirmLeave": "グループを退出します。よろしいですか？",
+        "uploadPhoto": "写真をアップロード",
+        "removePhoto": "写真を変更",
+        "changePhoto": "写真を削除",
+        "group": "グループ",
+        "leaveGroup": "グループを退出",
+        "joinGroup": "グループに参加",
+        "lastActive": "最終アクティブ",
+        "members": " メンバー",
+        "posts": "投稿",
+        "editGroupSettings": "グループ設定を編集",
+        "Leave": "退出"
+    },
+    "memberSection": {
+        "title": "グループメンバー",
+        "members": "メンバー",
+        "seeAll": "すべて見る..."
+    },
+    "invite": {
+        "title": "コネクションを招待",
+        "seeAll": "すべて見る",
+        "invited": "招待済み",
+        "follower": "フォロワー",
+        "followerPlural": "フォロワー",
+        "allConnectionsInvited": "すべてのコネクションが招待されました。",
+        "noConnectionsToInvite": "招待するコネクションがありません",
+        "inviteTo": "招待する",
+        "invite": "招待する",
+        "loading": "ローディング..."
+    },
+    "joinRequests": {
+        "title": "参加リクエスト",
+        "follower": "フォロワー",
+        "followerPlural": "フォロワー",
+        "reject": "拒否",
+        "accept": "許可",
+        "noMoreRequests": "参加リクエストはありません"
+    },
+    "listingPopup": {
+        "remove": "削除",
+        "admin": "(管理者)",
+        "moderator": "(モデレーター)",
+        "follower": "フォロワー",
+        "followerPlural": "フォロワー",
+        "assignModerator": "モデレーターとしてアサイン",
+        "removeFromGroup": " グループから削除",
+        "addedAsModerator": "モデレーターとして追加済み",
+        "deleteConfirm": "このユーザーを削除します。よろしいですか？"
+    },
+    "notAuthorized": "認証されていません"
+}

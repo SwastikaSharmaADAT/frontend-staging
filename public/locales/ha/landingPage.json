@@ -1,0 +1,69 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Fasalin mu na Yau",
+        "seeMore": "Duba saura ..."
+    },
+    "loggedOutBanner": {
+        "title": "Barka da Zuwa",
+        "title2": "Al'ummar Zanuka",
+        "descr": "Ko zane abin sha'awa ne wajen ka  ko sana'a, kazo  inda ya kamata.",
+        "joinInBtnText": "Kayi Rajista a Kyauta",
+        "network": "Netwok",
+        "blog": "Blog",
+        "news": "Labarai",
+        "group": "Rukuni",
+        "marketplace": "Cikin Kasuwa",
+        "whatIsArtmo": "Menene ARTMO?",
+        "learnMore": "Koyi saura ...",
+        "signUp": "Rajista Kyauta",
+        "logIn": "Shiga Ciki",
+        "videos": "Bidiyo",
+        "exhibition": "Nune-nune",
+        "gallery": "galleries"
+    },
+    "usersListing": {
+        "title": "NETWOK DIN ZANE",
+        "follower": "mai bi",
+        "followers": "masu bi",
+        "unfollow": "Daina bi",
+        "follow": "Bibiya",
+        "seeMore": "Kalli Saura",
+        "following": "Bibiya"
+    },
+    "gridSection": {
+        "home": "SHAFIN FARKO",
+        "artists": "MASU ZANE",
+        "galleries": "HOTUNAN ZANE",
+        "exhibitions": "NUNA ZANUKA",
+        "users": "MASU AMFANI",
+        "artwork": "ZANUKA",
+        "genres": "NAU'O'I",
+        "universities": "JAMI'O'I"
+    },
+    "artworkSection": {
+        "title": "SABBIN ZANUKA",
+        "priceOnRequest": "Farashi bisa Nema",
+        "artist": "Mai Zane",
+        "member": "Memba",
+        "seeMore": "Kalli saura ..."
+    },
+    "buzzSection": {
+        "title": "BUZZ",
+        "seeMore": "Kalli saura ..."
+    },
+    "videosSection": {
+        "title": "BIDIYOYI",
+        "seeMore": "Kalli saura ..."
+    },
+    "exhibitionsSection": {
+        "title": "NUNA ZANUKA",
+        "seeMore": "Kalli saura ..."
+    },
+    "potdSection": {
+        "title": "HOTON YAU",
+        "seeMore": "Kalli saura ..."
+    },
+    "joinInSection": {
+        "joinInTitle": "Yi rajista, kyauta ne."
+    }
+}

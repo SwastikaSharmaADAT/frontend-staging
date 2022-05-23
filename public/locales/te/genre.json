@@ -1,0 +1,47 @@
+{
+    "title": "కళా ప్రక్రియ",
+    "tabs": {
+        "genre": "కళా ప్రక్రియ",
+        "media": "మాధ్యమం",
+        "timePeriod": "కాలమానము",
+        "genreSubTabs": {
+            "definition": "నిర్వచనం",
+            "abstractExpressionism": "ఆబ్స్ట్రాక్ట్ ఎక్సప్రెషనిజం",
+            "abstract": "ఆబ్స్ట్రాక్ట్",
+            "calligraphy": "కాలిగ్రఫీ",
+            "conceptual": "కాన్సెప్టువల్",
+            "concrete": "కాంక్రీట్",
+            "constructivism": "కన్స్ట్రక్టివిజం",
+            "cubism": "క్యూబిజం",
+            "documentary": "డాక్యుమెంటరీ",
+            "expressionism": "ఎక్సప్రెషనిజం",
+            "fantastic": "ఫెంటాస్టిక్",
+            "figurative": "ఫిగరేటివ్",
+            "illustration": "ఇల్లుస్ట్రేషన్",
+            "impressionism": "ఇంప్రెషనిజం",
+            "magicalRealism": "మ్యాజికల్ రియలిజం",
+            "minimalism": "మినిమలిజం",
+            "naiveArt": "నాయివ్ ఆర్ట్",
+            "pop": "పాప్",
+            "realism": "రియలిజం",
+            "surrealism": "సర్రియలిజం"
+        },
+        "mediaSubTabs": {
+            "definition": "నిర్వచనం",
+            "collage": "దృశ్య రూపకల్పన",
+            "design": "రూపకల్పన",
+            "digital": "డిజిటల్",
+            "drawing": "రేఖాచిత్రం",
+            "mixed": "మిశ్రమమైనవి",
+            "multimedia": "మల్టీమీడియా",
+            "newMedia": "కొత్త మీడియా",
+            "painting": "చిత్రలేఖనం",
+            "sculpture": "శిల్పం"
+        },
+        "timeperiodSubTabs": {
+            "definition": "నిర్వచనం",
+            "contemporary": "సమకాలీన",
+            "modern": "ఆధునిక"
+        }
+    }
+}

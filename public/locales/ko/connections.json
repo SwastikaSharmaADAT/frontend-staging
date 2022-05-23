@@ -1,0 +1,20 @@
+{
+    "myConnectionsLabel": "내 연결(Connection)",
+    "connectionRequests": "연결 요청",
+    "connectionRequestsSent": "연결 요청을 보냈습니다",
+    "follower": "팔로워",
+    "followerPlural": "팔로워",
+    "disconnected": "연결이 끊어졌습니다",
+    "disconnect": "연결 끊기",
+    "loadMore": "더 불러오기",
+    "noConnections": "연결이 없습니다",
+    "ignore": "무시하기",
+    "ignored": "무시되었습니다",
+    "connect": "연결하기",
+    "connected": "연결되었습니다",
+    "noConnectionRequestsReceived": "수신된 연결 요청이 없습니다",
+    "noConnectionRequestsSent": "연결 요청을 보내지 않음",
+    "requestDeleted": "요청이 삭제되었습니다",
+    "deleteRequest": "요청 삭제",
+    "noConnectionRequests": "수신된 연결 요청이 없습니다"
+}

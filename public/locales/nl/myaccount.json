@@ -1,0 +1,161 @@
+{
+    "leftTabs": {
+        "account": "Account",
+        "changePassword": "Change Password",
+        "setPassword": "Set Password",
+        "privacy": "Privacy",
+        "notifications": "Notifications",
+        "webNotifications": "Web Notifications",
+        "socialConnect": "Social Connect",
+        "myPhotos": "My Photos",
+        "deleteAccount": "Delete Account"
+    },
+    "account": {
+        "title": "Account",
+        "username": "Username",
+        "firstname": "First Name",
+        "lastname": "Last Name",
+        "pagename": "Page Name",
+        "email": "Email Address",
+        "updateAccount": "Update Account",
+        "validationErrors": {
+            "firstname": "First name is required",
+            "lastname": "Last name is required",
+            "firstnameLength": "Must be 50 characters or less",
+            "lastnameLength": "Must be 50 characters or less",
+            "pagename": "Page name is required",
+            "pagenameLength": "Must be 50 characters or less"
+        }
+    },
+    "changePassword": {
+        "changeTitle": "Change Password",
+        "setTitle": "Set Password",
+        "currentPassword": "Current Password",
+        "newPassword": "New Password",
+        "confirmPassword": "Confirm Password",
+        "updatePassword": "Update Password",
+        "validationErrors": {
+            "currentPassword": "Please enter your current password",
+            "newPassword": "Please enter a new password",
+            "confirmPassword": "Please confirm your new password",
+            "passConditions": "Must contain 8 characters, atleast one Uppercase, one Lowercase and one Number",
+            "passNotMatch": "Passwords do not match"
+        }
+    },
+    "notifications": {
+        "title": "Notifications",
+        "description": "Select what email notifications do you want to receive",
+        "headings": {
+            "followers": "Followers",
+            "friends": "Friends",
+            "posts": "Posts",
+            "messages": "Messages"
+        },
+        "checkboxLabels": {
+            "newFollowers": "I'm Followed By Someone New",
+            "newConnectionAdded": "I Have Got A New Connection",
+            "newConnectionRequest": "I Have Got A New Connection Request",
+            "groupPost": "Notify Me When Someone Posts On Group",
+            "groupComments": "Notify Me When Someone Comments On Group",
+            "privateMessage": "Someone Sends Me A Private Message",
+            "unreadMessage": "I Have An Unread Message"
+        },
+        "updateNotifications": "Update Notifications"
+    },
+    "privacy": {
+        "title": "Privacy",
+        "profilePrivacy": "Profile Privacy",
+        "showProfileOptions": {
+            "everyone": "Everyone",
+            "onlyMe": "Only Me",
+            "following": "Only people I follow can view my profile",
+            "followers": "Followers",
+            "connections": "Connections Only"
+        },
+        "tooltips": {
+            "tip1": "Who can see your public profile?",
+            "tip2": "Here you can hide yourself from appearing in public directory",
+            "tip3": "Do you want other people to see that you are online?",
+            "tip4": "You can request a file with the information that we believe is most relevant and useful to you.",
+            "tip5": "You can request erasing of the data that we have about you."
+        },
+        "hideProfile": "Hide my profile from directory",
+        "yes": "Yes",
+        "no": "No",
+        "showOnlineStatus": "Show my online status",
+        "activityWall": "Who can see your activity wall?",
+        "activityWallOptions": {
+            "public": "Public",
+            "onlyMe": "Only Me",
+            "followers": "Followers",
+            "following": "People I follow"
+        },
+        "privateMessage": "Who can send me private messages?",
+        "privateMessageOptions": {
+            "everyone": "Everyone",
+            "nobody": "Nobody",
+            "following": "Only people I follow",
+            "followers": "Followers",
+            "connections": "Connected"
+        },
+        "downloadData": "Download your data",
+        "downloadDataDescription": "Enter your current password to confirm a new export of your personal data.",
+        "downloadDataButton": "Request data",
+        "eraseData": "Erase your data",
+        "eraseDataDescription": "Enter your current password to confirm an erasure of your personal data.",
+        "eraseDataButton": "Request data erase",
+        "updatePrivacyButton": "Update Privacy"
+    },
+    "webNotifications": {
+        "title": "Web Notifications",
+        "description": "Receiving Notifications",
+        "checkboxLabels": {
+            "newReplies": "When A Member Replies To One Of My Comments",
+            "newComments": "When A Member Comments On My Posts",
+            "viewProfile": "When A Member Views My Profile",
+            "privateMessage": "When Someone Sends A Private Message To Me",
+            "newFollower": "When Someone Follows Me",
+            "newConnection": "When Someone Requests To Connect",
+            "acceptConnection": "When Someone Accepts Connection",
+            "newLike": "When Someone Likes Your Post",
+            "newMention": "When Someone Mentions Me",
+            "groupRequestApproved": "When My Group Requests Have Been Approved",
+            "newGroupRequest": "When A User Requested To Join My Group",
+            "groupInvitation": "When A Member Has Invited To Join A Group",
+            "groupRole": "When My Group Roles Have Been Changed",
+            "likeArtwork": "When Someone Likes An Artwork"
+        },
+        "updateSettingsButton": "Update Notifications"
+    },
+    "socialConnect": {
+        "title": "Social Connect",
+        "notConnected": "You are not connected to any social media account.",
+        "disconnectFacebook": "Disconnect from Facebook",
+        "disconnectLinkedin": "Disconnect from LinkedIn",
+        "passwordWarning": "*Please set your password before disconnecting the account"
+    },
+    "myPhotos": {
+        "title": "My Photos",
+        "warningText": "Once photos and albums are deleted, they are deleted permanently and cannot be recovered.",
+        "button1": "Download my photos",
+        "button2": "Delete my all albums & photos",
+        "downloadWarning": "* Download my photos task can take some time to complete depending upon the number of photos uploaded.",
+        "imagesWarning": "Are you sure you want to delete your all albums & images?",
+        "buttonDelete": "delete"
+    },
+    "deleteAccount": {
+        "title": "Delete Account",
+        "warningText": "Are you sure you want to delete your account? This will erase all of your account data from the site. To delete your account enter your password below",
+        "button": "Delete account",
+        "password": "Password",
+        "passwordWarning": "*Please set your password before disconnecting the account",
+        "managePaymentsTitle": "Manage Payments for Vendor Subscription",
+        "managePaymentsText": "If you want to stop payments you don't need to delete your profile.<br/>You can keep it.<br/>You can easily downgrade to the FREE BASIC plan with no futher payments required.",
+        "managePaymentsText2": "See on your dashboard",
+        "managePaymentsQuoteText": "Downgrade Your Subscription",
+        "managePaymentsButtonText": "Go to Dashboard > Subscription"
+    },
+    "imageContainer": {
+        "viewProfile": "View Profile"
+    }
+}

@@ -1,0 +1,37 @@
+  {
+  "title": "礼品卡",
+  "linkToMyGiftCard": "查看你的礼品卡",
+  "giftCardSection": {
+    "title": "推广你的资料",
+    "description": "在你的网页上嵌入你的ARTMO简介的链接.",
+    "getLinkButton": "获取链接"
+  },
+  "giftCardContent": {
+    "singular": "礼品卡",
+    "title": "通过电子邮件发送一张ARTMO礼品卡。收件人可以用它来购买艺术品。",
+    "selectAmount": "选择金额:",
+    "quesion": "把这张礼品卡送给...",
+    "namePlaceholder": "插入姓名",
+    "emailPlaceholder": "插入电子邮件",
+    "lastNote": "卡的信息将在 "我的账户 "中提供。你账户电子邮件中将会收到确认收据的邮件。",
+    "buttonText": "继续结账",
+    "hello": "你好",
+    "sentFrom": "这是您的礼品卡，来自...",
+    "use": "使用此卡购买艺术品。",
+    "seeHere": "在这里看艺术作品...",
+    "expiryDate": "* 过期: "
+  },
+  "myGiftCardContent": {
+    "title": "您的礼品卡:",
+    "to": "致",
+    "name": " Bjorn Andersen",
+    "validUntil": "有效期至",
+    "purchasedOn": "购买日期",
+    "used": "已使用",
+    "valid": "有效",
+    "expired": "过期",
+    "makeCard": "一份关于艺术的礼物.",
+    "buttonText": "购买一张ARTMO卡",
+    "noGiftCard": "没有礼品卡可用"
+  }
+}

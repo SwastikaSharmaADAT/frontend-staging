@@ -1,0 +1,16 @@
+{
+    "title": "邀请朋友",
+    "tagsInput": {
+        "placeholder": "在邮箱地址后手动添加逗号或回车键，发送多个收件地址"
+    },
+    "cancelButtonLabel": "取消",
+    "sendInvitesButtonLabel": "发送邀请",
+    "howInviteWork": "如何操作?",
+    "emailTemplateText": "邮件发送前再看一下?",
+    "pickEmailService": "选择您的电子邮件...",
+    "gmailText": "Gmail",
+    "outlookText": "Outlook",
+    "otherText": "其他",
+    "selectedText": "已选择",
+    "emptyResultText": "没有找到"
+}

@@ -1,0 +1,65 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Today’s Feature",
+        "seeMore": "See more ..."
+    },
+    "loggedOutBanner": {
+        "title": "Welcome to",
+        "title2": "Your Art Community",
+        "network": "Network",
+        "blog": "Blog",
+        "news": "News",
+        "marketplace": "Marketplace",
+        "whatIsArtmo": "What is ARTMO?",
+        "learnMore": "Learn more ...",
+        "signUp": "Get a Free Account",
+        "logIn": "Log In"
+    },
+    "usersListing": {
+        "title": "CONNECT WITH ART LOVERS",
+        "follower": "follower",
+        "followers": "followers",
+        "unfollow": "Unfollow",
+        "follow": "Follow",
+        "seeMore": "See More",
+        "following": "Following"
+    },
+    "gridSection": {
+        "home": "HOME",
+        "artists": "ARTISTS",
+        "galleries": "GALLERIES",
+        "exhibitions": "EXHIBITIONS",
+        "users": "USERS",
+        "artwork": "ARTWORK",
+        "genres": "GENRES",
+        "universities": "UNIVERSITIES"
+    },
+    "artworkSection": {
+        "title": "BUY AND SELL ART COMMISSION-FREE",
+        "priceOnRequest": "Price on Request",
+        "artist": "Artist",
+        "member": "Member",
+        "seeMore": "See more ..."
+    },
+    "buzzSection": {
+        "title": "SEE WHAT'S MOVING THE ART WORLD",
+        "seeMore": "See more ..."
+    },
+    "videosSection": {
+        "title": "VIDEOS",
+        "seeMore": "See more ..."
+    },
+    "exhibitionsSection": {
+        "title": "DISCOVER EXHIBITIONS WORLDWIDE",
+        "seeMore": "See more ...",
+        "selectCountry": "select a location",
+        "latest": "LATEST"
+    },
+    "potdSection": {
+        "title": "PICTURE OF THE DAY",
+        "seeMore": "See more ..."
+    },
+    "joinInSection": {
+        "joinInTitle": "Join in, it’s free."
+    }
+}

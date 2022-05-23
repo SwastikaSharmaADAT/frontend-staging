@@ -1,0 +1,16 @@
+{
+    "title": "친구 초대",
+    "tagsInput": {
+        "placeholder": "수동으로 이메일을 추가하세요. 각 메일 주소 끝에 콤마 또는 엔터키 입력으로 구분하세요."
+    },
+    "cancelButtonLabel": "취소",
+    "sendInvitesButtonLabel": "초대 보내기",
+    "howInviteWork": "초청 방법",
+    "emailTemplateText": "발송 전에 메일을 볼 수 있나요?",
+    "pickEmailService": "메일 서비스를 선택하세요",
+    "gmailText": "지메일",
+    "outlookText": "아웃룩",
+    "otherText": "기타",
+    "selectedText": "선택되었습니다",
+    "emptyResultText": "결과가 없습니다"
+}

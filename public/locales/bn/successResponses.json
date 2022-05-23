@@ -1,0 +1,116 @@
+{
+    "auth": {
+        "passwordResetSuccess": "পাসওয়ার্ড পরিবর্তিত হয়েছে",
+        "signOutMessage": "ব্যবহারকারী বের হয়ে গেছেন"
+    },
+    "articles": {
+        "articlePublish": "অনুচ্ছেদ প্রকাশিত হয়েছে",
+        "articleDraft": "অনুচ্ছেদটি ড্রাফটস এ সংরক্ষিত আছে",
+        "articleUpdate": "অনুচ্ছেদটি হালনাগাদ করা হয়েছে"
+    },
+    "dashboard": {
+        "settingsSaved": "সেটিংস সংরক্ষিত হয়েছে"
+    },
+    "groups": {
+        "userRemoved": "ব্যবহারকারীকে গ্রুপ থেকে সরিয়ে ফেলা হয়েছে",
+        "assignAsModerator": "মডারেটর হিসেবে নিযুক্ত করা হয়েছে",
+        "inviteSent": "আমন্ত্রণ পাঠানো হয়েছে",
+        "postSentForApproval": "আপনার সাম্প্রতিক পোস্টটি এডমিন/মডারেটর দের কাছে অনুমোদন এর জন্য পাঠানো হয়েছে ",
+        "postPublished": "গ্রুপের পোস্টটি প্রকাশিত হয়েছে",
+        "groupPostAccepted": "পোস্ট সফলভাবে গ্রহণ করা হয়েছে",
+        "groupPostRejected": "পোস্ট সফলভাবে প্রত্যাখ্যান করা হয়েছে",
+        "joinRequestAccepted": "যোগদান করার অনুরোধ স্বীকার করা হয়েছে",
+        "joinRequestRejected": "যোগদান করার অনুরোধ প্রত্যাখ্যান করা হয়েছে",
+        "groupInviteAccept": "গ্রুপে এ যুক্ত হওয়ার আমন্ত্রণ গ্রহণ করা হয়েছে",
+        "groupInviteReject": "গ্রুপে যুক্ত হওয়ার আমন্ত্রণ এড়িয়ে যাওয়া হয়েছে",
+        "commentAddSuccess": "মন্তুব্য সংযুক্ত করা হয়েছে",
+        "groupPhotoRemove": "গ্রুপের ছবি সরিয়ে ফেলা হয়েছে",
+        "groupPhotoUpload": "গ্রুপের ছবি আপলোড করা হয়েছে",
+        "commentDeleted": "মন্তব্য মুছে ফেলা হয়েছে",
+        "groupPostAction": "পোস্ট {{type}}ed",
+        "joinRequest": "যুক্ত হওয়ার অনুরোধ {{type}}ed"
+    },
+    "mediaLibrary": {
+        "updatedAllMedia": "সকল মিডিয়া ফাইল হালনাগাদ করা হয়েছে",
+        "updatedMedia": "মিডিয়া ফাইল আপডেট করা হয়েছে"
+    },
+    "newsFeed": {
+        "postPublished": "পোস্ট প্রকাশিত করা হয়েছে",
+        "videoPublished": "ভিডিও প্রকাশিত করা হয়েছে",
+        "photoAlbumPublished": "ছবির অ্যালবাম প্রকাশিত",
+        "photoAlbumUpdated": "ছবির অ্যালবাম সফলভাবে হালনাগাদ করা হয়েছে",
+        "commentAdded": "মন্তব্য সংযুক্ত করা হয়েছে",
+        "commentDeleted": "মন্তব্য মুছে ফেলা হয়েছে",
+        "commentHide": "মন্তব্য লুকিয়ে ফেলা হয়েছে",
+        "commentUnhide": "মন্তব্য আবার প্রকাশ্যে আনা হয়েছে",
+        "commentUpdated": "মন্তব্যের হালনাগাদ করা হয়েছে",
+        "activityDeleted": "ক্রিয়াকলাপ মুছে ফেলা হয়েছে"
+    },
+    "notification": {
+        "notificationRemoved": "বিজ্ঞপ্তি সরিয়ে ফেলা হয়েছে"
+    },
+    "pages": {
+        "pageCreated": "পেজ তৈরি হয়েছে"
+    },
+    "profile": {
+        "profilePhotoUploaded": "প্রোফাইলের ছবি আপলোড করা হয়েছে",
+        "coverPhotoUploaded": "কভারের ছবি আপলোড করা হয়েছে",
+        "profilePhotoRemoved": "প্রোফাইলের ছবি সরিয়ে ফেলা হয়েছে",
+        "coverPhotoRemoved": "কভারের ছবি সরিয়ে ফেলা হয়েছে",
+        "infoSaved": "তথ্য সংরক্ষিত করা হয়েছে",
+        "profileUpdated": "প্রোফাইল হালনাগাদ করা হয়েছে",
+        "connectionRequestSent": "সংযুক্তির অনুরোধ পাঠানো হয়েছে",
+        "blockUser": "ব্যবহারকারী {{type}}ed",
+        "blocked": "ব্যবহারকারীকে ব্লক করা হয়েছে",
+        "unblocked": "ব্যবহারকারীকে আনব্লক করা হয়েছে",
+        "follow": "ব্যবহারকারীকে অনুসরণ করা হয়েছে",
+        "unfollow": "ব্যবহারকারীকে অনুসরণ করা বাতিল করা হয়েছে",
+        "noticeDeleted": "বিজ্ঞপ্তি মুছে ফেলা হয়েছে",
+        "techniqueUpdate": "প্রযুক্তিগত বিভাগ হালনাগাদকৃত",
+        "expertiseUpdate": "বিশেষজ্ঞ বিভাগ হালনাগাদকৃত",
+        "awardUpdate": "পুরষ্কার বিভাগ হালনাগাদকৃত",
+        "publicationUpdate": "প্রকাশনী বিভাগ হালনাগাদকৃত",
+        "exhibitionUpdate": "পূর্ব প্রদর্শনী বিভাগ হালনাগাদকৃত",
+        "aboutBusinessUpdate": "আমার ব্যবসা সম্পর্কে | পেশাগত বিভাগ হালনাগাদকৃত",
+        "disconnectedFromUser": "ব্যবহারকারীর সাথে সংযোগ বিচ্ছিন্ন",
+        "connectionRequestDeleted": "সংযোগের অনুরোধ বাতিল করা হয়েছে",
+        "connectionRequestIgnored": "সংযোগের অনুরোধ এড়িয়ে যাওয়া হয়েছে",
+        "userConnected": "ব্যবহারকারী সংযুক্ত হয়েছে",
+        "followUnfollowUser": "ব্যবহারকারীকে {{action}}ed করা হয়েছে"
+    },
+    "staticContent": {
+        "inviteSent": "আমন্ত্রণ পাঠানো হয়েছে"
+    },
+    "myAccount": {
+        "privacySettingsUpdated": "ব্যবহারকারীর গোপনীয়তা সেটিংস হালনাগাদ করা হয়েছে",
+        "webNotificationsSettingsUpdated": "ওয়েব বিজ্ঞপ্তি সেটিংস হালনাগাদ করা হয়েছে",
+        "dataDownload": "তথ্য সফলভাবে ডাউনলোড করা হয়েছে",
+        "picsDownload": "ছবিগুলো সফলভাবে ডাউনলোড করা হয়েছে",
+        "passwordUpdated": "পাসওয়ার্ড হালনাগাদ করা হয়েছে",
+        "notificationUpdated": "বিজ্ঞপ্তি সেটিংস হালনাগাদ করা হয়েছে",
+        "accountDisconnected": "আপনার একাউন্টটি বিচ্ছিন্ন রয়েছে",
+        "userDataDelete": "ব্যবহারকারীর সকল তথ্য মুছে গেছে",
+        "photosDelete": "সকল অ্যালবামসমূহ এবং ছবি সমূহ মুছে গেছে",
+        "userDelete": "একাউন্ট সফলভাবে মুছে ফেলা হয়েছে"
+    },
+    "artworks": {
+        "artworkUpdated": "আপনার শিল্পকর্ম হালনাগাদ করা হয়েছে",
+        "artworkDeleted": "শিল্পকর্ম মুছে ফেলা হয়েছে",
+        "draftSave": "আপনার শিল্পকর্ম ড্রাফটস এ সংরক্ষন করা হয়েছে",
+        "sentForReview": "আপনার শিল্পকর্ম পুনর্বিবেচনার জন্য এডমিনের কাছে পাঠানো হয়েছে",
+        "published": "আপনার শিল্পকর্ম সফলভাবে প্রকাশিত হয়েছে"
+    },
+    "profileCompletePopup": {
+        "profileUpdated": "প্রোফাইল সফলভাবে হালনাগাদ করা হয়েছে"
+    },
+    "subscriptions": {
+        "purchaseSuccess": "সাবস্ক্রিপশন সফলভাবে ক্রয় করা হয়েছে",
+        "cancel": "সাবস্ক্রিপশন বাতিল করা হয়েছে",
+        "paymentReactivate": "পেমেন্ট পুনরায় চালু করা হয়েছে"
+    },
+    "messages": {
+        "chatDelete": "সফলভাবে চ্যাট মুছে ফেলা হয়েছে",
+        "userBlock": "ব্যবহারকারী ব্লক অবস্থায় রয়েছে",
+        "messageSent": "বার্তা পাঠানো হয়েছে"
+    }
+}

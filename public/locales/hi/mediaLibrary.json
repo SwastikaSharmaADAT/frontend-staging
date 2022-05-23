@@ -1,0 +1,25 @@
+{
+  "chooseImage": "फोटो चुनें",
+  "uploadTab": {
+    "dragDropHere": "फ़ाइलें यहां खींचें और छोड़ें",
+    "or": "या",
+    "selectFiles": "+फ़ाइलें चुनें",
+    "supportedFormatsText": "केवल *.जेपीईजी, *.जेपीजी तथा *.पीएनजी छवियों स्वीकार किया जाएगा",
+    "maxLimitPrefix": "अधिकतम",
+    "maxLimitSuffix": "चित्रों को चुना या छोड़ा जा सकता है",
+    "moreImagesText": "अधिक छवियों को चुना या छोड़ा जा सकता है",
+    "maxFileSize": "अधिकतम फ़ाइल आकार: 10 एमबी",
+    "minFileSize": "न्यूनतम फ़ाइल आकार: 50 kB"
+  },
+  "mediaTab": {
+    "title": "मीडिया लाइब्रेरी",
+    "pickATag": "एक टैग चुनें",
+    "loadMore": "और लोड करें",
+    "deleteImage": "छवि हटाएं",
+    "choose": "चयन करें",
+    "saveAll": "सभी को सुरक्षित करें",
+    "placeholderSearch": "आइटम खोजें...",
+    "placeholderDescription": "विवरण टेक्स्ट जोड़ें...",
+    "placeholderEnterTag": "टैग दर्ज करें"
+  }
+}

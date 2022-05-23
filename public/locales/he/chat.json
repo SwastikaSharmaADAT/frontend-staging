@@ -1,0 +1,24 @@
+{
+    "delete": "Delete",
+    "warningDeleteConversation": "האם אתה בטוח שאתה רוצה למחוק את השיחה הזו?",
+    "block": "חסום",
+    "unblock": "בטל חסימה",
+    "blockWarning": "האם אתה בטול שברצונך",
+    "thisUser": "את המשתמש הזה?",
+    "placeholderMessage": "הקלד את הודעתך כאן...",
+    "send": "Send",
+    "blockText": "אינך יכול להשיב לשיחה זו. או שהמשתמש הפך את ההודעות לפרטיות או שהושעה.",
+    "noMessage": "אין הודעות",
+    "history": "הצג היסטוריית צ'אט",
+    "emojiPicker": {
+        "smileys_people": "סמיילים ואנשים",
+        "animals_nature": "חיות וטבע",
+        "food_drink": "אוכל ושתייה",
+        "travel_places": "נסיעות ומקומות",
+        "activities": "פעילויות",
+        "objects": "אובייקטים",
+        "symbols": "סמלים",
+        "flags": "דגלים",
+        "recently_used": "בשימוש לאחרונה",
+    }
+}

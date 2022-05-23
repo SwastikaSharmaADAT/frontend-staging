@@ -1,0 +1,113 @@
+{
+    "auth": {
+        "passwordResetSuccess": "Kata laluan berjaya ditetapkan semula!!",
+        "signOutMessage": "Pengguna telah dilog keluar!!"
+    },
+    "articles": {
+        "articlePublish": "Artikel dihantar untuk pantauan",
+        "articleDraft": "Artikel disimpan sebagai draf",
+        "articleUpdate": "Artikel dikemaskini & dihantar untuk pantauan"
+    },
+    "dashboard": {
+        "settingsSaved": "Setting disimpan"
+    },
+    "groups": {
+        "userRemoved": "Pengguna dikeluarkan daripada kumpulan",
+        "assignAsModerator": "Ditugaskan sebagai Moderator",
+        "inviteSent": "Jemputan Dihantar",
+        "postSentForApproval": "Pos terbaru anda telah dihantar kepada Admin/Moderator untuk kelulusan",
+        "postPublished": "Pos kumpulan berjaya diterbit",
+        "groupPostAccepted": "Pos berjaya diterima",
+        "groupPostRejected": "Pos berjaya ditolak",
+        "joinRequestAccepted": "Permintaan untuk menyertai diterima",
+        "joinRequestRejected": "Permintaan untuk menyertai ditolak",
+        "groupInviteAccept": "Jemputan kumpulan diterima",
+        "groupInviteReject": "Jemputan kumpulan diabaikan",
+        "commentAddSuccess": "Komen berjaya ditambah",
+        "groupPhotoRemove": "Foto kumpulan berjaya dipadam",
+        "groupPhotoUpload": "Foto kumpulan berjaya dimuat naik",
+        "commentDeleted": "Komen berjaya dipadam"
+    },
+    "mediaLibrary": {
+        "updatedAllMedia": "Semua fail media telah dikemas kini.",
+        "updatedMedia": "Fail media telah dikemas kini."
+    },
+    "newsFeed": {
+        "postPublished": "Pos berjaya diterbit",
+        "videoPublished": "Video berjaya diterbit",
+        "photoAlbumPublished": "Album Foto berjaya diterbit",
+        "photoAlbumUpdated": "Album Foto berjaya dikemas kini",
+        "commentAdded": "Komen berjaya ditambah",
+        "commentDeleted": "Komen berjaya dipadam",
+        "commentHide": "Komen berjaya disembunyikan",
+        "commentUnhide": "Komen berjaya dinyahsembunyikan",
+        "commentUpdated": "Komen berjaya dikemas kini",
+        "activityDeleted": "Aktiviti berjaya dipadam"
+    },
+    "notification": {
+        "notificationRemoved": "Notifikasi dikeluarkan!"
+    },
+    "pages": {
+        "pageCreated": "Halaman berjaya dihasilkan"
+    },
+    "profile": {
+        "profilePhotoUploaded": "Foto profil berjaya dimuat naik",
+        "coverPhotoUploaded": "Foto cover berjaya dimuat naik",
+        "profilePhotoRemoved": "Profile photo removed successfully",
+        "coverPhotoRemoved": "Foto cover berjaya dikeluarkan",
+        "infoSaved": "Info berjaya disimpan",
+        "profileUpdated": "Profi berjaya dikemas kini",
+        "connectionRequestSent": "Permintaan Sambungan dihantar",
+        "blockUser": "Pengguna {{taip}}ed",
+        "blocked": "Pengguna disekat",
+        "unblocked": "Pengguna dinyahsekat",
+        "follow": "Pengguna telah diikuti",
+        "unfollow": "Pengguna telah dinyahikuti",
+        "noticeDeleted": "Notis berjaya dipadam",
+        "techniqueUpdate": "Seksyen Teknik berjaya dikemas kini",
+        "expertiseUpdate": "Seksyen Kepakaran berjaya dikemas kini",
+        "awardUpdate": "Seksyen Anugerah berjaya dikemas kini",
+        "publicationUpdate": "Seksyen Penerbitan berjaya dikemas kini",
+        "exhibitionUpdate": "Seksyen Pameran Lepas berjaya dikemas kini",
+        "aboutBusinessUpdate": "Mengenai Bisnes Saya | Seksyen Profesion berjaya dikemas kini",
+        "disconnectedFromUser": "Berjaya diputuskan sambungan daripada pengguna",
+        "connectionRequestDeleted": "Permintaan Sambungan berjaya dipadam",
+        "connectionRequestIgnored": "Permintaan Sambungan berjaya diabaikan",
+        "userConnected": "Pengguna berjaya disambung"
+    },
+    "staticContent": {
+        "inviteSent": "Jemputan dihantar"
+    },
+    "myAccount": {
+        "privacySettingsUpdated": "Setting privasi pengguna berjaya dikemas kini",
+        "webNotificationsSettingsUpdated": "Setting notifikasi web berjaya dikemas kini",
+        "dataDownload": "Data berjaya dimuat turun",
+        "picsDownload": "Foto berjaya dimuat turun",
+        "passwordUpdated": "Kata laluan berjaya dikemas kini",
+        "notificationUpdated": "Setting notifikasi berjaya dikemas kini",
+        "accountDisconnected": "Akaun anda telah diputuskan sambungan",
+        "userDataDelete": "Semua data pengguna telah dipadam",
+        "photosDelete": "Semua album & foto telah dipadam",
+        "userDelete": "Akaun berjaya dipadam"
+    },
+    "artworks": {
+        "artworkUpdated": "Karya Seni anda berjaya dikemas kini.",
+        "artworkDeleted": "Karya Seni berjaya dipadam",
+        "draftSave": "Karya Seni anda telah disimpan sebagai mod Draf",
+        "sentForReview": "Karya Seni telah dihantar untuk dinilai ",
+        "published": "Karya Seni anda berjaya diterbit"
+    },
+    "profileCompletePopup": {
+        "profileUpdated": "Profil berjaya dikemas kini"
+    },
+    "subscriptions": {
+        "purchaseSuccess": "Langganan berjaya dibeli",
+        "cancel": "Langganan telah dibatal",
+        "paymentReactivate": "Bayaran diaktifkan semula"
+    },
+    "messages": {
+        "chatDelete": "Perbualan berjaya dipadam",
+        "userBlock": "Pengguna telah disekat",
+        "messageSent": "Mesej dihantar"
+    }
+}

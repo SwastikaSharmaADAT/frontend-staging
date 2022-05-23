@@ -1,0 +1,70 @@
+{
+    "bannerSection": {
+      "todaysFeature": "आज की विशेषता",
+      "seeMore": "और ज्यादा देखें ..."
+    },
+    "loggedOutBanner": {
+      "title": "स्वागत है आपके",
+      "title2": "कला संप्रदाय में ",
+      "descr": "कला चाहे आपका जुनून हो  या पेशा, आप  सही जगह पर आए हैं.",
+      "joinInBtnText": "इसको निशुल्क ज्वाइन करें",
+      "network": "नेटवर्क",
+      "blog": "ब्लॉग",
+      "news": "समाचार",
+      "group": "समूह",
+      "marketplace": "मार्केटप्लेस",
+      "whatIsArtmo": "ARTMO क्या है?",
+      "learnMore": "और ज्यादा जानें ...",
+      "signUp": "अपना खाता निःशुल्क बनाएं",
+      "logIn": "लॉग इन",
+      "videos": "वीडियो",
+      "exhibition": "प्रदर्शनियों",
+      "gallery": "दीर्घाओं"
+    },
+    "usersListing": {
+      "title": "कला प्रेमियों के साथ जुड़ें",
+      "follower": "फॉलोअर",
+      "followers": "फॉलोअरस",
+      "unfollow": "अनफॉलो",
+      "follow": "फॉलो",
+      "seeMore": "और देखें",
+      "following": "फॉलोइंग"
+    },
+    "gridSection": {
+      "home": "होम",
+      "artists": "कलाकार",
+      "galleries": "गैलरीज",
+      "exhibitions": "नुमाइश",
+      "users": "यूजर्स",
+      "artwork": "आर्टवर्क",
+      "genres": "जिनर्स",
+      "universities": "यूनिवर्सिटीज"
+    },
+    "artworkSection": {
+      "title": "संबद्ध आयोगों के बिना अपनी कला खरीदें और बेचें",
+      "priceOnRequest": "विनती पर कीमत",
+      "artist": "कलाकार",
+      "member": "मेंबर",
+      "seeMore": "ओर देखें ..."
+    },
+    "buzzSection": {
+      "title": "देखें कि कला की दुनिया में क्या हो रहा है",
+      "seeMore": "और देखें ..."
+    },
+    "videosSection": {
+      "title": "विडियोज",
+      "seeMore": "और देखें ..."
+    },
+    "exhibitionsSection": {
+        "title": "दुनिया भर में प्रदर्शनी खोजें",
+        "selectCountry": "एक स्थान चुनें",
+        "latest": "अभी हाल ही में"  
+    },
+    "potdSection": {
+      "title": "आज के दिन की तस्वीर",
+      "seeMore": "और देखें ..."
+    },
+    "joinInSection": {
+      "joinInTitle": "इस से जुड़ें यह निशुल्क है."
+    }
+  }

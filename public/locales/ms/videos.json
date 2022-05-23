@@ -1,0 +1,10 @@
+{
+    "title": "VIDEO",
+    "listing": {
+        "placeholderSearch": "Cari video mengikut tajuk...",
+        "search": "Cari",
+        "country": "Negara:",
+        "category": "Kategori:",
+        "userType": "Jenis Pengguna:"
+    }
+}

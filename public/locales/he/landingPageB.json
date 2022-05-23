@@ -1,0 +1,70 @@
+{
+    "bannerSection": {
+        "todaysFeature": "כתבת היום",
+        "seeMore": "ראה עוד..."
+    },
+    "loggedOutBanner": {
+        "title": "ברוך הבא ל-",
+        "title2": "קהילת אמנות",
+        "descr": "בין אם אמנות היא התשוקה  או המקצוע שלך, הגעת  למקום הנכון.",
+        "joinInBtnText": "הצטרף בחינם",
+        "network": "רשת",
+        "blog": "בלוג",
+        "news": "חדשות",
+        "group": "קבוצות",
+        "marketplace": "זירת מסחר",
+        "whatIsArtmo": "מה זה ARTMO?",
+        "learnMore": "למד עוד...",
+        "signUp": "צור את החשבון שלך בחינם",
+        "logIn": "התחבר",
+        "videos": "וידאו",
+        "exhibition": "תערוכות",
+        "gallery": "גלריות"
+    },
+    "usersListing": {
+        "title": "התחבר עם אוהבי אמנות",
+        "follower": "עוקב",
+        "followers": "עוקבים",
+        "unfollow": "בטל עוקב",
+        "follow": "עקוב",
+        "seeMore": "ראה עוד",
+        "following": "עוקב אחר"
+    },
+    "gridSection": {
+        "home": "בית",
+        "artists": "אמנים",
+        "galleries": "גלריות",
+        "exhibitions": "תערוכות",
+        "users": "משתמשים",
+        "artwork": "יצירת אמנות",
+        "genres": "ז'אנרים",
+        "universities": "אוניברסיטאות"
+    },
+    "artworkSection": {
+        "title": "קנה ומכור את האמנות שלך ללא עמלות נלוות",
+        "priceOnRequest": "מחיר לפי דרישה",
+        "artist": "אמן",
+        "member": "חבר",
+        "seeMore": "ראה עוד..."
+    },
+    "buzzSection": {
+        "title": "ראה מה קורה בעולם האמנות",
+        "seeMore": "ראה עוד..."
+    },
+    "videosSection": {
+        "title": "וידאו",
+        "seeMore": "ראה עוד..."
+    },
+    "exhibitionsSection": {
+        "title": "מצא תערוכות ברחבי העולם",
+        "selectCountry": "בחר מיקום",
+        "latest": "יותר לאחרונה"  
+    },
+    "potdSection": {
+        "title": "תמונת היום",
+        "seeMore": "ראה עוד..."
+    },
+    "joinInSection": {
+        "joinInTitle": "הצטרף, זה חינם"
+    }
+}

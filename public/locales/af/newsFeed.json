@@ -1,0 +1,122 @@
+{
+  "addContent": {
+    "placeholderAdd": "Voeg By...",
+    "post": "Berig",
+    "video": "Video",
+    "album": "Album",
+    "article": "Artikel",
+    "artwork": "Kunswerk"
+  },
+  "addPhotoAlbumPopup": {
+    "title": "Voeg 'n foto-album by",
+    "limitText": "Voeg beelde by(maksimum 50)",
+    "addImages": "Voeg beelde by",
+    "placeholderAddTitle": "Voeg Titel By",
+    "writeSomething": "Skryf iets...",
+    "firstPhotoInfo": "Die eerste foto sal die albums se dekblad wees.",
+    "publish": "Publiseer",
+    "errorLabels": {
+      "maxCharacter100": "Slegs 100 karakters toegelaat",
+      "titleRequired": "Onderwerp word benodig",
+      "maxCharacter500": "Slegs 500 karakters toegelaat"
+    }
+  },
+  "editPhotoAlbumPopup": {
+    "title": "Wysig Foto Album",
+    "updateButton": "Opdateer"
+  },
+  "addPostPopup": {
+    "title": "Skep 'n Berig",
+    "editPhoto": "Wysig Foto",
+    "addPhoto": "Voeg Foto By",
+    "writeSomething": "Skryf iets...",
+    "postDescCount": "/200",
+    "publish": "Publiseer"
+  },
+  "editPostPopup": {
+    "title": "Wysig Plasing",
+    "updateButton": "Opdateer"
+  },
+  "addVideoPopup": {
+    "title": "Voeg 'n Video By",
+    "validUrlError": "Voer asseblief 'n geldige URL in",
+    "placeholderEnterLink": "Voer 'n skakel van YouTube, Vimeo... in",
+    "placeholderWriteSomething": "Skryf iets...",
+    "addCategory": "Voeg Kategorie By",
+    "next": "Volgende",
+    "publish": "Publiseer",
+    "update": "Opdateer"
+  },
+  "editVideoPopup": {
+    "title": "Wysig videoplasing",
+    "updateButton": "Wysig"
+  },
+  "refreshOverlay": {
+    "newActivityAdded": "Nuwe aktiwiteit bygevoeg",
+    "refresh": "Verfris"
+  },
+  "hashtags": {
+    "title": "TOP HUTSMERKE",
+    "noHashtagsAdded": "Geen hutsmerke bygevoeg",
+    "post": "berig",
+    "postPlural": "berigte"
+  },
+  "manageArtwork": {
+    "follower": "volgeling",
+    "followerPlural": "volgelinge",
+    "visit": "Besoek ",
+    "manage": "Bestuur ",
+    "noPageFound": "Geen bladsy gevind"
+  },
+  "profile": {
+    "follower": "volgeling",
+    "followerPlural": "volgelinge",
+    "profileCompleteness": "Profiel Volledigheid",
+    "editProfile": "Wysig Profiel"
+  },
+  "singlePost": {
+    "photo": "foto",
+    "photoPlural": "fotos",
+    "seeInStore": "Sien in Winkel",
+    "deleteText": "Is u seker dat u, u kommentaar wil uitvee?",
+    "capsHide": "Wegsteek",
+    "capsUnhide": "Onthul",
+    "hide": "Wegsteek",
+    "unhide": "onthul",
+    "areYouSure": "Is u seker dat u",
+    "thisComment": "hierdie kommentaar?",
+    "update": "Opdateer",
+    "like": "Hou Van",
+    "comment": "Kommentaar",
+    "liked": "Gehou Van",
+    "likedBy": "Gehou Van Deur",
+    "lowerLike": "hou van",
+    "lowerLikePlural": "hou van",
+    "lowerUnlike": "anders",
+    "lowerComment": "kommentaar",
+    "lowerCommentPlural": "kommentaar",
+    "share": "Deel",
+    "pending": "Hangende",
+    "deleteActivity": "Is u seker dat u hierdie aktiwiteit wil uitvee?",
+    "accept": "Aanvaar",
+    "reject": "Verwerp",
+    "delete": "Uitvee",
+    "seeMore": "Sien meer..",
+    "price": "Prys",
+    "priceOnRequest": "Prys op aanvraag",
+    "placeholderComment": "Voer u kommentaar in...",
+    "publish": "Publiseer",
+    "loadMoreText": "Laai meer
+    "loadMoreRepliesText": "Laai meer antwoorde
+    "edit": "Wysig
+    "commentRemoved": "Hierdie kommentaar is verwyder
+    "replyRemoved": "Hierdie antwoord is verwyder
+  },
+  "singleActivity": {
+    "activityNotAvailable": "Hierdie aktiwiteit is nie beskikbaar nie
+    "seeMore": "Sien Meer
+    "alreadyHaveAnAccount": "Het alreeds 'n rekening
+    "signUp": "Teken Aan
+    "logIn": "Teken Aan
+  }
+}

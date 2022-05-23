@@ -1,0 +1,62 @@
+{
+    "createPost": {
+        "title": "포스트 작성",
+        "editPhoto": "사진 편집",
+        "addPhoto": "사진 추가",
+        "characterLimit": "/500",
+        "publish": "발행하기",
+        "placeholderWriteSomething": "어떤 것을 쓰세요..."
+    },
+    "groupBarHead": {
+        "leave": "Leave",
+        "confirmLeave": "정말 그룹에서 나가기를 원하십니까?",
+        "uploadPhoto": "사진 업로드",
+        "removePhoto": "사진 변경",
+        "changePhoto": "사진 삭제",
+        "group": "그룹",
+        "leaveGroup": "그룹 나가기",
+        "joinGroup": "그룹에 가입하기",
+        "lastActive": "최근 활동",
+        "members": "멤버 인원",
+        "posts": "포스트",
+        "editGroupSettings": "그룹 설정 편집",
+        "Leave": "나가기"
+    },
+    "memberSection": {
+        "title": "그룹 멤버",
+        "members": "멤버",
+        "seeAll": "전체 보기"
+    },
+    "invite": {
+        "title": "연결 초대하기",
+        "seeAll": "전체 보기",
+        "invited": "초대되었습니다",
+        "follower": "팔로워",
+        "followerPlural": "팔로워",
+        "allConnectionsInvited": "커넥션 전체가 초대되었습니다",
+        "noConnectionsToInvite": "초대할 연결이 없습니다",
+        "inviteTo": "초청 그룹 선택",
+        "invite": "초대하기",
+        "loading": "로딩 중..."
+    },
+    "joinRequests": {
+        "title": "가입 요청",
+        "follower": "팔로워",
+        "followerPlural": "팔로워",
+        "reject": "거절",
+        "accept": "수락",
+        "noMoreRequests": "더 이상의 가입 요청이 없습니다"
+    },
+    "listingPopup": {
+        "remove": "삭제",
+        "admin": "(관리자)",
+        "moderator": "(중재자)",
+        "follower": "팔로워",
+        "followerPlural": "팔로워",
+        "assignModerator": "중재자로 지정",
+        "removeFromGroup": "그룹에서 삭제",
+        "addedAsModerator": "중재자로 추가되었습니다",
+        "deleteConfirm": "이 사용자를 삭제하기를 정말 원하십니까?"
+    },
+    "notAuthorized": "승인되지 않았습니다"
+}

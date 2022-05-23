@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "noContactsFound": "No contacts found",
+        "somethingWentWrong": "Something went wrong, please login to continue",
+        "sessionExpired": "Session expired, please login again",
+        "loginToContinue": "Please login to continue."
+    },
+    "mediaLibrary": {
+        "limitMoreImages": "Only {{limit}} more images can be selected"
+    },
+    "article": {
+        "articleNotFound": "Article not found"
+    },
+    "cart": {
+        "alreadyInCart": "This product is already added into your cart",
+        "removeItemError": "Error removing item from cart"
+    },
+    "subscriptions": {
+        "planExist": "You have already bought this plan!",
+        "artworkNotFound": "Artwork not found"
+    }
+}

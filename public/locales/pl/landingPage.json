@@ -1,0 +1,69 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Today’s Feature",
+        "seeMore": "See more ..."
+    },
+    "loggedOutBanner": {
+        "title": "Twoja",
+        "title2": "Społeczność Artystyczna",
+        "descr": "Niezależnie od tego, czy sztuka jest Twoją pasją czy zawodem, trafiłeś we właściwe miejsce.",
+        "joinInBtnText": "Dołącz za darmo",
+        "network": "Sieć",
+        "blog": "Blog",
+        "news": "News",
+        "group": "Grupy",
+        "marketplace": "Rynek",
+        "whatIsArtmo": "Czym jest ARTMO?",
+        "learnMore": "Dowiedz się ...",
+        "signUp": "Darmowa Rejestracja",
+        "logIn": "Logowanie",
+        "videos": "Filmy",
+        "exhibition": "Wystawy.",
+        "gallery": "Galerie"
+    },
+    "usersListing": {
+        "title": "NASZA SPOŁECZNOŚĆ",
+        "follower": "obserwujący",
+        "followers": "obserwujących",
+        "unfollow": "Usuń z listy",
+        "follow": "Obserwuj",
+        "seeMore": "Zobacz więcej",
+        "following": "Obserwuje"
+    },
+    "gridSection": {
+        "home": "GŁÓWNA",
+        "artists": "ARTYŚCI",
+        "galleries": "GALERIE",
+        "exhibitions": "WYSTAWY",
+        "users": "UŻYTKOWNICY",
+        "artwork": "SZTUKA",
+        "genres": "GATUNKI",
+        "universities": "UNIWERSYTETY"
+    },
+    "artworkSection": {
+        "title": "NOWE DZIEŁA",
+        "priceOnRequest": "Cena na życzenie",
+        "artist": "Artysta",
+        "member": "Użytkownik",
+        "seeMore": "Zobacz więcej..."
+    },
+    "buzzSection": {
+        "title": "BUZZ",
+        "seeMore": "Zobacz więcej..."
+    },
+    "videosSection": {
+        "title": "WIDEO",
+        "seeMore": "See more ..."
+    },
+    "exhibitionsSection": {
+        "title": "WYSTAWY",
+        "seeMore": "Zobacz więcej..."
+    },
+    "potdSection": {
+        "title": "OBRAZ DNIA",
+        "seeMore": "Zobacz więcej..."
+    },
+    "joinInSection": {
+        "joinInTitle": "Dołącz za darmo"
+    }
+}

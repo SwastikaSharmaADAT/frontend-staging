@@ -1,0 +1,156 @@
+{
+    "tabLabels": {
+        "dashboard": "PANEL",
+        "mediaLibrary": "MEDIA",
+        "artworks": "DZIEŁA SZTUKI",
+        "orders": "ZAMÓWIENIA",
+        "customers": "KLIENCI",
+        "settings": "USTAWIENIA",
+        "addArtwork": "Dodaj Dzieło..."
+    },
+    "incompletePopup": {
+        "mainText": "Wspaniale cię tu widzieć i zacząć przesyłać swoje prace.",
+        "subText": "Zanim będziesz mógł przesyłać i publikować dzieła sztuki, musisz uzupełnić swój profil."
+    },
+    "knowledgeBase": {
+        "title": "BAZA WIEDZY"
+    },
+    "dashboard": {
+        "title": "Panel",
+        "learnMore": "Dowiedz się więcej",
+        "sections": {
+            "sec1": "AKCEPTACJA DZIEŁ",
+            "sec2": "JAK PRZEJŚĆ PROCES AKCEPTACJI DZIEŁ?",
+            "sec3": "Proszę przeczytać Instrukcję Przesyłania Dzieł tutaj",
+            "sec4": "JAK SPRZEDAWANE SĄ DZIEŁA?",
+            "here": "here."
+        }
+    },
+    "artworks": {
+        "title": "Dzieła",
+        "addNew": "Dodaj Nowe",
+        "learnMore": "Dowiedz się więcej",
+        "draft": "szkic",
+        "published": "Opublikowany",
+        "underReview": "Oczekuje na zatwierdzenie",
+        "sold": "Sprzedany",
+        "pending": "Wymagana edycja",
+        "show": "pokaż",
+        "entries": "Wpisy",
+        "placeholderSearch": "Szukaj",
+        "eur": "EUR",
+        "quickEdit": {
+            "title": "Szybka edycja",
+            "confirmButton": "Tak",
+            "markAsSoldText": "Czy na pewno chcesz zaznaczyć Dzieło jako sprzedane? To nie może być cofnięte.",
+            "switchLeft": "sprzedane",
+            "switchRight": "Dostępne",
+            "saveChanges": "Zapisz zmiany",
+            "selfNotePlaceholder": "Notatka",
+            "titlePlaceholder": "Tytuł",
+            "pricePlaceholder": "Cena",
+            "priceOnRequestPlaceholder": "Cena na życzenie"
+        },
+        "delete": {
+            "confirmButton": "Tak",
+            "confirmDeleteText": "Czy na pewno chcesz usunąć to dzieło"
+        },
+        "hover": {
+            "view": "Zobacz",
+            "quickEdit": "Szybka edycja",
+            "edit": "Edytuj",
+            "delete": "Usuń"
+        }
+    },
+    "orders": {},
+    "settings": {
+        "title": "Ustawienia",
+        "learnMore": "Dowiedz się więcej",
+        "saveChanges": "Zapisz zmiany",
+        "updateChanges": "Zapisz nowe zmiany",
+        "optionTitles": {
+            "general": "Ogólne",
+            "vacation": "Wakacje",
+            "subscription": "Subskrypcja",
+            "payouts": "Wypłaty"
+        },
+        "general": {
+            "vendorEmail": "Adres e-mail sprzedającego",
+            "timezone": "Strefa czasowa",
+            "shippingPolicy": "Zasady Wysyłki",
+            "validationErrors": {
+                "email": "Wprowadź prawidłowy adres e-mail",
+                "shippingPolicy": "Zasady Wysyłki mogą zawierać maksymalnie 1000 znaków"
+            }
+        },
+        "vacation": {
+            "vacationMode": "Aktywuj Tryb Urlopu",
+            "disablePurchase": "Wyłącz sprzedaż na czas urlopu",
+            "vacationMessage": "Notka o urlopie",
+            "validationErrors": {
+                "vacationMessage": "Notka o urlopie może zawierać maksymalnie 1000 znaków"
+            }
+        },
+        "subscription": {
+            "paymentsVia": "Płatność przez",
+            "paypalEmail": "Adres e-mail konta PayPal",
+            "cardNumber": "Numer karty ",
+            "changePaymentData": "Zmień dane płatności",
+            "subscriptionPeriod": "Okres subskrypcji",
+            "price": "Cena",
+            "eur": "EUR",
+            "upcomingPayment": "Najbliższa płatnosć",
+            "upgradeMembership": "Subskrypcja aktualizacji",
+            "downgradeYourAccount": "Zmniejsz zakres subskrypcji",
+            "cancelSubscription": "Anuluj subskrypcję",
+            "cancelConfirmText": "Czy na pewno chesz anulować subskrypcję?",
+            "buttonYes": "Tak",
+            "changePaymentText": "Czy na pewno chcesz zmienić tryb płatności?",
+            "basicPlanText": "To jest darmowy plan. Płatność nie jest wymagana."
+        },
+        "payouts": {
+            "wireTransfer": "Przelew",
+            "payPal": "PayPal",
+            "paymentTypeQuestion": "W jaki sposób chcesz otrzymywać pieniądze ze sprzedaży dzieł?",
+            "country": "Kraj",
+            "bankAccountNumber": "Numer konta",
+            "email": "Email",
+            "routingNumber": "Routing (dla kont amerykańskich)",
+            "validationErrors": {
+                "bankAccountNumber": "Numer konta może zawierać maksymalnie 24 znaki",
+                "routingNumber": "Routing może zawierać maksymalnie 24 cyfry",
+                "country": "Kraj jest wymagany",
+                "email": "Email jest wymagany",
+                "bankAccountNumberLength": "Numer rachunku bankowego może mieć maksymalnie 24 cyfry",
+                "routingNumberLength": "Numer rozliczeniowy może mieć maksymalnie 24 cyfry",
+                "paymentType": "Rodzaj płatności jest wymagany",
+                "invalidEmail": "Wpisz poprawny adres e-mail"
+            }
+        }
+    },
+    "knowledgebase": {
+        "accordion1": "Jak włączyć Tryb Urlopu?",
+        "accordion2": "Jak przesłać Dzieło do moderacji?",
+        "accordion3": "Dlaczego moja sztuka nie jest widoczna w kolekcji?",
+        "accordion4": "Wymagania dot. zdjęć poglądowych",
+        "accordion5": "Certtyfikat autentyczności (pobierz)"
+    },
+    "purchaseSubscriptionMessage": "Najpierw kup subskrypcję",
+    "profileCompletionPopup": {
+        "title": "Uzupełnij swoje konto",
+        "addProfileImage": "Dodaj zdjęcie profilowe",
+        "startSellingArt": "Zacznij sprzedawać sztukę",
+        "placeholder": {
+            "phone": "Numer telefonu",
+            "city": "Miejscowość",
+            "country": "Kraj"
+        },
+        "validationErrors": {
+            "profileImageRequired": "Zdjęcie profilowe jest wymagane",
+            "cityRequired": "Miejscowość jest wymagana",
+            "countryRequired": "Kraj jest wymagany",
+            "phoneRequired": "Numer telefonu jest wymagany",
+            "invalidPhone": "Nieprawidłowy numer telefonu"
+        }
+    }
+}

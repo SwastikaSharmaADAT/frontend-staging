@@ -1,0 +1,83 @@
+{
+    "validationErrors": {
+        "image": "記事画像が必要です",
+        "title": "タイトルが必要です",
+        "titleLength": "タイトルの最大文字数は200文字です",
+        "description": "説明文が必要です",
+        "descriptionLength": "説明文の最大文字数は5000文字です",
+        "category": "カテゴリーが必要です",
+        "country": "国名が必要です",
+        "city": "都市が必要です",
+        "startDate": "開始日が必要です",
+        "endDate": "終了日が必要です",
+        "endDateLarge": "終了日は開始日より前にはできません"
+    },
+    "articleNotAvailable": "この記事は無効です",
+    "placeholderImage": "フィーチャー画像を追加",
+    "placeholderTitle": "タイトルを挿入",
+    "placeholderDescription": "ここに記事を書く...",
+    "placeholderCountry": "国",
+    "placeholderStartDate": "開始日",
+    "placeholderCity": "都市",
+    "placeholderEndDate": "終了日",
+    "category": "カテゴリー",
+    "categoryOptions": {
+        "option1": "話題",
+        "option2": "今日の一枚",
+        "option3": "展示"
+    },
+    "status": {
+        "draft": "下書き",
+        "publish": "公開済み",
+        "pending": "承認待ち",
+        "rejected": "却下"
+    },
+    "articleFollowed": "フォロー中",
+    "articleFollow": "フォロー",
+    "articleUnFollow": "フォロー解除",
+    "update": "更新",
+    "submit": "投稿",
+    "buzzListing": {
+        "title": "アートワールドの動きを見る",
+        "titleShort": "話題",
+        "placeholderSearchTitle": "タイトルから展示を検索する...",
+        "search": "検索",
+        "city": "都市",
+        "edit": "編集"
+    },
+    "exhibitionListing": {
+        "title": "展示"
+    },
+    "potd": {
+        "title": "今日の一枚"
+    },
+    "myArticle": {
+        "title": "記事一覧",
+        "seeMoreText": "もっと見る..."
+    },
+    "seeMoreText": "もっと見る...",
+    "addArticleInfo": {
+        "mainSection": {
+            "heading": "記事の書き方",
+            "firstPara": "ジャーナリストやオピニオンライターになったつもりで美術界や美術愛好家が興味を持つようなことを書いてください。あなたの記事は自分自身や自分の作品を宣伝する場というよりも、一般の読者が興味を持つような話題を書く場です。",
+            "secondPara": "記事を公開する前にARTMOのプロフィールを完成させる必要があります。",
+            "thirdPara": "記事の公開後はパブリッシャーとして識別されます。"
+        },
+        "buzzSubSection": {
+            "heading": "話題:",
+            "firstPara": "ARTMOユーザーが興味を持ちそうなトピックについての記事を書いてください。話題記事の用例を参照ください。",
+            "anchorText": "こちら"
+        },
+        "potdSubSection": {
+            "heading": "今日の一枚 | POTD:",
+            "firstPara": "記事にしたい魅力的な写真がある場合はPOTDカテゴリーを使ってください。その画像をフィーチャー画像として使い、その写真のストーリーを世界に発信してください。あなたのPOTDは公開されます。",
+            "anchorText": "こちら"
+        },
+        "exhibitionSubSection": {
+            "heading": "展示:",
+            "firstPara": "あなたが展示やギャラリーを運営している場合はこちらのカテゴリーを使ってください。あなたが運営している展示について書き、その記事は展示カテゴリーの中に表示されます。",
+            "secondPara": "あなたの展示記事は公開されます ",
+            "anchorText": "こちら"
+        }
+    }
+}

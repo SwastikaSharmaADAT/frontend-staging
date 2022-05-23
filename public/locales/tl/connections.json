@@ -1,0 +1,20 @@
+{
+    "myConnectionsLabel": "Ang Aking mga Koneksyon",
+    "connectionRequests": "Mga Request sa Koneksyon",
+    "connectionRequestsSent": "Ang mga request sa koneksyon ay naipadala na",
+    "follower": "follower",
+    "followerPlural": "mga follower",
+    "disconnected": "na-disconnect",
+    "disconnect": "mag-disconnect",
+    "loadMore": "mag-load pa ng iba...",
+    "noConnections": "Walang mga koneksyon",
+    "ignore": "huwag pansinin",
+    "ignored": "hindi pinansin",
+    "connect": "kumunekta",
+    "connected": "nakakonekta",
+    "noConnectionRequestsReceived": "Walang natanggap na mga Request sa Koneksyon",
+    "noConnectionRequestsSent": "Walang pinadala na mga Request sa Koneksyon",
+    "requestDeleted": "Nabura ang Request",
+    "deleteRequest": "Burahin ang Request",
+    "noConnectionRequests": "Walang natanggap na Request sa Koneksyon"
+}

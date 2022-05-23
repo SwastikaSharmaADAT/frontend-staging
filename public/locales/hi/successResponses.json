@@ -1,0 +1,114 @@
+{
+  "auth": {
+    "passwordResetSuccess": "पासवर्ड रीसेट कर दिया गया है!",
+    "signOutMessage": "उपयोगकर्ता को साइन आउट कर दिया गया है!"
+  },
+  "articles": {
+    "articlePublish": "वस्तु प्रकाशित",
+    "articleDraft": "वस्तु ड्राफ़्ट में सहेजा गया",
+    "articleUpdate": "वस्तु अपडेट किया गया"
+  },
+  "dashboard": {
+    "settingsSaved": "सेटिंग सुरक्षित"
+  },
+  "groups": {
+    "userRemoved": "उपयोगकर्ता को समूह से हटाया गया",
+    "assignAsModerator": "मॉडरेटर के रूप में असाइन किया गया",
+    "inviteSent": "आमंत्रण भेज दिया",
+    "postSentForApproval": "आपकी हाल की पोस्ट को स्वीकृति के लिए व्यवस्थापक/मॉडरेटर को भेज दिया गया है",
+    "postPublished": "समूह पोस्ट प्रकाशित",
+    "groupPostAccepted": "पोस्ट सफलतापूर्वक स्वीकार किया",
+    "groupPostRejected": "पोस्ट सफलतापूर्वक अस्वीकार किया",
+    "joinRequestAccepted": "जुड़ने का आवेदन स्वीकार किया गया",
+    "joinRequestRejected": "जुड़ने का आवेदन अस्वीकार किया गया",
+    "groupInviteAccept": "समूह आमंत्रण स्वीकार किया गया",
+    "groupInviteReject": "समूह आमंत्रण पर ध्यान नहीं दिया गया",
+    "commentAddSuccess": "टिप्पणी जोड़ी गई",
+    "groupPhotoRemove": "ग्रुप फोटो हटाई गई",
+    "groupPhotoUpload": "ग्रुप फोटो अपलोड",
+    "commentDeleted": "टिप्पणी हटाई गई"
+  },
+  "mediaLibrary": {
+    "updatedAllMedia": "सभी मीडिया फ़ाइलें अपडेट की गईं.",
+    "updatedMedia": "अपडेट की गई मीडिया फ़ाइल."
+  },
+  "newsFeed": {
+    "postPublished": "पोस्ट प्रकाशित",
+    "videoPublished": "वीडियो प्रकाशित",
+    "photoAlbumPublished": "फोटो एलबम प्रकाशित",
+    "photoAlbumUpdated": "फोटो एलबम सफलतापूर्वक अपडेट किया गया",
+    "commentAdded": "टिप्पणी जोड़ी गई",
+    "commentDeleted": "टिप्पणी हटाई गई",
+    "commentHide": "टिप्पणी छिपाई गई",
+    "commentUnhide": "टिप्पणी छिपा नहीं",
+    "commentUpdated": "टिप्पणी अपडेट की गई",
+    "activityDeleted": "गतिविधि हटाई गई"
+  },
+  "notification": {
+    "notificationRemoved": "अधिसूचना हटाई गई!"
+  },
+  "pages": {
+    "pageCreated": "पेज बनाया"
+  },
+  "profile": {
+    "profilePhotoUploaded": "'प्रोफाइल फोटो अपलोड किया गया",
+    "coverPhotoUploaded": "कवर फोटो अपलोड",
+    "profilePhotoRemoved": "प्रोफ़ाइल फ़ोटो हटा दी गई",
+    "coverPhotoRemoved": "कवर फ़ोटो हटा दी गई",
+    "infoSaved": "जानकारी सुरक्षित",
+    "profileUpdated": "प्रोफ़ाइल अपडेट",
+    "connectionRequestSent": "कनेक्शन अनुरोध भेजा गया",
+    "blockUser": "उपयोगकर्ता {{प्रकार}}ईडी",
+    "blocked": "उपयोगकर्ता ब्लॉक किया गया",
+    "unblocked": "उपयोगकर्ता अनब्लॉक किया गया",
+    "follow": "उपयोगकर्ता फॉलो किया गया",
+    "unfollow": "उपयोगकर्ता फॉलो किया गया",
+    "noticeDeleted": "नोटिस हटाया गया",
+    "techniqueUpdate": "तकनीक अनुभाग अपडेट किया गया",
+    "expertiseUpdate": "विशेषज्ञता अनुभाग अपडेट किया गया",
+    "awardUpdate": "पुरस्कार अनुभाग अपडेट किया गया",
+    "publicationUpdate": "प्रकाशन अनुभाग अपडेट किया गया",
+    "exhibitionUpdate": "विगत प्रदर्शनी अनुभाग अपडेट किया गया",
+    "aboutBusinessUpdate": "मेरे व्यवसाय के बारे में | पेशा अनुभाग अपडेट किया गया",
+    "disconnectedFromUser": "उपयोगकर्ता से डिस्कनेक्ट किया गया",
+    "connectionRequestDeleted": "कनेक्शन अनुरोध हटाया गया",
+    "connectionRequestIgnored": "कनेक्शन अनुरोध पर ध्यान नहीं दिया गया",
+    "userConnected": "उपयोगकर्ता जुड़ा"
+  },
+  "staticContent": {
+    "inviteSent": "आमंत्रण भेज दिया"
+  },
+  "myAccount": {
+    "privacySettingsUpdated": "उपयोगकर्ता गोपनीयता सेटिंग अपडेट की गई",
+    "webNotificationsSettingsUpdated": "वेब सूचना सेटिंग अपडेट की गईं",
+    "dataDownload": "डेटा सफलतापूर्वक डाउनलोड किया गया",
+    "picsDownload": "चित्र सफलतापूर्वक डाउनलोड किए गए",
+    "passwordUpdated": "पासवर्ड अपडेट किया गया",
+    "notificationUpdated": "सूचनाएं सेटिंग अपडेट की गईं",
+    "accountDisconnected": "आपका खाता डिस्कनेक्ट हो गया है",
+    "userDataDelete": "सभी उपयोगकर्ता डेटा हटा दिया गया है",
+    "photosDelete": "सभी एल्बम और तस्वीरें हटा दी गईं",
+    "userDelete": "खाता सफलतापूर्वक हटा दिया गया"
+  },
+  "artworks": {
+    "artworkUpdated": "आपकी कलाकृति को अपडेट कर दिया गया है.",
+    "artworkDeleted": "कलाकृति हटाई गई",
+    "draftSave": "आपकी कलाकृति को प्रारूपित मोड में सुरक्षित किया गया है",
+    "sentForReview": "आपकी कलाकृति को व्यवस्थापक समीक्षा के लिए भेज दिया गया है",
+    "published": "आपकी कलाकृति को सफलतापूर्वक प्रकाशित किया गया है"
+  },
+  "profileCompletePopup": {
+    "profileUpdated": "प्रोफाइल को सफलतापूर्वक अपडेट किया गया"
+  },
+  "subscriptions": {
+    "purchaseSuccess": "सफलतापूर्वक खरीदी गई सदस्यता",
+    "updateSuccess": "सदस्यता सफलतापूर्वक अद्यतन",
+    "cancel": "सदस्यता रद को गई",
+    "paymentReactivate": "भुगतान पुनः सक्रिय"
+  },
+  "messages": {
+    "chatDelete": "चैट सफलतापूर्वक डिलीट की गई",
+    "userBlock": "उपयोगकर्ता ब्लॉक किया गया",
+    "messageSent": "मैसेज भेजा गया"
+  }
+}

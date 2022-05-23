@@ -1,0 +1,20 @@
+{
+  "myConnectionsLabel": "เครือข่ายของฉัน",
+  "connectionRequests": "คำขอสร้างเครือข่าย",
+  "connectionRequestsSent": "ส่งคำขอสร้างเครือข่าย",
+  "follower": "ผู้ติดตาม",
+  "followerPlural": "เหล่าผู้ติดตาม",
+  "disconnected": "ไม่เชื่อมต่อแล้ว",
+  "disconnect": "ไม่เชื่อมต่อ",
+  "loadMore": "ดูเพิ่ม...",
+  "noConnections": "ไม่มีเครือข่าย",
+  "ignore": "ไม่สนใจ",
+  "ignored": "ไม่สนใจแล้ว",
+  "connect": "เชื่อมต่อ",
+  "connected": "เชื่อมต่อแล้ว",
+  "noConnectionRequestsReceived": "ไม่มีคำขอเชื่อมต่อเครือข่าย",
+  "noConnectionRequestsSent": "ไม่ได้ส่งคำขอเชื่อมต่อเครือข่าย",
+  "requestDeleted": "คำขอถูกลบ",
+  "deleteRequest": "ลบคำขอ",
+  "noConnectionRequests": "ไม่ได้รับคำขอสร้างเครือข่าย"
+}

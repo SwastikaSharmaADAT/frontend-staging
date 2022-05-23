@@ -1,0 +1,24 @@
+{
+  "chooseImage": "Escolher Imagem",
+  "uploadTab": {
+    "title": "Biblioteca de Mídia",
+    "dragDropHere": "Arraste e solte arquivos aqui",
+    "or": "ou",
+    "selectFiles": "+ Selecionar arquivos",
+    "supportedFormatsText": "Apenas arquivos *.jpeg, *.jpg e *.png serão aceitos",
+    "maxLimitText": "Um máximo de {{limit}} imagens podem ser selecionadas",
+    "moreImagesText": "Mais {{limit}} imagens podem ser selecionadas",
+    "maxFileSize": "Tamanho max: 2 MB",
+    "minFileSize": "Tamanho min: 100 kB"
+  },
+  "mediaTab": {
+    "pickATag": "Selecione uma Tag",
+    "loadMore": "Carregar mais",
+    "deleteImage": "Excluir Imagem",
+    "choose": "Escolher",
+    "saveAll": "Salvar Todos",
+    "placeholderSearch": "Buscar itens...",
+    "placeholderDescription": "Adicionar texto descritivo...",
+    "placeholderEnterTag": "Inserir Tag"
+  }
+}

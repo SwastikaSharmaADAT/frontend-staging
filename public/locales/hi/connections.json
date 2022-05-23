@@ -1,0 +1,19 @@
+{
+  "myConnectionsLabel": "मेरे कनेक्शन",
+  "connectionRequests": "कनेक्शन अनुरोध",
+  "connectionRequestsSent": "कनेक्शन अनुरोध भेजा गया",
+  "follower": "अनुयायी",
+  "followerPlural": "अनुयायियों",
+  "disconnected": "डिस्कनेक्ट किया गया",
+  "disconnect": "डिस्कनेक्ट",
+  "loadMore": "और लोड करें...",
+  "noConnections": "कोई कनेक्शन नहीं",
+  "ignore": "नज़रअंदाज़ करना",
+  "ignored": "नजरअंदाज",
+  "connect": "जुडिये",
+  "connected": "जुड़े हुए",
+  "noConnectionRequestsReceived": "कोई कनेक्शन अनुरोध प्राप्त नहीं हुआ",
+  "noConnectionRequestsSent": "कोई कनेक्शन अनुरोध नहीं भेजा गया",
+  "requestDeleted": "अनुरोध हटाया गया",
+  "deleteRequest": "अनुरोध हटा दें"
+}

@@ -1,0 +1,22 @@
+{
+  "auth": {
+    "noContactsFound": "कोई संपर्क नहीं मिला",
+    "somethingWentWrong": "कुछ गलत हुआ, कृपया जारी रखने के लिए लॉगिन करें",
+    "sessionExpired": "सत्र समाप्त हो गया, कृपया फिर से लॉगिन करें",
+    "loginToContinue": "आगे जारी रखने के लिए किरपिया लॉगिन करें"
+  },
+  "mediaLibrary": {
+    "limitMoreImages": "केवल{{अवधि}} अधिक छवियों का चयन किया जा सकता है"
+  },
+  "article": {
+    "articleNotFound": "वस्तु नहीं मिला"
+  },
+  "cart": {
+    "alreadyInCart": "यह उत्पाद आपके कार्ट में पहले ही जोड़ा जा चुका है",
+    "removeItemError": "कार्ट से आइटम निकालने में त्रुटि"
+  },
+  "subscriptions": {
+    "planExist": "आपने यह योजना पहले ही खरीद ली है!",
+    "artworkNotFound": "कलाकृति नहीं मिली"
+  }
+}

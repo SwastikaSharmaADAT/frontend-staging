@@ -1,0 +1,103 @@
+{
+  "title": "การอุดหนุนผู้ขาย",
+  "artistPage": {
+    "sectionLabels": {
+      "sellCommissionFree": "ขายงานศิลปะโดยไม่เสียค่าคอมมิชชั่น",
+      "connectWithCollectors": "ติดต่อกับนักสะสมได้โดยตรง",
+      "cancelSubscription": "ยกเลิกการติดตามได้ทุกเมื่อ",
+      "basicPlan": "เบสิคแพลนฟรี"
+    }
+  },
+  "memberPage": {
+    "chooseThePlan": "เลือกแพลนที่เหมาะกับคุณ...",
+    "planLabels": {
+      "plus": "Plus",
+      "pro": "Pro",
+      "lifetime": "ตลอดชีพ"
+    },
+    "gatewayFees": "ค่าธรรมเนียมเกทเวย์",
+    "cancelAnytime": "ยกเลิกเมื่อไหร่ก็ได้"
+  },
+  "faq": {
+    "title": "คำถามที่พบบ่อย",
+    "askQuestion": "สอบถาม",
+    "questionLabels": {
+      "subscriptionFee": "ทำไมต้องจ่ายค่าติดตามด้วย?",
+      "basicAccount": "บัญชีแบบเบสิคเป็นการทดลองใช้ฟรีหรือเปล่า?",
+      "cancelSubscription": "ยกเลิกได้ตามใจแล้วยังได้เงินคืนไหม?",
+      "paymentForSelling": "ถ้าขายผลงานได้จะได้รับเงินยังไงและเมื่อไหร่?",
+      "publishAndSell": "ฉันสามารถเผยแพร่และขายงานศิลปะตามที่ฉันต้องการได้ไหม?",
+      "howArtmoSurvive": "ถ้าไม่มีค่าคอมมิชชั่นแล้ว ARTMO มีรายได้จากไหน?"
+    }
+  },
+  "perMonth": "/เดือน",
+  "pricingSelectLabels": {
+    "monthly": "จ่ายรายเดือน,",
+    "quarterly": "จ่ายทุกๆ3เดือน,",
+    "halfYearly": "จ่ายทีละครึ่งปี,",
+    "yearly": "จ่ายรายปี,"
+  },
+  "freePricing": "ฟรี",
+  "currencySwitcher": "ตัวแปลงสกุลเงิน",
+  "commission": "คอมมิชชั่น",
+  "getText": "ได้รับ",
+  "signUpText": "ลงชื่อ",
+  "noneText": "ไม่มี",
+  "includedText": "รวมแล้ว",
+  "notIncludedText": "ไม่ได้รวม",
+  "vendorPaymentPopup": {
+    "yourChoice": "ตัวเลืกของคุณ",
+    "price": "ราคา",
+    "every": "ต่อ",
+    "month": "เดือน",
+    "months": "เดือน",
+    "proceedToPayment": "ดำเนินการชำระเงิน"
+  },
+  "underagePopup": {
+    "hi": "Hi",
+    "backToProfile": "กลับหน้าโพรไฟล์"
+  },
+  "productLimits": {
+    "publishAndSell": "เผยแพร่และขาย...",
+    "basic": "สูงสุดถึง5ชิ้นงาน",
+    "artistPlus": "สูงสุดถึง20ชิ้นงาน",
+    "unlimited": "ไม่จำกัดงานศิลปะ"
+  },
+  "termsCondsPopup": {
+    "title": "ข้อกำหนด & เงื่อนไขสำหรับผู้ขาย",
+    "agreeAndProceed": "ยอนยอมและดำเนินการต่อ",
+    "agreeAndSubscribeTo": "ยินยอมและสมัคร"
+  },
+  "artworkListing": {
+    "byText": "โดย"
+  },
+  "roleChangeWarning": "หากดำเนินการต่อ คุณยินยอมที่จะเปลี่ยนประเภทผู้ใช้งานจาก",
+  "toText": "เป็น",
+  "toggleMemberLabel": "สำหรับสมาชิก",
+  "toggleArtistLabel": "สำหรับศิลปิน",
+  "pickPlanHeading": "เลือกแพลนที่เหมาะกับคุณ",
+  "promoteWorkHeading": "โปรโมตและขายงานศิลปะโดยไม่มีค่าคอมมิชชั่น",
+  "makeArtSeenHeading": "ขายงานศิลปะของคุณ",
+  "categories": {
+    "artistConnectDirectly": "เชื่อมต่อโดยตรงกับผู้ซื้อ",
+    "artistEnablePayment": "เปิดใช้งานเกตเวย์การชำระเงิน: Paypal, Visa, MasterCard",
+    "enableAcceptPayment": "ยอมรับการชำระเงินโดยตรง",
+    "artistDashboardManage": "แดชบอร์ด: จัดการการเรียกเก็บเงิน & บัญชี",
+    "artistShippingPolicy": "นโยบายการจัดส่งของคุณเอง",
+    "artistCreateCertificate": "สร้างใบรับรองผลิตภัณฑ์ของแท้สำหรับงานศิลปะของคุณ",
+    "artistHelpDesk": "โต๊ะช่วยเหลือ ARTMO",
+    "artistPublishArticle": "เผยแพร่และโพสต์บทความเกี่ยวกับงานและนิทรรศการของคุณ",
+    "artistBacklinkCollection": "ย้อนกลับเชื่อมโยงคอลเลกชัน ARTMO ของคุณบนโฮมเพจของคุณ",
+    "artistDisputeSupport": "การสนับสนุนการไกล่เกลี่ยข้อพิพาทของลูกค้า",
+    "memberConnectBuyers": "เชื่อมต่อโดยตรงกับผู้ซื้อ",
+    "memberEnablePayment": "เปิดใช้งานเกตเวย์การชำระเงิน: Paypal, Visa, MasterCard",
+    "memberAcceptPayment": "ยอมรับการชำระเงินโดยตรง",
+    "memberDashboardManage": "แดชบอร์ด: จัดการการเรียกเก็บเงิน & บัญชี",
+    "memberShippingPolicy": "นโยบายการจัดส่งของคุณเอง",
+    "memberHelpDesk": "โต๊ะช่วยเหลือ ARTMO",
+    "memberBacklinkCollection": "ย้อนกลับเชื่อมโยงคอลเลกชัน ARTMO ของคุณบนโฮมเพจของคุณ",
+    "memberDisputeSupport": "การสนับสนุนการไกล่เกลี่ยข้อพิพาทของลูกค้า",
+    "artistBadge": "ป้ายผู้ขายระดับพรีเมียม <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+    "memberBadge": "ป้ายผู้ขายระดับพรีเมียม <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+  }
+}

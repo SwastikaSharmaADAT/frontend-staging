@@ -1,0 +1,116 @@
+{
+    "auth": {
+        "passwordResetSuccess": " Ang Password ay nai-reset!",
+        "signOutMessage": "Ang User ay naisign-out!"
+    },
+    "articles": {
+        "articlePublish": "Ang Artikulo ay nai-publish",
+        "articleDraft": "Ang Artikulo ay nai-save sa drafts",
+        "articleUpdate": "Ang Artikulo ay Nai-update"
+    },
+    "dashboard": {
+        "settingsSaved": "Ang Settings ay nai-save"
+    },
+    "groups": {
+        "userRemoved": "Ang User ay nai-alis mula sa group",
+        "assignAsModerator": "Assigned as Moderator Na-assign bilang moderator",
+        "inviteSent": "Ang Imbitasyon ay naipadala",
+        "postSentForApproval": "Ang iyong kasalukuyang post ay naipadala sa Admin/Moderator para maaprubahan",
+        "postPublished": "Ang group post ay nai-publish",
+        "groupPostAccepted": "Ang post ay matagumpay na tinanggap",
+        "groupPostRejected": "Ang post ay matagumpay na ni-reject",
+        "joinRequestAccepted": "Tinanggap ang join request",
+        "joinRequestRejected": "Ni-reject ang ang join request",
+        "groupInviteAccept": "Ang Group invitation ay tinanggap",
+        "groupInviteReject": "Ang Group invitation ay in-ignore",
+        "commentAddSuccess": "Ang Komento ay naidagdag",
+        "groupPhotoRemove": "Ang group photo ay inalis",
+        "groupPhotoUpload": "Ang group photo ay in-upload",
+        "commentDeleted": "Ang komento ay nabura",
+        "groupPostAction": " Ang Post ay na-{{type}}",
+        "joinRequest": " Ang Join request ay na-{{type}}"
+    },
+    "mediaLibrary": {
+        "updatedAllMedia": "Ang lahat ng media file ay nai-update.",
+        "updatedMedia": "Updated na media file."
+    },
+    "newsFeed": {
+        "postPublished": "Ang Post ay na-publish",
+        "videoPublished": "Ang Video ay na-publish",
+        "photoAlbumPublished": "Ang Photo album ay na-publish",
+        "photoAlbumUpdated": "Photo album updated successfully",
+        "commentAdded": "Ang Komento ay naidagdag",
+        "commentDeleted": "Ang Komento ay nabura",
+        "commentHide": "Ang Komento ay naitago",
+        "commentUnhide": "Ang Komento ay naipakitang muli",
+        "commentUpdated": "Ang Komento ay na-update",
+        "activityDeleted": "Ang Aktibidad ay nabura"
+    },
+    "notification": {
+        "notificationRemoved": "Ang notipikasyon ay inalis!"
+    },
+    "pages": {
+        "pageCreated": "Nagawa ang Page"
+    },
+    "profile": {
+        "profilePhotoUploaded": "'Ang profile photo ay na-upload",
+        "coverPhotoUploaded": "Ang Cover photo ay na-upload",
+        "profilePhotoRemoved": "Ang Profile photo ay naialis",
+        "coverPhotoRemoved": "Ang Cover photo ay naialis",
+        "infoSaved": "Ang impormasyon ay nai-save",
+        "profileUpdated": "Ang profile ay nai-update",
+        "connectionRequestSent": "Ang Connection request ay naipadala",
+        "blockUser": " Ang User ay na-{{type}}",
+        "blocked": "Ang User naka-block",
+        "unblocked": "Ang User nai-unblock",
+        "follow": "Ang User na-follow",
+        "unfollow": "Ang User nai-unfollow",
+        "noticeDeleted": "Nabura ang notice",
+        "techniqueUpdate": "Ang seksyon ng Teknik ay na-update",
+        "expertiseUpdate": "Ang seksyon ng Expertise ay na-update",
+        "awardUpdate": "Ang seksyon ng mga Award ay na-update",
+        "publicationUpdate": "Publications section updated Ang seksyon ng mga Publikasyon ay na-update",
+        "exhibitionUpdate": "Ang seksyon ng mga Nakaraang Eksibisyon ay na-update",
+        "aboutBusinessUpdate": "Ang Tungkol sa Aking Negosyo | Propesyon ay na-update",
+        "disconnectedFromUser": "Na-disconnect mula sa user",
+        "connectionRequestDeleted": "Ang connection request ay nabura",
+        "connectionRequestIgnored": "Ang connection request ay in-ignore",
+        "userConnected": "Ang user ay konektado",
+        "followUnfollowUser": "Ang user ay na-{{action}}"
+    },
+    "staticContent": {
+        "inviteSent": "Naipadala ang invite"
+    },
+    "myAccount": {
+        "privacySettingsUpdated": "Ang User privacy settings ay na-update",
+        "webNotificationsSettingsUpdated": "Ang mga web notification settings ay na-update",
+        "dataDownload": "Ang datos ay matagumpay na nai-download",
+        "picsDownload": "Ang mga larawan ay matagumpay na nai-download",
+        "passwordUpdated": "Ang Password ay nai-update",
+        "notificationUpdated": "Ang mga setting sa notipiskasyon nai-update",
+        "accountDisconnected": "Ang iyong account ay na-disconnect",
+        "userDataDelete": "Lahat ng datos ng user ay nabura",
+        "photosDelete": "Lahat ng mga larawan at album ay nabura",
+        "userDelete": "Ang account ay matagumpay nang nabura"
+    },
+    "artworks": {
+        "artworkUpdated": "Ang iyong Artwork ay na-update.",
+        "artworkDeleted": "Ang Artwork ay Nabura",
+        "draftSave": "Ang iyong Artwork ay nai-save sa Drafted mode",
+        "sentForReview": "Ang iyong Artwork ay naipadala para ma-review ng Admin",
+        "published": "Ang iyong artowrk ay matagumpay nang nai-publish"
+    },
+    "profileCompletePopup": {
+        "profileUpdated": "Ang profile ay matagumpay na in-update"
+    },
+    "subscriptions": {
+        "purchaseSuccess": "Ang subskripsyon ay matagumpay na nabili",
+        "cancel": "Ang subskrispyon ay kinansela",
+        "paymentReactivate": "Ang pagbabayad ay in-activate muli"
+    },
+    "messages": {
+        "chatDelete": "Ang chat ay matagumpay nang nabura",
+        "userBlock": "Ang user ay naka-block",
+        "messageSent": "Naipadala na ang Mensahe"
+    }
+}

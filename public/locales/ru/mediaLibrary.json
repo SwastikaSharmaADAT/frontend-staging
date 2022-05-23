@@ -1,0 +1,26 @@
+{
+  "chooseImage": "Выбрать Изображение",
+  "uploadTab": {
+    "title": "Загрузить Файлы",
+    "dragDropHere": "Зажмите и переместите файлы сюда",
+    "or": "или",
+    "selectFiles": "+ Выберите Файлы",
+    "supportedFormatsText": "Допустимы только *.jpeg, *.jpg и *.png изображения",
+    "maxLimitPrefix": "Максимум",
+    "maxLimitSuffix": "изображений(я) могут быть выбраны или перемещены",
+    "moreImagesText": "больше изображений могут быть выбраны или перемещены",
+    "maxFileSize": "Макс. Размер Файла: 10 мБ",
+    "minFileSize": "Мин. Размер Файла: 50 кБ"
+  },
+  "mediaTab": {
+    "title": "Галерея",
+    "pickATag": "Выберите Тэг",
+    "loadMore": "Загрузить Больше",
+    "deleteImage": "Удалить Изображение",
+    "choose": "Выбрать",
+    "saveAll": "Сохранить Все",
+    "placeholderSearch": "Поиск по названию...",
+    "placeholderDescription": "Добавьте текст описания...",
+    "placeholderEnterTag": "Введите Тэг"
+  }
+}

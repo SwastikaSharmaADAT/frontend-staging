@@ -1,0 +1,27 @@
+{
+    "chooseImage": "이미지 선택",
+    "uploadTab": {
+        "title": "Upload Files",
+        "dragDropHere": "파일들을 드래그하여 이곳에 가져오세요",
+        "or": "또는",
+        "selectFiles": "+ 파일 선택",
+        "supportedFormatsText": " 다음의 *.jpeg, *.jpg and *.png 확장자 이미지만 가능합니다",
+        "maxLimitPrefix": "A maximum of",
+        "maxLimitSuffix": "이미지를 선택하거나 놓을 수 있습니다.",
+        "moreImagesText": "{{limit}}개의 더 많은 이미지를 선택하거나 가져올 수 있습니다",
+        "maxFileSize": "파일 최대 사이즈: 2 MB",
+        "minFileSize": "파일 최소 사이즈: 100 kB",
+        "maxLimitText": "최대 {{limit}}개의 이미지를 선택 및 가져올 수 있습니다"
+    },
+    "mediaTab": {
+        "title": "미디어 라이브러리",
+        "pickATag": "태그를 선택하세요",
+        "loadMore": "더 불러오기",
+        "deleteImage": "이미지 삭제",
+        "choose": "선택",
+        "saveAll": "전체 저장",
+        "placeholderSearch": "항목 찾기",
+        "placeholderDescription": "설명 텍스트 추가",
+        "placeholderEnterTag": "태그 입력"
+    }
+}

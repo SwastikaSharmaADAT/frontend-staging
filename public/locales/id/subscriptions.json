@@ -1,0 +1,103 @@
+{
+    "title": "VENDOR BERLANGGANAN",
+    "artistPage": {
+        "sectionLabels": {
+            "sellCommissionFree": "Jual Karya Seni Anda Dengan Bebas Komisi",
+            "connectWithCollectors": "Terhubung dengan Kolektor Secara Langsung",
+            "cancelSubscription": "Batalkan Langganan Anda Kapan Saja",
+            "basicPlan": "Paket BASIC GRATIS"
+        }
+    },
+    "memberPage": {
+        "chooseThePlan": "Pilih paket yang paling tepat untuk anda...",
+        "planLabels": {
+            "plus": "Plus",
+            "pro": "Pro",
+            "lifetime": "Seumur Hidup"
+        },
+        "gatewayFees": "Biaya Masuk",
+        "cancelAnytime": "Batalkan Kapan Saja"
+    },
+    "faq": {
+        "title": "Pertanyaan yang sering diajukan",
+        "askQuestion": "Berikan pertanyaan",
+        "questionLabels": {
+            "subscriptionFee": "Mengapa saya harus membayar biaya berlangganan?",
+            "basicAccount": "Apakah akun BASIC hanya uji coba gratis?",
+            "cancelSubscription": "Dapatkah saya membatalkannya kapan saja dan apakah saya mendapatkan pengembalian dana?",
+            "paymentForSelling": "Bagaimana dan kapan saya dibayar jika salah satu barang saya terjual?",
+            "publishAndSell": "Bisakah saya menerbitkan dan menjual karya seni apa pun yang saya inginkan?",
+            "howArtmoSurvive": "Tanpa biaya komisi, bagaimana ARTMO bisa bertahan?"
+        }
+    },
+    "perMonth": "/mo",
+    "pricingSelectLabels": {
+        "monthly": "Penagihan bulanan,",
+        "quarterly": "Penagihan setiap tiga bulan,",
+        "halfYearly": "Penagihan setengah tahun,",
+        "yearly": "Penagihan setiap tahun,"
+    },
+    "freePricing": "gratis",
+    "currencySwitcher": "Pengalih Mata Uang",
+    "commission": "Komisi",
+    "getText": "dapatkan",
+    "signUpText": "Daftar",
+    "noneText": "Tidak ada",
+    "includedText": "Termasuk",
+    "notIncludedText": "Tidak Termasuk",
+    "vendorPaymentPopup": {
+        "yourChoice": "Pilihan Anda",
+        "price": "Harga",
+        "every": "setiap",
+        "month": "bulan",
+        "months": "bulanan",
+        "proceedToPayment": "Lanjutkan ke pembayaran"
+    },
+    "underagePopup": {
+        "hi": "Hi",
+        "backToProfile": "Kembali ke Profil"
+    },
+    "productLimits": {
+        "publishAndSell": "Terbitkan dan Jual...",
+        "basic": "hingga 5 karya seni",
+        "artistPlus": "hingga 20 karya seni",
+        "unlimited": "karya seni tak terbatas"
+    },
+    "termsCondsPopup": {
+        "title": "Syarat & Ketentuan Vendor",
+        "agreeAndProceed": "Setuju dan Lanjutkan",
+        "agreeAndSubscribeTo": "Setuju dan Berlangganan"
+    },
+    "artworkListing": {
+        "byText": "oleh"
+    },
+    "roleChangeWarning": "Dengan melanjutkan, Anda setuju untuk mengubah jenis pengguna Anda",
+    "toText": "kepada",
+    "toggleMemberLabel": "Untuk Anggota",
+    "toggleArtistLabel": "Untuk Seniman",
+    "pickPlanHeading": "Pilih paket yang cocok untuk Anda.",
+    "promoteWorkHeading": "Promosikan dan jual karya seni Anda bebas komisi.",
+    "makeArtSeenHeading": "Jual Seni Anda.",
+    "categories":{
+        "artistConnectDirectly":"Terhubung Langsung dengan Pembeli",
+        "artistEnablePayment":"Aktifkan Pembayaran Awal: Paypal, Visa, MasterCard",
+        "enableAcceptPayment":"Terima Pembayaran Langsung",
+        "artistDashboardManage":"Dasbor: Kelola Koleksi & Akun",
+        "artistShippingPolicy":"Kebijakan Pengiriman Anda Sendiri",
+        "artistCreateCertificate":"Buat Sertifikat Keaslian untuk karya seni Anda",
+        "artistHelpDesk":"Layanan Bantuan ARTMO",
+        "artistPublishArticle":"Publikasikan dan Posting artikel tentang karya dan pameran Anda",
+        "artistBacklinkCollection":"Tautkan Kembali koleksi ARTMO Anda di Beranda Anda",
+        "artistDisputeSupport":"Dukungan mediasi perselisihan pelanggan",
+        "memberConnectBuyers":"Terhubung Langsung dengan Pembeli",
+        "memberEnablePayment":"Aktifkan Pembayaran Awal: Paypal, Visa, MasterCard",
+        "memberAcceptPayment":"Terima Pembayaran Langsung",
+        "memberDashboardManage":"Dasbor: Kelola Koleksi & Akun",
+        "memberShippingPolicy":"Kebijakan Pengiriman Anda Sendiri",
+        "memberHelpDesk":"Layanan Bantuan ARTMO",
+        "memberBacklinkCollection":"Tautkan Kembali koleksi ARTMO Anda di Beranda Anda",
+        "memberDisputeSupport":"Dukungan mediasi perselisihan pelanggan",
+        "artistBadge":"Lencana Penjual Premium <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+        "memberBadge":"Lencana Penjual Premium <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+      }
+}

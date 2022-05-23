@@ -1,0 +1,116 @@
+{
+    "auth": {
+        "passwordResetSuccess": "パスワードがリセットされました!",
+        "signOutMessage": "ユーザーはサインアウトしました!"
+    },
+    "articles": {
+        "articlePublish": "記事を公開しました",
+        "articleDraft": "記事を下書き保存しました",
+        "articleUpdate": "記事を更新しました"
+    },
+    "dashboard": {
+        "settingsSaved": "設定を保存しました"
+    },
+    "groups": {
+        "userRemoved": "ユーザーはグループから削除されました",
+        "assignAsModerator": "モデレーターとしてアサインされました",
+        "inviteSent": "招待を送りました",
+        "postSentForApproval": "最近の投稿が管理者 / モデレーターに送信され、承認されました",
+        "postPublished": "グループ投稿が公開されました",
+        "groupPostAccepted": "投稿が正常に受理されました",
+        "groupPostRejected": "投稿は却下されました",
+        "joinRequestAccepted": "参加リクエストが許可されました",
+        "joinRequestRejected": "参加リクエストが却下されました",
+        "groupInviteAccept": "グループへの招待が許可されました",
+        "groupInviteReject": "グループへの招待が却下されました",
+        "commentAddSuccess": "コメントが追加されました",
+        "groupPhotoRemove": "グループ写真が削除されました",
+        "groupPhotoUpload": "グループ写真がアップロードされました",
+        "commentDeleted": "コメントが削除されました",
+        "groupPostAction": "投稿が{{type}}されました",
+        "joinRequest": "参加リクエストが{{type}}されました"
+    },
+    "mediaLibrary": {
+        "updatedAllMedia": "すべてのメディアファイルを更新しました。",
+        "updatedMedia": "メディアファイルを更新しました。"
+    },
+    "newsFeed": {
+        "postPublished": "投稿が公開されました",
+        "videoPublished": "動画が公開されました",
+        "photoAlbumPublished": "フォトアルバムが公開されました",
+        "photoAlbumUpdated": "フォトアルバムは更新されました",
+        "commentAdded": "コメントが追加されました",
+        "commentDeleted": "コメントが削除されました",
+        "commentHide": "コメントが非表示になりました",
+        "commentUnhide": "コメントが表示になりました",
+        "commentUpdated": "コメントが更新されました",
+        "activityDeleted": "アクティビティが削除されました"
+    },
+    "notification": {
+        "notificationRemoved": "お知らせが削除されました!"
+    },
+    "pages": {
+        "pageCreated": "ページが作成されました"
+    },
+    "profile": {
+        "profilePhotoUploaded": "'プロフィール写真が更新されました",
+        "coverPhotoUploaded": "カバー写真が更新されました",
+        "profilePhotoRemoved": "プロフィール写真が削除されました",
+        "coverPhotoRemoved": "カバー写真が削除されました",
+        "infoSaved": "情報が保存されました",
+        "profileUpdated": "プロフィールが更新されました",
+        "connectionRequestSent": "コネクションリクエストが送信されました",
+        "blockUser": "ユーザーが{{type}}しました",
+        "blocked": "ユーザーをブロックしました",
+        "unblocked": "ユーザーのブロックを解除しました",
+        "follow": "ユーザーはフォローされています",
+        "unfollow": "ユーザーはフォロー解除されています",
+        "noticeDeleted": "通知を削除しました",
+        "techniqueUpdate": "技術セクションを更新しました",
+        "expertiseUpdate": "専門性セクションを更新しました",
+        "awardUpdate": "アワードセクションを更新しました",
+        "publicationUpdate": "公開セクションを更新しました",
+        "exhibitionUpdate": "過去の展示セクションを更新しました",
+        "aboutBusinessUpdate": "自分のビジネスについて | 専門性 セクションを更新しました",
+        "disconnectedFromUser": "ユーザーから連携解除しました",
+        "connectionRequestDeleted": "コネクションリクエストを削除しましtあ",
+        "connectionRequestIgnored": "コネクションリクエストを無視しました",
+        "userConnected": "ユーザー連携しました",
+        "followUnfollowUser": "ユーザーが{{action}}されました"
+    },
+    "staticContent": {
+        "inviteSent": "招待を送りました"
+    },
+    "myAccount": {
+        "privacySettingsUpdated": "ユーザーのプライバシー設定を更新しました",
+        "webNotificationsSettingsUpdated": "Web通知設定を更新しました",
+        "dataDownload": "データをダウンロードしました",
+        "picsDownload": "画像のダウンロードが完了しました",
+        "passwordUpdated": "パスワードを更新しました",
+        "notificationUpdated": "お知らせ設定を更新しました",
+        "accountDisconnected": "アカウントが未接続です",
+        "userDataDelete": "すべてのユーザーデータを削除",
+        "photosDelete": "全てのアルバム・画像を削除",
+        "userDelete": "アカウントが正常に削除されました"
+    },
+    "artworks": {
+        "artworkUpdated": "作品が更新されました。",
+        "artworkDeleted": "作品が削除されました",
+        "draftSave": "作品は下書きとして保存されました",
+        "sentForReview": "作品は管理者レビューに送信されました",
+        "published": "作品が公開されました"
+    },
+    "profileCompletePopup": {
+        "profileUpdated": "プロフィールが更新されました"
+    },
+    "subscriptions": {
+        "purchaseSuccess": "購読が完了しました",
+        "cancel": "購読がキャンセルされます",
+        "paymentReactivate": "支払い再開"
+    },
+    "messages": {
+        "chatDelete": "チャットの削除に成功",
+        "userBlock": "ユーザーはブロックされています",
+        "messageSent": "メッセージを送信しました"
+    }
+}

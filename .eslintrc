@@ -1,0 +1,90 @@
+{
+    "extends": ["react-app", "prettier", "prettier/react", "plugin:react/recommended"],
+    "settings": {
+        "import/resolver": {
+        "node": {
+            "paths": ["src"]
+            }
+        }
+        },
+        "rules": {
+        "no-unused-vars": [
+            1,
+            {
+            "argsIgnorePattern": "res|next|stage|^err|on|config"
+            }
+        ],
+        "arrow-body-style": [2, "as-needed"],
+        "no-param-reassign": [
+            2,
+            {
+            "props": false
+            }
+        ],
+        "no-unused-expressions": [
+            1, {
+            "allowTaggedTemplates": true
+            }
+        ],
+        "no-console": 1,
+        "no-use-before-define": 0,
+        "no-underscore-dangle": 0,
+        "linebreak-style": 0,
+        "consistent-return": 0,
+        "import": 0,
+        "func-names": 0,
+        "import/no-extraneous-dependencies": 0,
+        "import/prefer-default-export": 0,
+        "space-before-function-paren": 0,
+        "import/extensions": 0,
+        "import/no-cycle": 0,
+        "react/no-danger": 0,
+        "import/order": 1,
+        "react/display-name": 1,
+        "react/react-in-jsx-scope": 0,
+        "react/prefer-stateless-function": 0,
+        "react/no-unescaped-entities": 0,
+        "jsx-a11y/accessible-emoji": 0,
+        "react-hooks/rules-of-hooks": "error",
+        "sort-imports": ["off", {
+            "ignoreCase": false,
+            "ignoreDeclarationSort": false,
+            "ignoreMemberSort": false,
+            "memberSyntaxSortOrder": ["all", "single", "multiple", "none"] ,
+            "allowSeparatedGroups": true
+        }],
+        "react/jsx-filename-extension": [
+            1,
+            {
+            "extensions": [".js", ".jsx"]
+            }
+        ],
+        "quotes": [
+            2,
+            "single",
+            {
+            "avoidEscape": true,
+            "allowTemplateLiterals": true
+            }
+        ],
+        "indent": "off",
+        "prettier/prettier": [
+            "warn",
+            {
+            "trailingComma": "es5",
+            "semi": false,
+            "singleQuote": true,
+            "printWidth": 120,
+            "endOfLine": "auto"
+            }
+        ],
+        "jsx-a11y/href-no-hash": "off",
+        "jsx-a11y/anchor-is-valid": [
+            "warn",
+            {
+            "aspects": ["invalidHref"]
+            }
+        ]
+        },
+        "plugins": ["prettier"]
+    }

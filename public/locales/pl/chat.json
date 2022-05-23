@@ -1,0 +1,24 @@
+{
+    "delete": "Usuń",
+    "warningDeleteConversation": "Czy na pewno chcesz usunąć tę konwersację?",
+    "block": "Blokuj",
+    "unblock": "Odblokuj",
+    "blockWarning": "Czy na pewno chcesz",
+    "thisUser": "tego użytkownika?",
+    "placeholderMessage": "Wpisz swoją wiadomość tutaj...",
+    "send": "Wyślij",
+    "blockText": "Nie możesz odpowiadać w tym wątku. Użytkownik ustawił wiadomości jako prywatne, albo został zawieszony.",
+    "noMessage": "Brak wiadomości",
+    "history": "Wyświetl historię czatów",
+    "emojiPicker": {
+        "smileys_people": "LUDZIE",
+        "animals_nature": "NATURA",
+        "food_drink": "JEDZENIE",
+        "travel_places": "MIEJSCA",
+        "activities": "AKTYWNOŚCI",
+        "objects": "OBIEKTY",
+        "symbols": "SYMBOLE",
+        "flags": "FLAGI",
+        "recently_used": "OSTATNIO UŻYWANE"
+    }
+}

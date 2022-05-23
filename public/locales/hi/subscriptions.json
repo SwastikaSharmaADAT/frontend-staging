@@ -1,0 +1,114 @@
+{
+  "title": "विक्रेता सदस्यता",
+  "artistPage": {
+    "sectionLabels": {
+      "sellCommissionFree": "अपनी कला कमीशन-मुक्त बेचें",
+      "connectWithCollectors": "सीधे कलेक्टरों से जुड़ें",
+      "cancelSubscription": "अपनी सदस्यता कभी भी रद्द करें",
+      "basicPlan": "बेसिक प्लान मुफ़्त है"
+    }
+  },
+  "memberPage": {
+    "chooseThePlan": "वह योजना चुनें जो आपको सबसे अच्छी लगे...",
+    "planLabels": {
+      "plus": "प्लस",
+      "pro": "प्रो",
+      "lifetime": "आजीवन"
+    },
+    "gatewayFees": "गेटवे शुल्क",
+    "cancelAnytime": "कभी भी रद कर सकते hain"
+  },
+  "faq": {
+    "title": "अक्सर पूछे जाने वाले प्रश्न",
+    "askQuestion": "प्रश्न पूछें",
+    "questionLabels": {
+      "subscriptionFee": "मैं सदस्यता शुल्क का भुगतान क्यों करूंगा?",
+      "basicAccount": "क्या बेसिक खाता केवल एक निःशुल्क परीक्षण है?",
+      "cancelSubscription": "क्या मैं कभी भी रद्द कर सकता हूं और क्या मुझे धनवापसी मिल सकती है?",
+      "paymentForSelling": "जब मेरा एक पीस बिक ​​जाता है तो मुझे भुगतान कैसे और कब मिलेगा?",
+      "publishAndSell": "क्या मैं अपनी मनचाही कला को प्रकाशित और बेच सकता हूँ?",
+      "howArtmoSurvive": "कोई कमीशन शुल्क नहीं, एआरटीएमओ कैसे बच सकता है?"
+    }
+  },
+  "perMonth": "/एमओ",
+  "pricingSelectLabels": {
+    "monthly": "मासिक बिल,",
+    "quarterly": "त्रैमासिक बिल,",
+    "halfYearly": "अर्धवार्षिक बिल,",
+    "yearly": "वार्षिक बिल,"
+  },
+  "freePricing": "नि:शुल्क",
+  "currencySwitcher": "मुद्रा स्विचर",
+  "commission": "कमिशन",
+  "helpDesk": "ARTMO सहायता केंद्र",
+  "directPayments": "सीधे भुगतान स्वीकार करें",
+  "backLink": "अपने ARTMO संग्रह को अपने होमपेज पर बैक-लिंक करें",
+  "connectDirectly": "खरीदारों से सीधे जुड़ें",
+  "certificates": "अपनी कलाकृतियों के लिए प्रामाणिकता का प्रमाणपत्र बनाएं",
+  "mediation": "ग्राहक विवाद मध्यस्थता समर्थन",
+  "manageCollection": "डैशबोर्ड: संग्रह और खाता प्रबंधित करें",
+  "gateways": "भुगतान गेटवे सक्षम करें: पेपाल, वीज़ा, मास्टरकार्ड",
+  "badge": "प्रीमियम विक्रेता बैज",
+  "articles": "अपने काम और प्रदर्शनियों के बारे में लेख प्रकाशित और पोस्ट करें",
+  "shippingPolicy": "आपकी अपनी शिपिंग नीति",
+  "getText": "प्राप्त",
+  "signUpText": "साइन अप",
+  "noneText": "कोई नहीं",
+  "includedText": "शामिल",
+  "notIncludedText": "शामिल नहीं",
+  "vendorPaymentPopup": {
+    "yourChoice": "आपकी पंसद",
+    "price": "कीमत",
+    "every": "सब",
+    "month": "महीना",
+    "months": "महीने",
+    "proceedToPayment": "भुगतान करने के लिए आगे बढ़ें"
+  },
+  "underagePopup": {
+    "hi": "हैलो",
+    "backToProfile": "प्रोफाइल पर वापस जाएं"
+  },
+  "productLimits": {
+    "publishAndSell": "प्रकाशित करें और बेचें...",
+    "basic": "5 कलाकृतियों तक",
+    "artistPlus": "20 कलाकृतियों तक",
+    "unlimited": "अनगिनत कलाकृति"
+  },
+  "termsCondsPopup": {
+    "title": "विक्रेता नियम और शर्तें",
+    "agreeAndProceed": "सहमत और आगे बढ़ें",
+    "agreeAndSubscribeTo": "सहमत हैं और सदस्यता लें"
+  },
+  "artworkListing": {
+    "byText": "by"
+  },
+  "roleChangeWarning": "आगे बढ़कर, आप सहमत हैं कि आपका उपयोगकर्ता प्रकार . से बदल गया है",
+  "toText": "के लिए",
+  "toggleMemberLabel": "सदस्यों के लिए",
+  "toggleArtistLabel": "कलाकारों के लिऐ",
+  "pickPlanHeading": "एक योजना चुनें जो आपको सूट करे.",
+  "promoteWorkHeading": "अपनी कला को बिना कमीशन के प्रचारित करें और बेचें.",
+  "makeArtSeenHeading": "अपनी कला बेचें.",
+  "categories": {
+    "artistConnectDirectly": "खरीदारों से सीधे जुड़ें",
+    "artistEnablePayment": "भुगतान गेटवे सक्षम करें: पेपाल, वीज़ा, मास्टरकार्ड",
+    "enableAcceptPayment": "सीधे भुगतान स्वीकार करें",
+    "artistDashboardManage": "डैशबोर्ड: संग्रह और खाता प्रबंधित करें",
+    "artistShippingPolicy": "आपकी अपनी शिपिंग नीति",
+    "artistCreateCertificate": "अपनी कलाकृतियों के लिए प्रामाणिकता का प्रमाणपत्र बनाएं",
+    "artistHelpDesk": "ARTMO सहायता केंद्र",
+    "artistPublishArticle": "अपने काम और प्रदर्शनियों के बारे में लेख प्रकाशित और पोस्ट करें",
+    "artistBacklinkCollection": "अपने ARTMO संग्रह को अपने होमपेज पर बैक-लिंक करें",
+    "artistDisputeSupport": "ग्राहक विवाद मध्यस्थता समर्थन",
+    "memberConnectBuyers": "खरीदारों से सीधे जुड़ें",
+    "memberEnablePayment": "भुगतान गेटवे सक्षम करें: पेपाल, वीज़ा, मास्टरकार्ड",
+    "memberAcceptPayment": "सीधे भुगतान स्वीकार करें",
+    "memberDashboardManage": "डैशबोर्ड: संग्रह और खाता प्रबंधित करें",
+    "memberShippingPolicy": "आपकी अपनी शिपिंग नीति",
+    "memberHelpDesk": "ARTMO सहायता केंद्र",
+    "memberBacklinkCollection": "अपने ARTMO संग्रह को अपने होमपेज पर बैक-लिंक करें",
+    "memberDisputeSupport": "ग्राहक विवाद मध्यस्थता समर्थन",
+    "artistBadge": "Premium Seller Badge <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+    "memberBadge": "Premium Seller Badge <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+  }
+}

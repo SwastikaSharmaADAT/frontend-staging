@@ -1,0 +1,62 @@
+{
+    "createPost": {
+        "title": "Crear una Publicación",
+        "editPhoto": "Editar Foto",
+        "addPhoto": "Añadir Foto",
+        "characterLimit": "/500",
+        "publish": "Publicar",
+        "placeholderWriteSomething": "Write something..."
+    },
+    "groupBarHead": {
+        "leave": "Leave",
+        "confirmLeave": "¿Estás seguro de que quieres dejar el grupo?",
+        "uploadPhoto": "Subir Foto",
+        "removePhoto": "Cambiar Foto",
+        "changePhoto": "Eliminar Foto",
+        "group": "Grupo",
+        "leaveGroup": "Salir del grupo",
+        "joinGroup": "Unirse al grupo",
+        "lastActive": "Última actividad",
+        "members": " miembro(s)",
+        "posts": "publicacione(s)",
+        "editGroupSettings": "Editar la Configuración del Grupo",
+        "Leave": "Salir"
+    },
+    "memberSection": {
+        "title": "Miembros del Grupo",
+        "members": "miembros",
+        "seeAll": "Ver Todo..."
+    },
+    "invite": {
+        "title": "Invitar Conexiones",
+        "seeAll": "Ver Todo",
+        "invited": "Invitado",
+        "follower": "seguidor",
+        "followerPlural": "seguidores",
+        "allConnectionsInvited": "Todas sus conexiones están invitadas.",
+        "noConnectionsToInvite": "No hay conexiones para invitar",
+        "inviteTo": "Invitar a",
+        "invite": "Invitar",
+        "loading": "Loading..."
+    },
+    "joinRequests": {
+        "title": "Solicitudes de Unión",
+        "follower": "seguidor",
+        "followerPlural": "seguidores",
+        "reject": "Rechazar",
+        "accept": "Aceptar",
+        "noMoreRequests": "No más solicitudes para unirse"
+    },
+    "listingPopup": {
+        "remove": "Eliminar",
+        "admin": "(Admin)",
+        "moderator": "(Moderador)",
+        "follower": "seguidor",
+        "followerPlural": "seguidores",
+        "assignModerator": "Asignar como moderador",
+        "removeFromGroup": " Quitar del Grupo",
+        "addedAsModerator": "Agregado como Moderador",
+        "deleteConfirm": "¿Estás seguro de que quieres eliminar a este usuario?"
+    },
+    "notAuthorized": "No Autorizado"
+}

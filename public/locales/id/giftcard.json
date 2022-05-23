@@ -1,0 +1,37 @@
+{
+  "title": "Kartu Hadiah",
+  "linkToMyGiftCard": "Lihat Kartu Hadiah Anda",
+  "giftCardSection": {
+    "title": "Promosikan Profil Anda",
+    "description": "Sematkan tautan ke profil ARTMO Anda di situs web Anda.",
+    "getLinkButton": "Dapatkan Tautan"
+  },
+  "giftCardContent": {
+    "singular": "Kartu Ucapan",
+    "title": "Kirim Kartu Hadiah ARTMO melalui email. Penerima dapat menggunakannya untuk membeli karya seni.",
+    "selectAmount": "Pilih jumlah:",
+    "quesion": "Kirim kartu hadiah ini ke... ",
+    "namePlaceholder": "Masukan Nama",
+    "emailPlaceholder": "Masukan Email",
+    "lastNote": "Informasi kartu akan tersedia di bagian Akun Saya. Anda akan menerima tanda terima konfirmasi ke email akun Anda.",
+    "buttonText": "Lanjutkan ke Pembayaran",
+    "hello": "Halo",
+    "sentFrom": "Ini adalah Kartu Hadiah Anda yang dikirim oleh...",
+    "use": "Gunakan kartu ini untuk membeli karya seni.",
+    "seeHere": "Lihat Karya Seni Disini...",
+    "expiryDate": "* Tanggal kadaluarsa: "
+  },
+  "myGiftCardContent": {
+    "title": "Kartu Hadiah Anda:",
+    "to": "Kepada",
+    "name": " Bjorn Andersen",
+    "validUntil": "Berlaku hingga",
+    "purchasedOn": "Dibeli pada",
+    "used": "Digunakan",
+    "valid": "Berlaku",
+    "expired": "Kedaluwarsa",
+    "makeCard": "Buat Hadiah Seni.",
+    "buttonText": "Beli Kartu ARTMO",
+    "noGiftCard": "Tidak ada Kartu Hadiah yang tersedia"
+  }
+}

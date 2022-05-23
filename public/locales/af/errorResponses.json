@@ -1,0 +1,22 @@
+{
+  "auth": {
+    "noContactsFound": "Geen kontakte gevind",
+    "somethingWentWrong": "Iets het verkeerd geloop.  Meld asseblief aan om voort te gaan",
+    "sessionExpired": "Sessie het verval, meld asseblief weer aan",
+    "loginToContinue": "Meld asseblief aan om voort te gaan."
+  },
+  "mediaLibrary": {
+    "limitMoreImages": "Slegs {{limit}} meer beelde kan gekies word"
+  },
+  "article": {
+    "articleNotFound": "Artikel nie gevind"
+  },
+  "cart": {
+    "alreadyInCart": "Hierdie produk is reeds by u mandjie gevoeg",
+    "removeItemError": "Kon nie item uit die mandjie verwyder nie"
+  },
+  "subscriptions": {
+    "planExist": "U het alreeds hierdie plan gekoop!",
+    "artworkNotFound": "Kunswerk nie gevind nie"
+  }
+}

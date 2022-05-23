@@ -1,0 +1,116 @@
+{
+    "auth": {
+        "passwordResetSuccess": "An sake saita lambobin sirri!",
+        "signOutMessage": "Anyi waje da mai amfani!"
+    },
+    "articles": {
+        "articlePublish": "An wallafa rubutu",
+        "articleDraft": "An ajiye rubutu a drafts",
+        "articleUpdate": "An sabunta rubutu"
+    },
+    "dashboard": {
+        "settingsSaved": "An ajiye saiti"
+    },
+    "groups": {
+        "userRemoved": "An cire mai amfani daga rukuni",
+        "assignAsModerator": "An saka matsayin Mai Lura",
+        "inviteSent": "An tura gayyata",
+        "postSentForApproval": "An tura sabon rubutun ka zuwa ga Mai Lura don samun yarda",
+        "postPublished": "An wallafa rubutun rukuni",
+        "groupPostAccepted": "Anyi nasarar karbar rubutun",
+        "groupPostRejected": "Anyi nasarar kin karbar rubutun",
+        "joinRequestAccepted": "An karbi neman hadaka",
+        "joinRequestRejected": "Anki karbar neman hadaka",
+        "groupInviteAccept": "An karbi gayyatar rukuni",
+        "groupInviteReject": "Anki gayyatar rukuni",
+        "commentAddSuccess": "An kara sharhi",
+        "groupPhotoRemove": "An cire hoton rukuni",
+        "groupPhotoUpload": "An daura hoton rukuni",
+        "commentDeleted": "An goge sharhi",
+        "groupPostAction": "Tura {{type}}ed",
+        "joinRequest": "Shiga nema {{type}}ed"
+    },
+    "mediaLibrary": {
+        "updatedAllMedia": "An sabunta duka fayil din Midiya.",
+        "updatedMedia": "An sabunta fayil din midiya."
+    },
+    "newsFeed": {
+        "postPublished": "An wallafa rubutu",
+        "videoPublished": "An wallafa bidiyo",
+        "photoAlbumPublished": "An wallafa wajen ajiyan hotuna",
+        "photoAlbumUpdated": "Anyi nasarar sabunta album din hotuna",
+        "commentAdded": "An kara sharhi",
+        "commentDeleted": "An goge sharhi",
+        "commentHide": "An boye sharhi",
+        "commentUnhide": "An bayyana sharhi",
+        "commentUpdated": "An sabunta sharhi",
+        "activityDeleted": "An goge aiki"
+    },
+    "notification": {
+        "notificationRemoved": "An cire tunatarwa!"
+    },
+    "pages": {
+        "pageCreated": "An kirkiri shafi"
+    },
+    "profile": {
+        "profilePhotoUploaded": "'An saka hoton shafi",
+        "coverPhotoUploaded": "An saka hoton cova",
+        "profilePhotoRemoved": "An cire hoton shafi",
+        "coverPhotoRemoved": "An cire hoton cova",
+        "infoSaved": "An ajiye bayanai",
+        "profileUpdated": "An sabunta shafi",
+        "connectionRequestSent": "An tura neman hadin kai",
+        "blockUser": "Mai amfani {{type}}ed",
+        "blocked": "An toshe mau amfani",
+        "unblocked": "An bude mai amfani",
+        "follow": "An bi mai amfani",
+        "unfollow": "An daina bin mai amfani",
+        "noticeDeleted": "An goge sanarwa",
+        "techniqueUpdate": "An sabunta bangaren fasaha",
+        "expertiseUpdate": "An sabunta bangaren kwarewa",
+        "awardUpdate": "An sabunta bangaren bada lambar yabo",
+        "publicationUpdate": "An sabunta bangaren wallafawa",
+        "exhibitionUpdate": "An sabunta bangaren nunawa na baya",
+        "aboutBusinessUpdate": "An sabunta bangaren Game da Kasuwanci na | Aiki",
+        "disconnectedFromUser": "AN yanke sa daga mai amfani",
+        "connectionRequestDeleted": "An goge neman hadin kai",
+        "connectionRequestIgnored": "Anyi banza da neman hadin kai",
+        "userConnected": "An hadu da mai amfani",
+        "followUnfollowUser": "Mai amfani yayi {{action}}ed"
+    },
+    "staticContent": {
+        "inviteSent": "An tura gayyata"
+    },
+    "myAccount": {
+        "privacySettingsUpdated": "An sabunta saitin sirrin mai amfani",
+        "webNotificationsSettingsUpdated": "An sabunta tunatarwar yanar gizo",
+        "dataDownload": "Anyi nasarar saukarwa",
+        "picsDownload": "Anyi nasarar sauke hotunan",
+        "passwordUpdated": "An sabunta lambobin sirri",
+        "notificationUpdated": "An sabunta saitin tunatarwa",
+        "accountDisconnected": "An tsige asusun ka",
+        "userDataDelete": "An goge duka bayanan mai amfani",
+        "photosDelete": "An goge duka hotuna da albam",
+        "userDelete": "Anyi nasarar goge asusun"
+    },
+    "artworks": {
+        "artworkUpdated": "An sabunta zanen ka.",
+        "artworkDeleted": "An goge zanen ka",
+        "draftSave": "An ajiye zanen ka a tsarin Drafted",
+        "sentForReview": "An tura zanen ka zuwa wajen Admin don samun yarda",
+        "published": "Anyi nasarar wallafa zanen ka"
+    },
+    "profileCompletePopup": {
+        "profileUpdated": "Anyi nasarar sabunta shafi"
+    },
+    "subscriptions": {
+        "purchaseSuccess": "Anyi nasarar siyan tsari",
+        "cancel": "An tsayar da siyan tsari",
+        "paymentReactivate": "Andawo da biyan kudi"
+    },
+    "messages": {
+        "chatDelete": "Anyi nasarar goge hira",
+        "userBlock": "An toshe mai amfani",
+        "messageSent": "Antura Sako"
+    }
+}

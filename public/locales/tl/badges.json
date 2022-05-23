@@ -1,0 +1,20 @@
+{
+    "title": "MGA BADGE",
+    "promoteProfileSection": {
+        "title": "I-promote ang iyong Profile",
+        "description": "Mag-embed ng link sa iyong ARTMO profile sa iyong mga website.",
+        "getLinkButton": "Kumuha ng Link"
+    },
+    "badgeSections": {
+        "step1": "Step 1: Pumili ng kulay:",
+        "whiteRadioOption": "Puti",
+        "blackRadioOption": "Itim",
+        "step2": "Step 2: Pumili ng Sukat:",
+        "largeRadioOption": "Malaki",
+        "smallRadioOption": "Maliit",
+        "step3": "Step 3: I-copy at i-paste ang code ng iyong website:",
+        "copyButtonText": "Kopyahin ang code",
+        "copiedButtonText": "Nakopya!",
+        "helpText": "Tulong"
+    }
+}

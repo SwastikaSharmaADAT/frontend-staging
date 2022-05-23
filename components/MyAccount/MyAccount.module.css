@@ -1,0 +1,78 @@
+.AccountVerticalTabs {
+    width: 100%;
+    display: flex;
+}
+.AccountVerticalTabs .react-tabs {
+  display: flex;
+  margin-left: 0;
+    width: 100%;
+    height: auto;
+}
+
+.AccountVerticalTabs .react-tabs__tab-list {
+  display: flex;
+  flex-direction: column;
+  max-width: 360px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.AccountVerticalTabs .react-tabs__tab {
+  list-style: none;
+  padding: 3px 6px;
+  cursor: pointer;
+  color: #666;
+  min-height: 35px;
+  background: #eee;
+  border-bottom: 1px solid #fff;
+}
+
+.AccountVerticalTabs .react-tabs__tab--selected {
+  background: #000;
+}
+
+.AccountVerticalTabs .react-tabs__tab-panel {
+  display: none;
+  width: 100%;
+  padding: 0 0px 0 20px;
+}
+
+.AccountVerticalTabs .react-tabs__tab-panel--selected {
+  display: block;
+}
+
+.AccountVerticalTabs .react-tabs__tab {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.AccountVerticalTabs .react-tabs__tab--selected {
+    color: #fff;
+}
+.AccountVerticalTabs .react-tabs__tab:focus{
+    outline: 0;
+}
+.AccountVerticalTabs .react-tabs__tab:hover {
+    background: #000;
+    color: #fff;
+}
+
+.AccountVerticalTabs .rtl-ar-content.panel-content {
+  direction: rtl;
+}
+
+@media (max-width: 767px) {
+    .AccountVerticalTabs {
+        flex-direction: column;
+    }
+    .AccountVerticalTabs .react-tabs__tab-panel {
+        width: auto;
+        padding: 20px 0 0;
+    }
+    .AccountVerticalTabs .react-tabs__tab-list {
+        max-width: 100%;
+    }
+}

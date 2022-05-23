@@ -1,0 +1,16 @@
+{
+    "title": "বন্ধুদের আমন্ত্রণ জানান",
+    "tagsInput": {
+        "placeholder": "ম্যানুয়ালি ই-মেইল যুক্ত করুন। কমা দ্বারা ই-মেইল গুলি আলাদা করুন অথবা প্রত্যেক ইমেইল এর পর (enter) বাটন চাপুন"
+    },
+    "cancelButtonLabel": "বাতিল",
+    "sendInvitesButtonLabel": "আমন্ত্রণ পাঠান",
+    "howInviteWork": "এটা কিভাবে কাজ করে?",
+    "emailTemplateText": "পাঠানোর আগে কি আমি ই-মেইল গুলো দেখতে পারি?",
+    "pickEmailService": "আপনার ই-মেইল পরিবেশক নির্ধারণ করুন",
+    "gmailText": "জি-মেইল",
+    "outlookText": "আউটলুক",
+    "otherText": "অন্যান্য",
+    "selectedText": "বাছাইকৃত",
+    "emptyResultText": "কোনো ফল পাওয়া যায়নি"
+}

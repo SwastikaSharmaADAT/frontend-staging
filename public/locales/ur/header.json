@@ -1,0 +1,46 @@
+{
+    "connectingTheArtWorld": "CONNECTING THE ART WORLD",
+    "login": "Log In",
+    "freeSignup": "Free Sign Up",
+    "signup": "Sign Up",
+    "search": "Search users by name..",
+    "legacyPageInfo": "You can access your page here",
+    "loginMenu": {
+        "home": "Home",
+        "groups": "Groups",
+        "network": "Network",
+        "messages": "Messages",
+        "notifications": "Notifications",
+        "cart": "Cart",
+        "artwork": "Artworks",
+        "me": "Me",
+        "more": "More",
+        "sellArt": "Sell Art",
+        "dashboard": "Dashboard",
+        "myarticles": "Articles"
+    },
+    "logoutMenu": {
+        "artwork": "Artworks",
+        "cart": "Cart",
+        "more": "More"
+    },
+    "subMenu": {
+        "createPage": "Create a Page",
+        "switchPage": "Switch to page",
+        "switchTo": "Switch to",
+        "profile": "My Profile",
+        "page": "My Page",
+        "myAccount": "My Account",
+        "signOut": "Sign Out",
+        "settings": "Settings & Privacy"
+    },
+    "cart": {
+        "removeWarning": "Are you sure you want to remove this item?",
+        "yes": "Yes",
+        "checkoutButton": "CHECKOUT",
+        "emptyCartWarning": "Your cart is empty!",
+        "outOfStock": "Out of Stock!",
+        "seeArtworks": "See Artworks",
+        "buttonYes": "Yes"
+    }
+}

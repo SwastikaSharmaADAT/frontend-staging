@@ -1,0 +1,20 @@
+{
+    "title": "INSIGNES",
+    "promoteProfileSection": {
+        "title": "Faites la promotion de votre profil",
+        "description": "Intégrez un lien vers votre profil ARTMO sur vos sites Web.",
+        "getLinkButton": "Obtenir le Lien"
+    },
+    "badgeSections": {
+        "step1": "Étape 1 : Choisissez une couleur :",
+        "whiteRadioOption": "Blanc",
+        "blackRadioOption": "Noir",
+        "step2": "Étape 2 : Choisissez une taille :",
+        "largeRadioOption": "Grand",
+        "smallRadioOption": "Petit",
+        "step3": "Étape 3 : Copiez et collez le code sur votre site Web :",
+        "copyButtonText": "Copiez le code",
+        "copiedButtonText": "Copié !",
+        "helpText": "Aider"
+    }
+}

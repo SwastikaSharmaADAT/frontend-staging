@@ -1,0 +1,46 @@
+{
+    "connectingTheArtWorld": "MENYAMBUNGKAN DUNIA SENI",
+    "login": "Log Masuk",
+    "freeSignup": "Pendaftaran Percuma",
+    "signup": "Daftarlah",
+    "search": "Cari pengguna dengan nama..",
+    "legacyPageInfo": "Anda boleh mengakses halaman anda di sini",
+    "loginMenu": {
+        "home": "Main",
+        "groups": "Kumpulan",
+        "network": "Rangkaian",
+        "messages": "Mesej",
+        "notifications": "Notifikasi",
+        "cart": "Bakul",
+        "artwork": "Karya Seni",
+        "me": "Saya",
+        "more": "Lebih Lanjut",
+        "sellArt": "Jual Seni",
+        "dashboard": "Papan Pemuka",
+        "myarticles": "Artikel"
+    },
+    "logoutMenu": {
+        "artwork": "Karya Seni",
+        "cart": "Bakul",
+        "more": "Lebih Lanjut"
+    },
+    "subMenu": {
+        "createPage": "Hasilkan satu halaman",
+        "switchPage": "Tukar halaman",
+        "switchTo": "Tukar kepada",
+        "profile": "Profil Saya",
+        "page": "Halaman Saya",
+        "myAccount": "Akaun Saya",
+        "signOut": "Log Keluar",
+        "settings": "Setting & Privasi"
+    },
+    "cart": {
+        "removeWarning": "Adakah anda pasti untuk mengeluarkan item ini?",
+        "yes": "Ya",
+        "checkoutButton": "DAFTAR KELUAR",
+        "emptyCartWarning": "Bakul anda kosong!",
+        "outOfStock": "Kehabisan Stok!",
+        "seeArtworks": "Lihat Karya Seni",
+        "buttonYes": "Ya"
+    }
+}

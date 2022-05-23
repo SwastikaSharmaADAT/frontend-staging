@@ -1,0 +1,59 @@
+{
+    "createPost": {
+        "title": "Schreibe einen Post",
+        "editPhoto": "Foto editieren",
+        "addPhoto": "Foto hinzufügen",
+        "characterLimit": "/500",
+        "publish": "Veröffentlichen",
+        "placeholderWriteSomething":"Schreibe etwas..."
+    },
+    "groupBarHead": {
+        "Leave": "Gruppe verlassen",
+        "confirmLeave": "Möchtest Du die Gruppe wirklich verlassen?",
+        "uploadPhoto": "Foto hochladen",
+        "removePhoto": "Foto ändern",
+        "changePhoto": "Foto entfernen",
+        "group": "Gruppe",
+        "leaveGroup": "Gruppe verlassen",
+        "joinGroup": "Gruppe beitreten",
+        "lastActive": "Letzte Aktivität",
+        "members": " member(s)",
+        "posts": "post(s)",
+        "editGroupSettings": "Gruppeneinstellungen bearbeiten"
+    },
+    "memberSection": {
+        "title": "Gruppen Mitglieder",
+        "members": "Member",
+        "seeAll": "Siehe alle..."
+    },
+    "invite": {
+        "title": "Kontakte einladen",
+        "seeAll": "Siehe alle",
+        "invited": "Eingeladen",
+        "follower": "Follower",
+        "followerPlural": "Followers",
+        "allConnectionsInvited": "Alle deine Kontakte sind eingeladen.",
+        "inviteTo": "Einladung für",
+        "invite": "Einladen"
+    },
+    "joinRequests": {
+        "title": "Beitreten-Anfrage",
+        "follower": "Follower",
+        "followerPlural": "Followers",
+        "reject": "Ablehnen",
+        "accept": "Akzeptieren",
+        "noMoreRequests": "Keine weiteren Beitritts-Anfragen"
+    },
+    "listingPopup": {
+        "remove": "Entfernen",
+        "admin": "(Admin)",
+        "moderator": "(Moderator)",
+        "follower": "Follower",
+        "followerPlural": "Followers",
+        "assignModerator": "Als Moderator bestimmen",
+        "removeFromGroup": "Aus der Gruppe entfernen",
+        "addedAsModerator": "Als Moderator hinzugefügt",
+        "deleteConfirm": "Möchten Sie diesen Nutzer wirklich entfernen?"
+    },
+    "notAuthorized": "Nicht berechtigt"
+}

@@ -1,0 +1,20 @@
+{
+    "title": "BADGES",
+    "promoteProfileSection": {
+        "title": "Promote Dein Profil",
+        "description": "Füge einen Link zu deinem ARTMO-Profil auf deiner Homepage ein.",
+        "getLinkButton": "Link abrufen"
+    },
+    "badgeSections": {
+        "step1": "Schritt 1: Wähle eine Farbe:",
+        "whiteRadioOption": "Weiß",
+        "blackRadioOption": "Schwarz",
+        "step2": "Schritt 2: Wähle eine Größe:",
+        "largeRadioOption": "Groß",
+        "smallRadioOption": "Klein",
+        "step3": "Schritt 3: Kopiere den Code um ihn auf deiner Website einzufügen:",
+        "copyButtonText": "Kopiere den Code",
+        "copiedButtonText": "Kopiert!",
+        "helpText": "Hilfe"
+    }
+}

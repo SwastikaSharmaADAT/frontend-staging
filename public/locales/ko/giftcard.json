@@ -1,0 +1,37 @@
+{
+  "title": "기프트 카드",
+  "linkToMyGiftCard": "상품권 보기",
+  "giftCardSection": {
+    "title": "프로필 홍보",
+    "description": "ARTMO 프로필에 대한 링크를 웹 사이트에 포함합니다.",
+    "getLinkButton": "링크 가져오기"
+  },
+  "giftCardContent": {
+    "singular": "기프트 카드",
+    "title": "이메일을 통해 ARTMO 기프트 카드를 보냅니다. 받는 사람은 작품 구매에 사용할 수 있습니다.",
+    "selectAmount": "금액 선택:",
+    "quesion": "이 기프트 카드를 다음 주소로 보내...",
+    "namePlaceholder": "이름 입력",
+    "emailPlaceholder": "이메일 입력",
+    "lastNote": "카드 정보는 내 계정 섹션에서 확인할 수 있습니다. 계정 이메일로 확인 영수증을 받게 됩니다.",
+    "buttonText": "계산하기",
+    "hello": "여보",
+    "sentFrom": "고객님께서 보내주신 기프트카드입니다...",
+    "use": "이 카드를 사용하여 작품을 구입하십시오.",
+    "seeHere": "여기에서 작품을 참조하십시오 ...",
+    "expiryDate": "* 만료일: "
+  },
+  "myGiftCardContent": {
+    "title": "당신의 상품권:",
+    "to": "에게",
+    "name": " 비요른 안데르센(Bjorn Andersen)",
+    "validUntil": "까지 유효한",
+    "purchasedOn": "에 구입한",
+    "used": "사용된",
+    "valid": "유효한",
+    "expired": "만료된",
+    "makeCard": "예술작품 선물 만들기",
+    "buttonText": "ARTMO 카드 구입하기",
+    "noGiftCard": "사용할 수 있는 상품권 없음"
+  }
+}

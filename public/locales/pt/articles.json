@@ -1,0 +1,82 @@
+{
+    "validationErrors": {
+        "image": "É necessário inserir uma imagem",
+        "title": "É necessário inserir um título",
+        "titleLength": "O título deve ter no máximo 200 caracteres",
+        "description": "É necessário inserir uma descrição",
+        "descriptionLength": "A descrição deve ter no máximo 50000 caracteres",
+        "category": "É necessário escolher uma categoria",
+        "country": "É necessário escolher um país",
+        "city": "É necessário escolher uma cidade",
+        "startDate": "A data de início é obrigatória",
+        "endDate": "A data de término é obrigatória",
+        "endDateLarge": "A data de término não pode ser antes da data de início"
+    },
+    "articleNotAvailable":"Este artigo não está disponível",
+    "placeholderImage": "Adicionar uma imagem em destaque",
+    "placeholderTitle": "Inserir Título",
+    "placeholderDescription": "Escreva seu artigo aqui...",
+    "placeholderCountry": "País",
+    "placeholderStartDate": "Data de Início",
+    "placeholderCity": "Cidade",
+    "placeholderEndDate": "Data de Término",
+    "category": "Categoria",
+    "categoryOptions": {
+        "option1": "Buzz",
+        "option2": "Foto do dia",
+        "option3": "Exposições"
+    },
+    "status": {
+        "draft": "Projeto",
+        "publish": "Publicado",
+        "pending": "aprovação pendente"
+    },
+    "articleFollowed": "Segue",
+    "articleFollow": "Seguir",
+    "articleUnFollow": "Deixar de seguir",
+    "update": "Atualizar",
+    "submit": "Enviar",
+    "buzzListing": {
+        "title": "VEJA O QUE ESTÁ MOVIMENTANDO O MUNDO DA ARTE",
+        "titleShort": "BUZZ",
+        "placeholderSearchTitle": "Buscar exposições pelo título...",
+        "search": "Buscar",
+        "city": "Cidade",
+        "edit": "Editar"
+    },
+    "exhibitionListing": {
+        "title": "EXPOSIÇÕES"
+    },
+    "potd": {
+        "title": "FOTO DO DIA"
+    },
+    "myArticle": {
+        "title": "Meus Artigos",
+        "seeMoreText": "Ver mais..."
+    },
+    "seeMoreText":"Ver mais...",
+    "addArticleInfo": {
+       "mainSection" : {
+           "heading": "Como escrever um artigo" ,
+           "firstPara": "Pense em si mesmo como um jornalista ou escritor de opinião. Escreva sobre algo de interesse para o mundo da arte e os amantes da arte. Mais do que uma oportunidade de se promover ou de promover sua própria obra de arte, seu artigo é um espaço para escrever sobre um tema que interessará ao público em geral.",
+           "secondPara": "Você precisa ter um perfil ARTMO totalmente preenchido antes de publicar um artigo.",
+           "thirdPara": "Após a publicação, você será reconhecido como autor."
+       },
+       "buzzSubSection":{
+           "heading": "Buzz:",
+           "firstPara": "Escreva um artigo sobre um tópico de interesse para usuários da ARTMO. Veja ótimos exemplos de artigos Buzz ",
+           "anchorText": "aqui"
+       },
+       "potdSubSection":{
+           "heading": "Foto do Dia | POTD:",
+           "firstPara": "Use a categoria POTD quando tiver uma foto cativante e fascinante sobre a qual deseja escrever. Use essa imagem como imagem principal e conte ao mundo a história dessa foto. Sua POTD será publicada ",
+           "anchorText": "aqui"
+       },
+       "exhibitionSubSection":{
+           "heading": "Exibição:",
+           "firstPara": "Use esta categoria se você estiver gerenciando uma galeria ou organizando uma exposição. Escreva sobre a exposição que está organizando e seu artigo será visto na categoria Exposição.",
+           "secondPara": "Seu artigo de exposição será publicado ",
+           "anchorText": "aqui"
+       }
+   }
+}

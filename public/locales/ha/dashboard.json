@@ -1,0 +1,156 @@
+{
+    "tabLabels": {
+        "dashboard": "DASHBOD",
+        "mediaLibrary": "WAJEN AJIYAN MIDIYA",
+        "artworks": "ZANUKA",
+        "orders": "SIYAYYA",
+        "customers": "KWASTOMA",
+        "settings": "SAITI",
+        "addArtwork": "Kara Netwok"
+    },
+    "incompletePopup": {
+        "mainText": "Babban ganin ku anan, fara loda kayan aikin ku.",
+        "subText": "Kafin ka iya lodawa da buga ayyukan fasaha za ka buƙaci kammala bayanin martabarka."
+      },
+    "knowledgeBase": {
+        "title": "WAJENILIMI"
+    },
+    "dashboard": {
+        "title": "Dashbod",
+        "learnMore": "Koyi Saura",
+        "sections": {
+            "sec1": "AMINCEWA ZANE",
+            "sec2": "TA YA ZAN SAMU AMINTAR ZANE NA?",
+            "sec3": "Kalli dokokin saka zanuka anan",
+            "sec4": "YA AKE SIYAR DA ZANE?",
+            "here": "here."
+        }
+    },
+    "artworks": {
+        "title": "Zanuka",
+        "addNew": "Kara Sabo",
+        "learnMore": "Koyi Saura",
+        "draft": "draft",
+        "published": "An buga",
+        "underReview": "Ana Amincewa",
+        "sold": "An sayar",
+        "pending": "Ana buƙatar Shirya",
+        "show": "Nuna",
+        "entries": "Wanda aka Shigar",
+        "placeholderSearch": "Nemo",
+        "eur": "EUR",
+        "quickEdit": {
+            "title": "Gyara da Sauri",
+            "confirmButton": "Eh",
+            "markAsSoldText": "Ka tabbata zakayi makin din wannan zanen a matsayin wanda aka siyar? Baza'a iya komawa baya ba",
+            "switchLeft": "an siyar",
+            "switchRight": "Akwai",
+            "saveChanges": "Ajiye Canji",
+            "selfNotePlaceholder": "Rubutun Kai",
+            "titlePlaceholder": "Take",
+            "pricePlaceholder": "Farashi",
+            "priceOnRequestPlaceholder": "Farashi Yadda aka Nema"
+        },
+        "delete": {
+            "confirmButton": "Eh",
+            "confirmDeleteText": "Ka tabbata kanason goge wannan zane?"
+        },
+        "hover": {
+            "view": "Kalla",
+            "quickEdit": "Gyara da Sauri",
+            "edit": "Gyara",
+            "delete": "Goge"
+        }
+    },
+    "orders": {},
+    "settings": {
+        "title": "Saiti",
+        "learnMore": "Koyi Saura",
+        "saveChanges": "Ajiye Canji",
+        "updateChanges": "Sabunta canje-canje",
+        "optionTitles": {
+            "general": "Gaba Daya",
+            "vacation": "Shakatawa",
+            "subscription": "Biyan Kudi",
+            "payouts": "Biya"
+        },
+        "general": {
+            "vendorEmail": "Imel din Mai Siya",
+            "timezone": "Zangon Lokaci",
+            "shippingPolicy": "Dokar Aika Kaya",
+            "validationErrors": {
+                "email": "Shigar da adireshin imel mai inganci",
+                "shippingPolicy": "Dokar aiki kaya zai iya kaiwa har harufa 1000"
+            }
+        },
+        "vacation": {
+            "vacationMode": "Saka Tsarin Shakatawa",
+            "disablePurchase": "Hana siyarwa lokacin shakatawa",
+            "vacationMessage": "Sakon shakatawa",
+            "validationErrors": {
+                "vacationMessage": "Sakon shakatawa zai iya kaiwa har harufa 1000"
+            }
+        },
+        "subscription": {
+            "paymentsVia": "Biya ta",
+            "paypalEmail": "Imel din PayPal",
+            "cardNumber": "Card number ",
+            "changePaymentData": "Canja Bayanan Biya ",
+            "subscriptionPeriod": "Lokacin Biya",
+            "price": "Farashi",
+            "eur": "EUR",
+            "upcomingPayment": "Biyan Nan Gaba",
+            "upgradeMembership": "Biyan kuɗi",
+            "downgradeYourAccount": "Rage Matakin Asusu",
+            "cancelSubscription": "Cancel your subscription",
+            "cancelConfirmText": "Ka tabbata kanaso ka tsayar da tsarin ka?",
+            "buttonYes": "Eh",
+            "changePaymentText": "Ka tabbata kanaso ka canja yadda ake biyan kudi?",
+            "basicPlanText": "Wannan tsarin kyauta ne. Babu bukatar biyan kudi."
+        },
+        "payouts": {
+            "wireTransfer": "Tura kudi kai tsaye",
+            "payPal": "PayPal",
+            "paymentTypeQuestion": "Yaya kakeson karbar kudin ka idan ka siyar da zane?",
+            "country": "Kasa",
+            "bankAccountNumber": "Lambar Banki",
+            "email": "Email",
+            "routingNumber": "Lambar Routing",
+            "validationErrors": {
+                "bankAccountNumber": "Lambar account din banki zai iya kaiwa har harufa 24",
+                "routingNumber": "Lambar Routing number zai iya kaiwa har harufa 24",
+                "country": "Ana bukatar sunan kasa",
+                "email": "Ana bukatar Imel",
+                "bankAccountNumberLength": "Lambobin banki bazasu wuce yawan harufa 24 ba",
+                "routingNumberLength": "Lambobin routing bazasu wuce yawan harufa 24 ba",
+                "paymentType": "Ana bukatar nau'in biya",
+                "invalidEmail": "A shigar da imel da yake aiki"
+            }
+        }
+    },
+    "knowledgebase": {
+        "accordion1": "Yadda za'a saka tsarin shakatawa?",
+        "accordion2": "Ta ya zan aika zane?",
+        "accordion3": "Sabida mene ba'a ganin kayana awajen ajiya?",
+        "accordion4": "Bukatun Hoto",
+        "accordion5": "Takardar shaidar inganci (dauko)"
+    },
+    "purchaseSubscriptionMessage": "Fara siyan tsari da farko tukunna",
+    "profileCompletionPopup": {
+        "title": "Karasa cike shafin ka",
+        "addProfileImage": "Daura hoto a shafin",
+        "startSellingArt": "Fara sayar da zane",
+        "placeholder": {
+            "phone": "Lambar Waya",
+            "city": "Gari",
+            "country": "Kasa"
+        },
+        "validationErrors": {
+            "profileImageRequired": "Ana bukatar hoton shafi",
+            "cityRequired": "Ana bukatar gari",
+            "countryRequired": "Ana bukatar kasa",
+            "phoneRequired": "Ana bukatar Lambar Waya",
+            "invalidPhone": "Lambar Waya ba daidai bane"
+        }
+    }
+}

@@ -1,0 +1,362 @@
+{
+  "placeholderIntro": "Kord Inleiding",
+  "about": {
+    "title": "OOR",
+    "edit": "Wysig",
+    "cancel": "Kanselleer",
+    "save": "Stoor",
+    "noAboutText": "Geen oor teks bygevoeg nie",
+    "placeholderAbout": "Voeg oor hier by....",
+    "characterLimit": "krakterLimiet/1000",
+    "errorAbout": "Oorskry maksimum karakter Lengte van 1000"
+  },
+  "biography": {
+    "title": "BIOGRAFIE",
+    "edit": "Wysig",
+    "cancel": "Kanselleer",
+    "save": "Stoor",
+    "noBiographyText": "Geen biografie teks bygevoeg nie",
+    "placeholderBiography": "Voeg biografie hier....",
+    "characterLimit": "karakterlimiet/1000"
+  },
+  "activity": {
+    "title": "Aktiwiteit",
+    "descriptionNotAdded": "Beskrywing nie bygevoeg nie",
+    "reactions": "reaksies",
+    "noActivityText": "Geen aktiwiteit gevind nie",
+    "seeAll": "Sien Alles",
+    "add": "Voeg By"
+  },
+  "album": {
+    "title": "ALBUMS",
+    "seeAll": "Sien Alles",
+    "add": "Voeg By",
+    "noAlbumFound": "Geen albums gevind nie",
+    "edit": "Wysig"
+  },
+  "artwork": {
+    "title": "KUNSWERKE",
+    "likedArtworks": "HOU VAN KUNSWERKE",
+    "noArtworkFound": "Geen kunswerke gevind nie",
+    "seeAll": "Sien Alles",
+    "add": "Voeg By"
+  },
+  "award": {
+    "title": "TOEKENNINGS",
+    "noAwardFound": "Geen toekennings gevind nie",
+    "addImages": "Voeg beelde by",
+    "placeholderDescription": "Voer beskrywing van u kunstoekennings by.",
+    "characterLimit": "/1000",
+    "edit": "Wysig",
+    "cancel": "Kanselleer",
+    "save": "Stoor"
+  },
+  "basicInfo": {
+    "fillDetailsText": "Vul asseblief hierdie velde in",
+    "placeholderFirstName": "Voornaam",
+    "placeholderLastName": "Van",
+    "placeholderCity": "Stad",
+    "placeholderCountry": "Kies land",
+    "placeholderEmail": "E-Pos",
+    "save": "Stoor",
+    "cancel": "Kanselleer"
+  },
+  "business": {
+    "title": "Oor my besigheid| Beroep",
+    "noBusinessFound": "Geen inligting oor my besigheid | beroep gevind",
+    "addImages": "Voeg beelde by",
+    "placeholderDescription": "Voer beskrywing van oor my besigheid | beroep in.",
+    "characterLimit": "karakterlimiet/1000",
+    "edit": "Wysig",
+    "cancel": "Kanselleer",
+    "save": "Stoor"
+  },
+  "verbindingsPopup": {
+    "follower": "volgeling",
+    "followerPlural": "volgelinge",
+    "connected": "Gekoppel",
+    "requestPending": "Versoek Hangende",
+    "requestSent": "Versoek Gestuur",
+    "connect": "Konnekteer",
+    "userConnectionsTitle": "'gebruikersverbindingstitel"
+  },
+  "contact": {
+    "title": "KONTAK INLIGTING",
+    "noContactInfoFound": "Geen kontak inligting bygevoeg",
+    "email": "E-pos",
+    "skype": "Skype",
+    "phone": "Foon",
+    "address": "Adres",
+    "openingHours": "Openingstye",
+    "socialMedia": "Sosiale Media",
+    "placeholderEmail": "E-pos",
+    "placeholderSkype": "Skype",
+    "phoneNumber": "Telefoon Nommer",
+    "placeholderAddress": "Adres",
+    "placeholderOpenHours": "Openingstye",
+    "edit": "Wysig",
+    "cancel": "Kanselleer",
+    "save": "Stoor"
+  },
+  "expertise": {
+    "title": "KUNDIGHEID",
+    "noExpertiseFound": "Geen kundigheid gevind",
+    "addImages": "Voeg beelde by",
+    "placeholderDescription": "Voer beskrywing van jou kuns kundighede in.",
+    "characterLimit": "karakterlimiet/1000",
+    "edit": "Wysig",
+    "cancel": "Kanselleer",
+    "save": "Stoor"
+  },
+  "followersPopup": {vplgelingePopup
+    "follower": "volgeling",
+    "followerPlural": "volgelinge",
+    "followed": "Gevolg",
+    "unfollow": "Ontvolg",
+    "follow": "Ontvolg",
+    "userFollowersTitle": "'verbruikersVolgelingeTitel"
+  },
+  "followingPopup": {
+    "follower": "volgeling",
+    "followerPlural": "volgelinge",
+    "followed": "Gevolg",
+    "unfollow": "Ontvolg",
+    "follow": "Ontvolg",
+    "noFollowing": "Geen navolging nie",
+    "userFollowersTitle": "'verbruikersVolgelingeTitel",
+    "followPlural": "Volg Meervoud"
+  },
+  "group": {
+    "title": "GROEPE",
+    "noGroupsFound": "Gebruiker het nie op enige groep ingeteken nie",
+    "member": "lid",
+    "memberPlural": "lede",
+    "browseGroups": "Blaai Deur Groepe",
+    "create": "Skep"
+  },
+  "invite": {
+    "title": "NOOI VRIENDE UIT",
+    "desc1": "Stuur 'n boodskap na u kontakte.",
+    "desc2": "Vertel hulle u is hier.",
+    "invite": "Uitnooi"
+  },
+  "messagePopup": {boodskap Pop-up
+    "or": "OF",
+    "learnMore": "Leer Meer",
+    "seeMore": "Sien Meer..."
+  },
+  "pastExhibition": {
+    "title": "VORIGE UITSTALLINGS",
+    "addImages": "Voeg beelde by",
+    "noExhibitionsFound": "Geen vorige uitstallings gevind nie",
+    "placeholderDescription": "Voer beskrywing van jou vorige uistallings in.",
+    "characterLimit": "karakterlimiet/1000",
+    "edit": "Wysig",
+    "cancel": "Kanselleer",
+    "save": "Stoor"
+  },
+  "personalInfo": {
+    "title": "PERSOONLIKE INLIGTING",
+    "noInfoFound": "Geen persoonlike inligting bygevoeg nie",
+    "city": "Stad",
+    "country": "Land",
+    "profession": "Beroep",
+    "company": "Maatskappy",
+    "industry": "Industrie",
+    "website": "Webtuiste",
+    "languages": "Tale",
+    "visibleInfo": "Sigbare Inligting",
+    "dateOfBirth": "Geboortedatum",
+    "gender": "Geslag",
+    "relationshipStatus": "Verhoudingstatus",
+    "placeholderCity": "Stad",
+    "placeholderCountry": "Kies Land",
+    "placeholderProfession": "Beroep",
+    "placeholderCompany": "Maatskappy",
+    "placeholderIndustry": "Industrie",
+    "placeholderLanguages": "Kies Tale",
+    "placeholderWebsite": "Webtuiste",
+    "placeholderDob": "Geboortedatum",
+    "errorDob": "Geboortedatum word benodig",
+    "genderDropdown": {
+      "option1": "Kies geslag",
+      "option2": "Manlik",
+      "option3": "Vroulik",
+      "option4": "Divers"
+    },
+    "relationDropdown": {
+      "option1": "Kies verwantskap status",
+      "option2": "Enkel",
+      "option3": "Getroud",
+      "option4": "Vennootskap"
+    },
+    "edit": "Wysig",
+    "cancel": "Kanselleer",
+    "save": "Stoor"
+  },
+  "coverImage": {omslag Beeld
+    "menuOptions": {spyskaart Opsies
+      "title": "Verander voorbladfoto",
+      "upload": "Laai Foto Op",
+      "change": "Verander Foto",
+      "remove": "Verwyder Foto"
+    }
+  },
+  "profileHead": {profiel Hoof
+    "profileImage": {profiel Beeld
+      "menuOptions": {spyskaart Opsies
+        "title": "Verander prent",
+        "upload": "Laai Foto Op",
+        "change": "Verander Foto",
+        "remove": "Verwyder Foto"
+      }
+    },
+    "connected": "Gekoppel",
+    "requestPending": "Versoek Hangende",
+    "requestSent": "Versoek Gestuur",
+    "connect": "Konnekteer",
+    "shareProfile": "Deel Profiel",
+    "unblock": "Deblokkeer",
+    "block": "Blokkeer",
+    "tooltip": {
+      "text": "Die ander profiel tipe het verskillende intekeningmodelle.",
+      "seeMore": "Sien meer..."
+    },
+    "profileDesc": {profiel Beskrywing
+      "artist": { Kunstenaar
+        "firstline": "<b>Jy is 'n kunstenaar!</b>",
+        "secondline": "U kan kunswerke verkoop wat u geskep het."
+      },
+      "member": {lid
+        "firstline": "U is<b><i>Nie<i></b> 'n Kunstenaar nie!",
+        "secondline": "Jy kan kunswerke verkoop wat jy persoonlik besit."
+      }
+    },
+    "edit": "Wysig",
+    "cancel": "Kanselleer",
+    "save": "Stoor",
+    "followed": "Gevolg",
+    "follow": "Volg",
+    "message": "Boodskap",
+    "more": "Meer...",
+    "artistProfile": "Kunstenaarsprofiel",
+    "memberProfile": "Lidprofiel",
+    "enterName": "Voer asseblief u naam in",
+    "enterInstitute": "Voer asseblief die instituutnaam in",
+    "placeholderFirstName": "Eerste Naam",
+    "placeholderInstitureName": "Instituutnaam",
+    "placeholderLastName": "Van"
+  },
+  "notices": {
+    "title": "KENNISGEWINGS",
+    "notNoticesFound": "Geen Kennisgewings om te vertoon!!"
+  },
+  "profileCompleteness": {
+    "title": "PROFIEL VOLLEDIGHEID",
+    "incompleteLabel": "onvolledigeEtiket",
+    "coverPicUrl": "Voorbladprent",
+    "profilePicUrl": "Profiel Prent",
+    "city": "Stad",
+    "mobile": "Telefoonnomer",
+    "address": "Adres",
+    "openingHours": "Openingsure",
+    "country": "Land",
+    "aboutMe": "Oor",
+    "profession": "Beroep",
+    "industry": "Industrie",
+    "company": "Maatskappy",
+    "email": "E-pos"
+  },
+  "publication": {
+    "title": "PUBLIKASIES",
+    "noPublicationsFound": "Geen publikasies gevind",
+    "addImages": "Voeg beelde by",
+    "placeholderDescription": "Voer beskrywing van u publikasies in.",
+    "characterLimit": "karakterLimiet/1000",
+    "edit": "Wysig",
+    "cancel": "Kanselleer",
+    "save": "Stoor"
+  },
+  "allSectionHeader": {
+    "add": "Voeg By",
+    "seeAll": "Sien Alles"
+  },
+  "share": {
+    "copiedText": "Gekopieer!",
+    "copyLink": "Kopieer Skakel",
+    "share": "Deel",
+    "profielDeelTitel": "'s profiel"
+  },
+  "technique": {
+    "title": "TEGNIEK",
+    "noTechFound": "Geen tegnieke gevind",
+    "addImages": "Voeg beelde by",
+    "placeholderDescription": "Voer beskrywing van u kunstegniek in.",
+    "characterLimit": "karakterlimiet/1000",
+    "edit": "Wysig",
+    "cancel": "Kanselleer",
+    "save": "Stoor",
+    "your": "jou",
+    "photo": "foto",
+    "apply": "Toepas"
+  },
+  "profileNavigator": {
+    "profile": "Profiel",
+    "see": "Sien",
+    "art": "Kuns",
+    "about": "OOR",
+    "contact": "KONTAKBESONDERHEDE",
+    "activity": "AKTIWITEIT",
+    "videos": "VIDEOS",
+    "artworks": "KUNSWERKE",
+    "likedArtworks": "Hou van Kunswerke",
+    "albums": "ALBUMS",
+    "groups": "GROEPE",
+    "technique": "TEGNIEK",
+    "expertise": "KUNDIGHEID",
+    "awards": "TOEKENNINGS",
+    "pastExhibitions": "VORIGE UITSTALLINGS",
+    "publications": "PUBLIKASIES",
+    "personalInfo": "PERSOONLIKE INLIGTING",
+    "business": "OOR MY BESIGHEID"
+  },
+  "connections": {
+    "title": "Konneksies",
+    "noConnectionsFound": "Geen Konneksies",
+    "seeAll": "Sien Alles...",
+    "followers": "Volgelinge",
+    "following": "Volg"
+  },
+  "video": {video
+    "title": "Videos",
+    "noVideosFound": "Geen Videos Gevind"
+  },
+  "visibility": {sigbaarheid
+    "public": "Publiek(Aangemelde Gebruiker)",
+    "private": "Privaat",
+    "connectionsOnly": "Slegs Konneksies"
+  },
+  "blokSeksie": {
+    "accountUnavailable": "Hierdie rekening is nie beskikbaar nie",
+    "goToHome": "Gaan na Tuisblad"
+  },
+  "e-posDeel": {
+    "bodyText2": "\Behou kontak!\Wat is ARTMO ~ Leer Meer https://artmo.com/wat-is-artmo",
+    "profieldeel": {
+      "subject": "Kyk na ARTMO",
+      "bodyText1": "Hello,\Ek dink jy mag geïntereseerd wees om na die artikel op ARTMO te kyk en by die Kunsnetwerk aan te sluit.\Klik hier om my profiel te sien: "
+    },
+    "artikelDeel": {
+      "subject": "Kyk na hierdie artikel op ARTMO",
+      "bodyText1": "Hello,\Ek dink jy mag geïntereseerd wees om na die artikel op ARTMO te kyk\Klik hier om dit te lees: "
+    },
+    "artworkShare": {
+      "subject": "Kyk na hierdie kunswerke op ARTMO",
+      "bodyText1": "Hello,\Ek dink jy sal dalk belangstel om na hierdie wonderlike kunswerk op ARTMO te kyk.\Klik hier om die kunswerk te sien
+    },
+    "postShare": {
+      "subject": "Kyk na hierdie onderwerp op ARTMO",
+      "bodyText1": "Hello,\Ek dink jy mag geïntereseerd wees om na die artikel op ARTMO te kyk.\Klik hier om dit te lees: "
+    }
+  }
+}

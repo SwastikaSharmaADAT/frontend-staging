@@ -1,0 +1,111 @@
+{
+  "title": "מנוי ספק",
+  "artistPage": {
+    "sectionLabels": {
+      "sellCommissionFree": "מכור את האמנות שלך ללא עמלה",
+      "connectWithCollectors": "התחבר ישירות עם אספנים",
+      "cancelSubscription": "בטל את המנוי שלך בכל עת",
+      "basicPlan": "החבילה הבסיסית היא בחינם"
+    }
+  },
+  "memberPage": {
+    "chooseThePlan": "בחר את התוכנית המתאימה לך ביותר...",
+    "planLabels": {
+      "plus": "פלוס",
+      "pro": "פרו",
+      "lifetime": "לכל החיים"
+    },
+    "gatewayFees": "עמלת תשלום",
+    "cancelAnytime": "בטל בכל עת",
+  },
+  "faq": {
+    "title": "שאלות נפוצות",
+    "askQuestion": "שאל שאלה",
+    "questionLabels": {
+      "subscriptionFee": "מדוע שאשלם דמי מנוי?",
+      "basicAccount": "האם חשבון בסיסי הוא רק ניסיון בחינם?",
+      "cancelSubscription": "האם אוכל לבטל בכל עת והאם אני מקבל החזר כספי?",
+      "paymentForSelling": "איך ומתי אני מקבל תשלום כשאחת היצירות שלי נמכרת?",
+      "publishAndSell": "האם אוכל לפרסם ולמכור כל אמנות שאני רוצה?",
+      "howArtmoSurvive": "ללא עמלת עמלה, כיצד יכול ARTMO לשרוד?"
+    }
+  },
+  "perMonth": "/חו",
+  "pricingSelectLabels": {
+    "monthly": "חיוב חודשי,",
+    "quarterly": "חיוב רבעוני,",
+    "halfYearly": "חיוב חצי שנתי,",
+    "yearly": "חיוב שנתי,"
+  },
+  "freePricing": "חינם",
+  "currencySwitcher": "מחליף מטבע",
+  "commission": "עמלה",
+  "getText": "השג",
+  "signUpText": "הירשם",
+  "noneText": "אין",
+  "includedText": "כלול",
+  "notIncludedText": "לא כלול",
+  "vendorPaymentPopup": {
+    "yourChoice": "הבחירה שלך",
+    "price": "מחיר",
+    "every": "כל",
+    "month": "חודש",
+    "months": "חודשים",
+    "proceedToPayment": "המשך לתשלום",
+  },
+  "underagePopup": {
+    "hi": "היי",
+    "backToProfile": "חזרה לפרופיל",
+  },
+  "productLimits": {
+    "publishAndSell": "פרסם ומכור...",
+    "basic": "עד 5 יצירות אמנות",
+    "artistPlus": "עד 20 יצירות אמנות",
+    "unlimited": "יצירות אמנות ללא הגבלה",
+  },
+  "termsCondsPopup": {
+    "title": "תנאים והגבלות של הספק",
+    "agreeAndProceed": "הסכם והמשך",
+    "agreeAndSubscribeTo": "הסכם והירשם ל",
+    "termsLabels": {
+      "introAgreement": "1. הקדמה, ההסכם שלך",
+      "useOfArtmo": "2. שימוש ב-ARTMO",
+      "privacyNotice": "3. הודעת פרטיות",
+      "account": "4. חשבון",
+      "devicesServices": "5. שימוש במכשירים ובשירותים",
+      "modifyTerms": "6. שינוי תנאים והגבלות אלה",
+    }
+  },
+  "artworkListing": {
+    "byText": "על ידי",
+  },
+  "roleChangeWarning": "על ידי המשך, אתה מסכים לשנות את סוג המשתמש שלך מ",
+  "toText": "ל",
+  "toggleMemberLabel": "למנויים",
+  "toggleArtistLabel": "לאמנים",
+  "pickPlanHeading": "בחר חבילה שמתאימה לך.",
+  "promoteWorkHeading": "קדם ומכור את האמנות שלך ללא עמלה.",
+  "makeArtSeenHeading": "מכור את האמנות שלך.",
+  "categories": {
+    "artistConnectDirectly": "התחבר ישירות לקונים",
+    "artistEnablePayment": "הפעל שערי תשלום: פייפל, ויזה, מאסטרקארד",
+    "enableAcceptPayment": "קבל תשלומים ישירים",
+    "artistDashboardManage": "לוח דשבורד: נהל איסוף וחשבון",
+    "artistShippingPolicy": "מדיניות המשלוח שלך",
+    "artistCreateCertificate": "צור תעודות מקוריות עבור יצירות האמנות שלך",
+    "artistHelpDesk": "מוקד ARTMO",
+    "artistPublishArticle": "פרסם מאמרים על העבודות והתערוכות שלך",
+    "artistBacklinkCollection": "קשר אחורי לאוסף ARTMO שלך בעמוד הבית שלך",
+    "artistDisputeSupport": "תמיכה בגישור בסכסוכי לקוחות",
+    "memberConnectBuyers": "התחבר ישירות לקונים",
+    "memberEnablePayment": "הפעל שערי תשלום: פייפל, ויזה, מאסטרקארד",
+    "memberAcceptPayment": "קבל תשלומים ישירים",
+    "memberDashboardManage": "לוח דשבורד: נהל איסוף וחשבון",
+    "memberShippingPolicy": "מדיניות המשלוח שלך",
+    "memberHelpDesk": "מוקד ARTMO",
+    "memberBacklinkCollection": "קשר אחורי לאוסף ARTMO שלך בעמוד הבית שלך",
+    "memberDisputeSupport": "תמיכה בגישור בסכסוכי לקוחות",
+    "artistBadge": "תג מוכר פרימיום <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+    "memberBadge": "תג מוכר פרימיום <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+  }
+}

@@ -1,0 +1,156 @@
+{
+    "tabLabels": {
+        "dashboard": "仪表板",
+        "mediaLibrary": "媒体库",
+        "artworks": "作品",
+        "orders": "订单",
+        "customers": "客户",
+        "settings": "设置",
+        "addArtwork": "增加作品"
+    },
+    "incompletePopup": {
+        "mainText": "很高兴在这里见到你，开始上传你的作品。",
+        "subText": "在您上传和发布艺术品之前，您需要完成您的个人资料。"
+    },
+    "knowledgeBase": {
+        "title": "知识库"
+    },
+    "dashboard": {
+        "title": "仪表板",
+        "learnMore": "了解更多",
+        "sections": {
+            "sec1": "作品审核",
+            "sec2": "如何让我的作品通过审核?",
+            "sec3": "请在这里查看作品上传说明",
+            "sec4": "艺术品如何销售?",
+            "here": "here."
+        }
+    },
+    "artworks": {
+        "title": "艺术品",
+        "addNew": "新增",
+        "learnMore": "了解更多",
+        "draft": "草稿",
+        "published": "已發表",
+        "underReview": "待批准",
+        "sold": "賣",
+        "pending": "需要編輯",
+        "show": "显示",
+        "entries": "栏目",
+        "placeholderSearch": "搜索",
+        "eur": "欧元",
+        "quickEdit": {
+            "title": "快速编辑",
+            "confirmButton": "是",
+            "markAsSoldText": "您确定标注此作品为已售？这个动作无法返回",
+            "switchLeft": "已售",
+            "switchRight": "可售",
+            "saveChanges": "保存更改",
+            "selfNotePlaceholder": "自我注释",
+            "titlePlaceholder": "标题",
+            "pricePlaceholder": "价格",
+            "priceOnRequestPlaceholder": "按需报价"
+        },
+        "delete": {
+            "confirmButton": "是",
+            "confirmDeleteText": "您确定要删除这幅作品吗?"
+        },
+        "hover": {
+            "view": "查看",
+            "quickEdit": "快速编辑",
+            "edit": "编辑",
+            "delete": "删除"
+        }
+    },
+    "orders": {},
+    "settings": {
+        "title": "设置",
+        "learnMore": "了解更多",
+        "saveChanges": "保存更改",
+        "updateChanges": "更新更改",
+        "optionTitles": {
+            "general": "一般情况",
+            "vacation": "假期",
+            "subscription": "订阅",
+            "payouts": "付款方式"
+        },
+        "general": {
+            "vendorEmail": "供货商电子邮件",
+            "timezone": "时区",
+            "shippingPolicy": "运送政策",
+            "validationErrors": {
+                "email": "请输入有效的电子邮件地址",
+                "shippingPolicy": "运送政策最多可有1000个字符"
+            }
+        },
+        "vacation": {
+            "vacationMode": "启用休假模式",
+            "disablePurchase": "休假期间禁止购买作品",
+            "vacationMessage": "休假留言",
+            "validationErrors": {
+                "vacationMessage": "休假信息最多可以有1000个字符"
+            }
+        },
+        "subscription": {
+            "paymentsVia": "通过以下方式支付",
+            "paypalEmail": "PayPal电子邮件",
+            "cardNumber": "卡号 ",
+            "changePaymentData": "更改付款数据",
+            "subscriptionPeriod": "订阅期",
+            "price": "价格",
+            "eur": "欧元",
+            "upcomingPayment": "即将支付",
+            "upgradeMembership": "升级订阅",
+            "downgradeYourAccount": "降级您的订阅",
+            "cancelSubscription": "取消订阅",
+            "cancelConfirmText":"您确认要取消订阅吗?",
+            "buttonYes":"是",
+            "changePaymentText":"您确定要更改付款类型吗?",
+            "basicPlanText": "这是一个免费的计划。无须付款。"
+        },
+        "payouts": {
+            "wireTransfer":"电汇",
+            "payPal": "PayPal",
+            "paymentTypeQuestion": "你希望如何获得你的艺术品销售资金?",
+            "country": "国家",
+            "bankAccountNumber": "银行账户号",
+            "email": "电子邮件",
+            "routingNumber": "银行代号",
+            "validationErrors": {
+                "bankAccountNumber": "银行帐号必填",
+                "routingNumber": "路由编号必填",
+                "country": "国家必填",
+                "email": "电子邮箱必填",
+                "bankAccountNumberLength": "银行帐号最多可以有24位数字",
+                "routingNumberLength": "路由编号最多可以有24位数字",
+                "paymentType": "付款类型必填",
+                "invalidEmail": "输入有效的电子邮件地址"
+              }
+        }
+    },
+    "knowledgebase": {
+        "accordion1": "如何设置休假模式?",
+        "accordion2": "如何提交艺术品?",
+        "accordion3": "为什么我的产品在收藏中不可见?",
+        "accordion4": "照片需求",
+        "accordion5": "正版证书 (下载)"
+    },
+    "purchaseSubscriptionMessage": "请先购买订阅",
+    "profileCompletionPopup": {
+        "title": "完成你的账户",
+        "addProfileImage": "添加个人资料图片",
+        "startSellingArt": "开始销售艺术品",
+        "placeholder": {
+            "phone": "电话号码",
+            "city": "城市",
+            "country": "国家"
+        },
+        "validationErrors": {
+            "profileImageRequired": "需要个人资料图片",
+            "cityRequired": "城市是必需的",
+            "countryRequired": "国家是必需的",
+            "phoneRequired": "电话号码是必需的",
+            "invalidPhone": "电话号码无效"
+        }
+    }
+}

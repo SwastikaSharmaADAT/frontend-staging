@@ -1,0 +1,61 @@
+{
+  "createPost": {
+    "title": "צור פוסט",
+    "editPhoto": "ערוך תמונה",
+    "addPhoto": "הוסף תמונה",
+    "characterLimit": "/200",
+    "publish": "שתף",
+    "placeholderWriteSomething": "כתוב משהו...",
+  },
+  "groupBarHead": {
+    "leave": "עזוב",
+    "confirmLeave": "האם אתה בטוח שאתה רוצה לעזוב את הקבוצה?",
+    "uploadPhoto": "העלה תמונה",
+    "removePhoto": "שנה תמונה",
+    "changePhoto": "הסר תמונה",
+    "group": "קבוצה",
+    "leaveGroup": "עזוב קבוצה",
+    "joinGroup": "הצטרף לקבוצה",
+    "lastActive": "פעיל לאחרונה",
+    "members": " מנוי (ים)",
+    "posts": "פוסט (ים)",
+    "editGroupSettings": "ערוך הגדרות קבוצה"
+  },
+  "memberSection": {
+    "title": "חברי קבוצה",
+    "members": "חברים",
+    "seeAll": "הצג הכל..."
+  },
+  "invite": {
+    "title": "הזמן חיבורים",
+    "seeAll": "הצג הכל",
+    "invited": "הוזמן",
+    "follower": "עוקב",
+    "followerPlural": "עוקבים",
+    "allConnectionsInvited": "כל החיבורים שלך הוזמנו",
+    "noConnectionsToInvite": "אין קשרים להזמנה",
+    "inviteTo": "הזמן ל-",
+    "invite": "הזמן",
+    "loading": "טוען...",
+  },
+  "joinRequests": {
+    "title": "בקשות הצטרפות",
+    "follower": "עוקב",
+    "followerPlural": "עוקבים",
+    "reject": "דחה",
+    "accept": "קבל",
+    "noMoreRequests": "אין יותר בקשות הצטרפות"
+  },
+  "listingPopup": {
+    "remove": "הסר",
+    "admin": "(מנהל)",
+    "moderator": "(מפעיל)",
+    "follower": "עוקב",
+    "followerPlural": "עוקבים",
+    "assignModerator": "מנה מפעיל",
+    "removeFromGroup": " הסר מקבוצה",
+    "addedAsModerator": "הוסף כמפעיל",
+    "deleteConfirm": "האם אתה בטוח שברצונך להסיר משתמש זה?"
+  },
+  "notAuthorized": "לא מאושר"
+}

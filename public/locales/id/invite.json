@@ -1,0 +1,16 @@
+{
+    "title": "UNDANG TEMAN",
+    "tagsInput": {
+        "placeholder": "Tambahkan email secara manual. Pisahkan dengan koma atau tekan enter diakhir email."
+    },
+    "cancelButtonLabel": "Batalkan",
+    "sendInvitesButtonLabel": "Kirim Undangan",
+    "howInviteWork": "Bagaimana cara kerjanya?",
+    "emailTemplateText": "Bisakah saya melihat email sebelum mengirimnya?",
+    "pickEmailService": "Pilih layanan email anda...",
+    "gmailText": "Gmail",
+    "outlookText": "Outlook",
+    "otherText": "Lainnya",
+    "selectedText": "Dipilih",
+    "emptyResultText": "Tidak ada hasil ditemukan"
+}

@@ -1,0 +1,69 @@
+{
+    "bannerSection": {
+        "todaysFeature": "오늘의 특집",
+        "seeMore": "더 보기..."
+    },
+    "loggedOutBanner": {
+        "title": "당신의 예술 공동체에",
+        "title2": "오신 것을 환영합니다",
+        "descr": "예술이 당신의 열정인지 직업인지 간에, 당신은  제대로 된 장소에 온 것입니다",
+        "joinInBtnText": "무료로 가입하세요",
+        "network": "네트워크",
+        "blog": "블로그",
+        "news": "뉴스",
+        "group": "그룹",
+        "marketplace": "마켓플레이스",
+        "whatIsArtmo": "ARTMO란 무엇인가?",
+        "learnMore": "더 알아 봅시다...",
+        "signUp": "무표 가입",
+        "logIn": "로그인",
+        "videos": "비디오",
+        "exhibition": "전시회",
+        "gallery": "갤러리"
+    },
+    "usersListing": {
+        "title": "예술 네트워크",
+        "follower": "팔로워",
+        "followers": "팔로워",
+        "unfollow": "언팔로우",
+        "follow": "팔로우",
+        "seeMore": "더 보기",
+        "following": "팔로잉"
+    },
+    "gridSection": {
+        "home": "홈",
+        "artists": "예술가",
+        "galleries": "화랑",
+        "exhibitions": "전시회",
+        "users": "사용자",
+        "artwork": "아트워크",
+        "genres": "장르",
+        "universities": "대학교"
+    },
+    "artworkSection": {
+        "title": "새로운 아트워크",
+        "priceOnRequest": "요청 가격",
+        "artist": "예술가",
+        "member": "멤버",
+        "seeMore": "더 보기..."
+    },
+    "buzzSection": {
+        "title": "소문",
+        "seeMore": "더 보기..."
+    },
+    "videosSection": {
+        "title": "비디오",
+        "seeMore": "더 보기..."
+    },
+    "exhibitionsSection": {
+        "title": "전시회",
+        "seeMore": "더 보기..."
+    },
+    "potdSection": {
+        "title": "오늘의 사진",
+        "seeMore": "더 보기..."
+    },
+    "joinInSection": {
+        "joinInTitle": "가입하세요, 무료입니다."
+    }
+}

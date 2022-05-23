@@ -1,0 +1,122 @@
+{
+  "addContent": {
+    "placeholderAdd": "เพิ่ม...",
+    "post": "โพสต์",
+    "video": "วิดีโอ",
+    "album": "อัลบั้ม",
+    "article": "บทความ",
+    "artwork": "ผลงานศิลปะ"
+  },
+  "addPhotoAlbumPopup": {
+    "title": "เพิ่มอัลบั้มรูป",
+    "limitText": "เพิ่มรูป (สูงสุด 50)",
+    "addImages": "เพิ่มรูป",
+    "placeholderAddTitle": "เพิ่มหัวเรื่อง",
+    "writeSomething": "เขียนอะไรซักหน่อย...",
+    "firstPhotoInfo": "รูปแรกจะเป็นรูปปกอัลบั้ม",
+    "publish": "เผยแพร่",
+    "errorLabels": {
+      "maxCharacter100": "ได้แค่ 100 ตัวอักษรเท่านั้น",
+      "titleRequired": "ต้องมีชื่อเรื่อง",
+      "maxCharacter500": "ได้แค่ 500 ตัวอักษรเท่านั้น"
+    }
+  },
+  "editPhotoAlbumPopup": {
+    "title": "แก้ไขอัลบั้ม",
+    "updateButton": "อัพเดท"
+  },
+  "addPostPopup": {
+    "title": "สร้างโพสต์",
+    "editPhoto": "แก้ไขรูป",
+    "addPhoto": "เพิ่มรูป",
+    "writeSomething": "เขียนอะไรซักหน่อย...",
+    "postDescCount": "/200",
+    "publish": "เผยแพร่"
+  },
+  "editPostPopup": {
+    "title": "แก้ไขโพสต์",
+    "updateButton": "อัพเดท"
+  },
+  "addVideoPopup": {
+    "title": "เพิ่มวิดีโอ",
+    "validUrlError": "กรุณา URL ที่ถูกต้อง",
+    "placeholderEnterLink": "ใส่ลิ้งค์จาก YouTube, Vimeo...",
+    "placeholderWriteSomething": "เขียนอะไรซักหน่อย...",
+    "addCategory": "เพิ่มหมวดหมู่",
+    "next": "ต่อไป",
+    "publish": "เผยแพร่",
+    "update": "อัพเดท"
+  },
+  "editVideoPopup": {
+    "title": "แก้ไขโพสต์วิดีโอ",
+    "updateButton": "อัพเดท"
+  },
+  "refreshOverlay": {
+    "newActivityAdded": "มีกิจกรรมใหม่ถูกเพิ่ม",
+    "refresh": "โหลดใหม่"
+  },
+  "hashtags": {
+    "title": "แฮชแท็กติดอันดับ",
+    "noHashtagsAdded": "ไม่ได้เพิ่มแฮชแท็กใดๆ",
+    "post": "โพสต์",
+    "postPlural": "หลายโพสต์"
+  },
+  "manageArtwork": {
+    "follower": "ผู้ติดตาม",
+    "followerPlural": "ผู้ติดตามหลายคน",
+    "visit": "เยี่ยมชม ",
+    "manage": "จัดการ ",
+    "noPageFound": "ไม่พบเพจ"
+  },
+  "profile": {
+    "follower": "ผู้ติดตาม",
+    "followerPlural": "ผู้ติดตามหลายคน",
+    "profileCompleteness": "ความสมบูรณ์ของโปรไฟล์",
+    "editProfile": "แก้ไขโปรไฟล์"
+  },
+  "singlePost": {
+    "photo": "รูปภาพ",
+    "photoPlural": "รูปภาพหลายรูป",
+    "seeInStore": "ดูในร้านค้า",
+    "deleteText": "คุณแน่ใจใช่ไหมว่าจะลบคอมเม้นของคุณ?",
+    "capsHide": "ซ่อน",
+    "capsUnhide": "เลิกซ่อน",
+    "hide": "ซ่อน",
+    "unhide": "เลิกซ่อน",
+    "areYouSure": "แน่ใจแล้วใช่ไหม",
+    "thisComment": "คอมเม้นนี้หรอ?",
+    "update": "อัพเดท",
+    "like": "ไลค์",
+    "comment": "คอมเม้น",
+    "liked": "กดไลค์แล้ว",
+    "likedBy": "กดไลค์โดย",
+    "lowerLike": "ชอบ",
+    "lowerLikePlural": "ชอบ",
+    "lowerUnlike": "เลิกชอบ",
+    "lowerComment": "คอมเม้น",
+    "lowerCommentPlural": "หลายคอมเม้น",
+    "share": "แชร์",
+    "pending": "รอการอนุมัติ",
+    "deleteActivity": "คุณแน่ใจใช่ไหมว่าต้องการลบกิจกรรมนี้?",
+    "accept": "ยอมรับ",
+    "reject": "ปฏิเสธ",
+    "delete": "ลบ",
+    "seeMore": "ดูเพิ่มเติม..",
+    "price": "ราคา",
+    "priceOnRequest": "สอบถามราคา",
+    "placeholderComment": "ใส่คอมเม้นต์...",
+    "publish": "เผยแพร่",
+    "loadMoreText": "ดูเพิ่ม...",
+    "loadMoreRepliesText": "ดูการตอบกลับเพิ่ม...",
+    "edit": "แก้ไข",
+    "commentRemoved": "คอมเม้นต์นี้ถูกลบ",
+    "replyRemoved": "การตอบกลับนี้ถูกลบ"
+  },
+  "singleActivity": {
+    "activityNotAvailable": "ไม่สามารถเข้าร่วมกิจกรรมได้ในขณะนี้",
+    "seeMore": "ดูเพิ่มเติม...",
+    "alreadyHaveAnAccount": "มีบัญชีผู้ใช้อยู่แล้ว?",
+    "signUp": "สมัครสมาชิก",
+    "logIn": "เข้าสู่ระบบ"
+  }
+}

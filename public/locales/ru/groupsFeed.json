@@ -1,0 +1,61 @@
+{
+    "createPost": {
+        "title": "Напишите Пост",
+        "editPhoto": "Редактировать Изображение",
+        "addPhoto": "Добавить Изображение",
+        "characterLimit": "/500",
+        "publish": "Опубликовать",
+        "placeholderWriteSomething":"Напишите что-нибудь..."
+    },
+    "groupBarHead": {
+        "leave": "Выйти",
+        "confirmLeave": "Вы уверены, что хотите выйти из группы?",
+        "uploadPhoto": "Загрузить Изображение",
+        "removePhoto": "Убрать Изображение",
+        "changePhoto": "Изменить Изображение",
+        "group": "Группа",
+        "leaveGroup": "Выйти из группы",
+        "joinGroup": "Вступить в группу",
+        "lastActive": "Последняя активность",
+        "members": " участника(ов)",
+        "posts": "поста(ов)",
+        "editGroupSettings": "Изменить Настройки Группы"
+    },
+    "memberSection": {
+        "title": "Участники Группы",
+        "members": "участники",
+        "seeAll": "Посмотреть все..."
+    },
+    "invite": {
+        "title": "Пригласить Друзей",
+        "seeAll": "Посмотреть всех",
+        "invited": "Приглашен(а)",
+        "follower": "подписчик(ца)",
+        "followerPlural": "подписчики",
+        "allConnectionsInvited": "Все Ваши друзья приглашены.",
+        "noConnectionsToInvite": "Нет друзей, чтобы пригласить",
+        "inviteTo": "Пригласить в",
+        "invite": "Пригласить",
+        "loading": "Загрузка..."
+    },
+    "joinRequests": {
+        "title": "Приглашения вступить",
+        "follower": "подписчик(ца)",
+        "followerPlural": "подписчики",
+        "reject": "Отменить",
+        "accept": "Принять",
+        "noMoreRequests": "Нет Заявок"
+    },
+    "listingPopup": {
+        "remove": "Удалить",
+        "admin": "(Администратор(ка))",
+        "moderator": "(Модератор(ка))",
+        "follower": "подписчик(ца)",
+        "followerPlural": "подписчики",
+        "assignModerator": "Назначить Модератором(кой)",
+        "removeFromGroup": " Удалить из группы",
+        "addedAsModerator": "Добавлен(а) как Модератор(ка)",
+        "deleteConfirm": "Вы уверены, что хотите удалить пользователя(ьницу)?"
+    },
+    "notAuthorized": "Не Авторизован(а)"
+}

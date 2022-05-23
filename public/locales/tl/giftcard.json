@@ -1,0 +1,37 @@
+ {
+  "title": "Mga Voucher",
+  "linkToMyGiftCard": "Tignan ang Iyong mga Gift Card",
+  "giftCardSection": {
+    "title": "I-Promote ang Iyong Profile",
+    "description": "Maglagay ng link sa iyong ARTMO profile sa iyong mga website.",
+    "getLinkButton": "Kumuha ng Link"
+  },
+  "giftCardContent": {
+    "singular": "Gift Card",
+    "title": "Magpadala ng ARTMO Gift Card gamit ang email. Ang makakatanggap ay maaaring gamitin ito sa pagbili ng mga artwork.",
+    "selectAmount": "Pumili ng amount:",
+    "quesion": "Ipadala ang gift card na ito kay...",
+    "namePlaceholder": "Ilagay ang pangalan",
+    "emailPlaceholder": "Ilagay ang Email",
+    "lastNote": "Ang impormasyon ng card ay available sa seksyon ng Aking Account. Makakatanggap ka ng kumpirmasyon na resibo sa iyong account email.",
+    "buttonText": "Magtungo sa Checkout",
+    "hello": "Hello",
+    "sentFrom": "Itong iyong Gift Card ay ipinadala ni...",
+    "use": "Gamitin ang card na ito sa pagbili ng mga artwork.",
+    "seeHere": "Tignan ang mga Artwork Dito...",
+    "expiryDate": "* Expiry Date: "
+  },
+  "myGiftCardContent": {
+    "title": "Iyong mga Gift Card:",
+    "to": "Papunta kay",
+    "name": " Bjorn Andersen",
+    "validUntil": "Valid hanggang",
+    "purchasedOn": "Binili noong",
+    "used": "Gamit na",
+    "valid": "Valid",
+    "expired": "Expired",
+    "makeCard": "Gumawa ng Regalo ng Sining.",
+    "buttonText": "Bumili ng ARTMO Card",
+    "noGiftCard": "Walang Gift cart na available"
+  }
+}

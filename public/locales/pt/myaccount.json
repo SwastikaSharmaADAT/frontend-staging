@@ -1,0 +1,161 @@
+{
+  "leftTabs": {
+    "account": "Conta",
+    "changePassword": "Alterar Senha",
+    "setPassword": "Definir Senha",
+    "privacy": "Privacidade",
+    "notifications": "Notificações",
+    "webNotifications": "Notificações Web",
+    "socialConnect": "Conexão social",
+    "myPhotos": "Minhas Fotos",
+    "deleteAccount": "Excluir Conta"
+  },
+  "account": {
+    "title": "Conta",
+    "username": "Username",
+    "firstname": "Primeiro Nome",
+    "lastname": "Último Nome",
+    "pagename": "Nome da Página",
+    "email": "Endereço de Email",
+    "updateAccount": "Atualizar Conta",
+    "validationErrors": {
+      "firstname": "O primeiro nome é necessário",
+      "lastname": "O último nome é necessário",
+      "firstnameLength": "Deve ter 50 caracteres ou menos",
+      "lastnameLength": "Deve ter 50 caracteres ou menos",
+      "pagename": "O nome da página é necessário",
+      "pagenameLength": "Deve ter 50 caracteres ou menos"
+    }
+  },
+  "changePassword": {
+    "changeTitle": "Alterar Senha",
+    "setTitle": "Definir Senha",
+    "currentPassword": "Senha Atual",
+    "newPassword": "Nova Senha",
+    "confirmPassword": "Confirmar Senha",
+    "updatePassword": "Atualizar Senha",
+    "validationErrors": {
+      "currentPassword": "Por favor insira sua senha atual",
+      "newPassword": "Por favor insira uma nova senha",
+      "confirmPassword": "Por favor confirme sua nova senha",
+      "passConditions": "Deve conter 8 caracteres, ao menos uma letra maiúscula, uma minúscula e um número",
+      "passNotMatch": "As senhas não coincidem"
+    }
+  },
+  "notifications": {
+    "title": "Notificações",
+    "description": "Selecione as notificações que quer receber por email",
+    "headings": {
+      "followers": "Seguidores",
+      "friends": "Amigos",
+      "posts": "Posts",
+      "messages": "Mensagens"
+    },
+    "checkboxLabels": {
+      "newFollowers": "Eu sou seguido por alguém novo",
+      "newConnectionAdded": "Eu tenho uma nova conexão",
+      "newConnectionRequest": "Recebi uma nova solicitação de conexão",
+      "groupPost": "Notificar-me quando alguém postar no grupo",
+      "groupComments": "Notificar-me quando alguém comentar no grupo",
+      "privateMessage": "Alguém me envia uma mensagem privada",
+      "unreadMessage": "Tenho uma mensagem não lida"
+    },
+    "updateNotifications": "Atualizar Notificações"
+  },
+  "privacy": {
+    "title": "Privacidade",
+    "profilePrivacy": "Privacidade do Perfil",
+    "showProfileOptions": {
+      "everyone": "Todos",
+      "onlyMe": "Só eu",
+      "following": "Apenas pessoas que eu sigo",
+      "followers": "Seguidores",
+      "connections": "Conexões"
+    },
+    "tooltips":{
+      "tip1":"Quem pode ver seu perfil público?",
+      "tip2":"Aqui você pode se ocultar para não aparecer no diretório público",
+      "tip3":"Você quer que outras pessoas vejam que você está online?",
+      "tip4":"Você pode solicitar um arquivo com as informações que consideramos mais relevantes e úteis para você.",
+      "tip5":"Você pode solicitar o apagamento dos dados que temos sobre você."
+    },
+    "hideProfile": "Ocultar meu perfil do diretório",
+    "yes": "Sim",
+    "no": "Não",
+    "showOnlineStatus": "Mostrar meu status online",
+    "activityWall": "Quem pode ver seu mural de atividades?",
+    "activityWallOptions": {
+      "public": "Público",
+      "onlyMe": "Só eu",
+      "followers": "Seguidores",
+      "following": "Apenas pessoas que eu sigo"
+    },
+    "privateMessage": "Quem pode me enviar mensagens privadas?",
+    "privateMessageOptions": {
+      "everyone": "Todos",
+      "nobody": "Ninguém",
+      "following": "Apenas pessoas que eu sigo",
+      "followers": "Seguidores",
+      "connections": "Conexões"
+    },
+    "downloadData": "Baixe os seus dados",
+    "downloadDataDescription": "Digite sua senha atual para confirmar uma nova exportação de seus dados pessoais.",
+    "downloadDataButton": "Solicitar dados",
+    "eraseData": "Apagar seus dados",
+    "eraseDataDescription": "Digite sua senha atual para confirmar o apagamento de seus dados pessoais.",
+    "eraseDataButton": "Solicitar exclusão de dados",
+    "updatePrivacyButton": "Atualizar Privacidade"
+  },
+  "webNotifications": {
+    "title": "Notificações Web",
+    "description": "Receber notificações",
+    "checkboxLabels": {
+      "newReplies": "Quando Um Membro Responde A Um Dos Meus Comentários",
+      "newComments": "Quando Um Membro Comenta Nas Minhas Publicações",
+      "viewProfile": "Quando Um Membro Visualiza Meu Perfil",
+      "privateMessage": "Quando Alguém Envia Uma Mensagem Privada Para Mim",
+      "newFollower": "Quando Alguém Me Segue",
+      "newConnection": "Quando Alguém Faz Um Pedido Para Se Conectar",
+      "acceptConnection": "Quando Alguém Aceita Meu Pedido de Conexão",
+      "newLike": "Quando Alguém Curte Meu Post",
+      "newMention": "Quando Alguém Me Menciona",
+      "groupRequestApproved": "Quando Minhas Solicitações De Grupo Forem Aprovadas",
+      "newGroupRequest": "Quando Um Membro Pede Para Participar Do Meu Grupo",
+      "groupInvitation": "Quando Um Membro Me Convida A Participar Num Grupo",
+      "groupRole": "Quando Minhas Funções De Grupo Foram Alteradas",
+      "likeArtwork": "Quando Alguém Curte Uma Obra De Arte"
+    },
+    "updateSettingsButton": "Atualizar Notificações"
+  },
+  "socialConnect": {
+    "title": "Conexão Social",
+    "notConnected": "Você não está conectado a nenhuma rede social.",
+    "disconnectFacebook": "Desconectar do Facebook",
+    "disconnectLinkedin": "Desconectar do LinkedIn",
+    "passwordWarning": "*Por favor insira sua senha antes de desconectar a conta"
+  },
+  "myPhotos": {
+    "title": "Minhas Fotos",
+    "warningText": "Depois que as fotos e os álbuns são excluídos, eles são excluídos permanentemente e não podem ser recuperados.",
+    "button1": "Baixar minhas fotos",
+    "button2": "Excluir todos os meus álbuns e fotos",
+    "downloadWarning": "* A tarefa de download de minhas fotos pode levar algum tempo para ser concluída, dependendo do número de fotos carregadas.",
+    "imagesWarning":"Tem certeza de que deseja excluir todos os seus álbuns e imagens?",
+    "buttonDelete":"excluir"
+  },
+  "deleteAccount": {
+    "title": "Deletar Conta",
+    "warningText": "Tem certeza que deseja deletar sua conta? Isso apagará todos os dados da sua conta do site. Para deletar sua conta digite sua senha abaixo",
+    "button": "Deletar conta",
+    "password": "Senha",
+    "passwordWarning": "*Por favor, defina sua senha antes de desconectar a conta",
+    "managePaymentsTitle": "Gerenciar pagamentos para assinatura de fornecedor",
+    "managePaymentsText": "Se você quiser interromper os pagamentos, não precisa excluir seu perfil.<br/>Você pode ficar com ele.<br/>Você pode facilmente fazer o downgrade para o plano BASIC GRATUITO sem a necessidade de pagamentos adicionais.",
+    "managePaymentsText2": "Veja no seu painel",
+    "managePaymentsQuoteText": "Faça downgrade de sua assinatura",
+    "managePaymentsButtonText": "Vá para Painel> Assinatura"
+  },
+  "imageContainer": {
+    "viewProfile": "Ver Perfil"
+  }
+}

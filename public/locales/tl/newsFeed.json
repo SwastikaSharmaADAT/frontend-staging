@@ -1,0 +1,122 @@
+{
+    "addContent": {
+        "placeholderAdd": "Magdagdag...",
+        "post": "Post",
+        "video": "Video",
+        "album": "Album",
+        "article": "Artikulo",
+        "artwork": "Artwork"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "Magdagdag ng Photo Album",
+        "limitText": "Magdagdag ng larawan (max 50)",
+        "addImages": "Magdagdag ng larawan",
+        "placeholderAddTitle": "Magdagdag ng Titulo",
+        "writeSomething": "Magsulat ng kahit ano...",
+        "firstPhotoInfo": "Ang unang larawan ay magiging cover na larawan ng album",
+        "publish": "I-publish",
+        "errorLabels": {
+            "maxCharacter100": "100 karakter lang ang maaari",
+            "titleRequired": "Ang Titulo ay Kailangan",
+            "maxCharacter500": "500 karakter lang ang maaari"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "I-edit Photo Album",
+        "updateButton": "I-update"
+    },
+    "addPostPopup": {
+        "title": "Gumawa ng Post",
+        "editPhoto": "Mag-edit ng larawan",
+        "addPhoto": "Magdagdag ng Larawan",
+        "writeSomething": "Magsulat ng kahit ano...",
+        "postDescCount": "/200",
+        "publish": "I-publish"
+    },
+    "editPostPopup": {
+        "title": "Edit Post",
+        "updateButton": "I-update"
+    },
+    "addVideoPopup": {
+        "title": "Magdagdag ng Video",
+        "validUrlError": "Pakisuyong maglagay ng balidong URL",
+        "placeholderEnterLink": "Maglagay ng link mula sa YouTube, Vimeo...",
+        "placeholderWriteSomething": "Magsulat ng kahit ano...",
+        "addCategory": "Magdagdag ng kategorya",
+        "next": "Sunod",
+        "publish": "I-publish",
+        "update": "I-update"
+    },
+    "editVideoPopup": {
+        "title": "Edit Video Post",
+        "updateButton": "Update"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "Naidagdag ang bagong aktibidad",
+        "refresh": "Mag-refresh"
+    },
+    "hashtags": {
+        "title": "MGA TOP HASHTAG",
+        "noHashtagsAdded": "Walang mga hashtag na na-idagdag",
+        "post": "post",
+        "postPlural": "mga post"
+    },
+    "manageArtwork": {
+        "follower": "follower",
+        "followerPlural": "mga follower",
+        "visit": "Bumisita",
+        "manage": "I-manage",
+        "noPageFound": "Walang page na nahanap"
+    },
+    "profile": {
+        "follower": "follower",
+        "followerPlural": "mga follower",
+        "profileCompleteness": "Pagiging Kumpleto ng Profile",
+        "editProfile": "Mag-edit ng Profile"
+    },
+    "singlePost": {
+        "photo": "larawan",
+        "photoPlural": "mga larawan",
+        "seeInStore": "Tignan sa Store",
+        "deleteText": "Sigurado ka bang nais mong burahin ang iyong komento?",
+        "capsHide": "Itago",
+        "capsUnhide": "Ipakitang muli",
+        "hide": "Itago",
+        "unhide": "Ipakitang muli",
+        "areYouSure": "Sigurado ka bang nais mo",
+        "thisComment": "itong komento?",
+        "update": "I-Update",
+        "like": "I-Like",
+        "comment": "Magkomento",
+        "liked": "Ni-Like",
+        "likedBy": "Ni-Like ni",
+        "lowerLike": "i-like",
+        "lowerLikePlural": "mga like",
+        "lowerUnlike": "i-unlike",
+        "lowerComment": "comment",
+        "lowerCommentPlural": "mga komento",
+        "share": "I-share",
+        "pending": "Nakabinbin",
+        "deleteActivity": "Sigurado ka bang gusto mong burahin ang aktibidad na ito?",
+        "accept": "I-accept",
+        "reject": "I-reject",
+        "delete": "I-delete",
+        "seeMore": "Tignan nang higit pa...",
+        "price": "Price",
+        "priceOnRequest": "Price On Request",
+        "placeholderComment": "Ilagay ang iyong komento...",
+        "publish": "I-publish",
+        "loadMoreText": "Magload nang higit pa...",
+        "loadMoreRepliesText": "Magload pa ng mga reply...",
+        "edit": "I-edit",
+        "commentRemoved": "Ang komentong ito ay natanggal",
+        "replyRemoved": "Ang reply na ito ay natanggal"
+    },
+    "singleActivity": {
+        "activityNotAvailable": "Ang aktibidad na ito ay hindi na available",
+        "seeMore": "Tignan nang higit pa...",
+        "alreadyHaveAnAccount": "Mayroon nang account?",
+        "signUp": "Mag-sign Up",
+        "logIn": "Mag-log in"
+    }
+}

@@ -1,0 +1,362 @@
+{
+  "placeholderIntro": "Short Intro",
+  "about": {
+    "title": "เกี่ยวกับ",
+    "edit": "แก้ไข",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก",
+    "noAboutText": "ไม่ได้เพิ่มข้อความในเกี่ยวกับ",
+    "placeholderAbout": "เพิ่มข้อความในเกี่ยวกับที่นี่....",
+    "characterLimit": "/1000",
+    "errorAbout": "เกินความยาวของอักขระสูงสุด 1000"
+  },
+  "biography": {
+    "title": "ประวัติ",
+    "edit": "แก้ไข",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก",
+    "noBiographyText": "ไม่มีประวัติใดๆ",
+    "placeholderBiography": "เพิ่มประวัติที่นี่....",
+    "characterLimit": "/1000"
+  },
+  "activity": {
+    "title": "กิจกรรม",
+    "descriptionNotAdded": "ไม่ได้ระบุคำบรรยาย",
+    "reactions": "การตอบกลับ",
+    "noActivityText": "ไม่เจอกิจกรรมใดๆ",
+    "seeAll": "ดูทั้งหมด",
+    "add": "เพิ่ม"
+  },
+  "album": {
+    "title": "อัลบั้ม",
+    "seeAll": "ดูทั้งหมด",
+    "add": "เพิ่ม",
+    "noAlbumFound": "ไม่เจออัลบั้ม",
+    "edit": "แก้ไข"
+  },
+  "artwork": {
+    "title": "งานศิลปะ",
+    "likedArtworks": "งานศิลปะที่ชื่นชอบ",
+    "noArtworkFound": "ไม่เจองานศิลปะ",
+    "seeAll": "ดูทั้งหมด",
+    "add": "เพิ่ม"
+  },
+  "award": {
+    "title": "รางวัล",
+    "noAwardFound": "ไม่เจอรางวัล",
+    "addImages": "เพิ่มรูป",
+    "placeholderDescription": "ใส่คำบรรยายให้กับรางวัลศิลปะของคุณ",
+    "characterLimit": "/1000",
+    "edit": "แก้ไข",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก"
+  },
+  "basicInfo": {
+    "fillDetailsText": "กรุณากรอกข้อมูลในช่องเหล่านี้",
+    "placeholderFirstName": "ชื่อจริง",
+    "placeholderLastName": "นามสกุล",
+    "placeholderCity": "เมือง",
+    "placeholderCountry": "เลือกประเทศ",
+    "placeholderEmail": "Email",
+    "save": "บันทึก",
+    "cancel": "ยกเลิก"
+  },
+  "business": {
+    "title": "เกี่ยวกับธุรกิจ | อาชีพของฉัน",
+    "noBusinessFound": "ไม่พบข้อมูลเกี่ยวกับธุรกิจ | อาชีพของฉัน",
+    "addImages": "เพิ่มรูป",
+    "placeholderDescription": "ใส่คำบรรยายให้กับธุรกิจ | อาชีพของฉัน",
+    "characterLimit": "/1000",
+    "edit": "แก้ไข",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก"
+  },
+  "connectionsPopup": {
+    "follower": "ผู้ติดตาม",
+    "followerPlural": "ผู้ติดตามหลายคน",
+    "connected": "เชื่อมต่อแล้ว",
+    "requestPending": "คำขอที่ค้างอยู่",
+    "requestSent": "คำขอที่ส่งไปแล้ว",
+    "connect": "เชื่อมต่อ",
+    "userConnectionsTitle": "การเชื่อมต่อกับ"
+  },
+  "contact": {
+    "title": "ข้อมูลการติดต่อ",
+    "noContactInfoFound": "ไม่ได้เพิ่มข้อมูลการติดต่อ",
+    "email": "Email",
+    "skype": "Skype",
+    "phone": "โทรศัพท์",
+    "address": "ที่อยู่",
+    "openingHours": "เวลาทำการ",
+    "socialMedia": "Social Media",
+    "placeholderEmail": "Email",
+    "placeholderSkype": "Skype",
+    "phoneNumber": "เบอร์โทรศัพท์",
+    "placeholderAddress": "ที่อยู่",
+    "placeholderOpenHours": "เวลาทำการ",
+    "edit": "แก้ไข",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก"
+  },
+  "expertise": {
+    "title": "ผู้เชี่ยวชาญ",
+    "noExpertiseFound": "ไม่พบผู้เชี่ยวชาญ",
+    "addImages": "เพิ่มรูป",
+    "placeholderDescription": "ใส่คำบรรยายให้ผู้เชี่ยวชาญด้านศิลปะของคุณ",
+    "characterLimit": "/1000",
+    "edit": "แก้ไข",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก"
+  },
+  "followersPopup": {
+    "follower": "ผู้ติดตาม",
+    "followerPlural": "ผู้ติดตามหลายคน",
+    "followed": "ติดตามแล้ว",
+    "unfollow": "เลิกติดตาม",
+    "follow": "เลิกติดตาม",
+    "userFollowersTitle": "ผู้ติดตามของ"
+  },
+  "followingPopup": {
+    "follower": "ผู้ติดตาม",
+    "followerPlural": "ผู้ติดตามหลายคน",
+    "followed": "ติดตามแล้ว",
+    "unfollow": "เลิกติดตาม",
+    "follow": "เลิกติดตาม",
+    "noFollowing": "ไม่ได้ติดตาม",
+    "userFollowersTitle": "ผู้ติดตามของ",
+    "followPlural": "ติดตาม"
+  },
+  "group": {
+    "title": "กลุ่ม",
+    "noGroupsFound": "ผู้ใช้ไม่ได้ติดตามกลุ่มใดๆเลย",
+    "member": "สมาชิก",
+    "memberPlural": "สมาชิกหลายคน",
+    "browseGroups": "ค้นหากลุ่ม",
+    "create": "สร้าง"
+  },
+  "invite": {
+    "title": "ชวนเพื่อน",
+    "desc1": "ส่งข้อความหาผู้ติดต่อ",
+    "desc2": "บอกเขาเลยว่าคุณอยู่ที่นี่",
+    "invite": "ชวน"
+  },
+  "messagePopup": {
+    "or": "หรือ",
+    "seeMore": "ดูเพิ่มเติม...",
+    "learnMore": "เรียนรู้เพิ่มเติม"
+  },
+  "pastExhibition": {
+    "title": "นิทรรศการที่ผ่านมาแล้ว",
+    "addImages": "เพิ่มรูป",
+    "noExhibitionsFound": "ไม่พบนิทรรศการที่ผ่านมาแล้ว",
+    "placeholderDescription": "ใส่คำบรรยายให้กับนิทรรศการที่ผ่านมาแล้วของคุณ",
+    "characterLimit": "/1000",
+    "edit": "แก้ไข",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก"
+  },
+  "personalInfo": {
+    "title": "ข้อมูลส่วนตัว",
+    "noInfoFound": "ไม่ได้เพิ่มข้อมูลส่วนตัวใดๆ",
+    "city": "เมือง",
+    "country": "ประเทศ",
+    "profession": "อาชีพ",
+    "company": "บริษัท",
+    "industry": "อุตสาหกรรม",
+    "website": "เว็บไซต์",
+    "languages": "ภาษา",
+    "visibleInfo": "ค่าตั้งต้นเป็นสาธารณะ",
+    "dateOfBirth": "วันเกิด",
+    "gender": "เพศ",
+    "relationshipStatus": "สถานะความสัมพันธ์",
+    "placeholderCity": "เมือง",
+    "placeholderCountry": "เลือกประเทศ",
+    "placeholderProfession": "อาชีพ",
+    "placeholderCompany": "บริษัท",
+    "placeholderIndustry": "อุตสาหกรรม",
+    "placeholderLanguages": "เลือกภาษา",
+    "placeholderWebsite": "เว็บไซต์",
+    "placeholderDob": "วันเกิด",
+    "errorDob": "ต้องใส่วันเกิด",
+    "genderDropdown": {
+      "option1": "เลือกเพศ",
+      "option2": "ชาย",
+      "option3": "หญิง",
+      "option4": "หลากหลาย"
+    },
+    "relationDropdown": {
+      "option1": "เลือกสถานะความสัมพันธ์",
+      "option2": "โสด",
+      "option3": "สมรส",
+      "option4": "มีคู่ชีวิต"
+    },
+    "edit": "แก้ไข",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก"
+  },
+  "coverImage": {
+    "menuOptions": {
+      "title": "เปลี่ยนรูปภาพหน้าปก",
+      "upload": "อัพโหลดรูป",
+      "change": "เปลี่ยนรูป",
+      "remove": "เอารูปออก"
+    }
+  },
+  "profileHead": {
+    "profileImage": {
+      "menuOptions": {
+        "title": "เปลี่ยนรูป",
+        "upload": "อัพโหลดรูป",
+        "change": "เปลี่ยนรูป",
+        "remove": "เอารูปออก"
+      }
+    },
+    "connected": "เชื่อมต่อแล้ว",
+    "requestPending": "คำขอที่ยังค้างอยู่",
+    "requestSent": "คำขอที่ส่งไปแล้ว",
+    "connect": "เชื่อมต่อ",
+    "shareProfile": "แชร์โปรไฟล์",
+    "unblock": "เลิกบล็อค",
+    "block": "บล็อค",
+    "tooltip": {
+      "text": "โปรไฟล์แบบอื่นมีรูปแบบการติดตามที่แตกต่าง",
+      "seeMore": "ดูเพิ่มเติม..."
+    },
+    "profileDesc": {
+      "artist": {
+        "firstline": "<b>คุณคือศิลปิน!</b>",
+        "secondline": "ขายงานศิลปะที่คุณสร้างได้"
+      },
+      "member": {
+        "firstline": "คณ <b><i>ไม่ใช่<i></b> ศิลปิน!",
+        "secondline": "ขายงานศิลปะที่คุณมีได้"
+      }
+    },
+    "edit": "แก้ไข",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก",
+    "followed": "ติดตามแล้ว",
+    "follow": "ติดตาม",
+    "message": "ข้อความ",
+    "more": "เพิ่มเติม...",
+    "artistProfile": "โปรไฟล์ศิลปิน",
+    "memberProfile": "โปรไฟล์สมาชิก",
+    "enterName": "กรุณาใส่ชื่อ",
+    "enterInstitute": "กรุณาใส่ชื่อสถาบัน",
+    "placeholderFirstName": "ชื่อจริง",
+    "placeholderInstitureName": "ชื่อสถาบัน",
+    "placeholderLastName": "นามสกุล"
+  },
+  "notices": {
+    "title": "ประกาศ",
+    "notNoticesFound": "ไม่มีประกาศ!!"
+  },
+  "profileCompleteness": {
+    "title": "ความสมบูรณ์ของโปรไฟล์",
+    "incompleteLabel": "กรอกข้อความในช่อง",
+    "coverPicUrl": "ภาพโคฟเวอร์",
+    "profilePicUrl": "รูปโพรไฟล์",
+    "city": "เมือง",
+    "mobile": "เบอร์โทรศัพท์",
+    "address": "ที่อยู่",
+    "openingHours": "เวลาเปิด",
+    "country": "ประเทศ",
+    "aboutMe": "เกี่ยวกับฉัน",
+    "profession": "อาชีพ",
+    "industry": "ธุรกิจ",
+    "company": "บริษัท",
+    "email": "อีเมลล์"
+  },
+  "publication": {
+    "title": "การตีพิมพ์",
+    "noPublicationsFound": "ไม่พบการตีพิมพ์",
+    "addImages": "เพิ่มรูป",
+    "placeholderDescription": "ใส่คำบรรยายให้กับงานตีพิมพ์ของคุณ",
+    "characterLimit": "/1000",
+    "edit": "แก้ไข",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก"
+  },
+  "allSectionHeader": {
+    "add": "เพิ่ม",
+    "seeAll": "ดูทั้งหมด"
+  },
+  "share": {
+    "copiedText": "ก๊อปปี้แล้ว!",
+    "copyLink": "ก๊อปปี้ Link",
+    "share": "แชร์",
+    "profileShareTitle": "โปรไฟล์ของ"
+  },
+  "technique": {
+    "title": "เทคนิค",
+    "noTechFound": "ไม่พบเทคนิคใดๆ",
+    "addImages": "เพิ่มรูป",
+    "placeholderDescription": "เพิ่มคำบรรยายให้กับเทคนิคงานศิลปะของคุณ",
+    "characterLimit": "/1000",
+    "edit": "แก้ไข",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก",
+    "your": "ของคุณ",
+    "photo": "รูปภาพ",
+    "apply": "ใช้"
+  },
+  "profileNavigator": {
+    "profile": "โปรไฟล์",
+    "see": "ดู",
+    "art": "งานศิลปะของ",
+    "about": "เกี่ยวกับ",
+    "contact": "ช่องทางการติดต่อ",
+    "activity": "กิจกรรม",
+    "videos": "วิดีโอ",
+    "artworks": "งานศิลปะ",
+    "likedArtworks": "งานศิลปะที่ชอบ",
+    "albums": "อัลบั้ม",
+    "groups": "กลุ่ม",
+    "technique": "เทคนิค",
+    "expertise": "ความเชี่ยวชาญ",
+    "awards": "รางวัล",
+    "pastExhibitions": "นิทรรศการที่ผ่านมา",
+    "publications": "การตีพิมพ์",
+    "personalInfo": "ข้อมูลส่วนตัว",
+    "business": "เกี่ยวกับธุรกิจของฉัน"
+  },
+  "connections": {
+    "title": "การเชื่อมต่อ",
+    "noConnectionsFound": "ไม่มีการเชื่อมต่อ",
+    "seeAll": "ดูทั้งหมด...",
+    "followers": "ผู้ติดตาม",
+    "following": "การติดตาม"
+  },
+  "video": {
+    "title": "วิดีโอ",
+    "noVideosFound": "ไม่พบวิดีโอใดๆ"
+  },
+  "visibility": {
+    "public": "สาธารณะ(ผู้ใช้ที่ล็อคอินมา)",
+    "private": "ส่วนตัว",
+    "connectionsOnly": "เฉพาะผู้ที่เชื่อมต่อเท่านั้น"
+  },
+  "blockSection": {
+    "accountUnavailable": "ไม่สามารถดูบัญชีผู้ใช้ได้ในขณะนี้",
+    "goToHome": "กลับหน้าแรก"
+  },
+  "emailShare": {
+    "bodyText2": "\nติดต่อกัน!\nArtmo ~ เรียนรู้เพิ่มเติมอะไรเพิ่มเติม https://artmo.com/what-is-artmo",
+    "profileShare": {
+      "subject": "ตรวจสอบ artmo",
+      "bodyText1": "สวัสดี,\nฉันคิดว่าคุณอาจสนใจที่จะตรวจสอบ artmo และเข้าร่วมกับเครือข่ายศิลปะ\nคลิกที่นี่เพื่อดูโปรไฟล์ของฉัน: "
+    },
+    "articleShare": {
+      "subject": "ลองดูบทความนี้ใน Artmo",
+      "bodyText1": "สวัสดี,\nฉันคิดว่าคุณอาจสนใจที่จะตรวจสอบบทความนี้ใน Artmo\nคลิกที่นี่เพื่ออ่าน: "
+    },
+    "artworkShare": {
+      "subject": "ตรวจสอบงานศิลปะนี้ใน Artmo",
+      "bodyText1": "สวัสดี,\nฉันคิดว่าคุณอาจสนใจที่จะตรวจสอบงานศิลปะที่น่าทึ่งนี้ใน Artmo\nคลิกที่นี่เพื่อดูงานศิลปะ: "
+    },
+    "postShare": {
+      "subject": "ตรวจสอบโพสต์นี้บน artmo",
+      "bodyText1": "สวัสดี,\nฉันคิดว่าคุณอาจสนใจที่จะตรวจสอบโพสต์นี้บน artmo\nคลิกที่นี่เพื่ออ่าน: "
+    }
+  }
+}

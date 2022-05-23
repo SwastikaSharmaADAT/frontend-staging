@@ -1,0 +1,83 @@
+{
+    "validationErrors": {
+        "image": "Cần có hình ảnh bài viết",
+        "title": "Cần nhập tiêu đề",
+        "titleLength": "Tiêu đề không quá 200 ký tự",
+        "description": "Cần nhập mô tả",
+        "descriptionLength": "Mô tả không quá 5000 ký tự",
+        "category": "Cần nhập danh mục",
+        "country": "Cần nhập quốc gia",
+        "city": "Cần nhập thành phố",
+        "startDate": "Cần nhập ngày bắt đầu",
+        "endDate": "Cần nhập ngày kết thúc",
+        "endDateLarge": "Ngày kết thúc không được đặt trước ngày bắt đầu"
+    },
+    "articleNotAvailable": "Bài viết này không có sẵn",
+    "placeholderImage": "Thêm một hình ảnh tiêu biểu",
+    "placeholderTitle": "Nhập Tiêu đề",
+    "placeholderDescription": "Nhập bài viết của bạn ở đây...",
+    "placeholderCountry": "Quốc gia",
+    "placeholderStartDate": "Ngày Bắt đầu",
+    "placeholderCity": "Thành phố",
+    "placeholderEndDate": "Ngày Kết thúc",
+    "category": "Danh mục",
+    "categoryOptions": {
+        "option1": "Buzz",
+        "option2": "Bức ảnh của ngày",
+        "option3": "Triển lãm"
+    },
+    "status": {
+        "draft": "Bản nháp",
+        "publish": "Đã xuất bản",
+        "pending": "Chờ Phê duyệt",
+        "rejected": "Bị từ chối"
+    },
+    "articleFollowed": "Đang theo dõi",
+    "articleFollow": "Theo dõi",
+    "articleUnFollow": "Bỏ theo dõi",
+    "update": "Cập nhật",
+    "submit": "Hoàn thành",
+    "buzzListing": {
+        "title": "XEM ĐIỀU GÌ ĐANG XOAY CHUYỂN THẾ GIỚI NGHỆ THUẬT",
+        "titleShort": "BUZZ",
+        "placeholderSearchTitle": "Tìm kiếm triển lãm theo tiêu đề...",
+        "search": "Tìm kiếm",
+        "city": "Thành phố",
+        "edit": "Chỉnh sửa"
+    },
+    "exhibitionListing": {
+        "title": "TRIỂN LÃM"
+    },
+    "potd": {
+        "title": "BỨC ẢNH CỦA NGÀY"
+    },
+    "myArticle": {
+        "title": "Bài viết của Tôi",
+        "seeMoreText": "Xem thêm..."
+    },
+    "seeMoreText": "Xem thêm...",
+    "addArticleInfo": {
+        "mainSection": {
+            "heading": "Làm thế nào để viết bài",
+            "firstPara": "Hãy coi mình là một ký giả hoặc là người nêu ra quan điểm. Viết về điều gì đó mà giới nghệ thuật và những người yêu nghệ thuật quan tâm. Thay vì quảng bá bản thân hay tác phẩm của bạn, bài viết của bạn là nơi bạn viết về một chủ đề thu hút sự quan tâm của độc giả nói chung.",
+            "secondPara": "Bạn cần hoàn thiện hồ sơ của mình trên ARTMO trước khi có thể xuất bản một bài viết.",
+            "thirdPara": "Sau khi xuất bản, bạn sẽ được công nhận là một nhà xuất bản."
+        },
+        "buzzSubSection": {
+            "heading": "Buzz:",
+            "firstPara": "Viết một bài về một chủ đề mà những người dùng tại ARTMO quan tâm. Xem những ví dụ hay cho bài viết Buzz",
+            "anchorText": "tại đây"
+        },
+        "potdSubSection": {
+            "heading": "Bức ảnh của ngày | POTD:",
+            "firstPara": "Sử dụng mục POTD khi bạn có một bức ảnh cuốn hút và thú vị mà bạn muốn viết về nó. Sử dụng hình ảnh đó làm ảnh tiêu biểu và kể với thế giới câu chuyện về bức ảnh đó. POTD của bạn sẽ được xuất bản ",
+            "anchorText": "tại đây"
+        },
+        "exhibitionSubSection": {
+            "heading": "Triển lãm:",
+            "firstPara": "Sử dụng mục này nếu bạn đang điều hành một phòng trưng bày hay đang tổ chức một buổi triển lãm. Viết về buổi triển lãm bạn đang tổ chức và bài viết của bạn sẽ được hiển thị trong mục Triển lãm.",
+            "secondPara": "Bài viết về buổi triển lãm của bạn sẽ được xuất bản ",
+            "anchorText": "tại đây"
+        }
+    }
+}

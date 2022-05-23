@@ -1,0 +1,362 @@
+{
+    "placeholderIntro": "Giới thiệu Ngắn",
+    "about": {
+        "title": "GIỚI THIỆU",
+        "edit": "Chỉnh sửa",
+        "cancel": "Hủy bỏ",
+        "save": "Lưu",
+        "noAboutText": "Chưa có giới thiệu",
+        "placeholderAbout": "Nhập phần giới thiệu tại đây...",
+        "characterLimit": "/1000",
+        "errorAbout": "Vượt quá độ dài ký tự tối đa là 1000"
+    },
+    "biography": {
+        "title": "TIỂU SỬ",
+        "edit": "Chỉnh sửa",
+        "cancel": "Hủy bỏ",
+        "save": "Lưu",
+        "noBiographyText": "Chưa có tiểu sử",
+        "placeholderBiography": "Nhập tiểu sử tại đây...",
+        "characterLimit": "/1000"
+    },
+    "activity": {
+        "title": "Hoạt động",
+        "descriptionNotAdded": "Chưa có mô tả",
+        "reactions": "phản ứng",
+        "noActivityText": "Chưa có hoạt động",
+        "seeAll": "Xem Tất cả",
+        "add": "Thêm"
+    },
+    "album": {
+        "title": "ALBUM",
+        "seeAll": "Xem Tất cả",
+        "add": "Thêm",
+        "noAlbumFound": "Chưa có album",
+        "edit": "Chỉnh sửa"
+    },
+    "artwork": {
+        "title": "TÁC PHẨM NGHỆ THUẬT",
+        "likedArtworks": "TÁC PHẨM NGHỆ THUẬT ĐÃ THÍCH",
+        "noArtworkFound": "Chưa có tác phẩm nghệ thuật",
+        "seeAll": "Xem Tất cả",
+        "add": "Thêm"
+    },
+    "award": {
+        "title": "GIẢI THƯỞNG",
+        "noAwardFound": "Chưa có giải thưởng",
+        "addImages": "Thêm ảnh",
+        "placeholderDescription": "Thêm mô tả về các giải thưởng nghệ thuật của bạn.",
+        "characterLimit": "/1000",
+        "edit": "Chỉnh sửa",
+        "cancel": "Hủy bỏ",
+        "save": "Lưu"
+    },
+    "basicInfo": {
+        "fillDetailsText": "Vui lòng điền những trường này",
+        "placeholderFirstName": "Tên",
+        "placeholderLastName": "Họ",
+        "placeholderCity": "Thành phố",
+        "placeholderCountry": "Chọn quốc gia",
+        "placeholderEmail": "Email",
+        "save": "Lưu",
+        "cancel": "Hủy bỏ"
+    },
+    "business": {
+        "title": "Về Công việc kinh doanh | Nghề nghiệp của tôi",
+        "noBusinessFound": "Chưa có thông tin về công việc kinh doanh | nghề nghiệp của tôi",
+        "addImages": "Thêm ảnh",
+        "placeholderDescription": "Thêm mô tả về công việc kinh doanh | nghề nghiệp của tôi",
+        "characterLimit": "/1000",
+        "edit": "Chỉnh sửa",
+        "cancel": "Hủy bỏ",
+        "save": "Lưu"
+    },
+    "connectionsPopup": {
+        "follower": "người theo dõi",
+        "followerPlural": "người theo dõi",
+        "connected": "Đã kết nối",
+        "requestPending": "Yêu cầu Chờ xử lý",
+        "requestSent": "Đã gửi Yêu cầu",
+        "connect": "Kết nối",
+        "userConnectionsTitle": "Kết nối của"
+    },
+    "contact": {
+        "title": "THÔNG TIN LIÊN HỆ",
+        "noContactInfoFound": "Chưa có thông tin liên hệ",
+        "email": "Email",
+        "skype": "Skype",
+        "phone": "Điện thoại",
+        "address": "Địa chỉ",
+        "openingHours": "Giờ Mở cửa",
+        "socialMedia": "Phương tiện Truyền thông Xã hội",
+        "placeholderEmail": "Email",
+        "placeholderSkype": "Skype",
+        "phoneNumber": "Số điện thoại",
+        "placeholderAddress": "Địa chỉ",
+        "placeholderOpenHours": "Giờ Mở cửa",
+        "edit": "Chỉnh sửa",
+        "cancel": "Hủy bỏ",
+        "save": "Lưu"
+    },
+    "expertise": {
+        "title": "CHUYÊN MÔN",
+        "noExpertiseFound": "Chưa có chuyên môn",
+        "addImages": "Thêm ảnh",
+        "placeholderDescription": "Thêm mô tả về chuyên môn nghệ thuật của bạn.",
+        "characterLimit": "/1000",
+        "edit": "Chỉnh sửa",
+        "cancel": "Hủy bỏ",
+        "save": "Lưu"
+    },
+    "followersPopup": {
+        "follower": "người theo dõi",
+        "followerPlural": "người theo dõi",
+        "followed": "Đã theo dõi",
+        "unfollow": "Bỏ theo dõi",
+        "follow": "Bỏ theo dõi",
+        "userFollowersTitle": "Người theo dõi của"
+    },
+    "followingPopup": {
+        "follower": "người theo dõi",
+        "followerPlural": "người theo dõi",
+        "followed": "Đã theo dõi",
+        "unfollow": "Bỏ theo dõi",
+        "follow": "Bỏ theo dõi",
+        "noFollowing": "Chưa theo dõi ai",
+        "userFollowersTitle": "Người theo dõi của",
+        "followPlural": "Theo dõi"
+    },
+    "group": {
+        "title": "NHÓM",
+        "noGroupsFound": "Người dùng chưa đăng ký theo dõi nhóm nào",
+        "member": "thành viên",
+        "memberPlural": "thành viên",
+        "browseGroups": "Duyệt Nhóm",
+        "create": "Tạo"
+    },
+    "invite": {
+        "title": "MỜI BẠN BÈ",
+        "desc1": "Gửi tin nhắn đến các liên hệ của bạn.",
+        "desc2": "Nói với họ bạn đang ở đây.",
+        "invite": "Mời"
+    },
+    "messagePopup": {
+        "or": "HOẶC",
+        "seeMore": "Xem thêm...",
+        "learnMore": "Tìm hiểu Thêm"
+    },
+    "pastExhibition": {
+        "title": "CÁC CUỘC TRIỂN LÃM TRƯỚC ĐÂY",
+        "addImages": "Thêm ảnh",
+        "noExhibitionsFound": "Chưa có cuộc triển lãm nào trước đây",
+        "placeholderDescription": "Thêm mô tả về các cuộc triển lãm trước đây của bạn.",
+        "characterLimit": "/1000",
+        "edit": "Chỉnh sửa",
+        "cancel": "Hủy bỏ",
+        "save": "Lưu"
+    },
+    "personalInfo": {
+        "title": "THÔNG TIN CÁ NHÂN",
+        "noInfoFound": "Chưa có thông tin cá nhân",
+        "city": "Thành phố",
+        "country": "Quốc gia",
+        "profession": "Nghề nghiệp",
+        "company": "Công ty",
+        "industry": "Ngành nghề",
+        "website": "Trang web",
+        "languages": "Ngôn ngữ",
+        "visibleInfo": "Mặc định không công khai",
+        "dateOfBirth": "Ngày tháng năm sinh",
+        "gender": "Giới tính",
+        "relationshipStatus": "Tình trạng hôn nhân",
+        "placeholderCity": "Thành phố",
+        "placeholderCountry": "Chọn quốc gia",
+        "placeholderProfession": "Nghề nghiệp",
+        "placeholderCompany": "Công ty",
+        "placeholderIndustry": "Ngành nghề",
+        "placeholderLanguages": "Chọn Ngôn ngữ",
+        "placeholderWebsite": "Trang web",
+        "placeholderDob": "Ngày tháng năm sinh",
+        "errorDob": "Cần nhập ngày tháng năm sinh",
+        "genderDropdown": {
+            "option1": "Chọn giới tính",
+            "option2": "Nam",
+            "option3": "Nữ",
+            "option4": "Đa dạng"
+        },
+        "relationDropdown": {
+            "option1": "Chọn tình trạng hôn nhân",
+            "option2": "Độc thân",
+            "option3": "Đã kết hôn",
+            "option4": "Kết hợp"
+        },
+        "edit": "Chỉnh sửa",
+        "cancel": "Hủy bỏ",
+        "save": "Lưu"
+    },
+    "coverImage": {
+        "menuOptions": {
+            "title": "Đổi ảnh bìa",
+            "upload": "Tải Ảnh lên",
+            "change": "Thay Ảnh",
+            "remove": "Bỏ Ảnh"
+        }
+    },
+    "profileHead": {
+        "profileImage": {
+            "menuOptions": {
+                "title": "Thay ảnh",
+                "upload": "Tải Ảnh lên",
+                "change": "Thay Ảnh",
+                "remove": "Bỏ Ảnh"
+            }
+        },
+        "connected": "Đã kết nối",
+        "requestPending": "Yêu cầu Chờ xử lý",
+        "requestSent": "Đã gửi Yêu cầu",
+        "connect": "Kết nối",
+        "shareProfile": "Chia sẻ Hồ sơ",
+        "unblock": "Bỏ chặn",
+        "block": "Chặn",
+        "tooltip": {
+            "text": "Loại hồ sơ khác có các mẫu đăng ký khác.",
+            "seeMore": "Xem thêm..."
+        },
+        "profileDesc": {
+            "artist": {
+                "firstline": "<b>Bạn là một Nghệ sĩ!</b>",
+                "secondline": "Bạn có thể bán tác phẩm nghệ thuật do mình tạo ra."
+            },
+            "member": {
+                "firstline": "Bạn <b><i>KHÔNG PHẢI<i></b> một Nghệ sĩ!",
+                "secondline": "Bạn có thể bán tác phẩm nghệ thuật mình sở hữu."
+            }
+        },
+        "edit": "Chỉnh sửa",
+        "cancel": "Hủy bỏ",
+        "save": "Lưu",
+        "followed": "Đã theo dõi",
+        "follow": "Theo dõi",
+        "message": "Tin nhắn",
+        "more": "Thêm...",
+        "artistProfile": "Hồ sơ Nghệ sĩ",
+        "memberProfile": "Hồ sơ Thành viên",
+        "enterName": "Vui lòng nhập tên của bạn",
+        "enterInstitute": "Vui lòng nhập tên học viện",
+        "placeholderFirstName": "Tên",
+        "placeholderInstitureName": "Tên Học viện",
+        "placeholderLastName": "Họ"
+    },
+    "notices": {
+        "title": "THÔNG BÁO",
+        "notNoticesFound": "Không có Thông báo để hiện!!"
+    },
+    "profileCompleteness": {
+        "title": "ĐỘ HOÀN THIỆN HỒ SƠ",
+        "incompleteLabel": "Điền vào những trường sau",
+        "coverPicUrl": "Ảnh Bìa",
+        "profilePicUrl": "Ảnh Hồ sơ",
+        "city": "Thành phố",
+        "mobile": "Số điện thoại",
+        "address": "Địa chỉ",
+        "openingHours": "Giờ Mở cửa",
+        "country": "Quốc gia",
+        "aboutMe": "Về",
+        "profession": "Nghề nghiệp",
+        "industry": "Ngành nghề",
+        "company": "Công ty",
+        "email": "Email"
+    },
+    "publication": {
+        "title": "CÔNG BỐ",
+        "noPublicationsFound": "Chưa có công bố",
+        "addImages": "Thêm Ảnh",
+        "placeholderDescription": "Thêm mô tả về các công bố của bạn.",
+        "characterLimit": "/1000",
+        "edit": "Chỉnh sửa",
+        "cancel": "Hủy bỏ",
+        "save": "Lưu"
+    },
+    "allSectionHeader": {
+        "add": "Thêm",
+        "seeAll": "Xem Tất cả"
+    },
+    "share": {
+        "copiedText": "Đã sao chép!",
+        "copyLink": "Sao chép Đường dẫn",
+        "share": "Chia sẻ",
+        "profileShareTitle": "Hồ sơ của"
+    },
+    "technique": {
+        "title": "KỸ THUẬT",
+        "noTechFound": "Chưa có kỹ thuật",
+        "addImages": "Thêm ảnh",
+        "placeholderDescription": "Thêm mô tả về kỹ thuật nghệ thuật của bạn.",
+        "characterLimit": "/1000",
+        "edit": "Chỉnh sửa",
+        "cancel": "Hủy bỏ",
+        "save": "Lưu",
+        "your": "của bạn",
+        "photo": "ảnh",
+        "apply": "Áp dụng"
+    },
+    "profileNavigator": {
+        "profile": "Hồ sơ",
+        "see": "Xem",
+        "art": "Nghệ thuật của",
+        "about": "GIỚI THIỆU",
+        "contact": "THÔNG TIN LIÊN HỆ",
+        "activity": "HOẠT ĐỘNG",
+        "videos": "VIDEO",
+        "artworks": "TÁC PHẨM NGHỆ THUẬT",
+        "likedArtworks": "Tác phẩm nghệ thuật đã Thích",
+        "albums": "ALBUM",
+        "groups": "NHÓM",
+        "technique": "KỸ THUẬT",
+        "expertise": "CHUYÊN MÔN",
+        "awards": "GIẢI THƯỞNG",
+        "pastExhibitions": "CÁC CUỘC TRIỂN LÃM TRƯỚC ĐÂY",
+        "publications": "CÔNG BỐ",
+        "personalInfo": "THÔNG TIN CÁ NHÂN",
+        "business": "VỀ CÔNG VIỆC KINH DOANH CỦA TÔI"
+    },
+    "connections": {
+        "title": "Kết nối",
+        "noConnectionsFound": "Chưa có kết nối",
+        "seeAll": "Xem Tất cả...",
+        "followers": "Người theo dõi",
+        "following": "Đang theo dõi"
+    },
+    "video": {
+        "title": "Video",
+        "noVideosFound": "Chưa có Video"
+    },
+    "visibility": {
+        "public": "Công khai(Người dùng đã đăng nhập)",
+        "private": "Riêng tư",
+        "connectionsOnly": "Chỉ các kết nối"
+    },
+    "blockSection": {
+        "accountUnavailable": "Không có tài khoản này",
+        "goToHome": "Quay về Trang chủ"
+    },
+    "emailShare": {
+        "bodyText2": "\nGiữ liên lạc!\nArtmo là gì ~ tìm hiểu thêm https://artmo.com/what-is-artmo",
+        "profileShare" : {
+            "subject" : "Kiểm tra Artmo.",
+            "bodyText1": "xin chào,\nTôi nghĩ rằng bạn có thể quan tâm đến việc kiểm tra artmo và tham gia mạng lưới nghệ thuật.\nNhấp chuột vào đây để xem thông tin cá nhân của tôi: "
+        },
+        "articleShare": {
+            "subject" : "Kiểm tra bài viết này về ArtMO",
+            "bodyText1": "xin chào,\nTôi nghĩ rằng bạn có thể quan tâm đến việc kiểm tra bài viết này trên artmo.\nNhấn vào đây để đọc nó: "
+        },
+        "artworkShare":{
+            "subject" : "Kiểm tra tác phẩm nghệ thuật này trên Artmo",
+            "bodyText1": "xin chào,\nTôi nghĩ rằng bạn có thể quan tâm đến việc kiểm tra tác phẩm nghệ thuật tuyệt vời này trên ArtMO.\nNhấn vào đây để xem tác phẩm nghệ thuật: "
+        },
+        "postShare": {
+            "subject" : "Xem bài đăng này trên ARTMO",
+            "bodyText1": "xin chào,\nTôi nghĩ rằng bạn có thể quan tâm đến việc kiểm tra bài đăng này trên artmo.\nNhấn vào đây để đọc nó: "
+        }
+    }
+}

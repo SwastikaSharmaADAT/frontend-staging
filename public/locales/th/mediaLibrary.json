@@ -1,0 +1,27 @@
+{
+  "chooseImage": "เลือกภาพ",
+  "uploadTab": {
+    "title": "อัพโหลดไฟล์",
+    "dragDropHere": "ลากไฟล์มาวางที่นี่",
+    "or": "หรือ",
+    "selectFiles": "+ เลือกไฟล์เพิ่ม",
+    "supportedFormatsText": "ใช้ได้เฉพาะภาพสกุล *.jpeg, *.jpg and *.png เท่านั้น",
+    "maxLimitPrefix": "จำนวนสูงสุดของ",
+    "maxLimitSuffix": "เลือกหรือลากภาพมาวางก็ได้",
+    "moreImagesText": "เลือกหรือวางภาพได้อีก {{จำกัด}} ภาพ",
+    "maxFileSize": "ขนาดไฟล์ไม่เกิน: 2 MB",
+    "minFileSize": "ขนาดไฟล์ต้องมากกว่า: 100 kB",
+    "maxLimitText": "เลือกหรือวางภาพได้สูงสุด {{จำกัด}} ภาพ"
+  },
+  "mediaTab": {
+    "title": "คลังสื่อ",
+    "pickATag": "เลือกแท็ก",
+    "loadMore": "ดูเพิ่มเติม",
+    "deleteImage": "ลบภาพ",
+    "choose": "เลือก",
+    "saveAll": "บันทึกทั้งหมด",
+    "placeholderSearch": "ค้นหา...",
+    "placeholderDescription": "เพิ่มคำอธิบาย...",
+    "placeholderEnterTag": "ใส่แท็ก"
+  }
+}

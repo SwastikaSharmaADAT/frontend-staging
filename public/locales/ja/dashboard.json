@@ -1,0 +1,156 @@
+{
+    "tabLabels": {
+        "dashboard": "ダッシュボード",
+        "mediaLibrary": "メディアライブラリ",
+        "artworks": "作品",
+        "orders": "オーダー",
+        "customers": "カスタマー",
+        "settings": "設定",
+        "addArtwork": "作品を追加"
+    },
+    "incompletePopup": {
+        "mainText": "アートワークのアップロードを開始して、ここでお会いできてうれしいです。",
+        "subText": "アートワークをアップロードして公開する前に、プロファイルを完成させる必要があります。"
+    },
+    "knowledgeBase": {
+        "title": "ナレッジベース"
+    },
+    "dashboard": {
+        "title": "ダッシュボード",
+        "learnMore": "詳しくみる",
+        "sections": {
+            "sec1": "承認済み作品",
+            "sec2": "どうやって作品が承認されますか？?",
+            "sec3": "作品のアップロード方法についてはこちらをご覧ください",
+            "sec4": "どうやって作品が販売されますか？",
+            "here": "こちら."
+        }
+    },
+    "artworks": {
+        "title": "作品",
+        "addNew": "新作を追加",
+        "learnMore": "詳しくみる",
+        "draft": "下書き",
+        "published": "公開済み",
+        "underReview": "承認待ちの",
+        "sold": "販売済み",
+        "pending": "編集が必要",
+        "show": "表示",
+        "entries": "エントリー",
+        "placeholderSearch": "検索",
+        "eur": "ユーロ",
+        "quickEdit": {
+            "title": "クイック編集",
+            "confirmButton": "はい",
+            "markAsSoldText": "作品を販売済みにしますか？この操作は戻せません。",
+            "switchLeft": "完売",
+            "switchRight": "販売中",
+            "saveChanges": "変更を保存",
+            "selfNotePlaceholder": "メモ",
+            "titlePlaceholder": "タイトル",
+            "pricePlaceholder": "価格",
+            "priceOnRequestPlaceholder": "価格はお問い合わせください"
+        },
+        "delete": {
+            "confirmButton": "はい",
+            "confirmDeleteText": "この作品を削除しますか？"
+        },
+        "hover": {
+            "view": "見る",
+            "quickEdit": "クイック編集",
+            "edit": "編集",
+            "delete": "削除"
+        }
+    },
+    "orders": {},
+    "settings": {
+        "title": "設定",
+        "learnMore": "詳しくみる",
+        "saveChanges": "保存",
+        "updateChanges": "変更を更新",
+        "optionTitles": {
+            "general": "一般",
+            "vacation": "休暇",
+            "subscription": "購読",
+            "payouts": "支払い"
+        },
+        "general": {
+            "vendorEmail": "事業者メール",
+            "timezone": "タイムゾーン",
+            "shippingPolicy": "配送ポリシー",
+            "validationErrors": {
+                "email": "有効なメールアドレスを入力してください",
+                "shippingPolicy": "配送ポリシーは最大1000文字です"
+            }
+        },
+        "vacation": {
+            "vacationMode": "休暇モードを有効にする",
+            "disablePurchase": "休暇中の購入を無効にする",
+            "vacationMessage": "休暇メッセージ",
+            "validationErrors": {
+                "vacationMessage": "休暇メッセージは最大1000文字です"
+            }
+        },
+        "subscription": {
+            "paymentsVia": "支払い",
+            "paypalEmail": "PayPalメールアドレス",
+            "cardNumber": "カード番号 ",
+            "changePaymentData": "支払情報を変更する",
+            "subscriptionPeriod": "購読期限",
+            "price": "価格",
+            "eur": "ユーロ",
+            "upcomingPayment": "今後の支払いについて",
+            "upgradeMembership": "サブスクリプションをアップグレードします",
+            "downgradeYourAccount": "サブスクリプションをダウングレードする",
+            "cancelSubscription": "サブスクリプションをキャンセル",
+            "cancelConfirmText": "本当にサブスクリプションをキャンセルしてよろしいですか？",
+            "buttonYes": "はい",
+            "changePaymentText": "本当に支払い方法を変更しますか？",
+            "basicPlanText": "こちらは無料プランなので支払い方法は不要です。"
+        },
+        "payouts": {
+            "wireTransfer": "電信送金",
+            "payPal": "PayPal",
+            "paymentTypeQuestion": "作品売り上げをどのように受取りますか？",
+            "country": "国",
+            "bankAccountNumber": "口座番号",
+            "email": "Email",
+            "routingNumber": "銀行コード",
+            "validationErrors": {
+                "bankAccountNumber": "口座番号は最大24文字です",
+                "routingNumber": "銀行コードは最大24文字です",
+                "country": "国は必須です",
+                "email": "Eメールは必須です",
+                "bankAccountNumberLength": "銀行口座番号は最大で24桁までです",
+                "routingNumberLength": "ルーティングナンバーは最大24桁までです",
+                "paymentType": "お支払いの種類は必須です",
+                "invalidEmail": "有効なメールアドレスを入力してください"
+            }
+        }
+    },
+    "knowledgebase": {
+        "accordion1": "どうやって休暇モードを設定しますか？",
+        "accordion2": "どうやって作品を投稿しますか？",
+        "accordion3": "なぜ自分の作品がコレクションに表示されないのですか？",
+        "accordion4": "撮影条件",
+        "accordion5": "作品証明書 (ダウンロード)"
+    },
+    "purchaseSubscriptionMessage": "先にサブスクリプションを購入してください",
+    "profileCompletionPopup": {
+        "title": "アカウント登録してください",
+        "addProfileImage": "プロフィールを入力",
+        "startSellingArt": "アートの販売を開始",
+        "placeholder": {
+            "phone": "電話番号",
+            "city": "都市",
+            "country": "国"
+        },
+        "validationErrors": {
+            "profileImageRequired": "プロフィール画像は必須です",
+            "cityRequired": "都市は必須です",
+            "countryRequired": "国は必須です",
+            "phoneRequired": "電話番号は必須です",
+            "invalidPhone": "電話番号は無効です"
+        }
+    }
+}

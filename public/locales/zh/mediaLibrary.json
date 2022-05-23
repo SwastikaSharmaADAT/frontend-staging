@@ -1,0 +1,27 @@
+{
+    "chooseImage": "选择图片",
+    "uploadTab": {
+        "title": "媒体库",
+        "dragDropHere": "将文件拖放到此处",
+        "or": "或",
+        "selectFiles": "+ 选择文件",
+        "supportedFormatsText": "只接受*.jpeg、*.jpg和*.png图片。",
+        "maxLimitPrefix": "最多",
+        "maxLimitSuffix": "可以选择或删除图像",
+        "moreImagesText": "{{limit}}更多的图片可以被选择或删除",
+        "maxFileSize": "最大文件大小: 2 MB",
+        "minFileSize": "最小文件大小：100 kB",
+        "maxLimitText": "最多可以选择或删除{{limit}}个图片"
+    },
+    "mediaTab": {
+        "title": "Media Library",
+        "pickATag": "选择标签",
+        "loadMore": "加载更多",
+        "deleteImage": "删除图片",
+        "choose": "选择",
+        "saveAll": "保存全部",
+        "placeholderSearch": "搜索...",
+        "placeholderDescription": "添加说明文字...",
+        "placeholderEnterTag": "输入标签"
+    }
+}

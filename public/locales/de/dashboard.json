@@ -1,0 +1,156 @@
+{
+  "tabLabels": {
+    "dashboard": "DASHBOARD",
+    "mediaLibrary": "MEDIEN-BIBLIOTHEK",
+    "artworks": "KUNSTWERKE",
+    "orders": "VERKÄUFE",
+    "customers": "KÄUFER",
+    "settings": "EINSTELLUNGEN",
+    "addArtwork": "Neu hinzufügen"
+  },
+  "incompletePopup": {
+    "mainText": "Schön, Sie hier zu sehen und mit dem Hochladen Ihrer Kunstwerke zu beginnen.",
+    "subText": "Bevor Sie Kunstwerke hochladen und veröffentlichen können, müssen Sie Ihr Profil vervollständigen."
+},
+  "knowledgeBase": {
+    "title": "ERFAHRE MEHR"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "learnMore": "Mehr lernen",
+    "sections": {
+      "sec1": "KUNSTWERK-ZULASSUNG",
+      "sec2": "WIE BEKOMMNE ICH MEIN KUSNTWERK PUBLIZIERT?",
+      "sec3": "Bitte siehe Upload-Informationen hier",
+      "sec4": "VERKAUFTE WERKE",
+      "here": "hier."
+    }
+  },
+  "artworks": {
+    "title": "Kunstwerke",
+    "addNew": "Neues hinzufügen",
+    "learnMore": "Mehr lernen",
+    "draft": "Entwurf",
+    "published": "Veröffentlicht",
+    "underReview": "Genehmigung ausstehend",
+    "sold": "Verkauft",
+    "pending": "Bearbeiten erforderlich",
+    "show": "Anzeigen",
+    "entries": "Einträge",
+    "placeholderSearch": "Suche",
+    "eur": "EUR",
+    "quickEdit": {
+      "title": "Schnell editieren",
+      "confirmButton": "Ja",
+      "markAsSoldText": "Bist Du sicher, dass dieses Kunstwerk als verkauft markiert werden soll? Das kann nicht rückgängig gemacht werden!",
+      "switchLeft": "Verkauft",
+      "switchRight": "Verfügbar",
+      "saveChanges": "Änderungen speichern",
+      "selfNotePlaceholder": "Meine Notiz",
+      "titlePlaceholder": "Titel",
+      "pricePlaceholder": "Preis",
+      "priceOnRequestPlaceholder": "Preis auf Anfrage"
+    },
+    "delete": {
+      "confirmButton": "Ja",
+      "confirmDeleteText": "Bist Du sicher? Ein Kunstwerk löschen kann nicht rückgängig gemacht werden!"
+    },
+    "hover": {
+      "view": "Vorschau",
+      "quickEdit": "Schnell editieren",
+      "edit": "Editieren",
+      "delete": "Löschen"
+    }
+  },
+  "orders": {},
+  "settings": {
+    "title": "Einstellungen",
+    "learnMore": "Mehr lernen",
+    "saveChanges": "Änderungen speichern",
+    "updateChanges": "Änderungen speichern",
+    "optionTitles": {
+      "general": "Allgemeine Einstellungen",
+      "vacation": "Urlaubsmodus",
+      "subscription": "Abonnement",
+      "payouts": "Auszahlungen"
+    },
+    "general": {
+      "vendorEmail": "Verkäufer E-Mail",
+      "timezone": "Zeitzone",
+      "shippingPolicy": "Versandbedingungen",
+      "validationErrors": {
+        "email": "E-Mail einfügen.",
+        "shippingPolicy": "Versandbedingungen-Text kann max. 1000 Buchstaben/Zeichen haben."
+      }
+    },
+    "vacation": {
+      "vacationMode": "Urlaubsmodus aktivieren",
+      "disablePurchase": "Verkäufe während des Urlaubsmodus deaktivieren",
+      "vacationMessage": "Urlaubsnachricht",
+      "validationErrors": {
+        "vacationMessage": "Urlaubsmodus-Text kann max. 1000 Buchstaben/Zeichen haben."
+      }
+    },
+    "subscription": {
+      "paymentsVia": "Zahlungen via",
+      "paypalEmail": "PayPal E-Mail",
+      "cardNumber": "Kartennummer ",
+      "changePaymentData": "Zahliungs-Methode ändern",
+      "subscriptionPeriod": "Abonnement-Periode",
+      "price": "Preis",
+      "eur": "EUR",
+      "upcomingPayment": "Nächste Zahlung",
+      "upgradeMembership": "Upgrade-Abonnement",
+      "downgradeYourAccount": "Downgrade Abonnement",
+      "cancelSubscription": "Abonnement kündigen",
+      "cancelConfirmText":"Bist Du sicher, dass Du dein Abonnement kündigen möchtest?",
+      "buttonYes":"Ja",
+      "changePaymentText":"Möchtest Du die Zahlungsart wirklich ändern?",
+      "basicPlanText": "Dieses ist ein kostenloser Plan. Keine Zahlung erforderlich."
+    },
+    "payouts": {
+      "wireTransfer":"Banküberweisung",
+      "payPal":"PayPal",
+      "email": "Email",
+      "paymentTypeQuestion": "Wie möchten Sie Geld aus Ihren Verkäufen erhalten?",
+      "country": "Land",
+      "bankAccountNumber": "Bank-Konto-Nummer",
+      "routingNumber": "Routing Number",
+      "validationErrors": {
+        "bankAccountNumber": "Kontonummer ist erforderlich",
+        "routingNumber": "BIC (Swift Code) ist erforderlich",
+        "country": "Land ist erforderlich",
+        "email": "Email ist erforderlich",
+        "bankAccountNumberLength": "Die Kontonummer darf max. 24 Stellen haben",
+        "routingNumberLength": "Die BIC (Swift Code) kann maximal 24 Ziffern haben",
+        "paymentType": "Zahlungsart ist erforderlich",
+        "invalidEmail": "Eine gültige E-Mail-Adresse ist erforderlich"
+      }
+    }
+  },
+  "knowledgebase": {
+    "accordion1": "Wie stelle ich den Urlaubsmodus ein?",
+    "accordion2": "Wie reiche ich ein Kunstwerk ein?",
+    "accordion3": "Warum ist mein Produkt in \"Artworks\" (Marktplatz) nicht sichtbar?",
+    "accordion4": "Fotoanforderungen",
+    "accordion5": "Echtheitszertifikat (herunterladen)"
+  },
+  "purchaseSubscriptionMessage": "Bitte kaufen Sie zuerst ein Abonnement",
+  "profileCompletionPopup": {
+    "title": "Vervollständigen Sie Ihr Konto",
+    "addProfileImage": "Profilbild hinzufügen",
+    "startSellingArt": "Beginnen Sie mit dem Verkauf von Kunst",
+    "placeholder": {
+      "phone": "Telefonnummer",
+      "city": "Stadt",
+      "country": "Land"
+    },
+    "validationErrors": {
+      "profileImageRequired": "Profilbild ist erforderlich",
+      "cityRequired": "Stadt ist erforderlich",
+      "countryRequired": "Land ist erforderlich",
+      "phoneRequired": "Telefonnummer ist erforderlich",
+      "invalidPhone": "Telefonnummer ist ungültig"
+    }
+  }
+}

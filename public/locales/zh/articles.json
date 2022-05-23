@@ -1,0 +1,82 @@
+{
+    "validationErrors": {
+        "image": "文章图片为必填项",
+        "title": "标题为必填项",
+        "titleLength": "标题最多可包含200个字符",
+        "description": "说明为必填项",
+        "descriptionLength": "说明最多可包含5000个字符",
+        "category": "类别为必填项",
+        "country": "国家为必填项",
+        "city": "城市为必填项",
+        "startDate": "开始日期为必填项",
+        "endDate": "结束日期为必填项",
+        "endDateLarge": "结束日期不可早于开始日期"
+    },
+    "articleNotAvailable":"此文章不可用",
+    "placeholderImage": "添加主题图片",
+    "placeholderTitle": "插入标题",
+    "placeholderDescription": "在这里写您的文章",
+    "placeholderCountry": "国家",
+    "placeholderStartDate": "开始日期",
+    "placeholderCity": "城市",
+    "placeholderEndDate": "结束日期",
+    "category": "类别",
+    "categoryOptions": {
+        "option1": "Buzz",
+        "option2": "每日图片",
+        "option3": "展览"
+    },
+    "status": {
+        "draft": "草案",
+        "publish": "发表",
+        "pending": "待批准"
+    },
+    "articleFollowed": "下列的",
+    "articleFollow": "跟随",
+    "articleUnFollow": "取消关注",
+    "update": "更新",
+    "submit": "提交",
+    "buzzListing": {
+        "title": "了解艺术界正发生些什么",
+        "titleShort": "BUZZ",
+        "placeholderSearchTitle": "按标题搜索展览...",
+        "search": "搜索",
+        "city": "城市",
+        "edit": "编辑"
+    },
+    "exhibitionListing": {
+        "title": "展览"
+    },
+    "potd": {
+        "title": "每日图片"
+    },
+    "myArticle": {
+        "title": "我的文章",
+        "seeMoreText": "查看更多..."
+    },
+    "seeMoreText":"查看更多...",
+    "addArticleInfo": {
+        "mainSection": {
+            "heading": "如何写一篇文章",
+            "firstPara": "把自己想象成一名记者或评论家。写一些艺术界和艺术爱好者感兴趣的东西。而不是一个宣传你自己或你自己的艺术作品的机会，你的文章是一个写一个话题的空间这会让普通观众感兴趣。",
+            "secondPara": "您需要在 ARTMO 上拥有完整的个人资料，然后才能发表文章。",
+            "thirdPara": "发布后，您将被认可为发布者。"
+        },
+        "buzzSubSection": {
+            "heading": "嗡嗡声：",
+            "firstPara": "写一篇关于 ARTMO 用户感兴趣的话题的文章。查看 Buzz 文章的好例子",
+            "anchorText": "这里"
+        },
+        "potdSubSection": {
+            "heading": "今日图片 | POTD:",
+            "firstPara": "当你有一张引人入胜的照片要写时，使用 POTD 类别。使用该图像作为特征图像，然后向世界讲述该照片的故事。您的 POTD 将被发布",
+            "anchorText": "这里"
+        },
+        "exhibitionSubSection": {
+            "heading": "展览:",
+            "firstPara": "如果您经营画廊或组织展览，请使用此类别。写下您正在组织的展览，您的文章将出现在展览类别中。",
+            "secondPara": "您的展览文章将被发表",
+            "anchorText": "这里"
+        }
+    }
+}

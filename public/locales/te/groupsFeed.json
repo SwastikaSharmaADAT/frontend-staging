@@ -1,0 +1,62 @@
+{
+    "createPost": {
+        "title": "పోస్టును సృష్టించండి",
+        "editPhoto": "ఛాయాచిత్రాన్ని సవరించండి",
+        "addPhoto": "ఛాయాచిత్రాన్ని జతచేయండి",
+        "characterLimit": "/500",
+        "publish": "ప్రచురించండి",
+        "placeholderWriteSomething": "ఏదైనా వ్రాయండి..."
+    },
+    "groupBarHead": {
+        "leave": "నిష్క్ర్రమించండి",
+        "confirmLeave": "మీరు ఈ సమూహాన్ని ఖచ్చితంగా వదిలి వేయాలి అనుకుంటున్నారా?",
+        "uploadPhoto": "ఛాయాచిత్రాన్ని అప్‌లోడ్ చేయండి",
+        "removePhoto": "ఛాయాచిత్రాన్ని మార్చండి",
+        "changePhoto": "ఛాయాచిత్రాన్ని తొలగించండి",
+        "group": "సమూహము",
+        "leaveGroup": "సమూహాన్ని వదిలివేయండి",
+        "joinGroup": "సమూహంలో చేరండి",
+        "lastActive": "ఇటీవలి కార్యకలాపాలు",
+        "members": "సభ్యుడు(లు)",
+        "posts": "పోస్టు(లు)",
+        "editGroupSettings": "సమూహపు సెట్టింగులను సవరించండి",
+        "Leave": "నిష్క్ర్రమించండి"
+    },
+    "memberSection": {
+        "title": "సమూహపు సభ్యులు",
+        "members": "సభ్యులు",
+        "seeAll": "అందరిని చూడండి..."
+    },
+    "invite": {
+        "title": "కనెక్షన్స్ ను ఆహ్వానించండి",
+        "seeAll": "అందరిని చూడండి",
+        "invited": "ఆహ్వానింపబడ్డారు",
+        "follower": "అనుచరిస్తున్న వారు",
+        "followerPlural": "అనుచరులు",
+        "allConnectionsInvited": "మీ కనెక్షన్స్ అందరూ ఆహ్వానింపబడ్డారు.",
+        "noConnectionsToInvite": "ఆహ్వానించుటకు కనెక్షన్స్ లేవు",
+        "inviteTo": "ఈ వ్యక్తికి ఆహ్వానము",
+        "invite": "ఆహ్వానించు",
+        "loading": "లోడ్ అవుతుంది..."
+    },
+    "joinRequests": {
+        "title": "చేరుటకు అభ్యర్ధనలు",
+        "follower": "అనుచరిస్తున్న వారు",
+        "followerPlural": "అనుచరులు",
+        "reject": "తిరస్కరించు",
+        "accept": "అంగీకరించు",
+        "noMoreRequests": "చేరుటకు అభ్యర్ధనలు ఇక లేవు"
+    },
+    "listingPopup": {
+        "remove": "నిర్మూలించు",
+        "admin": "(అడ్మిన్)",
+        "moderator": "(మోడరేటర్)",
+        "follower": "అనుచరిస్తున్న వారు",
+        "followerPlural": "అనుచరులు",
+        "assignModerator": "మోడరేటర్ గా నియమించు",
+        "removeFromGroup": "సమూహము నుండి తొలగించు",
+        "addedAsModerator": "మోడరేటర్ గా నియమించబడ్డారు",
+        "deleteConfirm": "మీరు ఈ సభ్యుడను ఖచ్చితంగా తొలగించాలి అనుకుంటున్నారా?"
+    },
+    "notAuthorized": "అధికారం లేదు"
+}

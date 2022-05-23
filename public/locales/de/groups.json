@@ -1,0 +1,77 @@
+{
+    "groupbarHeading": "GRUPPEN",
+    "placeholderSearchGroups": "Suche Gruppe",
+    "allCategories": "Alle Kategorien",
+    "noCategoriesFound": "Keine Kategorie gefunden",
+    "allTags": "Alle Tags",
+    "noTagsFound": "Kein Tag gefunden",
+    "search": "Suche",
+    "clear": "Auswahl aufheben",
+    "groupListing": {
+        "confirmButtonText": "Gruppe verlassen",
+        "confirmLeaveText": "Bist Du sicher die Gruppe zu verlassen?",
+        "sortedBy": "Sortiert nach",
+        "recentActivity": "Letzte Aktivität",
+        "group": "Gruppe",
+        "manageGroupLabel": "Gruppen-Einstellungen verwalten",
+        "leaveGroup": "Gruppe verlassen",
+        "cancelRequest": "Anfrage abbrechen",
+        "invitedBy": "Du wurdest eingeladen von",
+        "wouldYouJoin": "Möchtest Du der Gruppe beitreten?",
+        "accept": "Akzeptieren",
+        "ignore": "Ignorieren",
+        "lastActive": "Zuletzt aktiv",
+        "members": "Member(s)",
+        "posts": "Posts(s)",
+        "noGroupsFound": "Keine Gruppe(n) gefunden",
+        "loadMore": "Mehr laden..."
+    },
+    "toolTip": {
+        "tip1": "Jeder Nutzer(in) kann dieser Gruppe beitreten.",
+        "tip2": "Diese Gruppe wird im Gruppenverzeichnis und in den Suchergebnissen aufgeführt.",
+        "tip3": "Gruppeninhalte und -aktivitäten sind für jeden Nutzer sichtbar."
+    },
+    "createGroup": {
+        "placeholderName": "Name",
+        "placeholderDescription": "Beschreibung",
+        "privacyTitle": "Privatsphäre",
+        "privacyPublic": "Öffentlich",
+        "privacyPublicContent": {
+            "point1": "Jeder Nutzer kann dieser Gruppe beitreten.",
+            "point2": "Diese Gruppe wird im Gruppenverzeichnis und in den Suchergebnissen aufgeführt.",
+            "point3": "Gruppeninhalte und -aktivitäten sind für jeden Nutzer sichtbar."
+        },
+        "privacyPrivate": "Privat",
+        "privacyPrivateContent": {
+            "point1": "Nur Nutzer, die eine Mitgliedschaft beantragen und akzeptiert werden, können der Gruppe beitreten.",
+            "point2": "Diese Gruppe wird im Gruppenverzeichnis und in den Suchergebnissen aufgeführt.",
+            "point3": "Gruppeninhalte und -aktivitäten sind nur für Mitglieder der Gruppe sichtbar."
+        },
+        "privacyHidden": "Versteckt",
+        "privacyHiddenContent": {
+            "point1": "Nur eingeladene Nutzer können der Gruppe beitreten.",
+            "point2": "Diese Gruppe wird nicht im Gruppenverzeichnis oder in den Suchergebnissen aufgeführt.",
+            "point3": "Gruppeninhalte und -aktivitäten sind nur für Mitglieder der Gruppe sichtbar."
+        },
+        "postModeration": "Post Moderation",
+        "moderationTypes": {
+            "option1": "Moderationsart für Beiträge auswählen",
+            "option2": "Automatisch veröffentlicht",
+            "option3": "Veröffentlicht nach Überprüfung"
+        },
+        "inviteFeature": "Einladungsfunktion aktivieren",
+        "whoCanInvite": "Wer kann Mitglieder in die Gruppe einladen?",
+        "inviteOptions": {
+            "option1": "Einladungstyp auswählen",
+            "option2": "Administratoren",
+            "option3": "Administratoren & Moderatoren",
+            "option4": "Jeder"
+        },
+        "category": "Kategorie",
+        "placeholderCategory": "Kategorie auswählen",
+        "tags": "Tags",
+        "placeholderTags": "Tags auswählen",
+        "save": "Speichern",
+        "update": "Aktualisieren"
+    }
+}

@@ -1,0 +1,156 @@
+{
+  "tabLabels": {
+    "dashboard": "DASHBOARD",
+    "mediaLibrary": "MEDIA LIBRARY",
+    "artworks": "ARTWORKS",
+    "orders": "ORDERS",
+    "customers": "CUSTOMERS",
+    "settings": "SETTINGS",
+    "addArtwork": "Add Artwork"
+  },
+  "incompletePopup": {
+    "mainText": "Great seeing you here, starting uploading your artworks.",
+    "subText": "Before you can upload and publish artworks you would need to complete your profile."
+  },
+  "knowledgeBase": {
+    "title": "KNOWLEDGEBASE"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "learnMore": "Learn More",
+    "sections": {
+      "sec1": "ARTWORK APPROVAL",
+      "sec2": "HOW DO I GET MY ARTWORK APPROVED?",
+      "sec3": "Please see Artwork Upload Instructions",
+      "sec4": "HOW ARTWORK IS SOLD?",
+      "here": "here."
+    }
+  },
+  "artworks": {
+    "title": "Artworks",
+    "addNew": "Add New",
+    "learnMore": "Learn More",
+    "draft": "draft",
+    "published": "Published",
+    "underReview": "Pending Approval",
+    "sold": "Sold",
+    "pending": "Edit Required",
+    "show": "Show",
+    "entries": "Entries",
+    "placeholderSearch": "Search",
+    "eur": "EUR",
+    "quickEdit": {
+      "title": "Quick Edit",
+      "confirmButton": "Yes",
+      "markAsSoldText": "Are you sure to mark it as sold? This can't be undone",
+      "switchLeft": "sold",
+      "switchRight": "Available",
+      "saveChanges": "Save Changes",
+      "selfNotePlaceholder": "Note to Self (optional)",
+      "titlePlaceholder": "Title",
+      "pricePlaceholder": "Price",
+      "priceOnRequestPlaceholder": "Price on Request"
+    },
+    "delete": {
+      "confirmButton": "Yes",
+      "confirmDeleteText": "Are you sure you want to delete this artwork?"
+    },
+    "hover": {
+      "view": "View",
+      "quickEdit": "Quick Edit",
+      "edit": "Edit",
+      "delete": "Delete"
+    }
+  },
+  "orders": {},
+  "settings": {
+    "title": "Settings",
+    "learnMore": "Learn More",
+    "saveChanges": "Save Changes",
+    "updateChanges": "Update changes",
+    "optionTitles": {
+      "general": "General",
+      "vacation": "Vacation",
+      "subscription": "Subscription",
+      "payouts": "Payouts"
+    },
+    "general": {
+      "vendorEmail": "Vendor Email",
+      "timezone": "Timezone",
+      "shippingPolicy": "Shipping Policy",
+      "validationErrors": {
+        "email": "Please enter a valid email address",
+        "shippingPolicy": "Shipping policy can have maximum 1000 characters"
+      }
+    },
+    "vacation": {
+      "vacationMode": "Enable Vacation Mode",
+      "disablePurchase": "Disable Purchase During Vacation",
+      "vacationMessage": "Vacation Message",
+      "validationErrors": {
+        "vacationMessage": "Vacation message can have maximum 1000 characters"
+      }
+    },
+    "subscription": {
+      "paymentsVia": "Payments via",
+      "paypalEmail": "PayPal email ",
+      "cardNumber": "Card number ",
+      "changePaymentData": "Change Payment Data",
+      "subscriptionPeriod": "Subscription Period",
+      "price": "Price",
+      "eur": "EUR",
+      "upcomingPayment": "Upcoming Payment",
+      "upgradeMembership": "Upgrade Subscription",
+      "downgradeYourAccount": "Downgrade Your Subscription",
+      "cancelSubscription": "Cancel your subscription",
+      "cancelConfirmText":"Are you sure you want to cancel your subscription?",
+      "buttonYes":"Yes",
+      "changePaymentText":"Are you sure you want to change payment type?",
+      "basicPlanText": "This is a free plan. No payment required."
+    },
+    "payouts": {
+      "wireTransfer":"Bank Account Transfer",
+      "payPal":"PayPal",
+      "paymentTypeQuestion": "How do you want to receive money from your art sales?",
+      "country": "Country",
+      "bankAccountNumber": "Bank Account Number",
+      "email": "Email",
+      "routingNumber": "BIC / SWIFT Code",
+      "validationErrors": {
+        "bankAccountNumber": "Bank account number is required",
+        "routingNumber": "BIC / SWIFT Code is required",
+        "country": "Country is required",
+        "email": "Email is required",
+        "bankAccountNumberLength": "Bank account number can have maximum 24 digits",
+        "routingNumberLength": "BIC / SWIFT Code can have maximum 24 digits",
+        "paymentType": "Payment type is required",
+        "invalidEmail": "Enter a valid email address"
+      }
+    }
+  },
+  "knowledgebase": {
+    "accordion1": "How to set Vacation Mode?",
+    "accordion2": "How do I submit an artwork?",
+    "accordion3": "Why is my product not visible in Collections?",
+    "accordion4": "Photo Requirements",
+    "accordion5": "Certificate Of Authenticity (download)"
+  },
+  "purchaseSubscriptionMessage": "Please purchase a subscription first",
+  "profileCompletionPopup": {
+    "title": "Complete your Account",
+    "addProfileImage": "Add profile image",
+    "startSellingArt": "Start Selling Art",
+    "placeholder": {
+      "phone": "Phone Number",
+      "city": "City",
+      "country": "Country"
+    },
+    "validationErrors": {
+      "profileImageRequired": "Profile image is required",
+      "cityRequired": "City is required",
+      "countryRequired": "Country is required",
+      "phoneRequired": "Phone Number is required",
+      "invalidPhone": "Phone Number is invalid"
+    }
+  }
+}

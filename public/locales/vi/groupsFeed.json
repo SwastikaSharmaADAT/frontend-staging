@@ -1,0 +1,62 @@
+{
+    "createPost": {
+        "title": "Tạo Bài đăng",
+        "editPhoto": "Chỉnh Ảnh",
+        "addPhoto": "Thêm Ảnh",
+        "characterLimit": "/500",
+        "publish": "Xuất bản",
+        "placeholderWriteSomething": "Viết gì đó..."
+    },
+    "groupBarHead": {
+        "leave": "Rời khỏi nhóm",
+        "confirmLeave": "Bạn chắc chắn muốn rời khỏi nhóm chứ?",
+        "uploadPhoto": "Tải Ảnh lên",
+        "removePhoto": "Thay Ảnh",
+        "changePhoto": "Bỏ Ảnh",
+        "group": "Nhóm",
+        "leaveGroup": "Rời khỏi nhóm",
+        "joinGroup": "Tham gia nhóm",
+        "lastActive": "Hoạt động gần nhất",
+        "members": " thành viên",
+        "posts": "bài đăng",
+        "editGroupSettings": "Chỉnh sửa Cài đặt Nhóm",
+        "Leave": "Rời khỏi nhóm"
+    },
+    "memberSection": {
+        "title": "Thành viên trong Nhóm",
+        "members": "thành viên",
+        "seeAll": "Xem Tất cả..."
+    },
+    "invite": {
+        "title": "Mời Kết nối",
+        "seeAll": "Xem Tất cả",
+        "invited": "Đã mời",
+        "follower": "người theo dõi",
+        "followerPlural": "người theo dõi",
+        "allConnectionsInvited": "Tất cả kết nối của bạn đã được mời.",
+        "noConnectionsToInvite": "Không có kết nối nào để mời",
+        "inviteTo": "Mời đến",
+        "invite": "Mời",
+        "loading": "Đang tải..."
+    },
+    "joinRequests": {
+        "title": "Yêu cầu Tham gia",
+        "follower": "người theo dõi",
+        "followerPlural": "người theo dõi",
+        "reject": "Từ chối",
+        "accept": "Đồng ý",
+        "noMoreRequests": "Không còn yêu cầu tham gia nào"
+    },
+    "listingPopup": {
+        "remove": "Bỏ",
+        "admin": "(Admin)",
+        "moderator": "(Mod)",
+        "follower": "người theo dõi",
+        "followerPlural": "người theo dõi",
+        "assignModerator": "Chỉ định làm Mod",
+        "removeFromGroup": " Bỏ khỏi Nhóm",
+        "addedAsModerator": "Thêm vào làm Mod",
+        "deleteConfirm": "Bạn chắc chắn muốn xóa người dùng này chứ?"
+    },
+    "notAuthorized": "Không được Cấp phép"
+}

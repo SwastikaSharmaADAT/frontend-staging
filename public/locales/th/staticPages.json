@@ -1,0 +1,83 @@
+{
+  "pageNotFound": {
+    "404": "404",
+    "signUpTextNotFound": "หรือสมัครสมชิกหากคุณยังไม่มีโพรไฟล์...",
+    "pageNotFound": "คุณหาหน้าเพจนั้นไม่เจอหรือเปล่า.<br/>ลองวิธีนี้ไหม น่าจะใช้ได้นะ...",
+    "goBackHome": "กลับ"
+  },
+  "usersTermsConditions": {
+    "title": "ข้อกำหนด & เงื่อนไขสำหรับผู้ใช้",
+    "overview": "1. ภาพรวม",
+    "contentEligibility": "2. เนื้อหาและความเหมาะสม",
+    "feesPayments": "3. ค่าธรรมเนียมและการชำระเงิน",
+    "accountTermination": "4. การระงับและยกเลิกบัญชีผู้ใช้",
+    "provisions": "5. วิสัยทัศน์",
+    "seePrivacyPolicy": "ดูนโยบายด้านความเป็นส่วนตัว",
+    "seeVendorTermsConditions": "ดูข้อกำหนด & เงื่อนไขสำหรับผู้ขาย"
+  },
+  "privacyPolicyPage": {
+    "title": "นโยบายด้านความเป็นส่วนตว",
+    "seeVendorTermsConditions": "ดูข้อกำหนด & เงื่อนไขสำหรับผู้ขาย",
+    "seeUserTermsConditions": "ดูข้อกำหนด & เงื่อนไขสำหรับผู้ใช้",
+    "accountPrivacySettings": "การตั้งค่าความเป็นส่วนตัวของบัญชี",
+    "dataSecurity": "ความปลอดภัยของข้อมูล",
+    "collectingPersonalData": "การเก็บและจัดการข้อมูลส่วนตัว",
+    "adsOnArtmo": "ลงโฆษณากับARTMO"
+  },
+  "vendorTermsConditions": {
+    "title": "ดูข้อกำหนด & เงื่อนไขสำหรับผู้ขาย",
+    "seePrivacyPolicy": "ดูนโยบายความเป็นส่วนตัว",
+    "seeUserTermsConditions": "ดูข้อกำหนด & เงื่อนไขสำหรับผู้ใช้",
+    "impOverview": "ก่อนอื่น...ดูภาพรวมหลักๆ",
+    "stepByStep": "ทีละขั้นตอน",
+    "overview": "1. ภาพรวม",
+    "fees": "2. คอมมิชชั่น | ค่าธรรมเนีม | การชำระเงิน | การคืนเงิน",
+    "termination": "3. การระงับและยกเลิกบัญชีผู้ใช้",
+    "payoutSchedule": "4. กำหนดการจ่ายเงินสำหรับการขาย",
+    "contentEligibility": "5. เนื้อหาและความเหมาะสม",
+    "yourObligations": "6. หน้าที่รับผิดชอบของคุณ",
+    "artmoObligations": "7. หน้าที่รับผิดชอบของARTMO",
+    "returns": "8. การคืนและการโต้แย้ง",
+    "provisions": "9. วิสัยทัศน์ในอนาคต",
+    "shippingReturnPolicy": "นโยบายการส่ง & การคืน"
+  },
+  "whatIsArtmo": {
+    "title": "ARTMOคืออะไร?",
+    "artNetwork": "เครือข่ายศิลป",
+    "artEnthusiast": "ผู้สนใจศิลปะ",
+    "muchMore": "และอื่นๆอีกมากมาย!",
+    "member": "สมาชิก",
+    "pages": "หน้าเพจ",
+    "marketplace": "ตลาดซื้อขาย",
+    "needHelp": "ต้องการความช่วยเหลือ - ติดต่อเรา...",
+    "artist": "ศิลปิน",
+    "gallery": "แกลอรี่",
+    "university": "มหาวิทยาลัย",
+    "shop": "ร้านค้า"
+  },
+  "mobileApp": {
+    "title": "แอพบนมือถือ",
+    "subHeading": "เข้าARTMOจากหน้าจอมือถือได้อย่างไร",
+    "note": "บันทึก",
+    "step": "ขั้นตอน",
+    "done": "เสร็จเรียบร้อย"
+  },
+  "artworkUploadInst": {
+    "headerTitle": "วิธีการอัพโหลดงานศิลปะ",
+    "images": "ภาพ",
+    "title": "ชื่อ",
+    "artMaterial": "วัสดุ",
+    "series": "ซีรี่ส์",
+    "limitedEdition": "Limited Editions",
+    "price": "ราคา",
+    "dimension": "ขนาด",
+    "frame": "กรอบ",
+    "medium": "สื่อ",
+    "genre": "ประเภท",
+    "subjectTags": "แท็คองค์ประกอบ",
+    "description": "คำอธิบาย",
+    "text": "ข้อความ",
+    "yourProfile": "โพรไฟล์ของคุณ",
+    "pdf": "PDF"
+  }
+}

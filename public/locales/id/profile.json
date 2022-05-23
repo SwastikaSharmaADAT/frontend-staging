@@ -1,0 +1,362 @@
+{
+    "placeholderIntro": "Perkenalan Singkat",
+    "about": {
+        "title": "TENTANG",
+        "edit": "Edit",
+        "cancel": "Batalkan",
+        "save": "Simpan",
+        "noAboutText": "Tidak ada tajuk teks yang ditambahkan",
+        "placeholderAbout": "Tambahkan tajuk di sini....",
+        "characterLimit": "/1000",
+        "errorAbout": "Melebihi aksara maksimum Panjang 1000"
+    },
+    "biography": {
+        "title": "BIOGRAFI",
+        "edit": "Edit",
+        "cancel": "Batalkan",
+        "save": "Simpan",
+        "noBiographyText": "Tidak ada teks biografi yang ditambahkan",
+        "placeholderBiography": "Tambahkan biografi disini....",
+        "characterLimit": "/1000"
+    },
+    "activity": {
+        "title": "Aktivitas",
+        "descriptionNotAdded": "Tidak ada deskripsi ditambahkan",
+        "reactions": "Reaksi",
+        "noActivityText": "Tidak ada aktivitas yang ditemukan",
+        "seeAll": "Lihat semua",
+        "add": "Tambahkan"
+    },
+    "album": {
+        "title": "ALBUM",
+        "seeAll": "Lihat semua",
+        "add": "Tambahkan",
+        "noAlbumFound": "Tidak ada album ditemukan",
+        "edit": "Edit"
+    },
+    "artwork": {
+        "title": "KARYA SENI",
+        "likedArtworks": "KARYA SENI YANG DISUKAI",
+        "noArtworkFound": "Tidak ada karya seni ditemukan",
+        "seeAll": "Lihat semua",
+        "add": "Tambahkan"
+    },
+    "award": {
+        "title": "PENGHARGAAN",
+        "noAwardFound": "Tidak ada penghargaan ditemukan",
+        "addImages": "Tambahkan gambar",
+        "placeholderDescription": "Masukkan deskripsi penghargaan seni anda.",
+        "characterLimit": "/1000",
+        "edit": "Edit",
+        "cancel": "Batalkan",
+        "save": "Simpan"
+    },
+    "basicInfo": {
+        "fillDetailsText": "Silakan isi kolom ini",
+        "placeholderFirstName": "Nama Depan",
+        "placeholderLastName": "Nama Belakang",
+        "placeholderCity": "Kota",
+        "placeholderCountry": "Pilih Negara",
+        "placeholderEmail": "Email",
+        "save": "Simpan",
+        "cancel": "Batalkan"
+    },
+    "business": {
+        "title": "Tentang Bisnis Saya | Profesi",
+        "noBusinessFound": "Tidak ada informasi tentang bisnis saya | profesi ditemukan",
+        "addImages": "Tambahkan gambar",
+        "placeholderDescription": "Masukkan deskripsi anda tentang bisnis saya | profesi.",
+        "characterLimit": "/1000",
+        "edit": "Edit",
+        "cancel": "Batalkan",
+        "save": "Simpan"
+    },
+    "connectionsPopup": {
+        "follower": "Pengikut",
+        "followerPlural": "Pengikut",
+        "connected": "Terhubung",
+        "requestPending": "Permintaan Tertunda",
+        "requestSent": "Permintaan Terkirim",
+        "connect": "Menghubungkan",
+        "userConnectionsTitle": "Koneksi"
+    },
+    "contact": {
+        "title": "INFO KONTAK",
+        "noContactInfoFound": "Tidak ada informasi kontak yang ditambahkan",
+        "email": "Email",
+        "skype": "Skype",
+        "phone": "Telepon",
+        "address": "Alamat",
+        "openingHours": "Jam buka",
+        "socialMedia": "Media Sosial",
+        "placeholderEmail": "Email",
+        "placeholderSkype": "Skype",
+        "phoneNumber": "Nomor Telepon",
+        "placeholderAddress": "Alamat",
+        "placeholderOpenHours": "Jam buka",
+        "edit": "Edit",
+        "cancel": "Batalkan",
+        "save": "Simpan"
+    },
+    "expertise": {
+        "title": "KEAHLIAN",
+        "noExpertiseFound": "Tidak ada keahlian yang ditemukan",
+        "addImages": "Tambahkan gambar",
+        "placeholderDescription": "Masukkan deskripsi keahlian seni anda.",
+        "characterLimit": "/1000",
+        "edit": "Edit",
+        "cancel": "Batalkan",
+        "save": "Simpan"
+    },
+    "followersPopup": {
+        "follower": "pengikut",
+        "followerPlural": "para pengikut",
+        "followed": "Diikuti",
+        "unfollow": "Berhenti mengikuti",
+        "follow": "Berhenti mengikuti",
+        "userFollowersTitle": "pengikut"
+    },
+    "followingPopup": {
+        "follower": "pengikut",
+        "followerPlural": "para pengikut",
+        "followed": "Diikuti",
+        "unfollow": "Berhenti mengikuti",
+        "follow": "Berhenti mengikuti",
+        "noFollowing": "Tidak ada Mengikuti",
+        "userFollowersTitle": "Pengikut",
+        "followPlural": "Ikuti"
+    },
+    "group": {
+        "title": "GRUP",
+        "noGroupsFound": "Pengguna belum berlangganan grup mana pun",
+        "member": "anggota",
+        "memberPlural": "anggota-anggota",
+        "browseGroups": "Jelajahi Grup",
+        "create": "Buat"
+    },
+    "invite": {
+        "title": "MENGUNDANG TEMAN",
+        "desc1": "Kirim pesan ke kontak anda.",
+        "desc2": "Beri tahu mereka bahwa anda ada di sini.",
+        "invite": "Undang"
+    },
+    "messagePopup": {
+        "or": "ATAU",
+        "seeMore": "Lihat lebih lanjut...",
+        "learnMore": "Pelajari lebih"
+    },
+    "pastExhibition": {
+        "title": "PAMERAN SEBELUMNYA",
+        "addImages": "Tambahkan gambar",
+        "noExhibitionsFound": "Tidak ada pameran sebelumnya yang ditemukan",
+        "placeholderDescription": "Masukkan deskripsi pameran anda sebelumnya.",
+        "characterLimit": "/1000",
+        "edit": "Edit",
+        "cancel": "Batalkan",
+        "save": "Simpan"
+    },
+    "personalInfo": {
+        "title": "INFORMASI PRIBADI",
+        "noInfoFound": "Tidak ada informasi pribadi yang ditambahkan",
+        "city": "Kota",
+        "country": "Negara",
+        "profession": "Profesi",
+        "company": "Perusahaan",
+        "industry": "Industri",
+        "website": "Situs Web",
+        "languages": "Bahasa",
+        "visibleInfo": "Secara default tidak terlihat secara publik",
+        "dateOfBirth": "Tanggal lahir",
+        "gender": "Jenis Kelamin",
+        "relationshipStatus": "Status hubungan",
+        "placeholderCity": "Kota",
+        "placeholderCountry": "Pilih Negara",
+        "placeholderProfession": "Profesi",
+        "placeholderCompany": "Perusahaan",
+        "placeholderIndustry": "Industri",
+        "placeholderLanguages": "Pilih Bahasa",
+        "placeholderWebsite": "Situs Web",
+        "placeholderDob": "Tanggal lahir",
+        "errorDob": "Tanggal Lahir wajib diisi",
+        "genderDropdown": {
+            "option1": "Pilih jenis kelamin",
+            "option2": "Laki-laki",
+            "option3": "Perempuan",
+            "option4": "Berbeda"
+        },
+        "relationDropdown": {
+            "option1": "Pilih status hubungan",
+            "option2": "Lajang",
+            "option3": "Menikah",
+            "option4": "Kemitraan"
+        },
+        "edit": "Edit",
+        "cancel": "Batalkan",
+        "save": "Simpan"
+    },
+    "coverImage": {
+        "menuOptions": {
+            "title": "Ganti foto sampul",
+            "upload": "Unggah foto",
+            "change": "Ganti foto",
+            "remove": "Hapus foto"
+        }
+    },
+    "profileHead": {
+        "profileImage": {
+            "menuOptions": {
+                "title": "Ganti gambar",
+                "upload": "Unggah foto",
+                "change": "Ganti foto",
+                "remove": "Hapus foto"
+            }
+        },
+        "connected": "Terhubung",
+        "requestPending": "Permintaan tertunda",
+        "requestSent": "Permintaan terkirim",
+        "connect": "Menghubungkan",
+        "shareProfile": "Bagikan Profil",
+        "unblock": "Buka Blokir",
+        "block": "Blokir",
+        "tooltip": {
+            "text": "Jenis profil lainnya memiliki model langganan yang berbeda.",
+            "seeMore": "Lihat lainnya..."
+        },
+        "profileDesc": {
+            "artist": {
+                "firstline": "<b>Anda adalah seorang seniman!</b>",
+                "secondline": "Anda dapat menjual karya seni yang telah Anda buat."
+            },
+            "member": {
+                "firstline": "Anda<b><i>BUKAN<i></b> seorang Seniman!",
+                "secondline": "Anda dapat menjual karya seni yang Anda miliki secara pribadi."
+            }
+        },
+        "edit": "Edit",
+        "cancel": "Batalkan",
+        "save": "Simpan",
+        "followed": "Diikuti",
+        "follow": "Ikuti",
+        "message": "Pesan",
+        "more": "Lebih...",
+        "artistProfile": "Profil Seniman",
+        "memberProfile": "Profil Anggota",
+        "enterName": "Silahkan masukan nama anda",
+        "enterInstitute": "Silakan masukkan nama lembaga",
+        "placeholderFirstName": "Nama Depan",
+        "placeholderInstitureName": "Nama Lembaga",
+        "placeholderLastName": "Nama Belakang"
+    },
+    "notices": {
+        "title": "PEMBERITAHUAN",
+        "notNoticesFound": "Tidak ada Pemberitahuan untuk ditampilkan!!"
+    },
+    "profileCompleteness": {
+        "title": "KELENGKAPAN PROFIL",
+        "incompleteLabel": "Isi kolom berikut",
+        "coverPicUrl": "Gambar Sampul",
+        "profilePicUrl": "Gambar Profil",
+        "city": "Kota",
+        "mobile": "Nomor Telepon",
+        "address": "Alamat",
+        "openingHours": "Jam Buka",
+        "country": "Negara",
+        "aboutMe": "Tentang",
+        "profession": "Profesi",
+        "industry": "Industri",
+        "company": "Perusahaan",
+        "email": "Email"
+    },
+    "publication": {
+        "title": "PUBLIKASI",
+        "noPublicationsFound": "Tidak ada publikasi yang ditemukan",
+        "addImages": "Tambahkan gambar",
+        "placeholderDescription": "Masukkan deskripsi publikasi anda.",
+        "characterLimit": "/1000",
+        "edit": "Edit",
+        "cancel": "Batalkan",
+        "save": "Simpan"
+    },
+    "allSectionHeader": {
+        "add": "Tambahkan",
+        "seeAll": "Lihat Semua"
+    },
+    "share": {
+        "copiedText": "Tersalin!",
+        "copyLink": "Salin tautan",
+        "share": "Bagikan",
+        "profileShareTitle": "profil"
+    },
+    "technique": {
+        "title": "TEKNIK",
+        "noTechFound": "Tidak ada teknik yang ditemukan",
+        "addImages": "Tambahkan gambar",
+        "placeholderDescription": "Masukkan deskripsi teknik seni Anda.",
+        "characterLimit": "/1000",
+        "edit": "Edit",
+        "cancel": "Batalkan",
+        "save": "Simpan",
+        "your": "Milik Anda",
+        "photo": "Foto",
+        "apply": "Terapkan"
+    },
+    "profileNavigator": {
+        "profile": "Profil",
+        "see": "Lihat",
+        "art": "Seni",
+        "about": "TENTANG",
+        "contact": "INFO KONTAK",
+        "activity": "AKTIVITAS",
+        "videos": "VIDEO",
+        "artworks": "KARYA SENI",
+        "likedArtworks": "Karya seni yang Disukai",
+        "albums": "ALBUM",
+        "groups": "GRUP",
+        "technique": "TEKNIK",
+        "expertise": "KEAHLIAN",
+        "awards": "PENGHARGAAN",
+        "pastExhibitions": "PAMERAN SEBELUMNYA",
+        "publications": "PUBLIKASI",
+        "personalInfo": "INFORMASI PRIBADI",
+        "business": "TENTANG BISNIS SAYA"
+    },
+    "connections": {
+        "title": "Koneksi",
+        "noConnectionsFound": "Tidak Ada Koneksi",
+        "seeAll": "Lihat Semua...",
+        "followers": "Pengikut",
+        "following": "Mengikuti"
+    },
+    "video": {
+        "title": "Video",
+        "noVideosFound": "Tidak ada video ditemukan"
+    },
+    "visibility": {
+        "public": "Publik(Pengguna yang masuk)",
+        "private": "Pribadi",
+        "connectionsOnly": "Hanya koneksi"
+    },
+    "blockSection": {
+        "accountUnavailable": "Akun ini tidak tersedia",
+        "goToHome": "Pergi ke Rumah"
+    },
+    "emailShare": {
+        "bodyText2": "\nTetap berhubungan!\nApa itu Artmo ~ Pelajari Lebih Lanjut https://artmo.com/what-is-artmo",
+        "profileShare" : {
+            "subject" : "Lihat Artmo.",
+            "bodyText1": "Halo,\nSaya pikir Anda mungkin tertarik untuk memeriksa ArtMo dan bergabung dengan jaringan seni.\nKlik di sini untuk melihat profil saya: "
+        },
+        "articleShare": {
+            "subject" : "Lihat artikel ini tentang Artmo",
+            "bodyText1": "Halo,\nSaya pikir Anda mungkin tertarik untuk memeriksa artikel ini tentang Artmo.\nKlik di sini untuk membacanya: "
+        },
+        "artworkShare":{
+            "subject" : "Lihat karya seni ini di Artmo",
+            "bodyText1": "Halo,\nSaya pikir Anda mungkin tertarik untuk memeriksa karya seni yang luar biasa ini di Artmo.\nKlik di sini untuk melihat karya seni: "
+        },
+        "postShare": {
+            "subject" : "Lihat posting ini di Artmo",
+            "bodyText1": "Halo,\nSaya pikir Anda mungkin tertarik untuk memeriksa posting ini di Artmo.\nKlik di sini untuk membacanya: "
+        }
+    }
+}

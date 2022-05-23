@@ -1,0 +1,20 @@
+{
+    "myConnectionsLabel": "Kontakty",
+    "connectionRequests": "Zaproszenia do kontaktu",
+    "connectionRequestsSent": "Wysłane zaproszenia",
+    "follower": "Obserwujący",
+    "followerPlural": "Obserwujących",
+    "disconnected": "zerwany kontakt",
+    "disconnect": "Zerwij kontakt",
+    "loadMore": "Zobacz więcej...",
+    "noConnections": "Brak kontaktów",
+    "ignore": "Ignoruj",
+    "ignored": "Zignorowano",
+    "connect": "połącz",
+    "connected": "połączenie",
+    "noConnectionRequestsReceived": "Brak zaproszeń do kontaktu",
+    "noConnectionRequestsSent": "Brak wysłanych zaproszeń do kontaktut",
+    "requestDeleted": "Zaproszenie usunięte",
+    "deleteRequest": "Usuń zaproszenie",
+    "noConnectionRequests": "Brak zaproszeń do kontaktu"
+}

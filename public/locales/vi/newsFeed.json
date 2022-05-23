@@ -1,0 +1,122 @@
+{
+    "addContent": {
+        "placeholderAdd": "Thêm...",
+        "post": "Bài đăng",
+        "video": "Video",
+        "album": "Album",
+        "article": "Bài viết",
+        "artwork": "Tác phẩm Nghệ thuật"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "Thêm Album Ảnh",
+        "limitText": "Thêm ảnh (tối đa 50)",
+        "addImages": "Thêm ảnh",
+        "placeholderAddTitle": "Thêm Tiêu đề",
+        "writeSomething": "Viết gì đó...",
+        "firstPhotoInfo": "Bức ảnh đầu tiên sẽ là ảnh bìa của album.",
+        "publish": "Xuất bản",
+        "errorLabels": {
+            "maxCharacter100": "Chỉ cho phép 100 ký tự",
+            "titleRequired": "Cần nhập tiêu đề",
+            "maxCharacter500": "Chỉ cho phép 500 ký tự"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "Chỉnh sửa Album Ảnh",
+        "updateButton": "Cập nhật"
+    },
+    "addPostPopup": {
+        "title": "Tạo Bài đăng",
+        "editPhoto": "Chỉnh Ảnh",
+        "addPhoto": "Thêm Ảnh",
+        "writeSomething": "Viết gì đó...",
+        "postDescCount": "/200",
+        "publish": "Xuất bản"
+    },
+    "editPostPopup": {
+        "title": "Chỉnh sửa Bài đăng",
+        "updateButton": "Cập nhật"
+    },
+    "addVideoPopup": {
+        "title": "Thêm một Video",
+        "validUrlError": "Vui lòng nhập một địa chỉ URL hợp lệ",
+        "placeholderEnterLink": "Chèn một đường dẫn từ YouTube, Vimeo...",
+        "placeholderWriteSomething": "Viết gì đó...",
+        "addCategory": "Thêm Danh mục",
+        "next": "Tiếp theo",
+        "publish": "Xuất bản",
+        "update": "Cập nhật"
+    },
+    "editVideoPopup": {
+        "title": "Chỉnh sửa Bài đăng Video",
+        "updateButton": "Cập nhật"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "Đã thêm hoạt động mới",
+        "refresh": "Tải lại"
+    },
+    "hashtags": {
+        "title": "HASHTAG HÀNG ĐẦU",
+        "noHashtagsAdded": "Chưa thêm hashtag nào",
+        "post": "bài đăng",
+        "postPlural": "bài đăng"
+    },
+    "manageArtwork": {
+        "follower": "người theo dõi",
+        "followerPlural": "người theo dõi",
+        "visit": "Thăm ",
+        "manage": "Quản lý ",
+        "noPageFound": "Không tìm thấy trang nào"
+    },
+    "profile": {
+        "follower": "người theo dõi",
+        "followerPlural": "người theo dõi",
+        "profileCompleteness": "Độ hoàn thiện hồ sơ",
+        "editProfile": "Sửa Hồ sơ"
+    },
+    "singlePost": {
+        "photo": "ảnh",
+        "photoPlural": "ảnh",
+        "seeInStore": "Xem ở Cửa hàng",
+        "deleteText": "Bạn chắc chắn muốn xóa bình luận của mình chứ?",
+        "capsHide": "Ẩn",
+        "capsUnhide": "Hiện",
+        "hide": "ẩn",
+        "unhide": "hiện",
+        "areYouSure": "Bạn chắc chắn muốn",
+        "thisComment": "bình luận này chứ?",
+        "update": "Cập nhật",
+        "like": "Thích",
+        "comment": "Bình luận",
+        "liked": "Đã thích",
+        "likedBy": "Đã thích bởi",
+        "lowerLike": "thích",
+        "lowerLikePlural": "thích",
+        "lowerUnlike": "bỏ thích",
+        "lowerComment": "bình luận",
+        "lowerCommentPlural": "bình luận",
+        "share": "Chia sẻ",
+        "pending": "Chờ xử lý",
+        "deleteActivity": "Bạn chắc chắn muốn xóa hoạt động này chứ?",
+        "accept": "Đồng ý",
+        "reject": "Từ chối",
+        "delete": "Xóa",
+        "seeMore": "Xem thêm...",
+        "price": "Giá",
+        "priceOnRequest": "Giá Thương lượng",
+        "placeholderComment": "Nhập bình luận của bạn...",
+        "publish": "Xuất bản",
+        "loadMoreText": "Tải thêm...",
+        "loadMoreRepliesText": "Tải thêm phản hồi...",
+        "edit": "Chỉnh sửa",
+        "commentRemoved": "Bình luận này đã bị xóa",
+        "replyRemoved": "Phản hồi này đã bị xóa"
+    },
+    "singleActivity": {
+        "activityNotAvailable": "Không có hoạt động này",
+        "seeMore": "Xem Thêm...",
+        "alreadyHaveAnAccount": "Đã có tài khoản?",
+        "signUp": "Đăng Ký",
+        "logIn": "Đăng nhập"
+    }
+}

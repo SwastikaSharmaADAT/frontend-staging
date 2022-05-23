@@ -1,0 +1,66 @@
+{
+    "bannerSection": {
+      "todaysFeature": "พิเศษวันนี้",
+      "seeMore": "ดูเพิ่มเติม..."
+    },
+    "loggedOutBanner": {
+      "title": "ยินดีต้อนรับสู่",
+      "title2": "ชุมชนศิลปะ",
+      "descr": "เป็นพื้นที่ให้ทั้งมือสมัครเล่น  และมืออาชีพ ",
+      "joinInBtnText": "สมัครฟรี",
+      "network": "เน็ตเวิร์ค",
+      "blog": "บล็อค",
+      "news": "ข่าว",
+      "group": "กลุ่ม",
+      "marketplace": "ตลาดซื้อขาย",
+      "whatIsArtmo": "ARTMOคืออะไร?",
+      "learnMore": "ดูเพิ่มเติม...",
+      "signUp": "สร้างบัญชีของคุณได้ฟรี",
+      "logIn": "ล็อกอิน",
+      "videos": "วิดีโอ",
+      "exhibition": "การจัดนิทรรศการ",
+      "gallery": "แกลเลอรี่"
+    },
+    "usersListing": {
+        "title": "เชื่อมต่อกับคนรักศิลปะ",
+      "follower": "ผู้ติดตาม",
+      "followers": "ผู้ติดตามหลายคน",
+      "unfollow": "เลิกติดตาม",
+      "follow": "ติดตาม",
+      "seeMore": "ดูเพิ่มเติม",
+      "following": "ติดตามแล้ว"
+    },
+    "gridSection": {
+      "home": "หน้าแรก",
+      "artists": "ศิลปิน",
+      "galleries": "แกลอรี",
+      "exhibitions": "นิทรรศการ",
+      "users": "ผู้ใช้",
+      "artwork": "งานศิลปะ",
+      "genres": "ประเภท",
+      "universities": "มหาวิทยาลัย"
+    },
+    "artworkSection": {
+      "title": "ซื้อและขายงานศิลปะของคุณโดยไม่มีค่าคอมมิชชั่นที่เกี่ยวข้อง",
+      "priceOnRequest": "สอบถามราคา",
+      "artist": "ศิลปิน",
+      "member": "สมาชิก",
+      "seeMore": "ดูเพิ่มเติม..."
+    },
+    "buzzSection": {
+      "title": "ดูสิ่งที่เกิดขึ้นในโลกศิลปะ",
+      "seeMore": "ดูเพิ่มเติม..."
+    },
+    "videosSection": {
+      "title": "วิดีโอ",
+      "seeMore": "ดูเพิ่มเติม..."
+    },
+    "exhibitionsSection": {
+        "title": "ค้นหานิทรรศการทั่วโลก",
+        "selectCountry": "เลือกสถานที่",
+        "latest": "เมื่อเร็ว ๆ นี้"  
+    },
+    "joinInSection": {
+      "joinInTitle": "สมัครเลย ฟรี"
+    }
+  }

@@ -1,0 +1,62 @@
+{
+    "createPost": {
+        "title": "Créer un Post",
+        "editPhoto": "Modifier photo",
+        "addPhoto": "Ajouter une photo",
+        "characterLimit": "/500",
+        "publish": "Publier",
+        "placeholderWriteSomething": "Écris quelque chose..."
+    },
+    "groupBarHead": {
+        "leave": "Quitter",
+        "confirmLeave": "Voulez-vous vraiment quitter le groupe?",
+        "uploadPhoto": "Télécharger photo",
+        "removePhoto": "Changer photo",
+        "changePhoto": "Retirer photo",
+        "group": "Groupe",
+        "leaveGroup": "Quitter le groupe",
+        "joinGroup": "Rejoindre le groupe",
+        "lastActive": "Dernier actif",
+        "members": " membre(s)",
+        "posts": "post(s)",
+        "editGroupSettings": "Modifier les Paramètres du Groupe",
+        "Leave": "Quitter"
+    },
+    "memberSection": {
+        "title": "Les membres du groupe",
+        "members": "membres",
+        "seeAll": "Voir Tout..."
+    },
+    "invite": {
+        "title": "Inviter des Connexions",
+        "seeAll": "Voir Tout",
+        "invited": "Invité",
+        "follower": "abonné",
+        "followerPlural": "abonnés",
+        "allConnectionsInvited": "Toutes vos connexions sont invitées.",
+        "noConnectionsToInvite": "Aucune connexion à inviter",
+        "inviteTo": "Inviter à",
+        "invite": "Inviter",
+        "loading": "Chargement..."
+    },
+    "joinRequests": {
+        "title": "Demandes d'Adhésion",
+        "follower": "abonné",
+        "followerPlural": "abonnés",
+        "reject": "Rejeter",
+        "accept": "Accepter",
+        "noMoreRequests": "Plus de demandes d'adhésion"
+    },
+    "listingPopup": {
+        "remove": "Supprimer",
+        "admin": "(Admin)",
+        "moderator": "(Modérateur)",
+        "follower": "abonné",
+        "followerPlural": "abonnés",
+        "assignModerator": "Attribuer comme modérateur",
+        "removeFromGroup": "Supprimer du groupe",
+        "addedAsModerator": "Ajouté en tant que modérateur",
+        "deleteConfirm": "Voulez-vous vraiment supprimer cet utilisateur?"
+    },
+    "notAuthorized": "Pas Autorisé"
+}

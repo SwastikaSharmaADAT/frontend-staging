@@ -1,0 +1,122 @@
+{
+    "addContent": {
+        "placeholderAdd": "যুক্ত করুন",
+        "post": "পোস্ট",
+        "video": "ভিডিও",
+        "album": "অ্যালবাম",
+        "article": "অনুচ্ছেদ",
+        "artwork": "শিল্পকর্ম"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "ছবির অ্যালবাম যুক্ত করুন",
+        "limitText": "ছবি যুক্ত করুন (সর্বোচ্চ ৫০টি)",
+        "addImages": "ছবি যুক্ত করুন",
+        "placeholderAddTitle": "শিরোনাম যুক্ত করুন",
+        "writeSomething": "কিছু লিখুন",
+        "firstPhotoInfo": "প্রথম ছবিটি হবে অ্যালবাম এর কভার ছবি",
+        "publish": "প্রকাশ করুন",
+        "errorLabels": {
+            "maxCharacter100": "মাত্র ১০০ টি অক্ষর ব্যবহার্য",
+            "titleRequired": "শিরোনাম প্রয়োজন",
+            "maxCharacter500": "মাত্র ৫০০টি অক্ষর ব্যবহার্য"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "ছবির অ্যালবাম এডিট করুন",
+        "updateButton": "হালনাগাদ"
+    },
+    "addPostPopup": {
+        "title": "পোস্ট তৈরি করুন",
+        "editPhoto": "ছবি পরিমার্জন করুন",
+        "addPhoto": "ছবি সংযুক্ত করুন",
+        "writeSomething": "কিছু লিখুন",
+        "postDescCount": "/২০০",
+        "publish": "প্রকাশ করুন"
+    },
+    "editPostPopup": {
+        "title": "পোস্ট এডিট করুন",
+        "updateButton": "হালনাগাদ"
+    },
+    "addVideoPopup": {
+        "title": "ভিডিও যুক্ত করুন",
+        "validUrlError": "দয়া করে একটি বৈধ URL দিন",
+        "placeholderEnterLink": "ইউটিউব, ভিমিও, ইত্যাদি থেকে লিঙ্ক দিন",
+        "placeholderWriteSomething": "কিছু লিখুন...",
+        "addCategory": "শ্রেনী যুক্ত করুন",
+        "next": "পরবর্তী",
+        "publish": "প্রকাশ",
+        "update": "হালনাগাদ"
+    },
+    "editVideoPopup": {
+        "title": "ভিডিও পোস্ট এডিট করুন",
+        "updateButton": "হালনাগাদ"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "নতুন কার্যকলাপ যুক্ত হয়েছে",
+        "refresh": "রিফ্রেশ"
+    },
+    "hashtags": {
+        "title": "শীর্ষ হ্যাশট্যাগ",
+        "noHashtagsAdded": "কোনো হ্যাশট্যাগ নেই",
+        "post": "পোস্ট",
+        "postPlural": "পোস্টগুলি"
+    },
+    "manageArtwork": {
+        "follower": "অনুসারী",
+        "followerPlural": "অনুসারীগণ",
+        "visit": "পরিদর্শন ",
+        "manage": "ব্যবস্থা ",
+        "noPageFound": "কোনো পেজ পাওয়া যায়নি"
+    },
+    "profile": {
+        "follower": "অনুসারী",
+        "followerPlural": "অনুসারীগণ",
+        "profileCompleteness": "প্রোফাইলের সম্পূর্ণতা",
+        "editProfile": "প্রোফাইল পরিমার্জন করুন"
+    },
+    "singlePost": {
+        "photo": "ছবি",
+        "photoPlural": "ছবিগুলো",
+        "seeInStore": "স্টোরে দেখুন",
+        "deleteText": "আপনি কি নিশ্চিত যে আপনি আপনার মন্তব্য মুছে ফেলতে চান?",
+        "capsHide": "লুকিয়ে ফেলুন",
+        "capsUnhide": "প্রকাশ্যে আনুন",
+        "hide": "লুকিয়ে ফেলুন",
+        "unhide": "প্রকাশ্যে আনুন",
+        "areYouSure": "আপনি কি নিশ্চিত যে",
+        "thisComment": "এই মন্তব্য?",
+        "update": "হালনাগাদ",
+        "like": "পছন্দ",
+        "comment": "মন্তব্য",
+        "liked": "পছন্দকৃত",
+        "likedBy": "এদের দ্বারা পছন্দকৃত",
+        "lowerLike": "পছন্দ",
+        "lowerLikePlural": "পছন্দ সমূহ",
+        "lowerUnlike": "পছন্দ সরিয়ে নিন",
+        "lowerComment": "মন্তব্য",
+        "lowerCommentPlural": "মন্তব্য সমূহ",
+        "share": "শেয়ার করুন",
+        "pending": "প্রক্রিয়াধীন",
+        "deleteActivity": "আপনি কি নিশ্চিত যে আপনি এই কার্যকলাপটি মুছে ফেলতে চান?",
+        "accept": "সম্মতি",
+        "reject": "প্রত্যাখ্যান",
+        "delete": "মুছে ফেলুন",
+        "seeMore": "আরো দেখুন",
+        "price": "মূল্য",
+        "priceOnRequest": "আবেদনের ভিত্তিতে মূল্য",
+        "placeholderComment": "আপনার মন্তব্য লিখুন...",
+        "publish": "প্রকাশ করুন",
+        "loadMoreText": "আরো লোড করুন...",
+        "loadMoreRepliesText": "আরো প্রত্যুত্তর লোড করুন...",
+        "edit": "এডিট",
+        "commentRemoved": "এই মন্তব্যটি সরিয়ে ফেলা হয়েছে",
+        "replyRemoved": "এই প্রত্যুত্তরটি সরিয়ে ফেলা হয়েছে"
+    },
+    "singleActivity": {
+        "activityNotAvailable": "এই কার্যকলাপটি খুঁজে পাওয়া যায়নি",
+        "seeMore": "আরো দেখুন...",
+        "alreadyHaveAnAccount": "আপনার কি ইতোমধ্যেই একটি একাউন্ট রয়েছে?",
+        "signUp": "সাইনআপ",
+        "logIn": "লগইন"
+    }
+}

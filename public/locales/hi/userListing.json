@@ -1,0 +1,17 @@
+{
+    "heading": "कला नेटवर्क",
+    "listing": {
+        "country": "देश:",
+        "placeholderCity": "शहर",
+        "userType": "उपयोगकर्ता का प्रकार:",
+        "sortBy": "इसके अनुसार क्रमबद्ध करें:",
+        "search": "खोजें",
+        "searchUsers": "उपयोगकर्ता को खोजें...",
+        "searchbyname": "नाम से ढूंढे..."
+    },
+    "follower": "फॉलो",
+    "followers": "फॉलोवर्स",
+    "unfollow": "अनफॉलो",
+    "follow": "फॉलो",
+    "editProfile": "प्रोफाइल एडिट करें"
+}

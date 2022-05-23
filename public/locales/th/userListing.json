@@ -1,0 +1,17 @@
+{
+  "heading": "เครือข่ายศิลปะ",
+  "listing": {
+    "country": "ประเทศ:",
+    "placeholderCity": "เมือง",
+    "userType": "ประเภทผู้ใช้:",
+    "sortBy": "เรียงลำดับโดย:",
+    "search": "ค้นหา",
+    "searchUsers": "ค้นหาผู้ใช้...",
+    "searchbyname": "ค้นหาจากชื่อ..."
+  },
+  "follower": "ผู้ติดตาม",
+  "followers": "ผู้ติดตาม",
+  "unfollow": "เลิกติดตาม",
+  "follow": "ติดตาม",
+  "editProfile": "แก้ไขโพรไฟล์"
+}

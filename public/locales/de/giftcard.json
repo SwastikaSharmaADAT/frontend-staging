@@ -1,0 +1,37 @@
+ {
+  "title": "Geschenk Gutschein",
+  "linkToMyGiftCard": "Siehe deine Geschenk Gutschein",
+  "giftCardSection": {
+    "title": "Bewerbe dein Profil",
+    "description": "Füge einen Link zu deinem ARTMO-Profil auf deiner Webseite ein.",
+    "getLinkButton": "Link erhalten"
+  },
+  "giftCardContent": {
+    "singular": "Geschenk Gutschein",
+    "title": "Sende einen ARTMO-Geschenk-Gutschein per E-Mail. Der Empfänger kann damit Kunstwerke erwerben.",
+    "selectAmount": "Wähle den Betrag:",
+    "quesion": "Sende diesen Gutschein an...",
+    "namePlaceholder": "Namen eingeben",
+    "emailPlaceholder": "E-Mail einfügen",
+    "lastNote": "Die versendeten Gutschein sind im Abschnitt „Mein Konto“ verfügbar. Du erhälst eine Bestätigungsmail an deine Konto-E-Mail.",
+    "buttonText": "Weiter zur Kasse",
+    "hello": "Hallo",
+    "sentFrom": "Dies ist dein Geschenk-Gutschein, der dir von gesendet wurde...",
+    "use": "Verwende diesen Gutschein für den Kauf von Kunstwerken.",
+    "seeHere": "Fine Kunstwerke hier...",
+    "expiryDate": "* Verfallsdatum: "
+  },
+  "myGiftCardContent": {
+    "title": "Deine Geschenk-Gutschein:",
+    "to": "An",
+    "name": " Bjorn Andersen",
+    "validUntil": "Gültig bis",
+    "purchasedOn": "Gekauft am",
+    "used": "Eingelöst",
+    "valid": "Gültig",
+    "expired": "Abgelaufen",
+    "makeCard": "Verschenke Kunst.",
+    "buttonText": "Kaufe einen ARTMO-Gutschein",
+    "noGiftCard": "Keine Gutschein verfügbar"
+  }
+}

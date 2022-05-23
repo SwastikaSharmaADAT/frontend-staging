@@ -1,0 +1,62 @@
+{
+    "createPost": {
+        "title": "Gumawa ng Post",
+        "editPhoto": "Mag-edit ng larawan",
+        "addPhoto": "Magdagdag ng larawan",
+        "characterLimit": "/500",
+        "publish": "I-publish",
+        "placeholderWriteSomething": "Magsulat ng kahit ano..."
+    },
+    "groupBarHead": {
+        "leave": "Umalis",
+        "confirmLeave": "Sigurado ka bang gusto mong umalis sa group?",
+        "uploadPhoto": "Mag-upload ng larawan",
+        "removePhoto": "Magpalit ng larawan",
+        "changePhoto": "Magtanggal ng larawan",
+        "group": "Group",
+        "leaveGroup": "Umalis sa Group",
+        "joinGroup": "Sumali sa group",
+        "lastActive": "Huling Active",
+        "members": "(mga) miyembro",
+        "posts": "(mga) post",
+        "editGroupSettings": "I-edit ang group settings",
+        "Leave": "Umalis"
+    },
+    "memberSection": {
+        "title": "Mga Miyembro ng group",
+        "members": "mga miyembro",
+        "seeAll": "Tignan lahat..."
+    },
+    "invite": {
+        "title": "Mag-imbita ng mga koneksyon",
+        "seeAll": "Tignan lahat",
+        "invited": "Naimbitahan",
+        "follower": "follower",
+        "followerPlural": "mga follower",
+        "allConnectionsInvited": "Ang lahat ng iyong mga koneksyon ay naimbitahan.",
+        "noConnectionsToInvite": "Walang koneksyon na maaaring imbitahan",
+        "inviteTo": "Imbitahan sa",
+        "invite": "Imbitahan",
+        "loading": "Nagloload..."
+    },
+    "joinRequests": {
+        "title": "Mga Join Request",
+        "follower": "follower",
+        "followerPlural": "mga follower",
+        "reject": "I-Reject",
+        "accept": "I-Accept",
+        "noMoreRequests": "Wala nang mga join request"
+    },
+    "listingPopup": {
+        "remove": "Alisin",
+        "admin": "(Admin)",
+        "moderator": "(Moderator)",
+        "follower": "follower",
+        "followerPlural": "mga follower",
+        "assignModerator": "I-Assign bilang Moderator",
+        "removeFromGroup": " Alisin mula sa Group",
+        "addedAsModerator": "Dinagdag bilang Moderator",
+        "deleteConfirm": "Sigurado ka bang nais mong alisin ang user na ito?"
+    },
+    "notAuthorized": "Hindi Awtorisado"
+}

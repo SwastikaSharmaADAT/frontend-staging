@@ -1,0 +1,47 @@
+{
+    "title": "ジャンル",
+    "tabs": {
+        "genre": "ジャンル",
+        "media": "メディア",
+        "timePeriod": "期間",
+        "genreSubTabs": {
+            "definition": "定義",
+            "abstractExpressionism": "抽象表現主義",
+            "abstract": "アブストラクト",
+            "calligraphy": "カリグラフィー",
+            "conceptual": "コンセプチュアル",
+            "concrete": "具体",
+            "constructivism": "構成主義",
+            "cubism": "キュビズム",
+            "documentary": "ドキュメンタリー",
+            "expressionism": "表現主義",
+            "fantastic": "幻想的",
+            "figurative": "比喩的",
+            "illustration": "イラスト",
+            "impressionism": "印象派",
+            "magicalRealism": "マジカルリアリズム",
+            "minimalism": "ミニマリズム",
+            "naiveArt": "ネイティブアート",
+            "pop": "ポップ",
+            "realism": "リアリズム",
+            "surrealism": "シュルリアリスム"
+        },
+        "mediaSubTabs": {
+            "definition": "定義",
+            "collage": "コラージュ",
+            "design": "デザイン",
+            "digital": "デジタル",
+            "drawing": "ドローイング",
+            "mixed": "ミックスド",
+            "multimedia": "マルチメディア",
+            "newMedia": "ニューメディア",
+            "painting": "絵画",
+            "sculpture": "彫刻"
+        },
+        "timeperiodSubTabs": {
+            "definition": "定義",
+            "contemporary": "現代",
+            "modern": "近代"
+        }
+    }
+}

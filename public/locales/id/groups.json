@@ -1,0 +1,77 @@
+{
+    "groupbarHeading": "GRUP",
+    "placeholderSearchGroups": "Telusuri Grup",
+    "allCategories": "Semua Kategori",
+    "noCategoriesFound": "Tidak ada Kategori ditemukan",
+    "allTags": "Semua Label",
+    "noTagsFound": "Tidak ada Label ditemukan",
+    "search": "Telusuri",
+    "clear": "Bersihkan",
+    "groupListing": {
+        "confirmButtonText": "Tinggalkan",
+        "confirmLeaveText": "Anda yakin ingin keluar dari grup ini?",
+        "sortedBy": "Diurutkan berdasarkan",
+        "recentActivity": "Aktivitas Terbaru",
+        "group": "Grup",
+        "manageGroupLabel": "Kelola pengaturan grup",
+        "leaveGroup": "Meninggalkan grup",
+        "cancelRequest": "Batalkan Permintaan",
+        "invitedBy": "Anda telah diundang oleh",
+        "wouldYouJoin": "Apakah anda ingin bergabung dengan grup ini?",
+        "accept": "Menerima",
+        "ignore": "Mengabaikan",
+        "lastActive": "Aktif Terakhir",
+        "members": "anggota",
+        "posts": "postingan",
+        "noGroupsFound": "Tidak ada Grup Ditemukan",
+        "loadMore": "Muat lebih banyak..."
+    },
+    "toolTip": {
+        "tip1": "Setiap anggota situs dapat bergabung dengan grup ini.",
+        "tip2": "Grup ini akan terdaftar di direktori grup dan di hasil pencarian.",
+        "tip3": "Konten dan aktivitas grup akan terlihat oleh anggota situs mana pun."
+    },
+    "createGroup": {
+        "placeholderName": "Nama",
+        "placeholderDescription": "Deskripsi",
+        "privacyTitle": "Privasi",
+        "privacyPublic": "Publik",
+        "privacyPublicContent": {
+            "point1": "Setiap anggota situs dapat bergabung dengan grup ini.",
+            "point2": "Grup ini akan terdaftar di direktori grup dan di hasil pencarian.",
+            "point3": "Konten dan aktivitas grup akan terlihat oleh anggota situs mana pun."
+        },
+        "privacyPrivate": "Pribadi",
+        "privacyPrivateContent": {
+            "point1": "Hanya pengguna yang meminta keanggotaan dan diterima yang dapat bergabung dengan grup.",
+            "point2": "Grup ini akan terdaftar di direktori grup dan di hasil pencarian.",
+            "point3": "Konten dan aktivitas grup akan terlihat oleh anggota situs mana pun."
+        },
+        "privacyHidden": "Tersembunyi",
+        "privacyHiddenContent": {
+            "point1": "Hanya pengguna yang diundang yang dapat bergabung dengan grup.",
+            "point2": "Grup ini tidak akan terdaftar di direktori grup atau hasil pencarian.",
+            "point3": "Konten dan aktivitas grup hanya akan terlihat oleh anggota grup."
+        },
+        "postModeration": "Posting Moderasi",
+        "moderationTypes": {
+            "option1": "Pilih jenis moderasi postingan",
+            "option2": "Dipublikasikan Secara Otomatis",
+            "option3": "Dipublikasikan Setelah Ditinjau"
+        },
+        "inviteFeature": "Aktifkan fitur Undangan",
+        "whoCanInvite": "Siapa yang dapat mengundang anggota ke grup?",
+        "inviteOptions": {
+            "option1": "Pilih jenis undangan",
+            "option2": "Admin",
+            "option3": "Admin & Moderator",
+            "option4": "Semua orang"
+        },
+        "category": "Kategori",
+        "placeholderCategory": "Pilih kategori",
+        "tags": "Label",
+        "placeholderTags": "Pilih label",
+        "save": "Simpan",
+        "update": "Perbarui"
+    }
+}

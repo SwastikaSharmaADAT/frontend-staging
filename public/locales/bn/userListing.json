@@ -1,0 +1,17 @@
+{
+    "heading": "শিল্প নেটওয়ার্ক",
+    "listing": {
+        "country": "দেশঃ",
+        "placeholderCity": "শহর",
+        "userType": "ব্যবহারকারীর ধরণ:",
+        "sortBy": "সাজান:",
+        "search": "খুঁজুন",
+        "searchUsers": "ব্যবহারকারীদের খুঁজুন...",
+        "searchbyname": "নামের মাধ্যমে খুঁজুন..."
+    },
+    "follower": "অনুসারী",
+    "followers": "অনুসারীগণ",
+    "unfollow": "অনুসরণ বাতিল করুন",
+    "follow": "অনুসরণ করুন",
+    "editProfile": "প্রোফাইল এডিট করুন"
+}

@@ -1,0 +1,17 @@
+{
+    "heading": "DIE KUNSNETWERK",
+    "listing": {
+        "country": "Land:",
+        "placeholderCity": "Stad",
+        "userType": "Gebruiker Tipe:",
+        "sortBy": "Sorteer By:",
+        "search": "Soek",
+        "searchUsers": "Soek gebruikers...",
+        "searchbyname": "Soek op naam..."
+    },
+    "follower": "Volgeling",
+    "followers": "Volgelinge",
+    "unfollow": "Ontvolg",
+    "follow": "Wysig",
+    "editProfile": "Wysig Profiel"
+}

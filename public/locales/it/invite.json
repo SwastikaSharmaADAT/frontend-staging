@@ -1,0 +1,16 @@
+{
+    "title": "INVITA GLI AMICI",
+    "tagsInput": {
+        "placeholder": "Aggiungi gli indirizzi e-mail manualmente. Separare ciascun indirizzo con una virgola e fare clic su invio."
+    },
+    "cancelButtonLabel": "Annulla",
+    "sendInvitesButtonLabel": "Inviare inviti",
+    "howInviteWork": "Come funziona?",
+    "emailTemplateText": "Posso controllare l'e-mail prima di effettuare l'invio?",
+    "pickEmailService": "Scegli il tuo provider e-mail...",
+    "gmailText": "Gmail",
+    "outlookText": "Outlook",
+    "otherText": "Altri",
+    "selectedText": "Seleziona",
+    "emptyResultText": "Nessun risultato trovato"
+}

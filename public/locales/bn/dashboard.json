@@ -1,0 +1,156 @@
+{
+    "tabLabels": {
+        "dashboard": "ড্যাসবোর্ড",
+        "mediaLibrary": "মিডিয়া সংগ্রহশালা",
+        "artworks": "শিল্পকর্ম সমূহ",
+        "orders": "অর্ডার সমূহ",
+        "customers": "ক্রেতাগণ",
+        "settings": "সেটিংস",
+        "addArtwork": "শিল্পকর্ম সংযুক্ত করুন"
+    },
+    "incompletePopup": {
+        "mainText": "আপনার আর্টওয়ার্কগুলি আপলোড করা শুরু করে আপনাকে এখানে দেখে খুব ভালো লাগছে।",
+        "subText": "আপনি আর্টওয়ার্ক আপলোড এবং প্রকাশ করার আগে আপনাকে আপনার প্রোফাইল সম্পূর্ণ করতে হবে।"
+    },
+    "knowledgeBase": {
+        "title": "জ্ঞানভিত্তিক"
+    },
+    "dashboard": {
+        "title": "ড্যাসবোর্ড",
+        "learnMore": "আরো জানুন",
+        "sections": {
+            "sec1": "শিল্পকর্ম অনুমোদন",
+            "sec2": "আমি আমার শিল্পকর্ম কিভাবে অনুমোদিত করবো?",
+            "sec3": "দয়া করে এখানে শিল্পকর্ম আপলোড নির্দেশিকা দেখুন",
+            "sec4": "শিল্পকর্ম কিভাবে বিক্রি হয়?",
+            "here": "here."
+        }
+    },
+    "artworks": {
+        "title": "শিল্পকর্ম সমূহ",
+        "addNew": "নতুন যুক্ত করুন",
+        "learnMore": "আরো জানুন",
+        "draft": "ড্রাফট(খসড়া)",
+        "published": "প্রকাশিত",
+        "underReview": "অনুমোদন অপেক্ষারত",
+        "sold": "বিক্রি",
+        "pending": "সম্পাদনা আবশ্যক",
+        "show": "দেখান",
+        "entries": "প্রবেশ সমূহ",
+        "placeholderSearch": "খুঁজুন",
+        "eur": "ইউরো",
+        "quickEdit": {
+            "title": "তাত্ক্ষণিক পরিমার্জন",
+            "confirmButton": "হ্যাঁ",
+            "markAsSoldText": "আপনি কি নিশ্চিত যে আপনি এই শিল্পকর্মটিকে বিক্রিত হিসেবে চিহ্নিত করতে চান? এটা আর পূর্বাবস্থায় ফেরানো যাবেনা",
+            "switchLeft": "বিক্রিত",
+            "switchRight": "সহজলভ্য",
+            "saveChanges": "পরিবর্তনগুলি সংরক্ষন করুন",
+            "selfNotePlaceholder": "নিজের নোট",
+            "titlePlaceholder": "শিরোনাম",
+            "pricePlaceholder": "মূল্য",
+            "priceOnRequestPlaceholder": "আবেদনের ভিত্তিতে মূল্য"
+        },
+        "delete": {
+            "confirmButton": "হ্যাঁ",
+            "confirmDeleteText": "আপনি কি নিশ্চিত যে আপনি এই শিল্পকর্ম মুছে ফেলতে চান?"
+        },
+        "hover": {
+            "view": "দেখুন",
+            "quickEdit": "তাত্ক্ষণিক পরিমার্জন",
+            "edit": "পরিমার্জন",
+            "delete": "মুছুন"
+        }
+    },
+    "orders": {},
+    "settings": {
+        "title": "সেটিংস",
+        "learnMore": "আরো জানুন",
+        "saveChanges": "পরিবর্তনগুলি সংরক্ষন করুন",
+        "updateChanges": "পরিবর্তনগুলি হালনাগাদ করুন",
+        "optionTitles": {
+            "general": "সাধারণ",
+            "vacation": "ছুটি",
+            "subscription": "সাবস্ক্রিপশন",
+            "payouts": "পরিশোধগুলি"
+        },
+        "general": {
+            "vendorEmail": "বিক্রেতার ই-মেইল",
+            "timezone": "টাইমজোন",
+            "shippingPolicy": "চালান নীতিমালা",
+            "validationErrors": {
+                "email": "অনুগ্রহ করে সঠিক ই-মেইল প্রদান করুন",
+                "shippingPolicy": "চালান এর নীতিমালা সর্বোচ্চ ১০০০ অক্ষরবিশিষ্ট হতে পারবে"
+            }
+        },
+        "vacation": {
+            "vacationMode": "ছুটির মোড চালু করুন",
+            "disablePurchase": "ছুটির সময় কেনা বন্ধ রাখুন",
+            "vacationMessage": "ছুটিকালীন বার্তা",
+            "validationErrors": {
+                "vacationMessage": "ছুটিকালীন বার্তা সর্বোচ্চ ১০০০ অক্ষরবিশিষ্ট হতে পারবে"
+            }
+        },
+        "subscription": {
+            "paymentsVia": "পেমেন্টের মাধ্যম",
+            "paypalEmail": "পে-প্যাল(Paypal) ই-মেইল",
+            "cardNumber": "কার্ড নম্বর ",
+            "changePaymentData": "পেমেন্টের তথ্য পরিবর্তন করুন",
+            "subscriptionPeriod": "সাবস্ক্রিপশন এর সময়কাল",
+            "price": "মুল্য",
+            "eur": "ইউরো",
+            "upcomingPayment": "আসন্ন পেমেন্ট",
+            "upgradeMembership": "সাবস্ক্রিপশন আপগ্রেড করুন",
+            "downgradeYourAccount": "আপনার সাবস্ক্রিপশন ডাউনগ্রেড করুন",
+            "cancelSubscription": "আপনার সাবস্ক্রিপশন বাতিল করুন",
+            "cancelConfirmText": "আপনি কি নিশ্চিত আপনি আপনার সাবস্ক্রিপশন বাতিল করতে চান?",
+            "buttonYes": "হ্যাঁ",
+            "changePaymentText": "আপনি কি নিশ্চিত যে আপনি পেমেন্টের ধরণ পরিবর্তন করতে চান?",
+            "basicPlanText": "এটি একটি বিনামূল্যের প্ল্যান। কোনো পেমেন্টের প্রয়োজন নেই। "
+        },
+        "payouts": {
+            "wireTransfer": "ওয়্যার ট্রান্সফার (wire transfer)",
+            "payPal": "পেপ্যাল",
+            "paymentTypeQuestion": "আপনার শিল্পকর্ম বিক্রি থেকে আপনি কিভাবে টাকা পেতে চান?",
+            "country": "দেশ",
+            "bankAccountNumber": "ব্যাংক একাউন্ট নম্বর",
+            "email": "ইমেইল",
+            "routingNumber": "রাউটিং নম্বর",
+            "validationErrors": {
+                "bankAccountNumber": "ব্যাংক একাউন্ট নম্বর সর্বোচ্চ ২৪ সংখ্যার হতে পারবে",
+                "routingNumber": "রাউটিং নম্বর সর্বোচ্চ ২৪ সংখ্যার হতে পারবে",
+                "country": "দেশ প্রয়োজন",
+                "email": "ইমেইল প্রয়োজন",
+                "bankAccountNumberLength": "ব্যাংক একাউন্ট নম্বর সর্বোচ্চ ২৪ সংখ্যার হতে পারবে।",
+                "routingNumberLength": "রাউটিং নাম্বার সর্বোচ্চ ২৪ সংখ্যার হতে পারবে ",
+                "paymentType": "পেমেন্টের ধরণ প্রয়োজন",
+                "invalidEmail": "একটি বৈধ ইমেইল ঠিকানা দিন"
+            }
+        }
+    },
+    "knowledgebase": {
+        "accordion1": "ছুটির মোড কিভাবে চালু করতে হয়?",
+        "accordion2": "কিভাবে একটি শিল্পকর্ম জমা দেবো?",
+        "accordion3": "আমার পণ্য কেন সংগ্রহে দেখা যাচ্ছে না?",
+        "accordion4": "ছবির চাহিদাগুলি",
+        "accordion5": "সত্যতার সনদপত্র (ডাউনলোড)"
+    },
+    "purchaseSubscriptionMessage": "অনুগ্রহপূর্বক আগে একটি সাবস্ক্রিপশন কিনুন",
+    "profileCompletionPopup": {
+        "title": "আপনার একাউন্ট সম্পূর্ণ করুন",
+        "addProfileImage": "প্রোফাইল ছবি যুক্ত করুন",
+        "startSellingArt": "শিল্প বিক্রি শুরু করুন",
+        "placeholder": {
+            "phone": "ফোন নম্বর",
+            "city": "শহর",
+            "country": "দেশ"
+        },
+        "validationErrors": {
+            "profileImageRequired": "প্রোফাইল ছবি প্রয়োজন",
+            "cityRequired": "শহর প্রয়োজন",
+            "countryRequired": "দেশ প্রয়োজন",
+            "phoneRequired": "ফোন নম্বর প্রয়োজন",
+            "invalidPhone": "ফোন নম্বরটি সঠিক নয়"
+        }
+    }
+}

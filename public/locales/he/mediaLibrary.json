@@ -1,0 +1,26 @@
+{
+  "chooseImage": "בחר תמונה",
+  "uploadTab": {
+    "title": "העלה קבצים",
+    "dragDropHere": "גרור קבצים לכאן",
+    "or": "or","או"
+    "selectFiles": "+ בחר קבצים",
+    "supportedFormatsText": "רק תמונות *.jpeg, *.jpg ו-*.png יתקבלו",
+    "maxLimitPrefix": "מקסימום של",
+    "maxLimitSuffix": "ניתן לבחור או להוריד תמונות",
+    "moreImagesText": "ניתן לבחור או להוריד תמונות נוספות",
+    "maxFileSize": "גודל קובץ מקסימלי: 10 MB",
+    "minFileSize": "גודל קובץ מינימלי: 50 kB",
+  },
+  "mediaTab": {
+    "title": "ספריית מדיה",
+    "pickATag": "בחר תגית",
+    "loadMore": "טען עוד",
+    "deleteImage": "מחק תמונה",
+    "choose": "בחר",
+    "saveAll": "שמור הכל",
+    "placeholderSearch": "חפש פריטים...",
+    "placeholderDescription": "הוסף תיאור...",
+    "placeholderEnterTag": "הזן תגית"
+  }
+}

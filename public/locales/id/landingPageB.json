@@ -1,0 +1,70 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Fitur hari ini",
+        "seeMore": "Lihat lainnya ..."
+    },
+    "loggedOutBanner": {
+        "title": "Selamat datang di Anda",
+        "title2": "Komunitas Seni",
+        "descr": "Apakah seni adalah gairah Anda  atau profesi, Anda telah datang  di tempat yang tepat.",
+        "joinInBtnText": "Gabung secara Gratis",
+        "network": "Jaringan",
+        "blog": "Blog",
+        "news": "Berita",
+        "group": "Group",
+        "marketplace": "Pasar",
+        "whatIsArtmo": "Apa itu ARTMO?",
+        "learnMore": "Pelajari lebih banyak ...",
+        "signUp": "Buat akun Anda secara gratis",
+        "logIn": "Masuk",
+        "videos": "Video",
+        "exhibition": "Pameran",
+        "gallery": "Galeri"
+    },
+    "usersListing": {
+        "title": "TERHUBUNG DENGAN PENCINTA SENI",
+        "follower": "pengikut",
+        "followers": "para pengikut",
+        "unfollow": "Berhenti mengikuti",
+        "follow": "Ikuti",
+        "seeMore": "Lihat lainnya",
+        "following": "Mengikuti"
+    },
+    "gridSection": {
+        "home": "RUMAH",
+        "artists": "SENIMAN",
+        "galleries": "GALERI",
+        "exhibitions": "PAMERAN",
+        "users": "PENGGUNA",
+        "artwork": "KARYA SENI",
+        "genres": "GENRE",
+        "universities": "UNIVERSITAS"
+    },
+    "artworkSection": {
+        "title": "BELI DAN JUAL ART ANDA TANPA KOMISI TERKAIT",
+        "priceOnRequest": "Harga Sesuai Permintaan",
+        "artist": "Seniman",
+        "member": "Anggota",
+        "seeMore": "Lihat lainnya ..."
+    },
+    "buzzSection": {
+        "title": "LIHAT APA YANG TERJADI DI DUNIA SENI",
+        "seeMore": "Lihat lainnya ..."
+    },
+    "videosSection": {
+        "title": "VIDEO",
+        "seeMore": "Lihat lainnya ..."
+    },
+    "exhibitionsSection": {
+        "title": "TEMUKAN PAMERAN DI SELURUH DUNIA",
+        "selectCountry": "pilih lokasi",
+        "latest": "baru-baru ini"  
+    },
+    "potdSection": {
+        "title": "GAMBAR HARI INI",
+        "seeMore": "Lihat lainnya ..."
+    },
+    "joinInSection": {
+        "joinInTitle": "Bergabunglah, gratis."
+    }
+}

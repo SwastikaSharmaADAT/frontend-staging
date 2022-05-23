@@ -1,0 +1,118 @@
+name: Production Frontend Deployment
+on:
+  workflow_dispatch:
+    inputs:
+      env-name:
+        description: 'frontend'
+        required: true
+      Confirm if you're on master branch:
+        description: "I'm on master branch"
+        required: true
+
+# Allows you to run this workflow manually from the Actions tab
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+env:
+  AWS_REGION: eu-central-1                 # set this to your preferred AWS region, e.g. us-west-1
+  ECR_REPOSITORY: artmo         # set this to your Amazon ECR repository name
+  ECS_SERVICE: ${{ github.event.inputs.env-name }}             # set this to your Amazon ECS service name
+  ECS_CLUSTER: Artmo              # set this to your Amazon ECS cluster name
+  CONTAINER_NAME: ${{ github.event.inputs.env-name }}           # set this to the name of the container in the
+  Dockerfile: Dockerfile-Prod # set this to the name of the Dockerfile
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14.x]
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Make envfile
+        uses: SpicyPizza/create-envfile@v1
+        with:
+          envkey_DEBUG: false
+          envkey_NEXT_PUBLIC_REACT_APP_AUTH_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_AUTH_SERVICE_API_ENDPOINT }}
+          envkey_NEXT_PUBLIC_REACT_APP_USER_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_USER_SERVICE_API_ENDPOINT }}
+          envkey_NEXT_PUBLIC_REACT_APP_GROUPS_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_GROUPS_SERVICE_API_ENDPOINT }}
+          envkey_NEXT_PUBLIC_REACT_APP_LINKEDIN_APP_CLIENT_ID: ${{ secrets.REACT_APP_LINKEDIN_APP_CLIENT_ID }}
+          envkey_NEXT_PUBLIC_REACT_APP_LINKEDIN_APP_CLIENT_SECRET: ${{ secrets.REACT_APP_LINKEDIN_APP_CLIENT_SECRET }}
+          envkey_NEXT_PUBLIC_REACT_APP_LINKEDIN_APP_STATE: ${{ secrets.REACT_APP_LINKEDIN_APP_STATE }}
+          envkey_NEXT_PUBLIC_REACT_APP_FACEBOOK_APP_STATE: ${{ secrets.REACT_APP_FACEBOOK_APP_STATE }}
+          envkey_NEXT_PUBLIC_REACT_APP_FACEBOOK_LOGIN_APP_ID: ${{ secrets.REACT_APP_FACEBOOK_LOGIN_APP_ID }}
+          envkey_NEXT_PUBLIC_REACT_APP_ARTWORKS_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_ARTWORKS_SERVICE_API_ENDPOINT }}
+          envkey_NEXT_PUBLIC_REACT_APP_ACTIVITIES_LIST_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_ACTIVITIES_LIST_SERVICE_API_ENDPOINT }}
+          envkey_NEXT_PUBLIC_REACT_APP_STATIC_CONTENT_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_STATIC_CONTENT_SERVICE_API_ENDPOINT }}
+          envkey_NEXT_PUBLIC_REACT_APP_SOCKET_ENDPOINT: ${{ secrets.REACT_APP_SOCKET_ENDPOINT }}
+          envkey_NEXT_PUBLIC_REACT_APP_SUBSCRIPTION_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_SUBSCRIPTION_SERVICE_API_ENDPOINT }}
+          envkey_NEXT_PUBLIC_REACT_APP_GOOGLE_CLIENT_ID: ${{ secrets.REACT_APP_GOOGLE_CLIENT_ID }}
+          envkey_NEXT_PUBLIC_REACT_APP_MICROSOFT_GRAPH_CLIENT_ID: ${{ secrets.REACT_APP_MICROSOFT_GRAPH_CLIENT_ID }}
+          envkey_NEXT_PUBLIC_REACT_APP_MESSAGES_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_MESSAGES_SERVICE_API_ENDPOINT }}
+          envkey_NEXT_PUBLIC_REACT_APP_SECRET_ACCESS_KEY: ${{ secrets.REACT_APP_SECRET_ACCESS_KEY }}
+          envkey_NEXT_PUBLIC_REACT_APP_ACCESS_KEY_ID: ${{ secrets.REACT_APP_ACCESS_KEY_ID }}
+
+          envkey_NEXT_PUBLIC_REACT_APP_IMAGE_S3_URL: ${{ secrets.REACT_APP_IMAGE_S3_URL }}
+          envkey_NEXT_PUBLIC_REACT_APP_LANGUAGE_FLAGS_FOLDER: ${{ secrets.REACT_APP_LANGUAGE_FLAGS_FOLDER }}
+          envkey_NEXT_PUBLIC_REACT_APP_IMAGE_S3_BUCKET_NAME: ""
+          envkey_NEXT_PUBLIC_REACT_APP_RESIZE_IMAGE_S3_URL: ${{ secrets.REACT_APP_RESIZE_IMAGE_S3_URL }}
+          envkey_NEXT_PUBLIC_REACT_APP_MAX_IMAGE_SIZE: ${{ secrets.REACT_APP_MAX_IMAGE_SIZE }}
+          envkey_NEXT_PUBLIC_REACT_APP_MIN_IMAGE_SIZE: ${{ secrets.REACT_APP_MIN_IMAGE_SIZE }}
+          envkey_NEXT_PUBLIC_REACT_APP_SITEMAP: ${{ secrets.NEXT_PUBLIC_REACT_APP_SITEMAP }}
+          envkey_NEXT_PUBLIC_REACT_APP_TINY_MCE: ${{ secrets.NEXT_PUBLIC_REACT_APP_TINY_MCE }}
+          envkey_NEXT_PUBLIC_REACT_APP_MAGENTO_LOGOUT: ${{ secrets.NEXT_PUBLIC_REACT_APP_MAGENTO_LOGOUT }}
+          envkey_NEXT_PUBLIC_REACT_APP_GA_ID: ${{ secrets.NEXT_PUBLIC_REACT_APP_GA_ID }}
+          envkey_NEXT_PUBLIC_REACT_APP_DATA_AD_CLIENT: ${{ secrets.NEXT_PUBLIC_REACT_APP_DATA_AD_CLIENT }}
+          envkey_NEXT_PUBLIC_REACT_APP_DATA_AD_SLOT: ${{ secrets.NEXT_PUBLIC_REACT_APP_DATA_AD_SLOT }}
+          envkey_NEXT_PUBLIC_REACT_APP_DATA_AD_SOURCE: ${{ secrets.NEXT_PUBLIC_REACT_APP_DATA_AD_SOURCE }}
+          envkey_process.env.CI: false
+          envkey_SKIP_PREFLIGHT_CHECK: true
+          file_name: .env
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v1
+
+      - name: Build, tag, and push image to Amazon ECR
+        id: build-image
+        env:
+          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+          IMAGE_TAG: ${{ github.event.inputs.env-name }}-${{ github.sha }}
+        run: |
+          # Build a docker container and
+          # push it to ECR so that it can
+          # be deployed to ECS.
+          docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG -f ${{ env.Dockerfile }} .
+          docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
+          echo "::set-output name=image::$ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG"
+
+      - name: Download task definition
+        run: |
+          aws ecs describe-task-definition --task-definition ${{ github.event.inputs.env-name }} --region ${{ env.AWS_REGION }} --query taskDefinition > task-definition.json
+      - name: Fill in the new image ID in the Amazon ECS task definition
+        id: task-def
+        uses: aws-actions/amazon-ecs-render-task-definition@v1
+        with:
+          task-definition: task-definition.json
+          container-name: ${{ env.CONTAINER_NAME }}
+          image: ${{ steps.build-image.outputs.image }}
+
+      - name: Deploy Amazon ECS task definition
+        uses: aws-actions/amazon-ecs-deploy-task-definition@v1
+        with:
+          task-definition: ${{ steps.task-def.outputs.task-definition }}
+          service: ${{ env.ECS_SERVICE }}
+          cluster: ${{ env.ECS_CLUSTER }}
+          wait-for-service-stability: false
+      
+      - name: Cache Invalidation
+        run: | 
+          aws cloudfront create-invalidation --distribution-id E1VFN1HCNZRN8D --paths "/*"

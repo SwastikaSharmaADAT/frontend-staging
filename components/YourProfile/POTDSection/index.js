@@ -1,0 +1,155 @@
+import React from 'react'
+import { useTranslation } from 'next-i18next'
+import styled from 'styled-components'
+import { useSelector } from 'react-redux'
+import { openInNewTab } from '../../../utilities/newTabUtils'
+import SingleItem from './SingleItem'
+import { useRouter } from 'next/router'
+
+const NeedHelpSectionWrap = styled.div`
+  background: #ffffff;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.1);
+  width: auto;
+  position: relative;
+  margin: 0 0 30px;
+  display: flex;
+  flex-direction: column;
+  padding: 18px;
+  max-width: 350px;
+  margin: 0 auto 30px;
+  align-items: center;
+  justify-content: center;
+  min-height: 50px;
+  svg {
+    font-size: 22px;
+    margin: 0 10px 0 0;
+  }
+  @media (max-width: 1024px) {
+    max-width: 310px;
+  }
+  @media (max-width: 991px) {
+    max-width: 315px;
+  }
+  &.rtl-ar-content {
+    direction: rtl;
+  }
+`
+const SectionHead = styled.div`
+  position: relative;
+  margin: 0 0 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  padding: 0;
+  @media (max-width: 767px) {
+    padding: 0 0 15px;
+  }
+`
+const SectionHeading = styled.h1`
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: #222222;
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat-Regular';
+  @media (max-width: 767px) {
+    line-height: normal;
+    margin: 0;
+  }
+`
+
+const SectionHeadButtons = styled.div`
+  width: auto;
+  position: relative;
+  display: flex;
+  @media (max-width: 767px) {
+    margin-top: 0px;
+  }
+`
+
+const TopButtons = styled.button`
+  font-weight: 400;
+  font-size: 14px;
+  line-height: normal;
+  text-align: center;
+  color: #222222;
+  background: #eeeeee;
+  width: auto;
+  border: 0;
+  padding: 6px 13px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  :hover {
+    outline: 0;
+    border: 0;
+    color: #fff;
+    background: #222;
+  }
+`
+
+const SectionContent = styled.div`
+  position: relative;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  align-items: flex-start;
+  padding: 0;
+`
+
+const List = React.memo(
+  ({ articles }) => (
+    <>
+      {articles.map((article) => (
+        <SingleItem key={article._id} article={article} />
+      ))}
+    </>
+  ),
+  (prevProps, nextProps) => {
+    if (prevProps.articles.length === nextProps.articles.length) {
+      return true // props are equal
+    }
+    return false // props are not equal -> update the component
+  }
+)
+
+const POTDSection = () => {
+  const { t } = useTranslation('rightSection')
+  const router = useRouter()
+
+  const potdArticles = useSelector((state) => state.root.landingPage.potdArticles)
+  const appLanguageCode = useSelector((state) => state.root.staticContent.appLanguageCode)
+
+  let articles = []
+  if (potdArticles && potdArticles.length > 2) {
+    articles = potdArticles.slice(0, 2)
+  } else {
+    articles = potdArticles
+  }
+
+  return (
+    <>
+      {articles && articles.length > 0 && (
+        <NeedHelpSectionWrap className={appLanguageCode === 'ar' ? 'rtl-ar-content' : ''}>
+          <SectionHead>
+            <SectionHeading>{t(`potd`)}</SectionHeading>
+            <SectionHeadButtons onClick={() => openInNewTab(`/potd`)}>
+              <TopButtons>{t(`seeAll`)}</TopButtons>
+            </SectionHeadButtons>
+          </SectionHead>
+          <SectionContent>
+            <List articles={articles} />
+          </SectionContent>
+        </NeedHelpSectionWrap>
+      )}
+    </>
+  )
+}
+
+export default POTDSection

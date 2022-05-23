@@ -1,0 +1,83 @@
+{
+    "validationErrors": {
+        "image": "Article image is required",
+        "title": "Title is required",
+        "titleLength": "Title can have maximum 200 characters",
+        "description": "Description is required",
+        "descriptionLength": "Description can have maximum 50000 characters",
+        "category": "Category is required",
+        "country": "Country is required",
+        "city": "City is required",
+        "startDate": "Start date is required",
+        "endDate": "End date is required",
+        "endDateLarge": "End date cannot be set before start date"
+    },
+    "articleNotAvailable": "This article is not available",
+    "placeholderImage": "Add a feature image",
+    "placeholderTitle": "Insert Title",
+    "placeholderDescription": "Write your article here...",
+    "placeholderCountry": "Country",
+    "placeholderStartDate": "Start Date",
+    "placeholderCity": "City",
+    "placeholderEndDate": "End Date",
+    "category": "Category",
+    "categoryOptions": {
+        "option1": "Buzz",
+        "option2": "Picture of the day",
+        "option3": "Exhibition"
+    },
+    "status": {
+        "draft": "Draft",
+        "publish": "Published",
+        "pending": "Pending Approval",
+        "rejected": "Rejected"
+    },
+    "articleFollowed": "Following",
+    "articleFollow": "Follow",
+    "articleUnFollow": "UnFollow",
+    "update": "Update",
+    "submit": "Submit",
+    "buzzListing": {
+        "title": "SEE WHAT’S MOVING THE ART WORLD",
+        "titleShort": "BUZZ",
+        "placeholderSearchTitle": "Search exhibitions by title...",
+        "search": "Search",
+        "city": "City",
+        "edit": "Edit"
+    },
+    "exhibitionListing": {
+        "title": "EXHIBITIONS"
+    },
+    "potd": {
+        "title": "PICTURE OF THE DAY"
+    },
+    "myArticle": {
+        "title": "My Articles",
+        "seeMoreText": "See more..."
+    },
+    "seeMoreText": "See more...",
+    "addArticleInfo": {
+        "mainSection": {
+            "heading": "How to write an article",
+            "firstPara": "Think of yourself as a journalist or opinion writer. Write about something of interest for the art world and art lovers. Rather than an opportunity to promote yourself or your own artwork, your article is a space to write about a topic that will interest the general audience.",
+            "secondPara": "You need to have a fully completed profile on ARTMO before you can publish an article.",
+            "thirdPara": "After publishing, you will be recognized as a publisher."
+        },
+        "buzzSubSection": {
+            "heading": "Buzz:",
+            "firstPara": "Write an article about a topic of interest for ARTMO users. See great examples for Buzz articles",
+            "anchorText": "here"
+        },
+        "potdSubSection": {
+            "heading": "Picture of the day | POTD:",
+            "firstPara": "Use a POTD category when you have a captivating and fascinating photo you want to write about. Use that image as the feature image and then tell the world the story of that photo. Your POTD will be published ",
+            "anchorText": "here"
+        },
+        "exhibitionSubSection": {
+            "heading": "Exhibition:",
+            "firstPara": "Use this category if you are operating a gallery or organizing an exhibition. Write about the exhibition you are organizing and your article will be seen in the Exhibition category.",
+            "secondPara": "Your exhibition article will be published ",
+            "anchorText": "here"
+        }
+    }
+}

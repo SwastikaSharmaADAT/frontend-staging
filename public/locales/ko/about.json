@@ -1,0 +1,27 @@
+{
+    "about": "소개",
+    "labels": {
+        "option1": "아트네트워크",
+        "option2": "샵",
+        "option3": "팀",
+        "option4": "경력",
+        "option5": "아이피",
+        "option6": "법적고지",
+        "option7": "약관 및 개인정보보호",
+        "option8": "기업활동"
+    },
+    "career": {
+        "jobOpening": {
+            "title": "구인"
+        },
+        "lisbonPortugal": {
+            "title": "리스본 | 포르투갈",
+            "option1": "인턴십",
+            "option2": "소셜 미디어 관리자 & 디지털 마케터",
+            "option3": "우커머스 전문가"
+        },
+        "hamburgGermany": {
+            "title": "함부르크 | 독일"
+        }
+    }
+}

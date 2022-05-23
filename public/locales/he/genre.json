@@ -1,0 +1,47 @@
+{
+    "title": "ז'אנר",
+    "tabs": {
+        "genre": "ז'אנר",
+        "media": "מדיה",
+        "timePeriod": "תקופת זמן",
+        "genreSubTabs": {
+            "definition": "הגדרה",
+            "abstractExpressionism": "אקספרסיוניזם מופשט",
+            "abstract": "מופשט",
+            "calligraphy": "קליגרפיה",
+            "conceptual": "רעיוני",
+            "concrete": "קונקרטי",
+            "constructivism": "קונסטרוקטיביזם",
+            "cubism": "קוביזם",
+            "documentary": "דוקומנטרי",
+            "expressionism": "אקספרסיוניזם",
+            "fantastic": "פנטסטי",
+            "figurative": "ציורי",
+            "illustration": "איור",
+            "impressionism": "אימפרסיוניזם",
+            "magicalRealism": "ריאליזם קסום",
+            "minimalism": "מינימליסטי",
+            "naiveArt": "אמנות נאיבית",
+            "pop": "פופ",
+            "realism": "ראליסטי",
+            "surrealism": "סוריאליסטי"
+        },
+        "mediaSubTabs": {
+            "definition": "הגדרה",
+            "collage": "קולאז'",
+            "design": "עיצוב",
+            "digital": "דיגיטלי",
+            "drawing": "שרטוטי",
+            "mixed": "מעורב",
+            "multimedia": "מולטימדיה",
+            "newMedia": "מגיה חדשה",
+            "painting": "ציור",
+            "sculpture": "פיסול"
+        },
+        "timeperiodSubTabs": {
+            "definition": "הגדרה",
+            "contemporary": "עכשיו",
+            "modern": "מודרני"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+  "createPost": {
+    "title": "Skep 'n Boodskap",
+    "editPhoto": "Wysig 'n boodskap",
+    "addPhoto": "Voeg 'n Foto By",
+    "characterLimit": "/200",
+    "publish": "Publiseer",
+    "placeholderWriteSomething": "Skryf iets..."
+  },
+  "groupBarHead": {
+    "leave": "Verlaat",
+    "confirmLeave": "Is u seker u wil die groep verlaat?",
+    "uploadPhoto": "Laai Foto Op",
+    "removePhoto": "Verander Foto",
+    "changePhoto": "Verwyder Foto",
+    "group": "Groep",
+    "leaveGroup": "Verlaat groep",
+    "joinGroup": "Sluit aan by groep",
+    "lastActive": "Laaste aktief",
+    "members": " lid(lede)",
+    "posts": "pos(poste)",
+    "editGroupSettings": "Wysig Groep Instellings"
+  },
+  "memberSection": {
+    "title": "Groeplede",
+    "members": "lede",
+    "seeAll": "Sien Alles..."
+  },
+  "invite": {
+    "title": "Nooi Konneksies Uit",
+    "seeAll": "Sien Alles",
+    "invited": "Uitgenooi",
+    "follower": "volgeling",
+    "followerPlural": "volgelinge",
+    "allConnectionsInvited": "Al u konneksies is uitgenooi.",
+    "noConnectionsToInvite": "No connections to invite",
+    "inviteTo": "Nooi uit na",
+    "invite": "Nooi",
+    "loading": "Laai..."
+  },
+  "joinRequests": {
+    "title": "Sluit aan by versoeke",
+    "follower": "volgeling",
+    "followerPlural": "volgelinge",
+    "reject": "Verwerp",
+    "accept": "Aanvaar",
+    "noMoreRequests": "Geen verdere versoeke om aan te sluit nie"
+  },
+  "listingPopup": {
+    "remove": "Verwyder",
+    "admin": "(Admin)",
+    "moderator": "(Moderator)",
+    "follower": "volgeling",
+    "followerPlural": "volgelinge",
+    "assignModerator": "Toewys as Moderator",
+    "removeFromGroup": " Verwyder van Groep",
+    "addedAsModerator": "Bygevoeg as Moderator",
+    "deleteConfirm": "Is u seker u wil hierdie gebruiker verwyder?"
+  },
+  "notAuthorized": "Nie Gemagtig nie"
+}

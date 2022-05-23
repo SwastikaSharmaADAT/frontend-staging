@@ -1,0 +1,83 @@
+{
+    "pageNotFound": {
+        "404": "404",
+        "signUpTextNotFound": "Lub zarejestruj się, jeśli nie masz jeszcze profilu ...",
+        "pageNotFound": "Wydaje się, że nie możemy znaleźć strony, której szukasz.<br/>Możesz wypróbować jedną z tych opcji; to powinno wystarczyć...",
+        "goBackHome": "Wróć"
+    },
+    "usersTermsConditions": {
+        "title": "WARUNKI UŻYTKOWANIA",
+        "overview": "1. PRZEGLĄD",
+        "contentEligibility": "2. TREŚĆ I KWALIFIKOWALNOŚĆ",
+        "feesPayments": "3. OPŁATY I PŁATNOŚCI",
+        "accountTermination": "4. ROZWIĄZANIE I USUWANIE KONTA",
+        "provisions": "5. DALSZE POSTANOWIENIA",
+        "seePrivacyPolicy": "Zobacz Politykę Prywatności",
+        "seeVendorTermsConditions": "Zobacz Warunki Dostawcy"
+    },
+    "privacyPolicyPage": {
+        "title": "POLITYKA PRYWATNOŚCI",
+        "seeVendorTermsConditions": "Zobacz Warunki Sprzedawcy",
+        "seeUserTermsConditions": "Zobacz Regulamin Użytkownika",
+        "accountPrivacySettings": "USTAWIENIA PRYWATNOŚCI KONTA",
+        "dataSecurity": "BEZPIECZEŃSTWO DANYCH",
+        "collectingPersonalData": "GROMADZENIE I PRZETWARZANIE DANYCH OSOBOWYCH",
+        "adsOnArtmo": "REKLAMA W ARTMO"
+    },
+    "vendorTermsConditions": {
+        "title": "WARUNKI DOSTAWCY",
+        "seePrivacyPolicy": "Zobacz Politykę Prywatności",
+        "seeUserTermsConditions": "Zobacz Regulamin Użytkownika",
+        "impOverview": "Przede wszystkim... ważny przegląd",
+        "stepByStep": "krok po kroku",
+        "overview": "1. PRZEGLĄD",
+        "fees": "2. PROWIZJA | OPŁATY | PŁATNOŚCI | ZWROTY",
+        "termination": "3. ROZWIĄZANIE I USUNIĘCIE KONTA",
+        "payoutSchedule": "4. HARMONOGRAM WYPŁAT ZE SPRZEDAŻY",
+        "contentEligibility": "5. TREŚĆ I KWALIFIKOWALNOŚĆ",
+        "yourObligations": "6. TWOJE ZOBOWIĄZANIA",
+        "artmoObligations": "7. OBOWIĄZKI ARTMO",
+        "returns": "8. ZWROTY I SPORY",
+        "provisions": "9. DALSZE POSTANOWIENIA",
+        "shippingReturnPolicy": "POLITYKA WYSYŁKI I ZWROTÓW"
+    },
+    "whatIsArtmo": {
+        "title": "Co to jest ARTMO?",
+        "artNetwork": "Sieć Sztuki",
+        "artEnthusiast": "Miłośnikiem sztuki",
+        "muchMore": "i wiele więcej!",
+        "członek": "Członkowie",
+        "strony": "Strony",
+        "Rynek": "Rynek",
+        "needHelp": "Potrzebujesz pomocy - skontaktuj się z nami...",
+        "artists": "Artyści",
+        "gallery": "Galerie",
+        "university": "Uniwersytety",
+        "shop": "Sklep"
+    },
+    "mobileApp": {
+        "title": "Aplikacja mobilna",
+        "subHeading": "Jak uruchomić ARTMO z ekranu głównego telefonu komórkowego",
+        "note": "Uwaga",
+        "step": "krok",
+        "done": "gotowe"
+    },
+    "artworkUploadInst": {
+        "headerTitle": "Instrukcje przesyłania grafiki",
+        "images": "obrazy",
+        "title": "Tytuł",
+        "artMaterial": "Materiał",
+        "series": "Seria",
+        "limitedEdition": "Edycje limitowane",
+        "price": "Cena",
+        "dimension": "Rozmiar",
+        "frame": "Ramka",
+        "medium": "Medium",
+        "genre": "Gatunek",
+        "subjectTags": "Tagi tematyczne",
+        "description": "Opis",
+        "text": "Tekst",
+        "yourProfile": "Twój profil",
+        "pdf": "PDF"
+    }
+}

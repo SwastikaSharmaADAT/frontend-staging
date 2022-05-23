@@ -1,0 +1,77 @@
+{
+    "groupbarHeading": "MGA GROUP",
+    "placeholderSearchGroups": "Mag-search ng mga Group",
+    "allCategories": "Lahat ng mga Kategorya",
+    "noCategoriesFound": "Walang Kategoryang mahanap",
+    "allTags": "Lahat ng mga tags",
+    "noTagsFound": "Walang tags na mahanap",
+    "search": "Mag-search",
+    "clear": "I-clear",
+    "groupListing": {
+        "confirmButtonText": "Umalis",
+        "confirmLeaveText": "Sigurado kang gusto mong umalis mula sa group na ito?",
+        "sortedBy": "Ayusin ayon sa",
+        "recentActivity": "Recent Activity",
+        "group": "Group",
+        "manageGroupLabel": "I-manage ang group settings",
+        "leaveGroup": "Umalis sa group",
+        "cancelRequest": "I-cancel ang Request",
+        "invitedBy": "Naimbitahan ka ni",
+        "wouldYouJoin": "Gusto mo bang sumali sa group na ito?",
+        "accept": "I-Accept",
+        "ignore": "I-ignore",
+        "lastActive": "Huling active",
+        "members": "(Mga) member",
+        "posts": "(Mga) post",
+        "noGroupsFound": "Walang (mga) group na mahanap",
+        "loadMore": "Mag-load ng higit pa..."
+    },
+    "toolTip": {
+        "tip1": "Sinumang miyembro ng site ay maaaring sumali sa group na ito.",
+        "tip2": "Ang group na ito ay maililista sa directory ng mga group at sa mga resulta ng search.",
+        "tip3": "Ang mga nilalaman at aktibidad ng group na ito ay maaaring makita ng sinumang miyembro ng group."
+    },
+    "createGroup": {
+        "placeholderName": "Pangalan",
+        "placeholderDescription": "Deskripsyon",
+        "privacyTitle": "Privacy",
+        "privacyPublic": "Publiko",
+        "privacyPublicContent": {
+            "point1": "Sinumang miyembro ng site ay maaaring sumali sa group na ito.",
+            "point2": "Ang group na ito ay maililista sa directory ng mga group at sa mga resulta ng search.",
+            "point3": "Ang mga nilalaman at aktibidad ng group na ito ay maaaring makita ng sinumang miyembro ng group."
+        },
+        "privacyPrivate": "Pribado",
+        "privacyPrivateContent": {
+            "point1": "Ang mga user na nagrequest ng membership at mga natanggap ay maaaring sumali sa group",
+            "point2": "Ang group na ito ay maililista sa directory ng mga group at sa mga resulta ng search.",
+            "point3": "Ang nilalaman at aktibidad ay maaari lamang makita ng mga miyembro ng group"
+        },
+        "privacyHidden": "Nakatago",
+        "privacyHiddenContent": {
+            "point1": "Ang mga naimbitahang user lamang ang maaaring sumali sa group",
+            "point2": "Ang group na ito ay hindi maililista sa directory ng mga group o sa mga resulta ng search",
+            "point3": "Ang nilalaman at aktibidad ng group ay makikita lamang ng mga miyembro ng group."
+        },
+        "postModeration": "Post Moderation",
+        "moderationTypes": {
+            "option1": "Pumili ng tipo ng post moderation",
+            "option2": "I-publish nang awtomatiko",
+            "option3": "I-publish matapos i-review"
+        },
+        "inviteFeature": "I-enable ang invites feature",
+        "whoCanInvite": "Sino ang mga maaaring mag-imbita sa group?",
+        "inviteOptions": {
+            "option1": "Pumili ng tipo ng imbitasyon",
+            "option2": "Admin",
+            "option3": "Admin at mga Moderator",
+            "option4": "Lahat"
+        },
+        "category": "Kategorya",
+        "placeholderCategory": "Pumili ng mga kategorya",
+        "tags": "Mga Tags",
+        "placeholderTags": "Pumili ng mga tags",
+        "save": "I-save",
+        "update": "I-update"
+    }
+}

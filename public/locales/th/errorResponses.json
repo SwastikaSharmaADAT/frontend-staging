@@ -1,0 +1,22 @@
+{
+  "auth": {
+    "noContactsFound": "ไม่พบผู้ติดต่อ",
+    "somethingWentWrong": "พบข้อผิดพลาด กรุณาล็อคอินเพื่อดำเนินการต่อ",
+    "sessionExpired": "เซสชั่นหมดอายุ กรุณาล็อคอินอีกครั้ง",
+    "loginToContinue": "กรุณาล็อกอินก่อน"
+  },
+  "mediaLibrary": {
+    "limitMoreImages": "เลือกภาพได้อีก {{จำกัด}} ภาพเท่านั้น"
+  },
+  "article": {
+    "articleNotFound": "ไม่พบบทความ"
+  },
+  "cart": {
+    "alreadyInCart": "สินค้าชิ้นนี้อยู่ในตะกร้าของคุณแล้ว",
+    "removeItemError": "เกิดข้อผิดพลาดขณะลบงานออกจากตะกร้า"
+  },
+  "subscriptions": {
+    "planExist": "คุณสมัครติดตามแพลนนี้แล้ว!",
+    "artworkNotFound": "ไม่พบงานศิลปะ"
+  }
+}

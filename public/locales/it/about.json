@@ -1,0 +1,27 @@
+{
+    "about": "Su di noi",
+    "labels": {
+        "option1": "La comunità dell'arte",
+        "option2": "Negozio",
+        "option3": "Team",
+        "option4": "Lavora con noi",
+        "option5": "IP",
+        "option6": "Crediti",
+        "option7": "Termini di Servizio e Privacy",
+        "option8": "Relazioni con gli investitori"
+    },
+    "career": {
+        "jobOpening": {
+            "title": "Offerte di lavoro"
+        },
+        "lisbonPortugal": {
+            "title": "Lisbona | Portogallo",
+            "option1": "Tirocini",
+            "option2": "Social Media Manager e Digital Marketer",
+            "option3": "Esperto WooCommerce"
+        },
+        "hamburgGermany": {
+            "title": "Amburgo | Germania"
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+  "validationErrors": {
+    "image": "Artikel se beeld word vereis",
+    "title": "Titel word vereis",
+    "titleLength": "Titel kan 'n maksimum van 200 karakters bevat",
+    "description": "Beskrywing word vereis",
+    "descriptionLength": "Beskrywing kan 'n maksimum van 5000 karakters bevat",
+    "category": "Kategorie word vereis",
+    "country": "Land word vereis",
+    "city": "Stad word vereis",
+    "startDate": "Begindatum word vereis",
+    "endDate": "Einddatum word vereis",
+    "endDateLarge": "Einddatum kan nie voor die begindatum gestel word nie"
+  },
+  "articleNotAvailable": "Hierdie artikel is nie beskikbaar nie",
+  "placeholderImage": "Voeg 'n funksie beeld by",
+  "placeholderTitle": "Voeg Titel in",
+  "placeholderDescription": "Skryf jou artikel hier...",
+  "placeholderCountry": "Land",
+  "placeholderStartDate": "Begindatum",
+  "placeholderCity": "Stad",
+  "placeholderEndDate": "Einddatum",
+  "category": "Afdeling",
+  "categoryOptions": {
+    "option1": "Gons",
+    "option2": "Prent van die dag",
+    "option3": "Uitstalling"
+  },
+  "status": {
+    "draft": "Konsepte",
+    "publish": "Gepubliseer",
+    "pending": "Hangende Goedkeuring",
+    "rejected": "Verwerp"
+  },
+  "articleFollowed": "Volgende",
+  "articleFollow": "Volg",
+  "articleUnFollow": "Ontvolg",
+  "update": "Opdateer",
+  "submit": "Indien",
+  "buzzListing": {
+    "title": "SIEN WAT DIE KUNSWERELD BEWEG",
+    "titleShort": "Gons",
+    "placeholderSearchTitle": "Soek uitstallings per titel...",
+    "search": "Soek",
+    "city": "Stad",
+    "edit": "Wysig"
+  },
+  "exhibitionListing": {
+    "title": "UITSTALLINGS"
+  },
+  "potd": {
+    "title": "PRENT VAN DIE DAG"
+  },
+  "myArticle": {
+    "title": "My Artikels",
+    "seeMoreText": "Sien meer..."
+  },
+  "seeMoreText": "Sien meer...",
+  "addArticleInfo": {
+    "mainSection": {
+      "heading": "Hoe om 'n artikel te skryf",
+      "firstPara": "Dink aan jouself as 'n joernalis of opinieskrywer. Skryf oor iets van belang vir die kunswêreld en kunsliefhebbers. Eerder as 'n geleentheid om jouself of jou eie kunswerk te bevorder, is jou artikel 'n ruimte om te skryf oor 'n onderwerp wat die algemene gehoor sal interesseer.
+      "secondPara": "Jy moet 'n volledig voltooide profiel op ARTMO hê voordat jy 'n artikel kan publiseer.",
+      "thirdPara": "Na publisering sal jy as 'n uitgewer erken word."
+    },
+    "buzzSubSection": {
+      "heading": "Buzz:",
+      "firstPara": "Skryf 'n artikel oor 'n onderwerp van belang vir ARTMO-gebruikers. Sien goeie voorbeelde vir Buzz-artikels",
+      "anchorText": "here"
+    },
+    "potdSubSection": {
+      "heading": "Prent van die dag | POTD:",
+      "firstPara": "Gebruik 'n POTD-kategorie wanneer jy 'n boeiende en fassinerende foto het waaroor jy wil skryf. Gebruik daardie prent as die kenmerkprent en vertel dan die storie van daardie foto vir die wêreld. Jou POTD sal gepubliseer word",
+      "anchorText": "hier"
+    },
+    "exhibitionSubSection": {
+      "heading": "Opskrif:",
+      "firstPara": "Gebruik hierdie kategorie as jy 'n galery bedryf of 'n uitstalling reël. Skryf oor die uitstalling wat jy reël en jou artikel sal in die Uitstalling-kategorie gesien word.",
+      "secondPara": "Jou uitstallingsartikel sal gepubliseer word",
+      "anchorText": "hier"
+    }
+  }
+}

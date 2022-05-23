@@ -1,0 +1,27 @@
+{
+    "about": "giới thiệu",
+    "labels": {
+        "option1": "Mạng lưới Nghệ thuật",
+        "option2": "Cửa hàng",
+        "option3": "Nhóm",
+        "option4": "Tuyển dụng",
+        "option5": "IP",
+        "option6": "Impressum",
+        "option7": "Điều khoản & Riêng tư",
+        "option8": "Quan hệ đầu tư"
+    },
+    "career": {
+        "jobOpening": {
+            "title": "Cơ hội việc làm"
+        },
+        "lisbonPortugal": {
+            "title": "Lisbon | Bồ Đào Nha",
+            "option1": "Thực tập",
+            "option2": "Quản lý Truyền thông xã hội & Chuyên viên Truyền thông Kỹ thuật số",
+            "option3": "Chuyên gia WooCommerce"
+        },
+        "hamburgGermany": {
+            "title": "Hamburg | Đức"
+        }
+    }
+}

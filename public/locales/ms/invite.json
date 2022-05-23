@@ -1,0 +1,16 @@
+{
+    "title": "JEMPUT RAKAN",
+    "tagsInput": {
+        "placeholder": "Tambahkan e-mel secara manual. Pisahkan dengan koma atau tekan masuk selepas setiap e-mel."
+    },
+    "cancelButtonLabel": "Batal",
+    "sendInvitesButtonLabel": "Hantar Jemputan",
+    "howInviteWork": "Bagaimana ini berfungsi?",
+    "emailTemplateText": "Bolehkah saya melihat e-mel sebelum hantar?",
+    "pickEmailService": "Pilih servis e-mel anda...",
+    "gmailText": "Gmail",
+    "outlookText": "Outlook",
+    "otherText": "Lain-lain",
+    "selectedText": "Dipilih",
+    "emptyResultText": "Tiada Hasil Dijumpai"
+}

@@ -1,0 +1,47 @@
+{
+    "title": "流派",
+    "tabs": {
+        "genre": "流派",
+        "media": "媒介",
+        "timePeriod": "时期",
+        "genreSubTabs": {
+            "definition": "定义",
+            "abstractExpressionism": "抽象表现主义",
+            "abstract": "抽象派",
+            "calligraphy": "书法",
+            "conceptual": "概念艺术",
+            "concrete": "Concrete",
+            "constructivism": "构成主义",
+            "cubism": "立体主义",
+            "documentary": "纪实主义",
+            "expressionism": "表现主义",
+            "fantastic": "幻想主义",
+            "figurative": "具象艺术",
+            "illustration": "插画艺术",
+            "impressionism": "印象派",
+            "magicalRealism": "魔幻写实主义",
+            "minimalism": "极简主义",
+            "naiveArt": "素人艺术",
+            "pop": "波谱艺术",
+            "realism": "现实主义",
+            "surrealism": "超现实主义"
+        },
+        "mediaSubTabs": {
+            "definition": "定义",
+            "collage": "拼贴",
+            "design": "设计",
+            "digital": "数字艺术",
+            "drawing": "素描",
+            "mixed": "混合媒体",
+            "multimedia": "多媒体",
+            "newMedia": "新媒体",
+            "painting": "绘画",
+            "sculpture": "雕塑"
+        },
+        "timeperiodSubTabs": {
+            "definition": "定义",
+            "contemporary": "当代艺术",
+            "modern": "现代艺术"
+        }
+    }
+}

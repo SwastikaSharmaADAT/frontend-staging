@@ -1,0 +1,17 @@
+{
+    "heading": "JARINGAN SENI",
+    "listing": {
+        "country": "Negara:",
+        "placeholderCity": "Kota",
+        "userType": "Jenis Pengguna:",
+        "sortBy": "Urut berdasarkan:",
+        "search": "Telusuri",
+        "searchUsers": "Telusuri pengguna...",
+        "searchbyname": "Telusuri berdasarkan nama..."
+    },
+    "follower": "pengikut",
+    "followers": "para pengikut",
+    "unfollow": "berhenti mengikuti",
+    "follow": "Ikuti",
+    "editProfile": "Edit Profil"
+}

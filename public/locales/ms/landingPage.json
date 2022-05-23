@@ -1,0 +1,69 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Ciri Hari Ini",
+        "seeMore": "Lihat Lanjut ..."
+    },
+    "loggedOutBanner": {
+        "title": "Selamat datang kepada anda",
+        "title2": "Komuniti Seni",
+        "descr": "Sama ada seni ialah minat anda  atau profesion anda, anda telah tiba  di tempat yang betul.",
+        "joinInBtnText": "Sertai Secara Percuma",
+        "network": "Rangkaian",
+        "blog": "Blog",
+        "news": "Berita",
+        "group": "Kumpulan",
+        "marketplace": "Pasaran",
+        "whatIsArtmo": "Apa itu ARTMO?",
+        "learnMore": "Ketahui Lanjut ...",
+        "signUp": "Pendaftaran Percuma",
+        "logIn": "Log Masuk",
+        "videos": "Video",
+        "exhibition": "Pameran",
+        "gallery": "Galeri."
+    },
+    "usersListing": {
+        "title": "THE ART NETWORK",
+        "follower": "pengikut",
+        "followers": "pengikut",
+        "unfollow": "Nyahikut",
+        "follow": "Ikut",
+        "seeMore": "Lihat Lanjut",
+        "following": "Ikut"
+    },
+    "gridSection": {
+        "home": "MAIN",
+        "artists": "ARTIS",
+        "galleries": "GALERI",
+        "exhibitions": "PAMERAN",
+        "users": "PENGGUNA",
+        "artwork": "KARYA SENI",
+        "genres": "GENRE",
+        "universities": "UNIVERSITI"
+    },
+    "artworkSection": {
+        "title": "KARYA SENI BARU",
+        "priceOnRequest": "Harga atas Permintaan",
+        "artist": "Artis",
+        "member": "Ahli",
+        "seeMore": "Lihat Lanjut ..."
+    },
+    "buzzSection": {
+        "title": "BUZZ",
+        "seeMore": "Lihat Lanjut ..."
+    },
+    "videosSection": {
+        "title": "VIDEO",
+        "seeMore": "Lihat Lanjut ..."
+    },
+    "exhibitionsSection": {
+        "title": "PAMERAN",
+        "seeMore": "Lihat Lanjut ..."
+    },
+    "potdSection": {
+        "title": "GAMBAR HARI INI",
+        "seeMore": "Lihat Lanjut ..."
+    },
+    "joinInSection": {
+        "joinInTitle": "Sertai kami, ianya percuma."
+    }
+}

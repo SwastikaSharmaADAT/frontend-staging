@@ -1,0 +1,361 @@
+{
+    "placeholderIntro":"Kurze Vorstellung ..",
+    "about": {
+        "title": "ÜBER MICH",
+        "edit": "Bearbeiten",
+        "cancel": "Abbrechen",
+        "save": "Speichern",
+        "noAboutText": "Kein ÜBER MICH text eingefügt",
+        "placeholderAbout": "Schreibe ÜBER MICH hier...",
+        "characterLimit": "/1000",
+        "errorAbout": "Maximale Zeichenlänge von 1000 . überschritten"
+    },
+    "biography": {
+        "title": "BIOGRAFIE",
+        "edit": "Bearbeiten",
+        "cancel": "Abbrechen",
+        "save": "Speichern",
+        "noBiographyText": "Kein Biografie-Text hinzugefügt",
+        "placeholderBiography": "Biografie hier hinzufügen....",
+        "characterLimit": "/1000"
+    },
+    "activity": {
+        "title": "Aktivität",
+        "descriptionNotAdded": "Beschreibung nicht hinzugefügt",
+        "reactions": "Reaktionen",
+        "noActivityText": "Keine Aktivität gefunden",
+        "seeAll": "Alle sehen",
+        "add": "Hinzufügen"
+    },
+    "album": {
+        "title": "ALBEN",
+        "edit":"Bearbeiten",
+        "seeAll": "Alle sehen",
+        "add": "Hinzufügen",
+        "noAlbumFound": "Keine Alben gefunden"
+    },
+    "artwork": {
+        "title": "KUNSTWERKE",
+        "likedArtworks":"LIKED KUNSTWERKE",
+        "noArtworkFound": "Keine Kunstwerke gefunden",
+        "seeAll": "Alle sehen",
+        "add": "Hinzufügen"
+    },
+    "award": {
+        "title": "AUSZEICHNUNGEN",
+        "noAwardFound": "Keine Auszeichnungen gefunden",
+        "addImages": "Füge Bilder hinzu",
+        "placeholderDescription": "Füge eine Beschreibung zu Auszeichnungen ein.",
+        "characterLimit": "/1000",
+        "edit": "Bearbeiten",
+        "cancel": "Abbrechen",
+        "save": "Speichern"
+    },
+    "basicInfo": {
+        "fillDetailsText": "Bitte diese Felder ausfüllen",
+        "placeholderFirstName": "Vorname",
+        "placeholderLastName": "Nachname",
+        "placeholderCity": "Stadt",
+        "placeholderCountry": "Land auswählen",
+        "placeholderEmail": "Email",
+        "save": "Speichern",
+        "cancel": "Abbrechen"
+    },
+    "business": {
+        "title": "Über mein Geschäft | Beruf",
+        "noBusinessFound": "Keine Informationen gefunden",
+        "addImages": "Füge Bilder hinzu",
+        "placeholderDescription": "Füge eine Beschreibung hinzu.",
+        "characterLimit": "/1000",
+        "edit": "Bearbeiten",
+        "cancel": "Abbrechen",
+        "save": "Speichern"
+    },
+    "connectionsPopup": {
+        "follower": "Follower",
+        "followerPlural": "Followers",
+        "connected": "Vernetzt",
+        "requestPending": "Anfrage ausstehend",
+        "requestSent": "Anfrage gesendet",
+        "connect": "Vernetzen",
+        "userConnectionsTitle": "'s Kontakte"
+    },
+    "contact": {
+        "title": "KONTAKT-INFORMATION",
+        "noContactInfoFound": "Keine Kontaktdaten hinzugefügt",
+        "email": "Email",
+        "skype": "Skype",
+        "phone": "Telefon",
+        "address": "Adresse",
+        "openingHours": "Öffnungszeiten",
+        "socialMedia": "Social Media",
+        "placeholderEmail": "Email",
+        "placeholderSkype": "Skype",
+        "phoneNumber": "Telefonnummer",
+        "placeholderAddress": "Adresse",
+        "placeholderOpenHours": "Öffnungszeiten",
+        "edit": "Bearbeiten",
+        "cancel": "Abbrechen",
+        "save": "Speichern"
+    },
+    "expertise": {
+        "title": "FACHKENNTNISSE",
+        "noExpertiseFound": "Keine Fachkenntnisse gefunden",
+        "addImages": "Füge Bilder hinzu",
+        "placeholderDescription": "Beschreibung einfügen.",
+        "characterLimit": "/1000",
+        "edit": "Bearbeiten",
+        "cancel": "Abbrechen",
+        "save": "Speichern"
+    },
+    "followersPopup": {
+        "follower": "Follower",
+        "followerPlural": "Followers",
+        "followed": "Folge ich",
+        "unfollow": "Nicht mehr folgen",
+        "follow": "Folgen",
+        "userFollowersTitle": "'s Followers"
+    },
+    "followingPopup": {
+        "follower": "Follower",
+        "followerPlural": "Followers",
+        "followed": "Folge ich",
+        "unfollow": "Nicht mehr folgen",
+        "follow": "Folgen",
+        "noFollowing": "No Following",
+        "userFollowersTitle": "'s Followers",
+        "followPlural": "Follows"
+    },
+    "group": {
+        "title": "GRUPPEN",
+        "noGroupsFound": "Nutzer ist in keiner Gruppe",
+        "member": "Member",
+        "memberPlural": "Members",
+        "browseGroups": "Gruppen durchsuchen",
+        "create": "Erstellen"
+    },
+    "invite": {
+        "title": "FREUNDE EINLADEN",
+        "desc1": "Sende eine Nachricht an deine Kontakte.",
+        "desc2": "Sag ihnen, dass du hier bist.",
+        "invite": "Einladen"
+    },
+    "messagePopup": {
+        "or": "ODER",
+        "learnMore": "Mehr erfahren",
+        "seeMore": "Mehr sehen..."
+    },
+    "pastExhibition": {
+        "title": "VERGANGENE AUSSTELLUNGEN",
+        "addImages": "Bilder hinzufügen",
+        "noExhibitionsFound": "Keine vergangenen Ausstellungen gefunden",
+        "placeholderDescription": "Füge eine Beschreibung über vergangene Ausstellungen ein.",
+        "characterLimit": "/1000",
+        "edit": "Bearbeiten",
+        "cancel": "Abbrechen",
+        "save": "Speichern"
+    },
+    "personalInfo": {
+        "title": "PERSÖNLICHE INFORMATIONEN",
+        "noInfoFound": "Keine persönlichen Informationen hinzugefügt",
+        "city": "Stadt",
+        "country": "Land",
+        "profession": "Beruf",
+        "company": "Unternehmen",
+        "industry": "Industrie",
+        "website": "Webseite",
+        "languages": "Sprachen",
+        "visibleInfo": "Öffentlich nicht sichtbar",
+        "dateOfBirth": "Geburtsdatum",
+        "gender": "Geschlecht",
+        "relationshipStatus": "Beziehungsstatus",
+        "placeholderCity": "Stadt",
+        "placeholderCountry": "Land auswählen",
+        "placeholderProfession": "Beruf",
+        "placeholderCompany": "Unternehmen",
+        "placeholderIndustry": "Industrie",
+        "placeholderLanguages": "Sprachen auswählen",
+        "placeholderWebsite": "Webseite",
+        "placeholderDob": "Geburtsdatum",
+        "errorDob": "Geburtsdatum ist erforderlich",
+        "genderDropdown": {
+            "option1": "Wähle Geschlecht",
+            "option2": "Männlich",
+            "option3": "Weiblich",
+            "option4": "Divers"
+        },
+        "relationDropdown": {
+            "option1": "Beziehungsstatus auswählen",
+            "option2": "Single",
+            "option3": "Verheiratet",
+            "option4": "Partnerschaft"
+        },
+        "edit": "Bearbeiten",
+        "cancel": "Abbrechen",
+        "save": "Speichern"
+    },
+    "coverImage": {
+        "menuOptions": {
+            "title": "Titelbild ändern",
+            "upload": "Foto hochladen",
+            "change": "Foto ändern",
+            "remove": "Foto entfernen"
+        }
+    },
+    "profileHead": {
+        "profileImage": {
+            "menuOptions": {
+                "title": "Bild ändern",
+                "upload": "Foto hochladen",
+                "change": "Foto ändern",
+                "remove": "Foto entfernen"
+            }
+        },
+        "connected": "Vernetzt",
+        "requestPending": "Anfrage ausstehend",
+        "requestSent": "Anfrage gesendet",
+        "connect": "Vernetzen",
+        "shareProfile": "Profil teilen",
+        "unblock": "Entsperren",
+        "block": "Sperren",
+        "tooltip": {
+            "text": "Der andere Profiltyp hat unterschiedliche Abonnementmodelle.",
+            "seeMore": "Mehr sehen..."
+        },
+        "profileDesc" : {
+            "artist": {
+                "firstline" : "<b>Du bist ein KÜNSTLER.</b>",
+                "secondline" : "Du kannst selbst kreierte Kunstwerke verkaufen."
+            },
+            "member": {
+                "firstline": "Du bist <b>KEIN</b> Künstler.",
+                "secondline": "Du kannst Kunstwerke verkaufen, deren Eigentümer du bist."
+            }
+        },
+        "edit": "Bearbeiten",
+        "cancel": "Abbrechen",
+        "save": "Speichern",
+        "followed": "Followed",
+        "follow": "Follow",
+        "message": "Nachricht",
+        "more": "Mehr...",
+        "artistProfile": "Künstlerprofil",
+        "memberProfile": "Member-Profil",
+        "enterName": "Bitte Namen eingeben",
+        "enterInstitute": "Bitte Institutsnamen eingeben",
+        "placeholderFirstName": "Vorname",
+        "placeholderInstitureName": "Institutsname",
+        "placeholderLastName": "Nachname"
+    },
+    "notices": {
+        "title": "HINWEISE",
+        "notNoticesFound": "Keine Hinweise zum Anzeigen!"
+    },
+    "profileCompleteness": {
+        "title": "Profil Vollständigkeit",
+        "incompleteLabel": "Fülle die folgenden Felder aus",
+        "coverPicUrl": "Titelbild",
+        "profilePicUrl": "Profilbild",
+        "city": "Stadt",
+        "mobile": "Telefonnummer",
+        "address": "Anschrift",
+        "openingHours": "Öffnungszeiten",
+        "country": "Land",
+        "aboutMe": "Über Mich",
+        "profession": "Beruf",
+        "industry": "Branche",
+        "company": "Firma",
+        "email": "Email"
+    },
+    "publication": {
+        "title": "PUBLIKATIONEN",
+        "noPublicationsFound": "Keine Publikationen gefunden",
+        "addImages": "Füge Bilder hinzu",
+        "placeholderDescription": "Beschreibung einfügen.",
+        "characterLimit": "/1000",
+        "edit": "Bearbeiten",
+        "cancel": "Abbrechen",
+        "save": "Speichern"
+    },
+    "allSectionHeader": {
+        "add": "Hinzufügen",
+        "seeAll": "Alles sehen"
+    },
+    "share": {
+        "copiedText": "Kopiert!",
+        "copyLink": "Link kopieren",
+        "share": "Teilen",
+        "profileShareTitle": "'s Profile"
+    },
+    "technique": {
+        "title": "TECHNIK",
+        "noTechFound": "Keine Techniken gefunden",
+        "addImages": "Bilder hinzufügen",
+        "placeholderDescription": "Beschreibung hinzufügen.",
+        "characterLimit": "/1000",
+        "edit": "Bearbeiten",
+        "cancel": "Abbrechen",
+        "save": "Speichern",
+        "your": "Deine",
+        "photo": "Foto",
+        "apply": "Anwenden"
+    },
+    "profileNavigator": {
+        "profile": "Profile",
+        "see": "Sehen",
+        "art": "'s Kunst",
+        "about": "ÜBER MICH",
+        "contact": "KONTAKTINFORMATION",
+        "activity": "AKTIVITÄT",
+        "videos": "VIDEOS",
+        "artworks": "KUNSTWERKE",
+        "albums": "ALBEN",
+        "groups": "GRUPPEN",
+        "technique": "TECHNIK",
+        "expertise": "EXPERTISE",
+        "awards": "AUSZEICHNUNGEN",
+        "pastExhibitions": "VERGANGENE AUSSTELLUNGEN",
+        "publications": "PUBLIKATIONEN",
+        "personalInfo": "PERSÖNLICHE INFORMATIONEN",
+        "business": "ÜBER MEIN GESCHÄFT"
+    },
+    "connections": {
+        "title": "Kontakte",
+        "noConnectionsFound": "Keine Kontakte",
+        "seeAll": "Alle sehen...",
+        "followers": "Followers",
+        "following": "Following"
+    },
+    "video": {
+        "title": "Videos",
+        "noVideosFound": "Keine Videos gefunden"
+    },
+    "visibility": {
+        "public": "Öffentlich (Logged in user)",
+        "private": "Privat",
+        "connectionsOnly": "Nur Kontakte"
+    },
+    "blockSection": {
+        "accountUnavailable": "Dieses Profil ist nicht verfügbar",
+        "goToHome": "Gehe zu Home"
+    },
+    "emailShare": {
+        "bodyText2": "\nDen Kontakt halten!\nWas ist ARTMO ~ Erfahren Sie mehr https://artmo.com/what-is-artmo",
+        "profileShare" : {
+            "subject" : "Schauen Sie sich ARTMO an",
+            "bodyText1": "Hallo,\nIch denke, Sie könnten daran interessiert sein, ARTMO auszuprobieren und dem Art Network beizutreten.\nKlicken Sie hier, um mein Profil zu sehen: "
+        },
+        "articleShare": {
+            "subject" : "Schauen Sie sich dieses Artikel auf ARTMO an",
+            "bodyText1": "Hallo,\nIch denke, Sie könnten diesen Artikel auf ARTMO interessieren.\nKlicken Sie hier, um es zu lesen: "
+        },
+        "artworkShare":{
+            "subject" : "Schauen Sie sich dieses Kunstwerk auf ARTMO an",
+            "bodyText1": "Hallo,\nIch denke, Sie könnten daran interessiert sein, dieses erstaunliche Kunstwerk auf ARTMO zu sehen.\nKlicken Sie hier, um das Kunstwerk zu sehen: "
+        },
+        "postShare": {
+            "subject" : "Schauen Sie sich diesen Beitrag auf ARTMO an",
+            "bodyText1": "Hallo,\nIch denke, Sie könnten diesen Beitrag auf ARTMO interessieren.\nKlicken Sie hier, um es zu lesen: "
+        }
+    }
+}

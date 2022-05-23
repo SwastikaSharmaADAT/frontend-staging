@@ -1,0 +1,156 @@
+{
+    "tabLabels": {
+        "dashboard": "BẢNG ĐIỀU KHIỂN",
+        "mediaLibrary": "THƯ VIỆN PHƯƠNG TIỆN",
+        "artworks": "TÁC PHẨM NGHỆ THUẬT",
+        "orders": "ĐƠN HÀNG",
+        "customers": "KHÁCH HÀNG",
+        "settings": "CÀI ĐẶT",
+        "addArtwork": "Thêm Tác phẩm Nghệ thuật"
+    },
+    "incompletePopup": {
+        "mainText": "Thật tuyệt khi gặp bạn ở đây, bắt đầu tải lên các tác phẩm nghệ thuật của bạn.",
+        "subText": "Trước khi có thể tải lên và xuất bản các tác phẩm nghệ thuật, bạn cần hoàn thành hồ sơ của mình."
+    },
+    "knowledgeBase": {
+        "title": "KIẾN THỨC CƠ BẢN"
+    },
+    "dashboard": {
+        "title": "Bảng điều khiển",
+        "learnMore": "Tìm hiểu Thêm",
+        "sections": {
+            "sec1": "PHÊ DUYỆT TÁC PHẨM NGHỆ THUẬT",
+            "sec2": "LÀM THẾ NÀO ĐỂ TÁC PHẨM CỦA TÔI ĐƯỢC PHÊ DUYỆT?",
+            "sec3": "Vui lòng xem Hướng dẫn Tải lên Tác phẩm Nghệ thuật tại đây",
+            "sec4": "TÁC PHẨM NGHỆ THUẬT ĐƯỢC BÁN NHƯ THẾ NÀO?",
+            "here": "tại đây."
+        }
+    },
+    "artworks": {
+        "title": "Tác phẩm Nghệ thuật",
+        "addNew": "Thêm Mới",
+        "learnMore": "Tìm hiểu Thêm",
+        "draft": "bản nháp",
+        "published": "Được phát hành",
+        "underReview": "Chờ phê duyệt",
+        "sold": "Đã bán",
+        "pending": "Chỉnh sửa Bắt buộc",
+        "show": "Hiển thị",
+        "entries": "Các mục",
+        "placeholderSearch": "Tìm kiếm",
+        "eur": "EUR",
+        "quickEdit": {
+            "title": "Sửa Nhanh",
+            "confirmButton": "Có",
+            "markAsSoldText": "Bạn chắc chắn muốn đánh dấu tác phẩm nghệ thuật này là đã bán chứ? Hành động này không thể hoàn tác",
+            "switchLeft": "đã bán",
+            "switchRight": "Sẵn có",
+            "saveChanges": "Lưu Thay đổi",
+            "selfNotePlaceholder": "Ghi chú cho Bản thân",
+            "titlePlaceholder": "Tiêu đề",
+            "pricePlaceholder": "Giá",
+            "priceOnRequestPlaceholder": "Giá Thương lượng"
+        },
+        "delete": {
+            "confirmButton": "Có",
+            "confirmDeleteText": "Bạn chắc chắn muốn xóa tác phẩm nghệ thuật này chứ?"
+        },
+        "hover": {
+            "view": "Xem",
+            "quickEdit": "Sửa Nhanh",
+            "edit": "Chỉnh sửa",
+            "delete": "Xóa"
+        }
+    },
+    "orders": {},
+    "settings": {
+        "title": "Cài đặt",
+        "learnMore": "Tìm hiểu Thêm",
+        "saveChanges": "Lưu Thay đổi",
+        "updateChanges": "Cập nhật thay đổi",
+        "optionTitles": {
+            "general": "Chung",
+            "vacation": "Kỳ nghỉ",
+            "subscription": "Đăng ký",
+            "payouts": "Các khoản thanh toán"
+        },
+        "general": {
+            "vendorEmail": "Email của Nhà cung cấp",
+            "timezone": "Múi giờ",
+            "shippingPolicy": "Chính sách Vận chuyển",
+            "validationErrors": {
+                "email": "Vui lòng nhập một địa chỉ email hợp lệ",
+                "shippingPolicy": "Chính sách vận chuyển tối đa 1000 ký tự"
+            }
+        },
+        "vacation": {
+            "vacationMode": "Bật Chế độ Nghỉ",
+            "disablePurchase": "Tắt tính năng Mua trong Kỳ nghỉ",
+            "vacationMessage": "Thông điệp khi đang trong Kỳ nghỉ",
+            "validationErrors": {
+                "vacationMessage": "Thông điệp khi đang trong Kỳ nghỉ không quá 1000 ký tự"
+            }
+        },
+        "subscription": {
+            "paymentsVia": "Thanh toán qua",
+            "paypalEmail": "Địa chỉ email Paypal",
+            "cardNumber": "Số Thẻ ",
+            "changePaymentData": "Thay đổi Dữ liệu Thanh toán",
+            "subscriptionPeriod": "Thời hạn Đăng ký",
+            "price": "Giá",
+            "eur": "EUR",
+            "upcomingPayment": "Thanh toán Sắp tới",
+            "upgradeMembership": "Đăng ký nâng cấp",
+            "downgradeYourAccount": "Hạ cấp đăng ký của bạn",
+            "cancelSubscription": "Hủy đăng ký của bạn",
+            "cancelConfirmText": "Bạn chắc chắn muốn hủy đăng ký chứ?",
+            "buttonYes": "Đúng",
+            "changePaymentText": "Bạn chắc chắn muốn thay đổi kiểu thanh toán chứ?",
+            "basicPlanText": "Đây là gói miễn phí. Không yêu cầu thanh toán."
+        },
+        "payouts": {
+            "wireTransfer": "Wire Transfer",
+            "payPal": "PayPal",
+            "paymentTypeQuestion": "Bạn muốn nhận tiền bán tác phẩm của mình như thế nào?",
+            "country": "Quốc gia",
+            "bankAccountNumber": "Số Tài khoản Ngân hàng",
+            "email": "Email",
+            "routingNumber": "Số Định tuyến",
+            "validationErrors": {
+                "bankAccountNumber": "Số tài khoản ngân hàng không quá 24 chữ số",
+                "routingNumber": "Số định tuyến không quá 24 chữ số",
+                "country": "Cần nhập Quốc gia",
+                "email": "Cần nhập Email",
+                "bankAccountNumberLength": "Số tài khoản không quá 24 chữ số",
+                "routingNumberLength": "Số định tuyến không quá 24 chữ số",
+                "paymentType": "Cần nhập kiểu thanh toán",
+                "invalidEmail": "Nhập một địa chỉ email hợp lệ"
+            }
+        }
+    },
+    "knowledgebase": {
+        "accordion1": "Làm thế nào để bật Chế độ Nghỉ?",
+        "accordion2": "Làm thế nào để nộp một tác phẩm nghệ thuật?",
+        "accordion3": "Tại sao không thấy sản phẩm của tôi trong Bộ sưu tập?",
+        "accordion4": "Yêu cầu về Ảnh",
+        "accordion5": "Chứng nhận Tính xác thực (tải xuống)"
+    },
+    "purchaseSubscriptionMessage": "Vui lòng mua một gói đăng ký trước",
+    "profileCompletionPopup": {
+        "title": "Hoàn thiện Tài khoản của bạn",
+        "addProfileImage": "Thêm hình ảnh hồ sơ",
+        "startSellingArt": "Bắt đầu Bán Tác phẩm",
+        "placeholder": {
+            "phone": "Số điện thoại",
+            "city": "Thành phố",
+            "country": "Quốc gia"
+        },
+        "validationErrors": {
+            "profileImageRequired": "Cần có hình ảnh hồ sơ",
+            "cityRequired": "Cần nhập Thành phố",
+            "countryRequired": "Cần nhập Quốc gia",
+            "phoneRequired": "Cần nhập Số điện thoại",
+            "invalidPhone": "Số điện thoại không hợp lệ"
+        }
+    }
+}

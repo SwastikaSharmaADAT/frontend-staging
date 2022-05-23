@@ -1,0 +1,114 @@
+{
+    "auth": {
+        "passwordResetSuccess": "Пароль был успешно установлен!!",
+        "signOutMessage": "Вы вышли из аккаунта!!"
+    },
+    "articles": {
+        "articlePublish": "Статья отправлена на рассмотрение",
+        "articleDraft": "Статья сохранена в черновики",
+        "articleUpdate": "Статья обновлена и отправлена на рассмотрение"
+    },
+    "dashboard": {
+        "settingsSaved": "Настройки сохранены"
+    },
+    "groups": {
+        "userRemoved": "Пользователя(ницу) удалили из группы",
+        "assignAsModerator": "Назначен(а) Модератором(кой)",
+        "inviteSent": "Приглашение отправлено",
+        "postSentForApproval": "Ваш недавний пост был отправлен Администратору/Модератору на рассмотрение",
+        "postPublished": "Пост в группе успешно опубликован",
+        "groupPostAccepted": "Пост успешно принят",
+        "groupPostRejected": "Пост успешно отклонён",
+        "joinRequestAccepted": "Заявка на вступление принята",
+        "joinRequestRejected": "Заявка на вступление отклонена",
+        "groupInviteAccept": "Приглашение в группу принято",
+        "groupInviteReject": "Приглашение в группу проигнорировано",
+        "commentAddSuccess": "Комментарий успешно добавлен",
+        "groupPhotoRemove": "Фотография в группе успешно удалена",
+        "groupPhotoUpload": "Фотография в группе успешно загружена",
+        "commentDeleted": "Комментарий успешно удалён"
+    },
+    "mediaLibrary": {
+        "updatedAllMedia": "Файлы обновлены.",
+        "updatedMedia": "Файл обновлён."
+    },
+    "newsFeed": {
+        "postPublished": "Пост успешно опубликован",
+        "videoPublished": "Видео успешно опубликовано",
+        "photoAlbumPublished": "Альбом успешно опубликован",
+        "photoAlbumUpdated": "Альбом успешно обновлён",
+        "commentAdded": "Комментарий успешно добавлен",
+        "commentDeleted": "Комментарий успешно удалён",
+        "commentHide": "Комментарий успешно скрыт",
+        "commentUnhide": "Комментарий больше не скрыт",
+        "commentUpdated": "Комментарий успешно обновлён",
+        "activityDeleted": "Деятельность успешно удалена"
+    },
+    "notification": {
+        "notificationRemoved": "Уведомления изменены!"
+    },
+    "pages": {
+        "pageCreated": "Страница успешно создана"
+    },
+    "profile": {
+        "profilePhotoUploaded": "Фотография Профиля успешно загружена",
+        "coverPhotoUploaded": "Фотография Обложки успешно загружена",
+        "profilePhotoRemoved": "Фотография Профиля успешно удалена",
+        "coverPhotoRemoved": "Фотография Обложки успешно удалена",
+        "infoSaved": "Информация успешно сохранена",
+        "profileUpdated": "Профиль успешно обновлён",
+        "connectionRequestSent": "Запрос в друзья отправлен",
+        "blockUser": "Пользователь(ница) {{type}}ет",
+        "blocked":"Пользователь(ница) заблокирован(а)",
+        "unblocked":"Пользователь(ница) разблокирован(а)",
+        "follow":"Вы подписались на Пользователя(ницу)",
+        "unfollow":"Вы отписались от Пользователя(ницы)",
+        "noticeDeleted": "Объявление успешно удалено",
+        "techniqueUpdate": "Раздел Техники успешно обновлён",
+        "expertiseUpdate": "Раздел Экспертизы успешно обновлён",
+        "awardUpdate": "Раздел Наград успешно обновлён",
+        "publicationUpdate": "Раздел Публикаций успешно обновлён",
+        "exhibitionUpdate": "Раздел Прошедших Выставок успешно обновлён",
+        "aboutBusinessUpdate": "Раздел О моём Бизнесе | Профессии успешно обновлён",
+        "disconnectedFromUser": "Успешно удален(а) из Друзей",
+        "connectionRequestDeleted": "Заявка в друзья успешно удалена",
+        "connectionRequestIgnored": "Заявка в друзья успешно проигнорирована",
+        "userConnected": "Успешно добавлен(а) в Друзья"
+    },
+    "staticContent": {
+        "inviteSent": "Приглашение Отправлено"
+    },
+    "myAccount": {
+        "privacySettingsUpdated": "Настройки Безопасности успешно обновлены",
+        "webNotificationsSettingsUpdated": "Вэб-уведомления успешно обновлены",
+        "dataDownload": "Информация успешно скачалась",
+        "picsDownload": "Фотографии успешно скачались",
+        "passwordUpdated": "Пароль успешно обновлён",
+        "notificationUpdated": "Уведомления успешно обновлены",
+        "accountDisconnected": "Ваш аккаунт успешно отключен",
+        "userDataDelete":"Вся пользовательская информация удалена",
+        "photosDelete":"Все Альбомы и Фотографии удалены",
+        "userDelete":"Аккаунт успешно удалён"
+    },
+    "artworks": {
+        "artworkUpdated": "Ваше Произведение успешно обновлено.",
+        "artworkDeleted": "Произведение успешно удалено",
+        "draftSave": "Ваше Произведение было сохранено в Черновиках",
+        "sentForReview": "Ваше Произведение было отправлено на рассмотрение",
+        "published":"Ваше Произведение успешно опубликовано"
+    },
+    "profileCompletePopup": {
+        "profileUpdated": "Профиль успешно обновлён"
+    },
+    "subscriptions": {
+        "purchaseSuccess": "Подписка была успешно куплена",
+        "updateSuccess": "Подписка успешно обновилась",
+        "cancel": "Подписка отменена",
+        "paymentReactivate":"Оплата восстановлена"
+    },
+    "messages": {
+        "chatDelete": "Диалог успешно удалён",
+        "userBlock": "Пользователь(ница) заблокирован(а)",
+        "messageSent":"Сообщение отправлено"
+    }
+}

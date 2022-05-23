@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "noContactsFound": "Tidak ada kontak yang ditemukan",
+        "somethingWentWrong": "Terjadi kesalahan, harap masuk kembali untuk melanjutkan",
+        "sessionExpired": "Sesi telah kedaluwarsa, silakan masuk kembali",
+        "loginToContinue": "Silahkan masuk untuk melanjutkan."
+    },
+    "mediaLibrary": {
+        "limitMoreImages": "Hanya {{terbatas}} lebih banyak gambar yang dapat dipilih"
+    },
+    "article": {
+        "articleNotFound": "Artikel tidak ditemukan"
+    },
+    "cart": {
+        "alreadyInCart": "Produk ini sudah ditambahkan ke keranjang anda",
+        "removeItemError": "Terjadi kesalahan saat menghapus item dari keranjang"
+    },
+    "subscriptions": {
+        "planExist": "Anda telah membeli paket ini!",
+        "artworkNotFound": "Karya seni tidak ditemukan"
+    }
+}

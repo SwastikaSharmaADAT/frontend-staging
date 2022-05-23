@@ -1,0 +1,156 @@
+{
+    "tabLabels": {
+        "dashboard": "DASBOR",
+        "mediaLibrary": "PERPUSTAKAAN MEDIA",
+        "artworks": "KARYA SENI",
+        "orders": "PESANAN",
+        "customers": "PELANGGAN",
+        "settings": "PENGATURAN",
+        "addArtwork": "Tambahkan Karya Seni"
+    },
+    "incompletePopup": {
+        "mainText": "Senang melihat Anda di sini, mulai mengunggah karya seni Anda.",
+        "subText": "Sebelum Anda dapat mengunggah dan menerbitkan karya seni, Anda harus melengkapi profil Anda."
+    },
+    "knowledgeBase": {
+        "title": "DASAR PENGETAHUAN"
+    },
+    "dashboard": {
+        "title": "Dasbor",
+        "learnMore": "Pelajari Lebih",
+        "sections": {
+            "sec1": "PERSETUJUAN KARYA SENI",
+            "sec2": "BAGAIMANA SAYA MENDAPATKAN KARYA SENI SAYA DISETUJUI?",
+            "sec3": "Silakan lihat Petunjuk Unggah Karya Seni di sini",
+            "sec4": "BAGAIMANA KARYA SENI TERJUAL?",
+            "here": "disini."
+        }
+    },
+    "artworks": {
+        "title": "Karya seni",
+        "addNew": "Tambah baru",
+        "learnMore": "Pelajari Lebih",
+        "draft": "draf",
+        "published": "Diterbitkan",
+        "underReview": "Menunggu Persetujuan",
+        "sold": "Dijual",
+        "pending": "Edit Diperlukan",
+        "show": "Menampilkan",
+        "entries": "Masuk",
+        "placeholderSearch": "Pencarian",
+        "eur": "EUR",
+        "quickEdit": {
+            "title": "Edit Cepat",
+            "confirmButton": "Ya",
+            "markAsSoldText": "Apakah anda yakin ingin menandai karya seni ini telah terjual? Ini tidak dapat dibatalkan",
+            "switchLeft": "terjual",
+            "switchRight": "Tersedia",
+            "saveChanges": "Simpan perubahan",
+            "selfNotePlaceholder": "Catatan pribadi",
+            "titlePlaceholder": "Judul",
+            "pricePlaceholder": "Harga",
+            "priceOnRequestPlaceholder": "Harga Sesuai Permintaan"
+        },
+        "delete": {
+            "confirmButton": "Ya",
+            "confirmDeleteText": "Apakah anda yakin ingin menghapus karya seni ini?"
+        },
+        "hover": {
+            "view": "Lihat",
+            "quickEdit": "Edit Cepat",
+            "edit": "Edit",
+            "delete": "Hapus"
+        }
+    },
+    "orders": {},
+    "settings": {
+        "title": "Pengaturan",
+        "learnMore": "Pelajari Lebih",
+        "saveChanges": "Simpan Perubahan",
+        "updateChanges": "Perbarui perubahan",
+        "optionTitles": {
+            "general": "Umum",
+            "vacation": "Vakansi",
+            "subscription": "Berlangganan",
+            "payouts": "Pembayaran"
+        },
+        "general": {
+            "vendorEmail": "Email Penjual",
+            "timezone": "Zona waktu",
+            "shippingPolicy": "Kebijakan Pengiriman",
+            "validationErrors": {
+                "email": "silakan isi alamat email",
+                "shippingPolicy": "Kebijakan pengiriman maksimal 1000 karakter"
+            }
+        },
+        "vacation": {
+            "vacationMode": "Aktifkan Mode Vakansi",
+            "disablePurchase": "Nonaktifkan Pembelian Selama Vakansi",
+            "vacationMessage": "Pesan Vakansi",
+            "validationErrors": {
+                "vacationMessage": "Pesan vakansi maksimal 1000 karakter"
+            }
+        },
+        "subscription": {
+            "paymentsVia": "Pembayaran melalui",
+            "paypalEmail": "Email PayPal",
+            "cardNumber": "Nomor kartu",
+            "changePaymentData": "Ubah Data Pembayaran",
+            "subscriptionPeriod": "Periode Berlangganan",
+            "price": "Harga",
+            "eur": "EUR",
+            "upcomingPayment": "Pembayaran Mendatang",
+            "upgradeMembership": "Tingkatkan Langganan",
+            "downgradeYourAccount": "Turunkan Langganan Anda",
+            "cancelSubscription": "Batalkan langganan Anda",
+            "cancelConfirmText": "Apakah Anda yakin ingin batalkan langganan Anda?",
+            "buttonYes": "Ya",
+            "changePaymentText": "Apakah Anda yakin ingin mengganti jenis pembayaran?",
+            "basicPlanText": "Ini adalah paket gratis. Pembayaran tidak dibutuhkan."
+        },
+        "payouts": {
+            "wireTransfer": "Transfer antar Bank beda negara",
+            "payPal": "PayPal",
+            "paymentTypeQuestion": "Bagaimana Anda ingin menerima uang dari penjualan karya seni Anda?",
+            "country": "Negara",
+            "bankAccountNumber": "Nomor Rekening Bank",
+            "email": "Email",
+            "routingNumber": "Kode Rekening Bank Internasional",
+            "validationErrors": {
+                "bankAccountNumber": "Nomor rekening bank maksimal 24 digit",
+                "routingNumber": "Kode Rekening Bank Internasional maksimal 24 digit",
+                "country": "Negara wajib diisi",
+                "email": "Email wajib diisi",
+                "bankAccountNumberLength": "Nomor rekening maksimum 24 digit",
+                "routingNumberLength": "Kode Rekening Bank Internasional maksimal 24 digit",
+                "paymentType": "Jenis pembayaran wajib diisi",
+                "invalidEmail": "Masukkan alamat email yang valid"
+            }
+        }
+    },
+    "knowledgebase": {
+        "accordion1": "Bagaimana cara mengatur Mode Vakansi?",
+        "accordion2": "Bagaimana cara mengirimkan karya seni saya?",
+        "accordion3": "Mengapa produk saya tidak terlihat di Koleksi?",
+        "accordion4": "Persyaratan Foto",
+        "accordion5": "Sertifikat Keaslian (unduh)"
+    },
+    "purchaseSubscriptionMessage": "Silakan beli langganan terlebih dahulu",
+    "profileCompletionPopup": {
+        "title": "Lengkapi akun Anda",
+        "addProfileImage": "Tambahkan gambar profil",
+        "startSellingArt": "Mulai Menjual Karya",
+        "placeholder": {
+            "phone": "Nomor Telepon",
+            "city": "Kota",
+            "country": "Negara"
+        },
+        "validationErrors": {
+            "profileImageRequired": "Gambar Profil wajib diisi",
+            "cityRequired": "Kota wajib diisi",
+            "countryRequired": "Negara wajib diisi",
+            "phoneRequired": "Nomor Telepon wajib diisi",
+            "invalidPhone": "Nomor Telepon tidak valid"
+        }
+    }
+}

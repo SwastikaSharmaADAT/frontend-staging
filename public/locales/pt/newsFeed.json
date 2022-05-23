@@ -1,0 +1,119 @@
+{
+    "addContent": {
+        "placeholderAdd": "Adicionar...",
+        "post": "Post",
+        "video": "Vídeo",
+        "album": "Álbum",
+        "article": "Artigo",
+        "artwork": "Obra de Arte"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "Adicionar um Álbum de Fotos",
+        "limitText": "Adicionar imagens (max 50)",
+        "addImages": "Adicionar imagens",
+        "placeholderAddTitle": "Adicionar Título",
+        "writeSomething": "Escrever algo...",
+        "firstPhotoInfo": "A primeira foto será a imagem de capa do álbum.",
+        "publish": "Publicar",
+        "errorLabels": {
+            "maxCharacter100": "Apenas 100 caracteres permitidos",
+            "titleRequired": "O título é necessário",
+            "maxCharacter500": "Apenas 500 caracteres permitidos"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "Editar Álbum de Foto",
+        "updateButton": "Atualizar"
+    },
+    "addPostPopup": {
+        "title": "Criar Postagem",
+        "editPhoto": "Editar Foto",
+        "addPhoto": "Adicionar Foto",
+        "writeSomething": "Escreva alguma coisa...",
+        "postDescCount": "/200",
+        "publish": "Publicar"
+    },
+    "editPostPopup": {
+        "title": "Editar Publicação",
+        "updateButton": "Atualizar"
+    },
+    "addVideoPopup": {
+        "title": "Adicionar um Vídeo",
+        "validUrlError": "Por favor insira um URL válido",
+        "placeholderEnterLink": "Insira um link do YouTube, Vimeo...",
+        "placeholderWriteSomething": "Escreva algo...",
+        "addCategory": "Adicionar Categoria",
+        "next": "Próximo",
+        "publish": "Publicar"
+    },
+    "editVideoPopup": {
+        "title": "Editar Publicação de Vídeo",
+        "updateButton": "Atualizar"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "Nova atividade adicionada",
+        "refresh": "Atualizar"
+    },
+    "hashtags": {
+        "title": "TOP HASHTAGS",
+        "noHashtagsAdded": "Nenhuma hashtag adicionada",
+        "post": "post",
+        "postPlural": "posts"
+    },
+    "manageArtwork": {
+        "follower": "seguidor",
+        "followerPlural": "seguidores",
+        "visit": "Visitar ",
+        "manage": "Gerir ",
+        "noPageFound": "Nenhuma página encontrada"
+    },
+    "profile": {
+        "follower": "seguidor",
+        "followerPlural": "seguidores",
+        "profileCompleteness": "Completude do Perfil",
+        "editProfile": "Editar Perfil"
+    },
+    "singlePost": {
+        "photo": "foto",
+        "photoPlural": "fotos",
+        "seeInStore": "Ver na Loja",
+        "deleteText": "Tem certeza que deseja deletar seu comentário?",
+        "capsHide": "Ocultar",
+        "capsUnhide": "Tornar Visível",
+        "hide": "ocultar",
+        "unhide": "tornar visível",
+        "areYouSure": "Tem certeza que deseja",
+        "thisComment": "este comentário?",
+        "update": "Atualizar",
+        "like": "Curtir",
+        "comment": "Comentar",
+        "liked": "Curtido",
+        "likedBy": "Curtido por",
+        "lowerLike": "curtidas",
+        "lowerLikePlural": "curtir",
+        "lowerUnlike": "descurtir",
+        "lowerComment": "comentário",
+        "lowerCommentPlural": "comentários",
+        "share": "Compartilhar",
+        "pending": "Pendente",
+        "deleteActivity": "Tem certeza de que deseja excluir esta atividade?",
+        "accept": "Aceitar",
+        "reject": "Rejeitar",
+        "delete": "Excluir",
+        "seeMore": "Ver mais..",
+        "price": "Preço",
+        "priceOnRequest": "Preço sob Consulta",
+        "placeholderComment":"Insira seu comentário...",
+        "publish":"Publicar",
+        "loadMoreText":"Carregar Mais...",
+        "loadMoreRepliesText":"Carregar mais respostas...",
+        "edit":"Editar"
+    },
+    "singleActivity": {
+        "activityNotAvailable": "Esta atividade não está disponível",
+        "seeMore": "Veja Mais...",
+        "alreadyHaveAnAccount": "Já tem uma conta?",
+        "signUp": "Registrar",
+        "logIn": "Entrar"
+    }
+}

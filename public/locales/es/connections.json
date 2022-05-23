@@ -1,0 +1,20 @@
+{
+    "myConnectionsLabel": "Mis Conexiones",
+    "connectionRequests": "Solicitudes de Conexión",
+    "connectionRequestsSent": "Solicitudes de Conexión Enviadas",
+    "follower": "seguidor",
+    "followerPlural": "seguidores",
+    "disconnected": "desconectado",
+    "disconnect": "desconectar",
+    "loadMore": "Cargar Más...",
+    "noConnections": "Sin conexiones",
+    "ignore": "Ignorar",
+    "ignored": "Ignorado",
+    "connect": "conectar",
+    "connected": "conectado",
+    "noConnectionRequestsReceived": "No se recibieron solicitudes de conexión",
+    "noConnectionRequestsSent": "No se enviaron solicitudes de conexión",
+    "requestDeleted": "Solicitud eliminada",
+    "deleteRequest": "Eliminar solicitud",
+    "noConnectionRequests": "No se recibieron solicitudes de conexión"
+}

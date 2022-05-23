@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "noContactsFound": "連絡先がありません",
+        "somethingWentWrong": "問題が発生しました。続けるにはログインしてください",
+        "sessionExpired": "セッションが切れました。ログインし直してください",
+        "loginToContinue": "続けるにはログインしてください。"
+    },
+    "mediaLibrary": {
+        "limitMoreImages": "あと画像を{{limit}}つ選択できます"
+    },
+    "article": {
+        "articleNotFound": "記事がありません"
+    },
+    "cart": {
+        "alreadyInCart": "この商品は既にカートに追加されています",
+        "removeItemError": "カートから商品を削除する際にエラーが発生しました"
+    },
+    "subscriptions": {
+        "planExist": "既にこのプランを購入済みです！",
+        "artworkNotFound": "作品がありません"
+    }
+}

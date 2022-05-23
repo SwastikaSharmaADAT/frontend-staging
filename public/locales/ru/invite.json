@@ -1,0 +1,16 @@
+{
+  "title": "ПРИГЛАСИТЬ ДРУЗЕЙ",
+  "tagsInput": {
+    "placeholder": "Добавьте электронную почту вручную. Разделяйте запятой или клавишей ввода каждый адрес."
+  },
+  "cancelButtonLabel": "Отменить",
+  "sendInvitesButtonLabel": "Отправить Приглашения",
+  "howInviteWork": "Как это работает?",
+  "emailTemplateText": "Могу ли я увидеть электронное письмо перед отправкой?",
+  "pickEmailService": "Выберите почту...",
+  "gmailText": "Gmail",
+  "outlookText": "Outlook",
+  "otherText": "Другое",
+  "selectedText": "Выбрано",
+  "emptyResultText": "Нет результата"
+}

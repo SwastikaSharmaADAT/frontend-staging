@@ -1,0 +1,20 @@
+{
+    "title": "ZNAK",
+    "promoteProfileSection": {
+        "title": "Promuj swój profil",
+        "description": "Dodaj link do swojego profilu ARTMO na innych stronach.",
+        "getLinkButton": "Uzyskaj Link"
+    },
+    "badgeSections": {
+        "step1": "Krok 1: Wybierz kolor:",
+        "whiteRadioOption": "Biały",
+        "blackRadioOption": "Czarny",
+        "step2": "Krok 2: Wybierz rozmiar:",
+        "largeRadioOption": "Duży",
+        "smallRadioOption": "Mały",
+        "step3": "Krok 3: Skopiuj i wklej link na swojej stronie:",
+        "copyButtonText": "Skopiuj Kod",
+        "copiedButtonText": "Skopiowany!",
+        "helpText": "Pomoc"
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "title": "סרטונים",
+  "listing": {
+    "placeholderSearch": "חפש סרטונים לפי שם...",
+    "search": "חיפוש",
+    "country": "מדינה",
+    "category": "קטגוריה:",
+    "userType": "סוג משתמש:",
+  }
+}

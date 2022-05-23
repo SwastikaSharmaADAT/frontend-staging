@@ -1,0 +1,10 @@
+{
+    "title": "WIDEO",
+    "listing": {
+        "placeholderSearch": "Szukaj wideo po tytule...",
+        "search": "Szukaj",
+        "country": "Kraj:",
+        "category": "Kategoria:",
+        "userType": "Typ:"
+    }
+}

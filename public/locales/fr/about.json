@@ -1,0 +1,27 @@
+{
+    "about": "à propos",
+    "labels": {
+        "option1": "La Plateform d'Art Social",
+        "option2": "La boutique",
+        "option3": "L'équipe",
+        "option4": "Carrières",
+        "option5": "IP",
+        "option6": "Mentions légales",
+        "option7": "Termes & Confidentialité",
+        "option8": "Relations Investisseurs"
+    },
+    "career": {
+        "jobOpening": {
+            "title": "Job Openings"
+        },
+        "lisbonPortugal": {
+            "title": "Lisbon | Portugal",
+            "option1": "Internships",
+            "option2": "Social Media Manager & Digital Marketer",
+            "option3": "WooCommerce Expert"
+        },
+        "hamburgGermany": {
+            "title": "Hamburg | Germany"
+        }
+    }
+}

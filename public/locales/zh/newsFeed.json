@@ -1,0 +1,122 @@
+{
+    "addContent": {
+        "placeholderAdd": "添加...",
+        "post": "帖子",
+        "video": "视频",
+        "album": "相册",
+        "article": "文章",
+        "artwork": "艺术品"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "添加相册",
+        "limitText": "添加图像 (最多 50)",
+        "addImages": "添加图像",
+        "placeholderAddTitle": "添加标题",
+        "writeSomething": "写点什么...",
+        "firstPhotoInfo": "第一张照片将成为相册的封面图片.",
+        "publish": "发布",
+        "errorLabels": {
+            "maxCharacter100": "最多允许100个字符",
+            "titleRequired": "标题是必填项",
+            "maxCharacter500": "最多允许500个字符"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "编辑相册",
+        "updateButton": "更新"
+    },
+    "addPostPopup": {
+        "title": "创建帖子",
+        "editPhoto": "编辑照片",
+        "addPhoto": "添加照片",
+        "writeSomething": "写点什么...",
+        "postDescCount": "/200",
+        "publish": "发布"
+    },
+    "editPostPopup": {
+        "title": "编辑帖子",
+        "updateButton": "更新"
+    },
+    "addVideoPopup": {
+        "title": "添加视频",
+        "validUrlError": "请输入有效的URL",
+        "placeholderEnterLink": "插入YouTube、Vimeo的链接...",
+        "placeholderWriteSomething": "写点什么...",
+        "addCategory": "添加类别",
+        "next": "下一步",
+        "publish": "发布",
+        "update": "更新"
+    },
+    "editVideoPopup": {
+        "title": "编辑视频帖子",
+        "updateButton": "更新"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "新活动已添加",
+        "refresh": "刷新"
+    },
+    "hashtags": {
+        "title": "热门标签",
+        "noHashtagsAdded": "未添加任何标签",
+        "post": "帖子",
+        "postPlural": "帖子"
+    },
+    "manageArtwork": {
+        "follower": "粉丝",
+        "followerPlural": "粉丝",
+        "visit": "访问 ",
+        "manage": "管理 ",
+        "noPageFound": "找不到页面"
+    },
+    "profile": {
+        "follower": "粉丝",
+        "followerPlural": "粉丝",
+        "profileCompleteness": "简介完整性",
+        "editProfile": "编辑简介"
+    },
+    "singlePost": {
+        "photo": "照片",
+        "photoPlural": "照片",
+        "seeInStore": "店内见",
+        "deleteText": "您确定要删除您的评论吗?",
+        "capsHide": "隐藏",
+        "capsUnhide": "取消隐藏",
+        "hide": "隐藏",
+        "unhide": "取消隐藏",
+        "areYouSure": "您确定吗？",
+        "thisComment": "此评论",
+        "update": "更新",
+        "like": "赞",
+        "comment": "评论",
+        "liked": "已赞",
+        "likedBy": "点赞人",
+        "lowerLike": "赞",
+        "lowerLikePlural": "赞",
+        "lowerUnlike": "取消赞",
+        "lowerComment": "评论",
+        "lowerCommentPlural": "评论",
+        "share": "分享",
+        "pending": "以后再说",
+        "deleteActivity": "您确定要删除此活动吗?",
+        "accept": "同意",
+        "reject": "拒绝",
+        "delete": "删除",
+        "seeMore": "查看更多..",
+        "price": "价格",
+        "priceOnRequest": "按需报价",
+        "placeholderComment":"加入您的注释...",
+        "publish":"发布",
+        "loadMoreText":"加载更多...",
+        "loadMoreRepliesText":"加载更多回复...",
+        "edit":"编辑",
+        "commentRemoved": "此评论已被删除",
+        "replyRemoved": "此评论已被删除"
+    },
+    "singleActivity": {
+        "activityNotAvailable": "此活动不可用",
+        "seeMore": "查看更多...",
+        "alreadyHaveAnAccount": "是否已拥有帐户?",
+        "signUp": "注册",
+        "logIn": "登录"
+    }
+}

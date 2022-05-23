@@ -1,0 +1,114 @@
+{
+  "title": "MARKTPLATZ-ABONNEMENT",
+  "artistPage": {
+    "sectionLabels": {
+      "sellCommissionFree": "Verkaufe deine Kunst provisionsfrei",
+      "connectWithCollectors": "Vernetze dich direkt mit Sammlern",
+      "cancelSubscription": "Kündigen dein Abonnement jederzeit",
+      "basicPlan": "BASIC Plan ist KOSTENLOS"
+    }
+  },
+  "memberPage": {
+    "chooseThePlan": "Wähle den Plan der am besten zu dir passt...",
+    "planLabels": {
+      "plus": "PLUS",
+      "pro": "PRO",
+      "lifetime": "Lifetime"
+    },
+    "gatewayFees": "Gateway-Gebühren",
+    "cancelAnytime": "Jederzeit kündbar"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "askQuestion": "Stelle eine Frage",
+    "questionLabels": {
+      "subscriptionFee": "Warum sollte ich eine Abonnementgebühr zahlen?",
+      "basicAccount": "Ist der BASIC-Plan nur eine kostenlose Testversion?",
+      "cancelSubscription": "Kann ich jederzeit stornieren und erhalte ich eine Rückerstattung?",
+      "paymentForSelling": "Wie und wann werde ich bezahlt, wenn eines meiner Kusntwerke verkauft wird?",
+      "publishAndSell": "Kann ich jede art von Kunst veröffentlichen und verkaufen?",
+      "howArtmoSurvive": "Keine Provision, wie kann ARTMO überleben?"
+    }
+  },
+  "perMonth": "/p.M.",
+  "pricingSelectLabels": {
+    "monthly": "Monatlich,",
+    "quarterly": "Vierteljährlich abgerechnet,",
+    "halfYearly": "Halbjährlich abgerechnet,",
+    "yearly": "Jährlich abgerechnet,"
+  },
+  "freePricing": "kostenlos",
+  "currencySwitcher": "Währungs-Umschalter",
+  "commission": "Provision",
+  "helpDesk": "ARTMO Helpdesk",
+  "directPayments": "Akzeptieren Sie Direktzahlungen",
+  "backLink": "Verlinken Sie Ihre ARTMO-Sammlung auf Ihrer Homepage",
+  "connectDirectly": "Direkt mit Käufern verbinden",
+  "certificates": "Erstellen Sie Echtheitszertifikate für Ihre Kunstwerke",
+  "mediation": "Unterstützung bei der Mediation von Kundenstreitigkeiten",
+  "manageCollection": "Dashboard: Sammlung & Konto verwalten",
+  "gateways": "Zahlungsgateways aktivieren: Paypal, Visa, MasterCard",
+  "badge": "Premium-Verkäufer-Abzeichen",
+  "articles": "Veröffentlichen und posten Sie Artikel über Ihre Arbeit und Ausstellungen",
+  "shippingPolicy": "Ihre eigene Versandrichtlinie",
+  "getText": "Nimm",
+  "signUpText": "Anmeldung",
+  "noneText": "keine",
+  "includedText": "Inbegriffen",
+  "notIncludedText": "Nicht enthalten",
+  "vendorPaymentPopup": {
+    "yourChoice": "Deine Wahl",
+    "price": "Preis",
+    "every": "alle",
+    "month": "Monat",
+    "months": "Monate",
+    "proceedToPayment": "Weiter zur Zahlung"
+  },
+  "underagePopup": {
+    "hi": "Hi",
+    "backToProfile": "Zurück zum Profil"
+  },
+  "productLimits": {
+    "publishAndSell": "Veröffentliche und verkaufe...",
+    "basic": "bis zu 5 Kunstwerke",
+    "artistPlus": "bis zu 20 Kunstwerke",
+    "unlimited": "unbegrenzte Anzahl von Kunstwerken"
+  },
+  "termsCondsPopup": {
+    "title": "Verkäufer AGB",
+    "agreeAndProceed": "Zustimmen & weiter",
+    "agreeAndSubscribeTo": "Zustimmen und abonnieren"
+  },
+  "artworkListing": {
+    "byText": "von"
+  },
+  "roleChangeWarning": "Indem du fortfährst, stimmst du zu, dass dein Benutzertyp geändert wird von",
+  "toText": "to",
+  "toggleMemberLabel": "Für Members",
+  "toggleArtistLabel": "Für Künstler",
+  "pickPlanHeading": "Wähle den Plan, der am besten zu dir passt.",
+  "promoteWorkHeading": "Bewerbe und verkaufe deine Kunst provisions-frei.",
+  "makeArtSeenHeading": "Verkaufe deine Kunst",
+  "categories":{
+    "artistConnectDirectly":"Direkt mit Käufern in Kontakt treten",
+    "artistEnablePayment":"Zahlungsgateways aktivieren: Paypal, Visa, MasterCard",
+    "enableAcceptPayment":"Akzeptieren Sie Direktzahlungen",
+    "artistDashboardManage":"Dashboard: Sammlung & Konto verwalten",
+    "artistShippingPolicy":"Ihre eigene Versandrichtlinie",
+    "artistCreateCertificate":"Erstellen Sie Echtheitszertifikate für Ihre Kunstwerke",
+    "artistHelpDesk":"ARTMO Helpdesk",
+    "artistPublishArticle":"Veröffentlichen und posten Sie Artikel über Ihre Arbeit und Ausstellungen",
+    "artistBacklinkCollection":"Verlinken Sie Ihre ARTMO-Sammlung auf Ihrer Homepage",
+    "artistDisputeSupport":"Customer dispute mediation support",
+    "memberConnectBuyers":"Direkt mit Käufern in Kontakt treten",
+    "memberEnablePayment":"Zahlungsgateways aktivieren: Paypal, Visa, MasterCard",
+    "memberAcceptPayment":"Akzeptieren Sie Direktzahlungen",
+    "memberDashboardManage":"Dashboard: Sammlung & Konto verwalten",
+    "memberShippingPolicy":"Ihre eigene Versandrichtlinie",
+    "memberHelpDesk":"ARTMO Helpdesk",
+    "memberBacklinkCollection":"Verlinken Sie Ihre ARTMO-Sammlung auf Ihrer Homepage",
+    "memberDisputeSupport":"Customer dispute mediation support",
+    "artistBadge":"Premium-Verkäufer-Abzeichen <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+    "memberBadge":"Premium-Verkäufer-Abzeichen <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+  }
+}

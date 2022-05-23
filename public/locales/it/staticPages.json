@@ -1,0 +1,83 @@
+{
+    "pageNotFound": {
+        "404": "404",
+        "signUpTextNotFound": "O iscriviti se non hai ancora un profilo ...",
+        "pageNotFound": "Non troviamo la pagina che stai cercando.<br/>Prova alcune di queste opzioni; potrebbero risolvere il problema...",
+        "goBackHome": "Torna indietro"
+    },
+    "usersTermsConditions": {
+        "title": "TERMINI E CONDIZIONI",
+        "overview": "1. PANORAMICA",
+        "contentEligibility": "2. CONTENUTO E IDONEITA'",
+        "feesPayments": "3. TARIFFE E PAGAMENTI",
+        "accountTermination": "4.  RISOLUZIONE E CANCELLAZIONE DELL'ACCOUNT",
+        "provisions": "5. ULTERIORI DISPOSIZIONI",
+        "seePrivacyPolicy": "Vedi Politica sulla Privacy",
+        "seeVendorTermsConditions": "Vedi Termini e Condizione del Venditore"
+    },
+    "privacyPolicyPage": {
+        "title": "POLITICA SULLA PRIVACY",
+        "seeVendorTermsConditions": "Vedi Termini e Condizioni del Venditore",
+        "seeUserTermsConditions": "Vedi Termini e Condizioni dell'Utente",
+        "accountPrivacySettings": "IMPOSTAZIONI PER LA PRIVACY DELL'ACCOUNT",
+        "dataSecurity": "SICUREZZA DEI DATI",
+        "collectingPersonalData": "RACCOLTA E PROCESSAMENTO DEI DATI PERSONALI",
+        "adsOnArtmo": "ANNUNCI SU ARTMO"
+    },
+    "vendorTermsConditions": {
+        "title": "TERMINI E CONDIZIONI DEL VENDITORE",
+        "seePrivacyPolicy": "Vedi Politica sulla Privacy",
+        "seeUserTermsConditions": "Vedi Termini e Condizioni dell'Utente",
+        "impOverview": "Prima di tutto ... una panoramica generale",
+        "stepByStep": "passo dopo passo",
+        "overview": "1. PANORAMICA",
+        "fees": "2. COMMISSIONI | TARIFFE | PAGAMENTI | RESI",
+        "termination": "3. RISOLZIONE E CANCELLAZIONE DELL'ACCOUNT",
+        "payoutSchedule": "4.  PROGRAMMA DI RIMBORSO PER LE VENDITE",
+        "contentEligibility": "5. CONTENUTO E IDONEITA'",
+        "yourObligations": "6. I TUOI DOVERI",
+        "artmoObligations": "7. I DOVERI DI ARTMO",
+        "returns": "8. RESI E CONTESTAZIONI",
+        "provisions": "9. ULTERIORI DISPOSIZIONI",
+        "shippingReturnPolicy": "POLITICA SULLE SPEDIZIONI E CONSEGNE"
+    },
+    "whatIsArtmo": {
+        "title": "Che cos'è ARTMO?",
+        "artNetwork": "La rete dell'arte",
+        "artEnthusiast": "Amanti dell'arte",
+        "muchMore": "e tanto altro!",
+        "member": "Membri",
+        "pages": "Pagine",
+        "marketplace": "Mercatino",
+        "needHelp": "Hai biogno di aiuto - Contattaci ...",
+        "artist": "Artisti",
+        "gallery": "Galleria",
+        "university": "Università",
+        "shop": "Negozio"
+    },
+    "mobileApp": {
+        "title": "App Mobile",
+        "subHeading": "Come iniziare a usare ARTMO dal tuo cellulare",
+        "note": "Informazioni",
+        "step": "Passi",
+        "done": "Fatto"
+    },
+    "artworkUploadInst": {
+        "headerTitle": "Istruzioni per l'upload delle opere d'arte",
+        "images": "Immagini",
+        "title": "Titolo",
+        "artMaterial": "Arte Materiale",
+        "series": "Serie",
+        "limitedEdition": "Edizioni Limitate",
+        "price": "Prezzo",
+        "dimension": "Dimensioni",
+        "frame": "Cornice",
+        "medium": "Mezzo",
+        "genre": "Genere",
+        "subjectTags": "Tag soggetto",
+        "description": "Descrizione",
+        "text": "Testo",
+        "yourProfile": "Il tuo profilo",
+        "pdf": "PDF"
+    }
+}

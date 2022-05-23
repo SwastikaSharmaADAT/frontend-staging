@@ -1,0 +1,116 @@
+{
+    "auth": {
+        "passwordResetSuccess": "పాస్వర్డ్ రీసెట్ అయినది!",
+        "signOutMessage": "వినియోగదారుడు సైన్ అవుట్ అయ్యారు!!"
+    },
+    "articles": {
+        "articlePublish": "వ్యాసం ప్రచురితమైనది",
+        "articleDraft": "వ్యాసం డ్రాఫ్ట్స్ లో సేవ్ చేయబడినది",
+        "articleUpdate": "వ్యాసం నవీకరించబడినది"
+    },
+    "dashboard": {
+        "settingsSaved": "సెట్టింగులు సేవ్ అయ్యాయి"
+    },
+    "groups": {
+        "userRemoved": "సమూహము నుండి వినియోగదారుడు తొలగించబడెను",
+        "assignAsModerator": "మోడరేటర్ గా నియమింపబడ్డారు",
+        "inviteSent": "ఆహ్వానము పంపబడినది",
+        "postSentForApproval": "మీ ఇటీవలి పోస్ట్ అడ్మిన్/మోడరేటర్ ఆమోదం పొందడానికి పంపబడినది",
+        "postPublished": "సమూహపు పోస్ట్ ప్రచురితమైనది",
+        "groupPostAccepted": "పోస్ట్ విజయవంతంగా ఆమోదించబడింది",
+        "groupPostRejected": "పోస్ట్ నిరాకరించబడింది",
+        "joinRequestAccepted": "చేరుటకు అభ్యర్థన ఆమోదించబడింది",
+        "joinRequestRejected": "చేరుటకు అభ్యర్థన తిరస్కరించబడింది",
+        "groupInviteAccept": "సమూహపు ఆహ్వానం అంగీకరింపబడినది",
+        "groupInviteReject": "సమూహపు ఆహ్వానం వదిలిలేయబడినది",
+        "commentAddSuccess": "కామెంట్ జత చేయబడినది",
+        "groupPhotoRemove": "సమూహపు ఛాయాచిత్రం తొలగించబడినది",
+        "groupPhotoUpload": "సమూహపు ఛాయాచిత్రం అప్‌లోడ్ చేయబడినది",
+        "commentDeleted": "కామెంట్ నిర్మూలించబడినది",
+        "groupPostAction": "పోస్ట్ {{type}}",
+        "joinRequest": "చేరుటకు అభ్యర్ధన {{type}}"
+    },
+    "mediaLibrary": {
+        "updatedAllMedia": "అన్ని మీడియా ఫైళ్లు నవీకరించబడ్డాయి.",
+        "updatedMedia": "మీడియా ఫైలు నవీకరించబడినది."
+    },
+    "newsFeed": {
+        "postPublished": "పోస్ట్ ప్రచురితమైనది",
+        "videoPublished": "వీడియో ప్రచురితమైనది",
+        "photoAlbumPublished": "ఛాయాచిత్ర ఆల్బం ప్రచురితమైనది",
+        "photoAlbumUpdated": "ఛాయాచిత్ర విజయవంతంగా అప్‌డేట్‌ చేయబడింది",
+        "commentAdded": "కామెంట్ జతచేయబడినది",
+        "commentDeleted": "కామెంట్ నిర్మూలించబడినది",
+        "commentHide": "కామెంట్ దాయబడినది",
+        "commentUnhide": "కామెంట్ బహిర్గతం చేయబడినది",
+        "commentUpdated": "కామెంట్ నవీకరించబడినది",
+        "activityDeleted": "కార్యాచరణ నిర్మూలించబడినది"
+    },
+    "notification": {
+        "notificationRemoved": "ప్రకటన నిర్మూలించబడినది!"
+    },
+    "pages": {
+        "pageCreated": "పేజీ సృష్టింపబడినది"
+    },
+    "profile": {
+        "profilePhotoUploaded": "ప్రొఫైల్ ఛాయాచిత్రం అప్‌లోడ్ చేయబడినది",
+        "coverPhotoUploaded": "కవర్ ఛాయాచిత్రం అప్‌లోడ్ చేయబడినది",
+        "profilePhotoRemoved": "ప్రొఫైల్ ఛాయాచిత్రం తొలగించబడినది",
+        "coverPhotoRemoved": "కవర్ ఛాయాచిత్రం తొలగించబడినది",
+        "infoSaved": "సమాచారం సేవ్ చేయబడినది",
+        "profileUpdated": "ప్రొఫైల్ నవీకరించబడినది",
+        "connectionRequestSent": "కనెక్షన్ అభ్యర్ధన పంపబడినది",
+        "blockUser": "వినియోగదారుడు {{type}}",
+        "blocked": "వినియోగదారు బ్లాక్ చేయబడ్డారు",
+        "unblocked": "వినియోగదారు అన్-బ్లాక్ చేయబడ్డారు",
+        "follow": "వినియోగదారు అనుసరించబడ్డారు",
+        "unfollow": "వినియోగదారు అనుచరణ నుండి తొలగించబడ్డారు",
+        "noticeDeleted": "ప్రకటన నిర్మూలించబడినది",
+        "techniqueUpdate": "సాంకేతిక పరిజ్ఞాన భాగము నవీకరించబడినది",
+        "expertiseUpdate": "నైపుణ్య భాగము నవీకరించబడినది",
+        "awardUpdate": "పురస్కారాల భాగము నవీకరించబడినది",
+        "publicationUpdate": "ప్రచురణల భాగము నవీకరించబడినది",
+        "exhibitionUpdate": "పూర్వపు ప్రదర్శనల భాగము నవీకరించబడినది",
+        "aboutBusinessUpdate": "నా వ్యాపారము | వృత్తి భాగము నవీకరించబడినది",
+        "disconnectedFromUser": "వినియోగదారుడి నుండి డిస్‌కనెక్ట్ చేయబడ్డారు",
+        "connectionRequestDeleted": "కనెక్షన్ అభ్యర్ధన నిర్మూలించబడినది",
+        "connectionRequestIgnored": "కనెక్షన్ అభ్యర్ధన వదిలియవేయబడింది",
+        "userConnected": "వినియోగదారుడు కనెక్ట్ అయ్యెను",
+        "followUnfollowUser": "వినియోగదారుడను {{action}}"
+    },
+    "staticContent": {
+        "inviteSent": "ఆహ్వానము పంపబడినది"
+    },
+    "myAccount": {
+        "privacySettingsUpdated": "వినియోగదారుని గోప్యతా విధానాల సెట్టింగులు నవీకరించబడ్డాయి",
+        "webNotificationsSettingsUpdated": "అంతర్జాల ప్రకటనల సెట్టింగులు నవీకరించబడ్డాయి",
+        "dataDownload": "సమాచారం విజయవంతంగా డౌన్‌లోడ్ చేయబడింది",
+        "picsDownload": "ఛాయాచిత్రాలు విజయవంతంగా డౌన్‌లోడ్ చేయబడ్డాయి",
+        "passwordUpdated": "పాస్వర్డ్ నవీకరించబడినది",
+        "notificationUpdated": "ప్రకటనల సెట్టింగులు నవీకరించబడ్డాయి",
+        "accountDisconnected": "మీ ఖాతా డిస్‌కనెక్ట్ చేయబడింది",
+        "userDataDelete": "వినియోగదారు సమాచారం అంతా నిర్మూలించబడింది",
+        "photosDelete": "ఆల్బంలు & ఛాయాచిత్రాలు మొత్తం నిర్మూలించబడ్డాయి",
+        "userDelete": "ఖాతా విజయవంతంగా తొలగించబడింది"
+    },
+    "artworks": {
+        "artworkUpdated": "మీ కళాకృతి నవీకరించబడినది.",
+        "artworkDeleted": "కళాకృతి నిర్మూలించబడినది",
+        "draftSave": "మీ కళాకృతి డ్రాఫ్ట్ మోడ్ లో సేవ్ అవ్వబడినది",
+        "sentForReview": "మీ కళాకృతిని అడ్మిన్ సమీక్ష కోసం పంపబడినది",
+        "published": "మీ కళాకృతి విజయవంతంగా ప్రచురింపబడింది"
+    },
+    "profileCompletePopup": {
+        "profileUpdated": "ప్రొఫైల్ విజయవంతంగా అప్‌డేట్‌ అయినది"
+    },
+    "subscriptions": {
+        "purchaseSuccess": "సబ్‌స్క్రిప్షన్ విజయవంతంగా కొనుగోలు చేయబడింది",
+        "cancel": "సబ్‌స్క్రిప్షన్ రద్దు చేయబడినది",
+        "paymentReactivate": "చెల్లింపులు మరల యాక్టివేట్ అయినవి"
+    },
+    "messages": {
+        "chatDelete": "సంభాషణ విజయవంతంగా తొలగించబడింది",
+        "userBlock": "వినియోగదారు బ్లాక్ చేయబడ్డారు",
+        "messageSent": "సందేశం పంపబడినది"
+    }
+}

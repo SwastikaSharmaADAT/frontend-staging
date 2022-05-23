@@ -1,0 +1,83 @@
+{
+    "pageNotFound": {
+        "404": "404",
+        "signUpTextNotFound": "または、まだプロフィールをお持ちでない場合は、サインアップしてください ...",
+        "pageNotFound": "お探しのページは見つかりませんでした。<br/>次のいずれかの方法をお試しください...。",
+        "goBackHome": "戻る"
+    },
+    "usersTermsConditions": {
+        "title": "利用規約",
+        "overview": "1. 概要",
+        "contentEligibility": "2. コンテンツおよび資格",
+        "feesPayments": "3. 手数料と支払い",
+        "accountTermination": "4. 解約およびアカウントの取り消し",
+        "provisions": "5. さらなる規定",
+        "seePrivacyPolicy": "プライバシーポリシーを見る",
+        "seeVendorTermsConditions": "ベンダー規約を見る"
+    },
+    "privacyPolicyPage": {
+        "title": "プライバシーポリシー",
+        "seeVendorTermsConditions": "ベンダー規約を見る",
+        "seeUserTermsConditions": "利用規約を見る",
+        "accountPrivacySettings": "アカウントプライバシー設定を見る",
+        "dataSecurity": "データセキュリティ",
+        "collectingPersonalData": "個人情報の収集と処理",
+        "adsOnArtmo": "ARTMO上での広告"
+    },
+    "vendorTermsConditions": {
+        "title": "ベンダー規約",
+        "seePrivacyPolicy": "プライバシーポリシーを見る",
+        "seeUserTermsConditions": "利用規約を見る",
+        "impOverview": "最初に ... 重要な概要",
+        "stepByStep": "順番に",
+        "overview": "1. 概要",
+        "fees": "2. 手数料｜フィー｜支払い｜払い戻し",
+        "termination": "3. 解約およびアカウントの取り消し",
+        "payoutSchedule": "4. 売上高予定表",
+        "contentEligibility": "5. コンテンツおよび資格",
+        "yourObligations": "6. ユーザーの義務",
+        "artmoObligations": "7. ARTMOの義務",
+        "returns": "8. 返品について",
+        "provisions": "9. さらなる規定",
+        "shippingReturnPolicy": "配送と返品"
+    },
+    "whatIsArtmo": {
+        "title": "ARTMOとは?",
+        "artNetwork": "アートネットワーク",
+        "artEnthusiast": "アート愛好家",
+        "muchMore": "等々!",
+        "member": "メンバー",
+        "pages": "ページ",
+        "marketplace": "マーケットプレイス",
+        "needHelp": "ヘルプが必要 - コンタクトする ...",
+        "artist": "アーティスト",
+        "gallery": "ギャラリー",
+        "university": "大学",
+        "shop": "ショップ"
+    },
+    "mobileApp": {
+        "title": "モバイルアプリ",
+        "subHeading": "ARTMOをモバイルのホームスクリーン画面からはじめる方法",
+        "note": "ノート",
+        "step": "ステップ",
+        "done": "完了"
+    },
+    "artworkUploadInst": {
+        "headerTitle": "作品のアップロード方法",
+        "images": "画像",
+        "title": "タイトル",
+        "artMaterial": "作品素材",
+        "series": "シリーズ",
+        "limitedEdition": "限定エディション",
+        "price": "価格",
+        "dimension": "寸法",
+        "frame": "フレーム",
+        "medium": "ミディアム",
+        "genre": "ジャンル",
+        "subjectTags": "テーマタグ",
+        "description": "説明",
+        "text": "テキスト",
+        "yourProfile": "プロフィール",
+        "pdf": "PDF"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "chooseImage": "Pilih Imej",
+    "uploadTab": {
+        "title": "Muat Naik Fail",
+        "dragDropHere": "Serat dan lepas fail di sini",
+        "or": "atau",
+        "selectFiles": "+ Pilih Fail",
+        "supportedFormatsText": "Hanya imej *.jpeg, *.jpg and *.png akan diterima",
+        "maxLimitPrefix": "Sebanyak maksimum",
+        "maxLimitSuffix": "imej boleh dipilih dan ditambahkan",
+        "moreImagesText": "lebih lagi imej boleh dipilih dan ditambahkan",
+        "maxFileSize": "Saiz Fail Maksimum: 10 MB",
+        "minFileSize": "Saiz Fail Minimum: 50 kB"
+    },
+    "mediaTab": {
+        "title": "Pustaka Media",
+        "pickATag": "Pilih satu Tag",
+        "loadMore": "Muat turun lebih lagi",
+        "deleteImage": "Padam Imej",
+        "choose": "Pilih",
+        "saveAll": "Simpan Semua",
+        "placeholderSearch": "Carikan item...",
+        "placeholderDescription": "Tambah teks huraian...",
+        "placeholderEnterTag": "Masukkan Tag"
+    }
+}

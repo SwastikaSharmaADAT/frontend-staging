@@ -1,0 +1,37 @@
+{
+  "title": "Geskenkbewyse",
+  "linkToMyGiftCard": "Bekyk jou Geskenkbewyse",
+  "giftCardSection": {
+    "title": "Bevorder Jou Profiel",
+    "description": "Sluit 'n skakel na jou ARTMO-profiel op jou webwerwe in.",
+    "getLinkButton": "Kry Skakel"
+  },
+  "giftCardContent": {
+    "singular": "Geskenkbewys",
+    "title": "Stuur 'n ARTMO-geskenkbewys per e-pos. Die ontvanger kan dit gebruik vir die aankoop van kunswerke.",
+    "selectAmount": "Kies 'n bedrag:",
+    "quesion": "Stuur hierdie geskenkbewys na...",
+    "namePlaceholder": "Voeg Naam In",
+    "emailPlaceholder": "Voeg E-pos In",
+    "lastNote": "Die kaartinligting sal beskikbaar wees in die My Rekening-afdeling. Jy sal 'n bevestigingskwitansie na jou rekening-e-posadres ontvang.",
+    "buttonText": "Gaan voort na Register",
+    "hello": "Hallo",
+    "sentFrom": "Dit is jou geskenkbewys gestuur deur...",
+    "use": "Gebruik hierdie kaart vir die aankoop van kunswerke.",
+    "seeHere": "Sien kunswerke hier...",
+    "expiryDate": "* Verval Datum: "
+  },
+  "myGiftCardContent": {
+    "title": "U Geskenkbewyse:",
+    "to": "Aan",
+    "name": " Bjorn Andersen",
+    "validUntil": "Geldig Tot",
+    "purchasedOn": "Gekoop op",
+    "used": "Gebruikte",
+    "valid": "Geldig",
+    "expired": "Verval",
+    "makeCard": "Maak 'n Geskenk van Kuns.",
+    "buttonText": "Koop 'n ARTMO Kaart",
+    "noGiftCard": "Geen Geskenk mandjie beskikbaar nie"
+  }
+}

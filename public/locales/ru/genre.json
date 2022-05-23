@@ -1,0 +1,47 @@
+{
+    "title": "Жанр",
+    "tabs": {
+        "genre": "Жанр",
+        "media": "Способ Выражения",
+        "timePeriod": "Временной Период",
+        "genreSubTabs": {
+            "definition": "Определение",
+            "abstractExpressionism": "Абстрактный Экспрессионизм",
+            "abstract": "Абстрактное Искусство",
+            "calligraphy": "Каллиграфия",
+            "conceptual": "Концептуальное Искусство",
+            "concrete": "Конкретное Искусство",
+            "constructivism": "Конструктивизм",
+            "cubism": "Кубизм",
+            "documentary": "Документальное Искусство",
+            "expressionism": "Экспрессионизм",
+            "fantastic": "Фантастическое Искусство",
+            "figurative": "Фигуративность",
+            "illustration": "Иллюстрация",
+            "impressionism": "Импрессионизм",
+            "magicalRealism": "Магический Реализм",
+            "minimalism": "Минимализм",
+            "naiveArt": "Наивное Искусство",
+            "pop": "Поп-Арт",
+            "realism": "Реализм",
+            "surrealism": "Сюрреализм"
+        },
+        "mediaSubTabs": {
+            "definition": "Определение",
+            "collage": "Коллаж",
+            "design": "Дизайн",
+            "digital": "Цифровое Искусство",
+            "drawing": "Рисунок",
+            "mixed": "Смешанные Техники",
+            "multimedia": "Мультимедиа-Искусство",
+            "newMedia": "Новое Медиаискусство",
+            "painting": "Живописть",
+            "sculpture": "Скульптура"
+        },
+        "timeperiodSubTabs": {
+            "definition": "Определение",
+            "contemporary": "Современное Искусство",
+            "modern": "Модерн"
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "pageNotFound": {Bladsy nie gevind
+        "404": "404",
+        "signUpTextNotFound": "Of teken aan as jy nog nie 'n profiel het nie...",
+        "pageNotFound": "Ons kan blykbaar nie die bladsy vind waarna jy soek nie.<br/>Jy mag dalk een van hierdie opsies probeer; dit behoort die ding te doen...",
+        "goBackHome": "Gaan Terug Huis Toe"
+    },
+    "usersTermsConditions": {
+        "title": "GEBRUIKERS BEPALINGS EN VOORWAARDES",
+        "overview": "1. OORSIG",
+        "contentEligibility": "2. INHOUD EN GESKIKTHEID",
+        "feesPayments": "3. FOOIE EN BETALINGS",
+        "accountTermination": "4. TERMINATION AND ACCOUNT CANCELLATION",
+        "provisions": "5. FURTHER PROVISIONS",
+        "seePrivacyPolicy": "Sien Privaatheidsbeleid",
+        "seeVendorTermsConditions": "Sien verkoper se bepalings en voorwaardes
+    },
+    "privacyPolicyPage": {
+        "title": "PRIVAATHEIDSBELEID",
+        "seeVendorTermsConditions": "Sien verkoper se bepalings en voorwaardes",
+        "seeUserTermsConditions": "Sien gebruikers se bepalings en voorwaardes
+        "accountPrivacySettings": "REKENING PRIVAATHEID INSTELLINGS",
+        "dataSecurity": "DATA SEKURITEIT",
+        "collectingPersonalData": "VERSAMELING EN VERWERKING VAN PERSOONLIKE INLIGTING
+        "adsOnArtmo": "ADVERTERING OP ARTMO"
+    },
+    "vendorTermsConditions": {
+        "title": "VERKOPER SE BEPALINGS EN VOORWAARDES",
+        "seePrivacyPolicy": "Sien Privaatheidsbeleid",
+        "seeUserTermsConditions": "Sien gebruikers se bepalings en voorwaardes",
+        "impOverview": "Eerstens... 'n belangrike oorsig",
+        "stepByStep": "Stap-vir-Stap",
+        "overview": "1. OORSIG",
+        "fees": "2. KOMMISSIE | FOOIE | BETALINGS | TERUGBETALINGS",
+        "termination": "3. BEËINDIGING EN REKENING KANSELLASIE",
+        "payoutSchedule": "4. UITBETALING-SKEDULE VIR VERKOPE",
+        "contentEligibility": "5. INHOUD EN GESKIKTHEID",
+        "yourObligations": "6. JOU VERANTWOORDELIKHEDE",
+        "artmoObligations": "7. ARTMO'S VERANTWOORDELIKHEDE",
+        "returns": "8. TERUGGAWE EN GESKILLE",
+        "provisions": "9. VERDERE BEPALINGS",
+        "shippingReturnPolicy": "VERSENDING EN TERUGBETALINGSBELEID"    },
+    "whatIsArtmo": {
+        "title": "Wat is ARTMO?",
+        "artNetwork": "Die Kunsnetwerk",
+        "artEnthusiast": "Kuns Entoesias",
+        "muchMore": "en baie meer!",
+        "member": "Lede",
+        "pages": "Bladsye",
+        "marketplace": "Markplek",
+        "needHelp": "Benodig Hulp- Kontak Ons...",
+        "artist": "Kunstenaars",
+        "gallery": "Galery",
+        "university": "Universiteit",
+        "shop": "Winkel"
+    },
+    "mobileApp": {
+        "title": "Mobiele Toepassing",
+        "subHeading": "Hoe om ARTMO vanaf jou selfoon se tuisskerm te begin",
+        "note": "Nota",
+        "step": "stap",
+        "done": "Klaar"
+    },
+    "artworkUploadInst": {
+        "headerTitle": "Kunswerkoplaaiinstruksies",
+        "images": "Beelde",
+        "title": "Titel",
+        "artMaterial": "Kuns Materiaal",
+        "series": "Reeks",
+        "limitedEdition": "Beperkte uitgawes",
+        "price": "Prys",
+        "dimension": "Dimensie",
+        "frame": "Raam",
+        "medium": "Medium",
+        "genre": "Genre",
+        "subjectTags": "Onderwerp Merkers",
+        "description": "Beskrywing",
+        "text": "Teks",
+        "yourProfile": "U Profiel",
+        "pdf": "PDF"
+    }
+}

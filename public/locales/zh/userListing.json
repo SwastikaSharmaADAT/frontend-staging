@@ -1,0 +1,17 @@
+{
+    "heading": "艺术网络",
+    "listing": {
+        "country": "国家:",
+        "placeholderCity": "城市",
+        "userType": "用户类型:",
+        "sortBy": "排序方式:",
+        "search": "搜索",
+        "searchUsers": "搜索用户...",
+        "searchbyname": "按名称搜索..."
+    },
+    "follower": "粉丝",
+    "followers": "粉丝",
+    "unfollow": "未关注",
+    "follow": "关注",
+    "editProfile": "编辑简介"
+}

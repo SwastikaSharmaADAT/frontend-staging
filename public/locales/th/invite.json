@@ -1,0 +1,16 @@
+{
+    "title": "เชิญเพื่อน",
+    "tagsInput": {
+        "placeholder": "กรอกอีเมลล์ ใช้เครื่องหมายลูกน้ำหรือกดenterเพื่อคั่นระหว่างอีเมลล์"
+    },
+    "cancelButtonLabel": "ยกเลิก",
+    "sendInvitesButtonLabel": "ส่งคำเชิญ",
+    "howInviteWork": "มันทำงานยังไง?",
+    "emailTemplateText": "ดูอีเมลล์ก่อนส่งได้ไหม?",
+    "pickEmailService": "เลือกผู้ให้บริการอีเมลล์...",
+    "gmailText": "Gmail",
+    "outlookText": "Outlook",
+    "otherText": "อื่นๆ",
+    "selectedText": "เลือกแล้ว",
+    "emptyResultText": "ไม่พบผลลัพธ์"
+}

@@ -1,0 +1,46 @@
+{
+    "connectingTheArtWorld": "在线连接艺术世界",
+    "login": "登录",
+    "freeSignup": "免费注册",
+    "signup": "注册",
+    "search": "搜索用户...",
+    "legacyPageInfo":"您可以在此访问您的页面",
+    "loginMenu": {
+        "home": "首页",
+        "groups": "群组",
+        "network": "网络",
+        "messages": "消息",
+        "notifications": "通知",
+        "cart": "购物车",
+        "artwork": "艺术作品",
+        "me": "我",
+        "more": "更多....",
+        "sellArt": "出售艺术品",
+        "dashboard": "仪表盘",
+        "myarticles": "文章"
+    },
+    "logoutMenu": {
+        "artwork": "艺术作品",
+        "cart": "购物车",
+        "more": "更多...."
+    },
+    "subMenu": {
+        "createPage": "创建一个页面",
+        "switchPage": "切换到页面",
+        "switchTo": "转为",
+        "profile": "简介",
+        "page": "我的页面",
+        "myAccount": "我的账号",
+        "signOut": "退出",
+        "settings": "设置和隐私"
+    },
+    "cart": {
+        "removeWarning": "确实要删除此项目吗?",
+        "yes": "是",
+        "checkoutButton": "结账",
+        "emptyCartWarning": "您的购物车是空的!",
+        "outOfStock": "缺货!",
+        "seeArtworks":"详见艺术品",
+        "buttonYes":"是"
+    }
+}

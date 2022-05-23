@@ -1,0 +1,47 @@
+{
+    "title": "Género",
+    "tabs": {
+        "genre": "Género",
+        "media": "Media",
+        "timePeriod": "Época",
+        "genreSubTabs": {
+            "definition": "Definición",
+            "abstractExpressionism": "Expresionismo Abstracto",
+            "abstract": "Abstracto",
+            "calligraphy": "Caligrafía",
+            "conceptual": "Conceptual",
+            "concrete": "Concreto",
+            "constructivism": "Constructivismo",
+            "cubism": "Cubismo",
+            "documentary": "Documental",
+            "expressionism": "Expresionismo",
+            "fantastic": "Fantástico",
+            "figurative": "Figurativo",
+            "illustration": "Ilustración",
+            "impressionism": "Impresionismo",
+            "magicalRealism": "Realismo Magico",
+            "minimalism": "Minimalismo",
+            "naiveArt": "Arte Ingenuo",
+            "pop": "Pop",
+            "realism": "Realismo",
+            "surrealism": "Surrealismo"
+        },
+        "mediaSubTabs": {
+            "definition": "Definición",
+            "collage": "Collage",
+            "design": "Diseño",
+            "digital": "Digital",
+            "drawing": "Dibujo",
+            "mixed": "Mixto",
+            "multimedia": "Multimedia",
+            "newMedia": "Nuevos Medios",
+            "painting": "Pintura",
+            "sculpture": "Escultura"
+        },
+        "timeperiodSubTabs": {
+            "definition": "Definición",
+            "contemporary": "Contemporáneo",
+            "modern": "Moderno"
+        }
+    }
+}

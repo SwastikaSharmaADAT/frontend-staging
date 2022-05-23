@@ -1,0 +1,16 @@
+{
+    "title": "INVITE FRIENDS",
+    "tagsInput": {
+        "placeholder": "Add emails manually. Separate by a comma or hit enter after each email."
+    },
+    "cancelButtonLabel": "Cancel",
+    "sendInvitesButtonLabel": "Send Invites",
+    "howInviteWork": "How does this work?",
+    "emailTemplateText": "Can I see the email before sending?",
+    "pickEmailService": "Pick your email service...",
+    "gmailText": "Gmail",
+    "outlookText": "Outlook",
+    "otherText": "Other",
+    "selectedText": "Selected",
+    "emptyResultText": "No Result Found"
+}

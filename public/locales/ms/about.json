@@ -1,0 +1,27 @@
+{
+    "about": "perihal kami",
+    "labels": {
+        "option1": "The Art Network",
+        "option2": "Kedai",
+        "option3": "Pasukan",
+        "option4": "Karier",
+        "option5": "HI",
+        "option6": "Impresum",
+        "option7": "Terma & Syarat",
+        "option8": "Perhubungan Pelabur"
+    },
+    "Karier": {
+        "jobOpening": {
+            "title": "Jawatan Kosong"
+        },
+        "lisbonPortugal": {
+            "title": "Lisbon | Portugal",
+            "option1": "Internships",
+            "option2": "Pengurus Media Sosial & Pengurus Pemasaran Digital",
+            "option3": "Pakar WooCommerce"
+        },
+        "hamburgGermany": {
+            "title": "Hamburg | Germany"
+        }
+    }
+}

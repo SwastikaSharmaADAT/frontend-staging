@@ -1,0 +1,69 @@
+{
+    "bannerSection": {
+        "todaysFeature": "আজকের ফিচার",
+        "seeMore": "আরো দেখুন..."
+    },
+    "loggedOutBanner": {
+        "title": "আপনাকে স্বাগতম",
+        "title2": "শিল্প সমাজে",
+        "descr": "শিল্প হোক আপনার শখ  বা পেশা, আপনি একদম  ঠিক জায়গায় এসেছেন।",
+        "joinInBtnText": "বিনামূল্যে যোগ দিন",
+        "network": "নেটওয়ার্ক",
+        "blog": "ব্লগ",
+        "news": "সংবাদ",
+        "group": "গ্রুপসমূহ",
+        "marketplace": "মার্কেটপ্লেস",
+        "whatIsArtmo": "ARTMO কী?",
+        "learnMore": "আরো জানুন...",
+        "signUp": "বিনামূল্যে সাইন-আপ করুন",
+        "logIn": "লগইন",
+        "videos": "ভিডিও",
+        "exhibition": "প্রদর্শনী",
+        "gallery": "গ্যালারি"
+    },
+    "usersListing": {
+        "title": "শিল্প নেটওয়ার্ক",
+        "follower": "অনুসারী",
+        "followers": "অনুসারীগণ",
+        "unfollow": "অনূসরণ বাতিল করুন",
+        "follow": "অনুসরণ করুন",
+        "seeMore": "আরো দেখুন",
+        "following": "অনুসরণ করা হচ্ছে"
+    },
+    "gridSection": {
+        "home": "হোম",
+        "artists": "শিল্পীগণ",
+        "galleries": "গ্যালারীসমূহ",
+        "exhibitions": "প্রদর্শনীসমূহ",
+        "users": "ব্যবহারকারীগণ",
+        "artwork": "শিল্পকর্ম",
+        "genres": "ধরণ/প্রকার",
+        "universities": "বিশ্ববিদ্যালয় সমূহ"
+    },
+    "artworkSection": {
+        "title": "নতুন শিল্পকর্ম",
+        "priceOnRequest": "আবেদনের ভিত্তিতে মূল্য",
+        "artist": "শিল্পী",
+        "member": "সদস্য",
+        "seeMore": "আরো দেখুন..."
+    },
+    "buzzSection": {
+        "title": "গুঞ্জন",
+        "seeMore": "আরো দেখুন..."
+    },
+    "videosSection": {
+        "title": "ভিডিও সমূহ",
+        "seeMore": "আরো দেখুন..."
+    },
+    "exhibitionsSection": {
+        "title": "প্রদর্শনীসমূহ",
+        "seeMore": "আরো দেখুন..."
+    },
+    "potdSection": {
+        "title": "দিনের সেরা ছবি",
+        "seeMore": "আরো দেখুন..."
+    },
+    "joinInSection": {
+        "joinInTitle": "যোগ দিন, বিনামূল্যে!"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "connectingTheArtWorld": "KẾT NỐI THẾ GIỚI NGHỆ THUẬT",
+    "login": "Đăng nhập",
+    "freeSignup": "Đăng ký Miễn phí",
+    "signup": "Đăng ký",
+    "search": "Tìm kiếm người dùng...",
+    "legacyPageInfo": "Bạn có thể truy cập trang của mình tại đây",
+    "loginMenu": {
+        "home": "Trang chủ",
+        "groups": "Nhóm",
+        "network": "Mạng lưới",
+        "messages": "Tin nhắn",
+        "notifications": "Thông báo",
+        "cart": "Giỏ hàng",
+        "artwork": "Tác phẩm nghệ thuật",
+        "me": "Tôi",
+        "more": "Thêm...",
+        "sellArt": "Bán Tác phẩm",
+        "dashboard": "Bảng điều khiển",
+        "myarticles": "Bài viết"
+    },
+    "logoutMenu": {
+        "artwork": "Tác phẩm Nghệ thuật",
+        "cart": "Giỏ hàng",
+        "more": "Thêm..."
+    },
+    "subMenu": {
+        "createPage": "Tạo một Trang",
+        "switchPage": "Đổi sang trang",
+        "switchTo": "Đổi sang",
+        "profile": "Hồ sơ",
+        "page": "Trang của Tôi",
+        "myAccount": "Tài khoản của Tôi",
+        "signOut": "Đăng Xuất",
+        "settings": "Cài đặt & Riêng tư"
+    },
+    "cart": {
+        "removeWarning": "Bạn chắc chắn muốn xóa mục này chứ?",
+        "yes": "Đúng",
+        "checkoutButton": "THANH TOÁN",
+        "emptyCartWarning": "Giỏ hàng của bạn trống!",
+        "outOfStock": "Hết hàng!",
+        "seeArtworks": "Xem Tác phẩm nghệ thuật",
+        "buttonYes": "Có"
+    }
+}

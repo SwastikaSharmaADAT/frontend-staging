@@ -1,0 +1,161 @@
+{
+    "leftTabs": {
+        "account": "Konto",
+        "changePassword": "Zmień hasło",
+        "setPassword": "Ustaw hasło",
+        "privacy": "Prywatność",
+        "notifications": "Powiadomienia",
+        "webNotifications": "Powiadomienia na stronie",
+        "socialConnect": "Połączenie ze społecznościami",
+        "myPhotos": "Moje zdjęcia",
+        "deleteAccount": "Usuń konto"
+    },
+    "account": {
+        "title": "Konto",
+        "username": "Nazwa Użytkownika",
+        "firstname": "Imię",
+        "lastname": "Nazwisko",
+        "pagename": "Nazwa strony",
+        "email": "Adres e-mail",
+        "updateAccount": "Edytuj Konto",
+        "validationErrors": {
+            "firstname": "Imię jest polem wymaganym.",
+            "lastname": "Nazwisko jest polem wymaganym.",
+            "firstnameLength": "Nie więcej niż 50 znaków",
+            "lastnameLength": "Nie więcej niż 50 znaków",
+            "pagename": "Nazwa strony jest polem wymaganym",
+            "pagenameLength": "Nie więcej niż 50 znaków"
+        }
+    },
+    "changePassword": {
+        "changeTitle": "Zmień Hasło",
+        "setTitle": "Ustaw Hasło",
+        "currentPassword": "Obecne Hasło",
+        "newPassword": "Nowe Hasło",
+        "confirmPassword": "Potwierdź Hasło",
+        "updatePassword": "Ustaw Nowe Hasło",
+        "validationErrors": {
+            "currentPassword": "Proszę wpisać swoje obecne hasło",
+            "newPassword": "Proszę wpisać nowe hasło",
+            "confirmPassword": "Proszę potwierdzić nowe hasło",
+            "passConditions": "Hasło musi zawierać co najmniej 8 znaków, w tym wielką literę, małą literę i cyfrę",
+            "passNotMatch": "Hasła nie pasują do siebie"
+        }
+    },
+    "notifications": {
+        "title": "Powiadomienia",
+        "description": "Wybierz powiadomienia które chcesz otrzymywać",
+        "headings": {
+            "followers": "Obserwujący",
+            "friends": "Kontakty",
+            "posts": "Posty",
+            "messages": "Wiadomości"
+        },
+        "checkboxLabels": {
+            "newFollowers": "Moje konto jest obserwowane przez kogoś nowego",
+            "newConnectionAdded": "Mam nowy kontakt",
+            "newConnectionRequest": "Dostaję nowe zapytanie o kontakt",
+            "groupPost": "Powiadom mnie gdy ktoś dodaje post na grupie",
+            "groupComments": "Powiadom mnie gdy ktoś dodaje komentarz na grupie",
+            "privateMessage": "Otrzymuję wiadomość",
+            "unreadMessage": "Mam nieprzeczytaną wiadomość"
+        },
+        "updateNotifications": "Zapisz Ustawienia"
+    },
+    "privacy": {
+        "title": "Prywatność",
+        "profilePrivacy": "Prywatność Profilu",
+        "showProfileOptions": {
+            "everyone": "Wszyscy",
+            "onlyMe": "Tylko Ja",
+            "following": "Tylko osoby, które obserwuję mogą zobaczyć mój profil",
+            "followers": "Obserwatorzy",
+            "connections": "Tylko Kontakty"
+        },
+        "tooltips": {
+            "tip1": "Kto może zobaczyć Twój profil publiczny?",
+            "tip2": "Tutaj możesz ukryć się przed pojawianiem się w publicznym katalogu",
+            "tip3": "Czy chcesz, aby inni widzieli, że jesteś online?",
+            "tip4": "Możesz poprosić o plik z informacjami, które naszym zdaniem są dla Ciebie najbardziej odpowiednie i przydatne.",
+            "tip5": "Możesz zażądać usunięcia danych, które posiadamy o Tobie."
+        },
+        "hideProfile": "Wyłącz mój profil z listy",
+        "yes": "Tak",
+        "no": "Nie",
+        "showOnlineStatus": "Pokaż status",
+        "activityWall": "Kto widzi moje aktywności?",
+        "activityWallOptions": {
+            "public": "Publiczna",
+            "onlyMe": "Tylko Ja",
+            "followers": "Obserwatorzy",
+            "following": "Osoby, które obserwuję"
+        },
+        "privateMessage": "Kto może wysyłać mi wiadomości?",
+        "privateMessageOptions": {
+            "everyone": "Wszyscy",
+            "nobody": "Nikt",
+            "following": "Tylko osoby, które obserwuję",
+            "followers": "Obserwatorzy",
+            "connections": "Kontakty"
+        },
+        "downloadData": "Pobierz swoje dane",
+        "downloadDataDescription": "Wprowadź swoje hasło aby potwierdzić eksport danych profilu.",
+        "downloadDataButton": "Zapytaj o dane",
+        "eraseData": "Wyczyść swoje dane",
+        "eraseDataDescription": "Wprowadź swoje hasło aby potwierdzić bezpowrotne usunięcie danych profilu.",
+        "eraseDataButton": "Zapytaj o usunięcie danych",
+        "updatePrivacyButton": "Zapisz"
+    },
+    "webNotifications": {
+        "title": "Powiadomienia na stronie",
+        "description": "Wysyłaj Powiadomienia",
+        "checkboxLabels": {
+            "newReplies": "Kiedy użytkownik odpowiada na mój komentarz",
+            "newComments": "Kiedy użytkownik komentuje mój wpis",
+            "viewProfile": "Kiedy użytkownik odwiedza mój profil",
+            "privateMessage": "Kiedy użytkownik wysyła mi wiadomość",
+            "newFollower": "Kiedy użytkownik obserwuje moje konto",
+            "newConnection": "Kiedy użytkownik wysyła mi zapytanie o kontakt",
+            "acceptConnection": "Kiedy użytkownik akceptuje moje zapytanie o kontakt",
+            "newLike": "Gdy ktoś polubił mój post",
+            "newMention": "Gdy ktoś mnie zaznacza",
+            "groupRequestApproved": "Gdy moje zapytanie o dołączenie do grupy jest zaakceptowane",
+            "newGroupRequest": "Gdy użytkownik wysyła mi zapytanie o dołączenie do grupy",
+            "groupInvitation": "Gdy użytkownik wysyła mi zaproszenie do grupy",
+            "groupRole": "Gdy moje role grupowe zostały zmienione",
+            "likeArtwork": "Gdy ktoś lubi moje Dzieło"
+        },
+        "updateSettingsButton": "Zapisz"
+    },
+    "socialConnect": {
+        "title": "Połączenie ze społecznościami",
+        "notConnected": "Twój profil nie jest połączony z żadną siecią społecznościową.",
+        "disconnectFacebook": "Odłącz się od Facebooka",
+        "disconnectLinkedin": "Odłącz się od LinkedIna",
+        "passwordWarning": "* Proszę zapisać swoje hasło przed odłączeniem konta"
+    },
+    "myPhotos": {
+        "title": "Moje zdjęcia",
+        "warningText": "Po usunięciu zdjęć i albumów są one trwale usuwane i nie można ich odzyskać.",
+        "button1": "Pobierz moje zdjęcia",
+        "button2": "Usuń moje wszystkie albumy i zdjęcia",
+        "downloadWarning": "* Żądanie pobierania moich zdjęć może zająć trochę czasu w zależności od liczby przesłanych zdjęć.",
+        "imagesWarning": "Czy na pewno chcesz usunąć wszystkie swoje albumy i obrazy?",
+        "buttonDelete": "usuń"
+    },
+    "deleteAccount": {
+        "title": "Usuń konto",
+        "warningText": "Czy na pewno chcesz usunąć swoje konto? Spowoduje to usunięcie wszystkich danych konta ze strony. Aby usunąć swoje konto, wprowadź poniżej swoje hasło",
+        "button": "Usuń konto",
+        "password": "Hasło",
+        "passwordWarning": "*Proszę ustawić hasło przed odłączeniem konta",
+        "managePaymentsTitle": "Zarządzaj płatnościami za subskrypcję dostawcy",
+        "managePaymentsText": "Jeśli chcesz zatrzymać płatności, nie musisz usuwać swojego profilu.<br/>Możesz to zatrzymać.<br/>Możesz łatwo przejść na plan BEZPŁATNY BASIC bez dodatkowych opłat.",
+        "managePaymentsText2": "Zobacz na swoim pulpicie nawigacyjnym",
+        "managePaymentsQuoteText": "Zmniejsz swoją subskrypcję",
+        "managePaymentsButtonText": "Przejdź do Pulpit > Subskrypcja"
+    },
+    "imageContainer": {
+        "viewProfile": "Zobacz profil"
+    }
+}

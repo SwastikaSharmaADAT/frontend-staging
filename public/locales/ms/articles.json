@@ -1,0 +1,83 @@
+{
+    "validationErrors": {
+        "image": "Imej artikel diperlukan",
+        "title": "Tajuk diperlukan",
+        "titleLength": "Maksimum 200 karakter untuk tajuk",
+        "description": "Huraian diperlukan",
+        "descriptionLength": "Maksimum 50000 karakter untuk huraian",
+        "category": "Kategori diperlukan",
+        "country": "Negara diperlukan",
+        "city": "Bandar diperlukan",
+        "startDate": "Tarikh mula diperlukan",
+        "endDate": "Tarikh akhir diperlukan",
+        "endDateLarge": "Tarikh akhir tidak boleh ditetap sebelum tarikh mula"
+    },
+    "articleNotAvailable": "Artikel ini tidak didapati",
+    "placeholderImage": "Tambah ciri imej",
+    "placeholderTitle": "Masukkan Tajuk",
+    "placeholderDescription": "Tulis artikel anda di sini...",
+    "placeholderCountry": "Negara",
+    "placeholderStartDate": "Tarikh Mula",
+    "placeholderCity": "Bandar",
+    "placeholderEndDate": "Tarikh Akhir",
+    "category": "Kategori",
+    "categoryOptions": {
+        "option1": "Buzz",
+        "option2": "Gambar hari ini",
+        "option3": "Pameran"
+    },
+    "status": {
+        "draft": "Draf",
+        "publish": "Diterbitkan",
+        "pending": "Menunggu Kelulusan",
+        "rejected": "Ditolak"
+    },
+    "articleFollowed": "Mengikut",
+    "articleFollow": "Ikut",
+    "articleUnFollow": "Nyahikut",
+    "update": "Kemaskini",
+    "submit": "Hantar",
+    "buzzListing": {
+        "title": "SAKSIKAN APA YANG MENGGERAKKAN DUNIA SENI",
+        "titleShort": "BUZZ",
+        "placeholderSearchTitle": "Cari pameran dengan tajuk...",
+        "search": "Cari",
+        "city": "Bandar",
+        "edit": "Sunting"
+    },
+    "exhibitionListing": {
+        "title": "PAMERAN"
+    },
+    "potd": {
+        "title": "GAMBAR HARI INI"
+    },
+    "myArticle": {
+        "title": "Artikel Saya",
+        "seeMoreText": "Lihat lagi..."
+    },
+    "seeMoreText": "Lihat lagi...",
+    "addArticleInfo": {
+        "mainSection": {
+            "heading": "Bagaimana untuk menulis artikel",
+            "firstPara": "Fikirkan diri anda sebagai wartawan atau penulis pendapat.Tulis mengenai sesuatu yang menarik minat dunia seni dan pencinta seni. Selaing daripada peluang untuk mempromosikan diri anda atau karya seni anda sendiri, artikel anda merupakan ruang untuk menulis mengenai topik yang akan menarik minat khalayak umum.",
+            "secondPara": "Anda perlu mempunyai profil lengakap di ARTMO sebelum anda boleh menerbitkan artikel.",
+            "thirdPara": "Selepas menerbit, anda akan diiktiraf sebagai penerbit."
+        },
+        "buzzSubSection": {
+            "heading": "Buzz:",
+            "firstPara": "Tulis artikel mengenai satu topik yang menarik minat pengguna ARTMO. Baca contoh terpilih untuk artikel-artikel Buzz.",
+            "anchorText": "sini"
+        },
+        "potdSubSection": {
+            "heading": "Gambar hari ini | GHI:",
+            "firstPara": "Gunakan kategori GHI apabila anda mempunyai foto yang menawan dan menarik yang ingin anda tulis. Gunakan imej tersebut sebagai imej ciri dan kemudian kongsikan kisah foto tersebut kepada dunia. Gambar GHI akan diterbitkan.",
+            "anchorText": "sini"
+        },
+        "exhibitionSubSection": {
+            "heading": "Pameran:",
+            "firstPara": "Gunakan kategori ini jika anda sedang mengendalikan galeri atau menganjurkan pameran. Tulis mengenai pameran yang anda sedang anjurkan dan artikel anda akan dipaparkan di kategori Pameran.",
+            "secondPara": "Artikel pameran anda akan diterbitkan",
+            "anchorText": "sini"
+        }
+    }
+}

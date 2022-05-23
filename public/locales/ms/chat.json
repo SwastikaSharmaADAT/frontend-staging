@@ -1,0 +1,24 @@
+{
+    "delete": "Padam",
+    "warningDeleteConversation": "Adakah anda pasti anda ingin memadam perbualan ini?",
+    "block": "Sekat",
+    "unblock": "Nyahsekat",
+    "blockWarning": "Adakah anda pasti untuk",
+    "thisUser": "pengguna ini?",
+    "placeholderMessage": "Tulis mesej anda di sini...",
+    "send": "Hantar",
+    "blockText": "Anda tidak boleh membalas perbualan ini. Sama ada pengguna telah menjadikan perbualan peribadi atau telah digantung.",
+    "noMessage": "Tiada Mesej",
+    "history": "Lihat sejarah perbualan",
+    "emojiPicker": {
+        "smileys_people": "SENYUM & ORANG  ",
+        "animals_nature": "BINATANG & ALAM SEMULA JADI",
+        "food_drink": "MAKANAN & MINUMAN",
+        "travel_places": "MELANCONG & TEMPAT",
+        "activities": "AKTIVITI",
+        "objects": "OBJEK",
+        "symbols": "SIMBOL",
+        "flags": "BENDERA",
+        "recently_used": "SERING DIGUNAKAN"
+    }
+}

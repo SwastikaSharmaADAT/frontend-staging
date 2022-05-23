@@ -1,0 +1,37 @@
+{
+  "title": "Gift Cards",
+  "linkToMyGiftCard": "Mostra le tue Gift Card",
+  "giftCardSection": {
+    "title": "Promuovi il tuo Profilo",
+    "description": "Inserisci il link del tuo profilo ARTMO sui tuoi siti web.",
+    "getLinkButton": "Ottieni Link"
+  },
+  "giftCardContent": {
+    "singular": "Gift Card",
+    "title": "La tua nuova card ARTMO:",
+    "selectAmount": "Seleziona un importo:",
+    "quesion": "A chi vuoi inviare la tua Card ARTMO? ",
+    "namePlaceholder": "Inserisci il nome",
+    "emailPlaceholder": "Inserisci l'Email",
+    "lastNote": "I dati della carta saranno disponibili nella sezione Il mio account. Riceverai una ricevuta di conferma sull'e-mail del tuo account.",
+    "buttonText": "Procedi al pagamento",
+    "hello": "Ciao",
+    "sentFrom": "Questa è la tua Gift Card inviata da...",
+    "use": "Usa questa card per l'acquisto di opere d'arte.",
+    "seeHere": "Guarda le opere qui...",
+    "expiryDate": "* Data di scadenza: "
+  },
+  "myGiftCardContent": {
+    "title": "Le tue Gift Card:",
+    "to": "A",
+    "name": " Bjorn Andersen",
+    "validUntil": "Valida fino a",
+    "purchasedOn": "Acquistata il",
+    "used": "Utilizzata",
+    "valid": "In corso di validità",
+    "expired": "Scaduta",
+    "makeCard": "Regala l'Arte.",
+    "buttonText": "Acquista una Card ARTMO",
+    "noGiftCard": "Nessuna Gift Card disponibile"
+  }
+}

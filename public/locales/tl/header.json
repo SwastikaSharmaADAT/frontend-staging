@@ -1,0 +1,46 @@
+{
+    "connectingTheArtWorld": "KINOKONEKTA ANG MUNDO NG SINING",
+    "login": "Maglog-In",
+    "freeSignup": "Libreng Sign-up",
+    "signup": "Magsign-Up",
+    "search": "Mag-search ng mga user...",
+    "legacyPageInfo": "Maaari mong i-access ang iyong page dito",
+    "loginMenu": {
+        "home": "Home",
+        "groups": "Mga Group",
+        "network": "Network",
+        "messages": "Mga mensahe",
+        "notifications": "Mga Notipikasyon",
+        "cart": "Cart",
+        "artwork": "Artwork",
+        "me": "Ako",
+        "more": "karagdagan....",
+        "sellArt": "Magbenta ng Art",
+        "dashboard": "Dashboard",
+        "myarticles": "Mga Artikulo"
+    },
+    "logoutMenu": {
+        "artwork": "Artwork",
+        "cart": "Cart",
+        "more": "karagdagan...."
+    },
+    "subMenu": {
+        "createPage": "Gumawa ng Page",
+        "switchPage": "Lumipat sa page",
+        "switchTo": "Lumipat sa",
+        "profile": "Profile",
+        "page": "Aking Page",
+        "myAccount": "Aking Account",
+        "signOut": "Magsign-Out",
+        "settings": "Mga Setting at Privacy"
+    },
+    "cart": {
+        "removeWarning": "Siguro ka bang nais mong alisin ang item na ito?",
+        "yes": "Oo",
+        "checkoutButton": "I-CHECKOUT",
+        "emptyCartWarning": "Ang iyong cart ay walang laman!",
+        "outOfStock": "Wala nang Stock!",
+        "seeArtworks": "Tumingin ng mga artwork",
+        "buttonYes": "Oo"
+    }
+}

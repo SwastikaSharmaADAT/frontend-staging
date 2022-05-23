@@ -1,0 +1,103 @@
+{
+    "title": "販売会社の購読",
+    "artistPage": {
+        "sectionLabels": {
+            "sellCommissionFree": "手数料無料で作品を販売",
+            "connectWithCollectors": "コレクターディレクトリと連携",
+            "cancelSubscription": "購読はいつでもキャンセルできます",
+            "basicPlan": "基本プランは無料です"
+        }
+    },
+    "memberPage": {
+        "chooseThePlan": "あなたに合ったプランを選択する...",
+        "planLabels": {
+            "plus": "プラス",
+            "pro": "プロ",
+            "lifetime": "一生"
+        },
+        "gatewayFees": "Gateway Fees",
+        "cancelAnytime": "Cancel anytime"
+    },
+    "faq": {
+        "title": "よくある質問",
+        "askQuestion": "質問する",
+        "questionLabels": {
+            "subscriptionFee": "なぜ購読料を支払うのですか？",
+            "basicAccount": "BASICアカウントは無料体験だけですか？",
+            "cancelSubscription": "キャンセルと返金はできますか？",
+            "paymentForSelling": "作品が売れた時、いつどのように支払いを受けられますか？",
+            "publishAndSell": "望むすべての作品を販売し公開できますか？",
+            "howArtmoSurvive": "手数料なしでどのようにARTMOは運営されますか？"
+        }
+    },
+    "perMonth": "/mo",
+    "pricingSelectLabels": {
+        "monthly": "月間請求,",
+        "quarterly": "四半期ごとの請求,",
+        "halfYearly": "半年毎の請求,",
+        "yearly": "年間請求,"
+    },
+    "freePricing": "無料",
+    "currencySwitcher": "通貨の切り替え",
+    "commission": "手数料",
+    "getText": "取得",
+    "signUpText": "サインアップ",
+    "noneText": "None",
+    "includedText": "含む",
+    "notIncludedText": "含まれていません",
+    "vendorPaymentPopup": {
+        "yourChoice": "あなたの選択",
+        "price": "価格",
+        "every": "毎日",
+        "month": "月",
+        "months": "月",
+        "proceedToPayment": "支払いに進む"
+    },
+    "underagePopup": {
+        "hi": "こんにちは。",
+        "backToProfile": "プロフィールに戻る"
+    },
+    "productLimits": {
+        "publishAndSell": "公開し販売...",
+        "basic": "5つの作品まで",
+        "artistPlus": "20作品まで",
+        "unlimited": "作品数に制限なし"
+    },
+    "termsCondsPopup": {
+        "title": "利用規約",
+        "agreeAndProceed": "同意して続ける",
+        "agreeAndSubscribeTo": "同意して購読する"
+    },
+    "artworkListing": {
+        "byText": "by"
+    },
+    "roleChangeWarning": "続行することにより、あなたのユーザータイプが次のように変更されることに同意するものとします。",
+    "toText": "to",
+    "toggleMemberLabel": "For メンバー",
+    "toggleArtistLabel": "For アーティスト",
+    "pickPlanHeading": "自分に合ったプランを選ぶ。",
+    "promoteWorkHeading": "作品を宣伝し販売する。",
+    "makeArtSeenHeading": "作品を販売する。",
+    "categories":{
+        "artistConnectDirectly":"バイヤーと直接つながる",
+        "artistEnablePayment":"ペイメントゲートウェイを有効にする：Paypal、Visa、MasterCard",
+        "enableAcceptPayment":"直接支払いを受け入れる",
+        "artistDashboardManage":"ダッシュボード：コレクションとアカウントの管理",
+        "artistShippingPolicy":"あなた自身の輸送方針",
+        "artistCreateCertificate":"アートワークのCertificateofAuthenticityを作成します",
+        "artistHelpDesk":"ARTMOヘルプデスク",
+        "artistPublishArticle":"あなたの作品や展示会に関する記事を公開して投稿する",
+        "artistBacklinkCollection":"ホームページでARTMOコレクションをバックリンクします",
+        "artistDisputeSupport":"顧客紛争調停サポート",
+        "memberConnectBuyers":"バイヤーと直接つながる",
+        "memberEnablePayment":"ペイメントゲートウェイを有効にする：Paypal、Visa、MasterCard",
+        "memberAcceptPayment":"直接支払いを受け入れる",
+        "memberDashboardManage":"ダッシュボード：コレクションとアカウントの管理",
+        "memberShippingPolicy":"あなた自身の輸送方針",
+        "memberHelpDesk":"ARTMOヘルプデスク",
+        "memberBacklinkCollection":"ホームページでARTMOコレクションをバックリンクします",
+        "memberDisputeSupport":"顧客紛争調停サポート",
+        "artistBadge":"プレミアムセラーバッジ <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+        "memberBadge":"プレミアムセラーバッジ <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+      }
+}

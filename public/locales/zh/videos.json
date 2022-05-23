@@ -1,0 +1,10 @@
+{
+    "title": "视频",
+    "listing": {
+        "placeholderSearch": "按标题搜索视频...",
+        "search": "搜索",
+        "country": "国家:",
+        "category": "类别:",
+        "userType": "用户类型:"
+    }
+}

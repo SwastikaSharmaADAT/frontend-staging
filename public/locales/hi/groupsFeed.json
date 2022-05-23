@@ -1,0 +1,61 @@
+{
+  "createPost": {
+    "title": "एक पोस्ट बनाएं",
+    "editPhoto": "फ़ोटो संपादित करें",
+    "addPhoto": "फ़ोटो जोड़ें",
+    "characterLimit": "/200",
+    "publish": "प्रकाशित",
+    "placeholderWriteSomething": "कुछ लिखिए..."
+  },
+  "groupBarHead": {
+    "Leave": "छोड़ना",
+    "confirmLeave": "क्या आप वाकई समूह छोड़ना चाहते हैं?",
+    "uploadPhoto": "फोटो अपलोड करें",
+    "removePhoto": "तस्वीर बदलिये",
+    "changePhoto": "फोटो हटाएं",
+    "group": "समूह",
+    "leaveGroup": "समूह छोड़ दें",
+    "joinGroup": "समूह में शामिल",
+    "lastActive": "अंतिम सक्रिय",
+    "members": "सदस्य",
+    "posts": "पोस्ट",
+    "editGroupSettings": "समूह सेटिंग्स संपादित करें"
+  },
+  "memberSection": {
+    "title": "समूह के सदस्यों को",
+    "members": "सदस्यों",
+    "seeAll": "सभी देखें..."
+  },
+  "invite": {
+    "title": "कनेक्शन आमंत्रित करें",
+    "seeAll": "सभी देखें",
+    "invited": "आमंत्रित",
+    "follower": "अनुयायी",
+    "followerPlural": "अनुयायियों",
+    "allConnectionsInvited": "आपके सभी कनेक्शन आमंत्रित हैं.",
+    "noConnectionsToInvite": "आमंत्रित करने के लिए कोई कनेक्शन नहीं",
+    "inviteTo": "आमंत्रण के लिए",
+    "invite": "आमंत्रण",
+    "loading": "लोडिंग..."
+  },
+  "joinRequests": {
+    "title": "अनुरोध में शामिल हों",
+    "follower": "अनुयायी",
+    "followerPlural": "अनुयायियों",
+    "reject": "अस्वीकार",
+    "accept": "स्वीकार",
+    "noMoreRequests": "कोई और अधिक शामिल होने का अनुरोध नहीं"
+  },
+  "listingPopup": {
+    "remove": "हटाना",
+    "admin": "(व्यवस्थापक)",
+    "moderator": "(मध्यस्थ)",
+    "follower": "अनुयायी",
+    "followerPlural": "अनुयायियों",
+    "assignModerator": "मॉडरेटर के रूप में नियुक्त करें",
+    "removeFromGroup": "समूह से हटा दें",
+    "addedAsModerator": "मॉडरेटर के रूप में जोड़ा गया",
+    "deleteConfirm": "क्या आप वाकई इस उपयोगकर्ता को हटाना चाहते हैं?"
+  },
+  "notAuthorized": "अधिकृत नहीं हैं"
+}

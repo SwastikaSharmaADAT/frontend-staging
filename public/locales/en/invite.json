@@ -1,0 +1,39 @@
+{
+  "title": "INVITE FRIENDS",
+  "followers": "INVITE FRIENDS",
+  "ctaText": "Get Followers and extend your network.",
+  "tagsInput": {
+    "placeholder": "Add emails manually. Separate by a comma or hit enter after each email."
+  },
+  "cancelButtonLabel": "Cancel",
+  "sendInvitesButtonLabel": "Send Invites",
+  "seeMoreButtonLabel": "See More",
+  "howInviteWork": "How does this work?",
+  "emailTemplateText": "Can I see the email before sending?",
+  "pickEmailService": "Choose an app to send invitations:",
+  "sendManually": "or copy the link below and post it on your Facebook, Instagram, or any other social channel. This link directs to your ARTMO profile.",
+  "gmailText": "Gmail",
+  "learnMore": "Learn More...",
+  "outlookText": "Outlook",
+  "whatsAppText": "WhatsApp",
+  "linkedinText": "Linkedin",
+  "messengerText": "Messenger",
+  "otherText": "Other",
+  "selectedText": "Selected",
+  "emptyResultText": "No Result Found",
+  "emailText": "Email",
+  "emailContent": "Hi, quickly sending you this… \r\n\r\nHave a look at my ARTMO profile.\r\n\r\nWould be fantastic if you can join me there, a great art community with plenty exciting content.\r\nWe can connect and follow.\r\n\r\nWould be great :)\r\nI am looking forward to it.\r\nKeep in touch.",
+  "emailContentText1": "Hi, quickly sending you this… \r\n\r\nHave a look at my ARTMO profile.",
+  "emailContentText2": "Would be fantastic if you can join me there, a great art community with plenty exciting content.\r\nWe can connect and follow.\r\n\r\nWould be great :)\r\nI am looking forward to it.\r\nKeep in touch",
+  "template": {
+    "hasInvitedYou": "has invited you to ARTMO",
+    "yourProfilePic": "Your Profile Picture",
+    "emailContent": "Hello, I would like you to join my network on ARTMO.",
+    "click": "Click",
+    "here": "here",
+    "seeMyProfile": "to see my profile",
+    "kit": "Keep in Touch!",
+    "whatIsArtmo": "What is ARTMO",
+    "learnMore": "Learn More"
+  }
+}

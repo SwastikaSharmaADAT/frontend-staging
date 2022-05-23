@@ -1,0 +1,20 @@
+{
+    "myConnectionsLabel": "マイコネクション",
+    "connectionRequests": "コネクションリクエスト",
+    "connectionRequestsSent": "送信済みコネクションリクエスト",
+    "follower": "フォロワー",
+    "followerPlural": "フォロワー",
+    "disconnected": "拒否された",
+    "disconnect": "拒否",
+    "loadMore": "もっと見る...",
+    "noConnections": "コネクションはありません",
+    "ignore": "無視",
+    "ignored": "無視された",
+    "connect": "コネクト",
+    "connected": "コネクト済み",
+    "noConnectionRequestsReceived": "受信したコネクションリクエストはありません",
+    "noConnectionRequestsSent": "送信したコネクションリクエストはありません",
+    "requestDeleted": "削除済みリクエスト",
+    "deleteRequest": "リクエストを削除",
+    "noConnectionRequests": "コネクションリクエストはありません"
+}

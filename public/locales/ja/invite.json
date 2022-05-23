@@ -1,0 +1,16 @@
+{
+    "title": "友達を招待",
+    "tagsInput": {
+        "placeholder": "メールアドレスを手動で追加。メールアドレスの後にコンマで区切るか、エンターキーを押してください。"
+    },
+    "cancelButtonLabel": "キャンセル",
+    "sendInvitesButtonLabel": "招待を送る",
+    "howInviteWork": "どのような仕組みですか？",
+    "emailTemplateText": "送信前にメールを確認できますか？",
+    "pickEmailService": "メールサービスを選択...",
+    "gmailText": "Gmail",
+    "outlookText": "Outlook",
+    "otherText": "その他",
+    "selectedText": "選択済み",
+    "emptyResultText": "結果がありません"
+}

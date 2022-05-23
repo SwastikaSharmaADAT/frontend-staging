@@ -1,0 +1,24 @@
+{
+    "delete": "Löschen",
+    "warningDeleteConversation": "Möchtest Du diesen Chat wirklich löschen?",
+    "block": "Sperren",
+    "unblock": "Entsperren",
+    "blockWarning": "Bist du sicher, dass du",
+    "thisUser": "diesen Benutzer?",
+    "placeholderMessage": "Schreibe die Nachricht hier...",
+    "send": "Senden",
+    "blockText": "Du kannst auf diesen Chat nicht antworten",
+    "noMessage":"Keine Nachrichten",
+    "history":"Chatverlauf anzeigen",
+    "emojiPicker": {
+        "smileys_people": "SMILEYS & LEUTE",
+        "animals_nature": "TIERE & NATUR",
+        "food_drink": "SPEISEN & GETRÄNKE",
+        "travel_places": "REISE & PLÄTZE",
+        "activities": "AKTIVITÄTEN",
+        "objects": "OBJEKTE",
+        "symbols": "SYMBOLE",
+        "flags": "FLAGGEN",
+        "recently_used": "ZULETZT BENUTZT"
+    }
+}

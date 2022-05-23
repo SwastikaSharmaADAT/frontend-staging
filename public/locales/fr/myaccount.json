@@ -1,0 +1,161 @@
+{
+    "leftTabs": {
+        "account": "Compte",
+        "changePassword": "Changer le mot de passe",
+        "setPassword": "Définir le mot de passe",
+        "privacy": "Confidentialité",
+        "notifications": "Notifications",
+        "webNotifications": "Notifications Web",
+        "socialConnect": "Connexion aux Réseaux Sociaux",
+        "myPhotos": "Mes Photos",
+        "deleteAccount": "Supprimer le Compte"
+    },
+    "account": {
+        "title": "Compte",
+        "username": "Nom d'utilisateur",
+        "firstname": "Prénom",
+        "lastname": "Nom de Famille",
+        "pagename": "Nom de la Page",
+        "email": "Adresse Email",
+        "updateAccount": "Mettre à jour le compte",
+        "validationErrors": {
+            "firstname": "Le prénom est requis",
+            "lastname": "Le nom de famille est requis",
+            "firstnameLength": "Doit contenir 50 caractères ou moins",
+            "lastnameLength": "Doit contenir 50 caractères ou moins",
+            "pagename": "Le nom de la page est requis",
+            "pagenameLength": "Doit contenir 50 caractères ou moins"
+        }
+    },
+    "changePassword": {
+        "changeTitle": "Changer le mot de passe",
+        "setTitle": "Définir le mot de passe",
+        "currentPassword": "Mot de passe actuel",
+        "newPassword": "Nouveau mot de passe",
+        "confirmPassword": "Confirmer le mot de passe",
+        "updatePassword": "Mettre à jour le mot de passe",
+        "validationErrors": {
+            "currentPassword": "Veuillez saisir votre mot de passe actuel",
+            "newPassword": "Veuillez saisir un nouveau mot de passe",
+            "confirmPassword": "Veuillez confirmer votre nouveau mot de passe",
+            "passConditions": "Doit contenir 8 caractères, au moins une majuscule, une minuscule et un chiffre",
+            "passNotMatch": "Les mots de passe ne correspondent pas"
+        }
+    },
+    "notifications": {
+        "title": "Notifications",
+        "description": "Sélectionnez les notifications par e-mail que vous souhaitez recevoir",
+        "headings": {
+            "followers": "Abonnés",
+            "friends": "Amis",
+            "posts": "Posts",
+            "messages": "Messages"
+        },
+        "checkboxLabels": {
+            "newFollowers": "Je Suis Suivi Par Quelqu'un De Nouveau",
+            "newConnectionAdded": "J'ai Une Nouvelle Connexion",
+            "newConnectionRequest": "J'ai Une Nouvelle Demande De Connexion",
+            "groupPost": "M'avertir Lorsque Quelqu'un Poste Sur Le Groupe",
+            "groupComments": "M'avertir Lorsque Quelqu'un Commente Le Groupe",
+            "privateMessage": "Quelqu'un M'envoie Un Message Privé",
+            "unreadMessage": "J'ai Un Message Non Lu"
+        },
+        "updateNotifications": "Mettre à jour les notifications"
+    },
+    "privacy": {
+        "title": "Confidentialité",
+        "profilePrivacy": "Confidentialité du Profil",
+        "showProfileOptions": {
+            "everyone": "Tous",
+            "onlyMe": "Seulement moi",
+            "following": "Seules les personnes que je suis peuvent voir mon profil",
+            "followers": "Abonnés",
+            "connections": "Connexions Uniquement"
+        },
+        "tooltips": {
+            "tip1": "Qui peut voir votre profil public ?",
+            "tip2": "Ici, vous pouvez vous cacher d'apparaître dans le répertoire public",
+            "tip3": "Voulez-vous que d'autres personnes voient que vous êtes en ligne ?",
+            "tip4": "Vous pouvez demander un fichier contenant les informations que nous estimons les plus pertinentes et utiles pour vous.",
+            "tip5": "Vous pouvez demander la suppression des données que nous possédons à votre sujet."
+        },
+        "hideProfile": "Masquer mon profil du répertoire",
+        "yes": "Oui",
+        "no": "Non",
+        "showOnlineStatus": "Afficher mon statut en ligne",
+        "activityWall": "Qui peut voir mon mur d'activité ?",
+        "activityWallOptions": {
+            "public": "Public",
+            "onlyMe": "Seulement moi",
+            "followers": "Abonnés",
+            "following": "Le gens que je suis"
+        },
+        "privateMessage": "Qui peut m'envoyer des messages privés ?",
+        "privateMessageOptions": {
+            "everyone": "Tous",
+            "nobody": "Personne",
+            "following": "Seulement les gens que je suis",
+            "followers": "Abonnés",
+            "connections": "Connecté(e)"
+        },
+        "downloadData": "Téléchargez vos données",
+        "downloadDataDescription": "Saisissez votre mot de passe actuel pour confirmer une nouvelle exportation de vos données personnelles.",
+        "downloadDataButton": "Demande de données",
+        "eraseData": "Effacement de vos données",
+        "eraseDataDescription": "Saisissez votre mot de passe actuel pour confirmer l'effacement de vos données personnelles.",
+        "eraseDataButton": "Demander l'effacement des donnés",
+        "updatePrivacyButton": "Mettre à jour la confidentialité"
+    },
+    "webNotifications": {
+        "title": "Notifications Web",
+        "description": "Recevoir des Notifications",
+        "checkboxLabels": {
+            "newReplies": "Lorsqu'un Membre Répond À L'un De Mes Commentaires",
+            "newComments": "Lorsqu'un Membre Commente Mes Publications",
+            "viewProfile": "Lorsqu'un Membre Consulte Mon Profil",
+            "privateMessage": "Quand Quelqu'un M'envoie Un Message Privé",
+            "newFollower": "Quand Quelqu'un Me Suit",
+            "newConnection": "Quand Quelqu'un Demande À Se Connecter",
+            "acceptConnection": "Quand Quelqu'un Accepte La Connexion",
+            "newLike": "Quand Quelqu'un Aime L'un De Mes Posts",
+            "newMention": "Quand Quelqu'un Me Mentionne",
+            "groupRequestApproved": "Quand Mes Demandes De Groupe Ont Été Approuvées",
+            "newGroupRequest": "Lorsqu'un Utilisateur Demande À Rejoindre Mon Groupe",
+            "groupInvitation": "Lorsqu'un Membre A Invité À Rejoindre Un Groupe",
+            "groupRole": "Quand Mes Rôles De Groupe Ont Été Changés",
+            "likeArtwork": "Quand Quelqu'un Aime Une Œuvre D'art"
+        },
+        "updateSettingsButton": "Mettre à jour les paramètres"
+    },
+    "socialConnect": {
+        "title": "Connexion aux Réseaux Sociaux",
+        "notConnected": "Vous n'êtes connecté à aucun compte de réseau social.",
+        "disconnectFacebook": "Se déconnecter de Facebook",
+        "disconnectLinkedin": "Se déconnecter de LinkedIn",
+        "passwordWarning": "*Veuillez définir votre mot de passe avant de déconnecter le compte"
+    },
+    "myPhotos": {
+        "title": "Mes Photos",
+        "warningText": "Une fois les photos et les albums supprimés, ils sont définitivement supprimés et ne peuvent pas être récupérés.",
+        "button1": "Télécharger mes photos",
+        "button2": "Supprimer tous mes albums et photos",
+        "downloadWarning": "* La tâche Télécharger mes photos peut prendre un certain temps en fonction du nombre de photos téléchargées.",
+        "imagesWarning": "Voulez-vous vraiment supprimer tous vos albums et images ?",
+        "buttonDelete": "supprimer"
+    },
+    "deleteAccount": {
+        "title": "Supprimer le Compte",
+        "warningText": "Êtes-vous sûr de vouloir supprimer votre compte ? Cela effacera toutes les données de votre compte du site. Pour supprimer votre compte entrez votre mot de passe ci-dessous",
+        "button": "Supprimer le Compte",
+        "password": "Mot de passe",
+        "passwordWarning": "*Veuillez définir votre mot de passe avant de déconnecter le compte",
+        "managePaymentsTitle": "Gérer les paiements pour l'abonnement du fournisseur",
+        "managePaymentsText": "Si vous souhaitez arrêter les paiements, vous n'avez pas besoin de supprimer votre profil.<br/>Tu peux le garder.<br/>Vous pouvez facilement passer au plan GRATUIT BASIC sans aucun autre paiement requis.",
+        "managePaymentsText2": "Voir sur votre tableau de bord",
+        "managePaymentsQuoteText": "Rétrogradez votre abonnement",
+        "managePaymentsButtonText": "Allez dans Tableau de bord > Abonnement"
+    },
+    "imageContainer": {
+        "viewProfile": "Voir le Profil"
+    }
+}

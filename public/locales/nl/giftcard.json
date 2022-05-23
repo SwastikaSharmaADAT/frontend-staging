@@ -1,0 +1,32 @@
+{
+  "title": "Vouchers",
+  "linkToMyGiftCard": "View Your Purchased Gift Cards",
+  "giftCardSection": {
+    "title": "Promote Your Profile",
+    "description": "Embed a link to your ARTMO profile on your websites.",
+    "getLinkButton": "Get Link"
+  },
+  "giftCardContent": {
+    "title": "Your new ARTMO Card:",
+    "selectAmount": "Select an amount:",
+    "quesion": "Who should we send your ARTMO Card to? ",
+    "namePlaceholder": "Insert Name",
+    "emailPlaceholder": "Insert Email",
+    "lastNote": "Your purchase receipt will be available on your Profile. You will receive a confirmation to your account email as well.",
+    "buttonText": "Proceed to Checkout"
+  },
+  "myGiftCardContent": {
+    "title": "Your Purchased Gift Cards:",
+    "to": "To",
+    "name": " Bjorn Andersen",
+
+    "validUntil": "Valid until",
+    "purchasedOn": "Purchased on",
+    "used": "Used",
+    "valid": "Valid",
+    "expired": "Expired",
+    "makeCard": "Make a Gift of Art.",
+    "buttonText": "Purchase an ARTMO Card",
+    "noGiftCard": "No Gift cart available"
+  }
+}

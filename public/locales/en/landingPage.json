@@ -1,0 +1,70 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Today’s Feature",
+        "seeMore": "See more ..."
+    },
+    "loggedOutBanner": {
+        "title": "Art Made Social",
+        "title2": "",
+        "descr": "Whether art is your passion  or profession, you've come  to the right place.",
+        "joinInBtnText": "Join In For Free",
+        "network": "Network",
+        "blog": "Blog",
+        "news": "News",
+        "group": "Groups",
+        "marketplace": "Marketplace",
+        "whatIsArtmo": "What is ARTMO?",
+        "learnMore": "Learn more ...",
+        "signUp": "Free Sign Up",
+        "logIn": "Log In",
+        "videos": "Videos",
+        "exhibition": "Exhibitions",
+        "gallery": "Galleries"
+
+    },
+    "usersListing": {
+        "title": "THE ART NETWORK",
+        "follower": "follower",
+        "followers": "followers",
+        "unfollow": "Unfollow",
+        "follow": "Follow",
+        "seeMore": "See More",
+        "following": "Following"
+    },
+    "gridSection": {
+        "home": "HOME",
+        "artists": "ARTISTS",
+        "galleries": "GALLERIES",
+        "exhibitions": "EXHIBITIONS",
+        "users": "USERS",
+        "artwork": "ARTWORK",
+        "genres": "GENRES",
+        "universities": "UNIVERSITIES"
+    },
+    "artworkSection": {
+        "title": "NEW ARTWORKS",
+        "priceOnRequest": "Price on Request",
+        "artist": "Artist",
+        "member": "Member",
+        "seeMore": "See more ..."
+    },
+    "buzzSection": {
+        "title": "BUZZ",
+        "seeMore": "See more ..."
+    },
+    "videosSection": {
+        "title": "VIDEOS",
+        "seeMore": "See more ..."
+    },
+    "exhibitionsSection": {
+        "title": "EXHIBITIONS",
+        "seeMore": "See more ..."
+    },
+    "potdSection": {
+        "title": "PICTURE OF THE DAY",
+        "seeMore": "See more ..."
+    },
+    "joinInSection": {
+        "joinInTitle": "Join in, it’s free."
+    }
+}

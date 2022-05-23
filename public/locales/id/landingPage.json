@@ -1,0 +1,69 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Fitur hari ini",
+        "seeMore": "Lihat lainnya ..."
+    },
+    "loggedOutBanner": {
+        "title": "Selamat datang di Anda",
+        "title2": "Komunitas Seni",
+        "descr": "Apakah seni adalah gairah Anda  atau profesi, Anda telah datang  di tempat yang tepat.",
+        "joinInBtnText": "Gabung secara Gratis",
+        "network": "Jaringan",
+        "blog": "Blog",
+        "news": "Berita",
+        "group": "Group",
+        "marketplace": "Pasar",
+        "whatIsArtmo": "Apa itu ARTMO?",
+        "learnMore": "Pelajari lebih banyak ...",
+        "signUp": "Pendaftaran Gratis",
+        "logIn": "Masuk",
+        "videos": "Video",
+        "exhibition": "Pameran",
+        "gallery": "Galeri"
+    },
+    "usersListing": {
+        "title": "JARINGAN SENI",
+        "follower": "pengikut",
+        "followers": "para pengikut",
+        "unfollow": "Berhenti mengikuti",
+        "follow": "Ikuti",
+        "seeMore": "Lihat lainnya",
+        "following": "Mengikuti"
+    },
+    "gridSection": {
+        "home": "RUMAH",
+        "artists": "SENIMAN",
+        "galleries": "GALERI",
+        "exhibitions": "PAMERAN",
+        "users": "PENGGUNA",
+        "artwork": "KARYA SENI",
+        "genres": "GENRE",
+        "universities": "UNIVERSITAS"
+    },
+    "artworkSection": {
+        "title": "KARYA SENI BARU",
+        "priceOnRequest": "Harga Sesuai Permintaan",
+        "artist": "Seniman",
+        "member": "Anggota",
+        "seeMore": "Lihat lainnya ..."
+    },
+    "buzzSection": {
+        "title": "BUZZ",
+        "seeMore": "Lihat lainnya ..."
+    },
+    "videosSection": {
+        "title": "VIDEO",
+        "seeMore": "Lihat lainnya ..."
+    },
+    "exhibitionsSection": {
+        "title": "PAMERAN",
+        "seeMore": "Lihat lainnya ..."
+    },
+    "potdSection": {
+        "title": "GAMBAR HARI INI",
+        "seeMore": "Lihat lainnya ..."
+    },
+    "joinInSection": {
+        "joinInTitle": "Bergabunglah, gratis."
+    }
+}

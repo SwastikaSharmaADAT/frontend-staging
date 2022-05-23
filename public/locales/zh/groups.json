@@ -1,0 +1,77 @@
+{
+    "groupbarHeading": "群组",
+    "placeholderSearchGroups": "搜索群组",
+    "allCategories": "所有分类",
+    "noCategoriesFound": "分类未找到",
+    "allTags": "所有标签",
+    "noTagsFound": "标签未找到",
+    "search": "搜索",
+    "clear": "清除",
+    "groupListing": {
+        "confirmButtonText": "离开",
+        "confirmLeaveText": "您确定要离开小组吗?",
+        "sortedBy": "排序",
+        "recentActivity": "最近活动",
+        "group": "小组",
+        "manageGroupLabel": "管理群组设置",
+        "leaveGroup": "离开小组",
+        "cancelRequest": "取消请求",
+        "invitedBy": "您的邀请人为",
+        "wouldYouJoin": "你想加入这个小组吗?",
+        "accept": "同意",
+        "ignore": "忽略",
+        "lastActive": "最后登录",
+        "members": "成员",
+        "posts": "帖子",
+        "noGroupsFound": "群组未找到",
+        "loadMore": "了解更多..."
+    },
+    "toolTip": {
+        "tip1": "任何成员都可以加入。",
+        "tip2": "此组将列在群组目录和搜索结果中可见。",
+        "tip3": "小组内容和活动将对任何成员可见。"
+    },
+    "createGroup": {
+        "placeholderName": "名字",
+        "placeholderDescription": "概述",
+        "privacyTitle": "隐私选项",
+        "privacyPublic": "公开",
+        "privacyPublicContent": {
+            "point1": "任何成员都可以加入。",
+            "point2": "此组将列在群组目录和搜索结果中可见。",
+            "point3": "小组内容和活动将对任何成员可见。"
+        },
+        "privacyPrivate": "私密",
+        "privacyPrivateContent": {
+            "point1": "只有请求会员资格并被接受的用户才能加。",
+            "point2": "此组将列在群组目录和搜索结果中可见。",
+            "point3": "小组内容和活动将仅对组成员可见。"
+        },
+        "privacyHidden": "隐藏",
+        "privacyHiddenContent": {
+            "point1": "只有被邀请的用户才能加。",
+            "point2": "此组将不显示在群组目录和搜索结果中。",
+            "point3": "小组内容和活动将仅对组成员可见"
+        },
+        "postModeration": "是否支持管理审核",
+        "moderationTypes": {
+            "option1": "选择审核类型",
+            "option2": "自动发布",
+            "option3": "管理员审核后发布"
+        },
+        "inviteFeature": "启用邀请功能",
+        "whoCanInvite": "谁可以邀请成员加入此群",
+        "inviteOptions": {
+            "option1": "选择邀请类型",
+            "option2": "管理员",
+            "option3": "管理员和主持人",
+            "option4": "所有小组成员"
+        },
+        "category": "类别",
+        "placeholderCategory": "选择类别",
+        "tags": "标签",
+        "placeholderTags": "选择标签",
+        "save": "保存",
+        "update": "Update"
+    }
+}

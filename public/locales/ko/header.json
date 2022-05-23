@@ -1,0 +1,46 @@
+{
+    "connectingTheArtWorld": "예술 세계를 이어줍니다",
+    "login": "로그인",
+    "freeSignup": "무료 회원가입",
+    "signup": "회원가입",
+    "search": "사용자 찾기",
+    "legacyPageInfo": "여기에서 페이지에 액세스할 수 있습니다",
+    "loginMenu": {
+        "home": "홈",
+        "groups": "그룹",
+        "network": "네트워크",
+        "messages": "메시지",
+        "notifications": "알림",
+        "cart": "카트",
+        "artwork": "예술작품",
+        "me": "Me",
+        "more": "더보기",
+        "sellArt": "작품 판매",
+        "dashboard": "대시보드",
+        "myarticles": "기사"
+    },
+    "logoutMenu": {
+        "artwork": "예술작품",
+        "cart": "카트",
+        "more": "더보기"
+    },
+    "subMenu": {
+        "createPage": "페이지 생성",
+        "switchPage": "페이지 이동",
+        "switchTo": "이동할 페이지",
+        "profile": "프로필",
+        "page": "내 페이지",
+        "myAccount": "나의 계정",
+        "signOut": "로그아웃",
+        "settings": "설정 & 개인 정보"
+    },
+    "cart": {
+        "removeWarning": "이 항목을 제거하시겠습니까?",
+        "yes": "예",
+        "checkoutButton": "체크아웃",
+        "emptyCartWarning": "카트가 비어 있습니다!",
+        "outOfStock": "품절!",
+        "seeArtworks": "예술 작품 보기",
+        "buttonYes": "예"
+    }
+}

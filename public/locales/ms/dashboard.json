@@ -1,0 +1,156 @@
+{
+    "tabLabels": {
+        "dashboard": "PAPAN PEMUKA",
+        "mediaLibrary": "PUSTAKA MEDIA",
+        "artworks": "KARYA SENI",
+        "orders": "ORDER",
+        "customers": "PELANGGAN",
+        "settings": "SETTING",
+        "addArtwork": "Tambah Karya Seni"
+    },
+    "incompletePopup": {
+        "mainText": "Great seeing you here, starting uploading your artworks.",
+        "subText": "Before you can upload and publish artworks you would need to complete your profile."
+    },
+    "knowledgeBase": {
+        "title": "PANGKALAN ILMU"
+    },
+    "dashboard": {
+        "title": "Papan Pemuka",
+        "learnMore": "Ketahui Lanjut",
+        "sections": {
+            "sec1": "KELULUSAN KARYA SENI",
+            "sec2": "BAGAIMANA UNTUK MENDAPAT KELULUSAN UNTUK KARYA SENI SAYA?",
+            "sec3": "Sila rujuk Arahan Untuk Muat Naik Karya Seni",
+            "sec4": "BAGAIMANA KARYA SENI DIJUAL?",
+            "here": "sini."
+        }
+    },
+    "artworks": {
+        "title": "Karya Seni",
+        "addNew": "Tambah Baru",
+        "learnMore": "Ketahui Lanjut",
+        "draft": "draf",
+        "published": "Diterbit",
+        "underReview": "Menunggu Kelulusan",
+        "sold": "Dijual",
+        "pending": "Suntingan Diperlukan",
+        "show": "Tunjuk",
+        "entries": "Entri",
+        "placeholderSearch": "Cari",
+        "eur": "EUR",
+        "quickEdit": {
+            "title": "Suntingan Pantas",
+            "confirmButton": "Ya",
+            "markAsSoldText": "Adakah anda pasti untuk tanda sebagai dijual? Tanda tidak boleh diubah selepas ini.",
+            "switchLeft": "dijual",
+            "switchRight": "Tersedia",
+            "saveChanges": "Simpan Perubahan",
+            "selfNotePlaceholder": "Nota Sendiri",
+            "titlePlaceholder": "Tajuk",
+            "pricePlaceholder": "Harga",
+            "priceOnRequestPlaceholder": "Harga atas Permintaan"
+        },
+        "delete": {
+            "confirmButton": "Ya",
+            "confirmDeleteText": "Adakah anda pasti untuk memadam karya seni ini?"
+        },
+        "hover": {
+            "view": "Lihat",
+            "quickEdit": "Suntingan Pantas",
+            "edit": "Sunting",
+            "delete": "Padam"
+        }
+    },
+    "orders": {},
+    "settings": {
+        "title": "Setting",
+        "learnMore": "Ketahui Lanjut",
+        "saveChanges": "Simpan Perubahan",
+        "updateChanges": "Kemaskini perubahan",
+        "optionTitles": {
+            "general": "Umum",
+            "vacation": "Cuti",
+            "subscription": "Langganan",
+            "payouts": "Pembayaran"
+        },
+        "general": {
+            "vendorEmail": "E-mel Penjual",
+            "timezone": "Zon Masa",
+            "shippingPolicy": "Polisi Penghantaran",
+            "validationErrors": {
+                "email": "Sila masukkan e-mel yang sah",
+                "shippingPolicy": "Polisi Penghantarn boleh mengandungi maksimum 1000 karakter"
+            }
+        },
+        "vacation": {
+            "vacationMode": "Aktifkan Mod Cuti",
+            "disablePurchase": "Nyahaktifkan Pembelian Semasa Cuti",
+            "vacationMessage": "Mesej Cuti",
+            "validationErrors": {
+                "vacationMessage": "Mesej cuti boleh menganduing maksimum 1000 karakter"
+            }
+        },
+        "subscription": {
+            "paymentsVia": "Pembayaran melalui",
+            "paypalEmail": "E-mel PayPal",
+            "cardNumber": "Nombor Kad",
+            "changePaymentData": "Tukar Data Pembayaran",
+            "subscriptionPeriod": "Tempoh Langganan",
+            "price": "Harga",
+            "eur": "EUR",
+            "upcomingPayment": "Bayaran Akan Datang",
+            "upgradeMembership": "Naik Taraf Langganan",
+            "downgradeYourAccount": "Turun Taraf Langganan Anda",
+            "cancelSubscription": "Batalkan langganan anda",
+            "cancelConfirmText": "Adakah anda pasti anda ingin membatal langganan anda?",
+            "buttonYes": "Ya",
+            "changePaymentText": "Adakah anda pasti anda ingin mengubah jenis pembayaran?",
+            "basicPlanText": "Ini ialah pelan percuma. Bayaran tidak diperlukan."
+        },
+        "payouts": {
+            "wireTransfer": "Permindahan Wayar",
+            "payPal": "PayPal",
+            "paymentTypeQuestion": "Bagaimana anda ingin menerima bayaran daripada jualan karya seni anda?",
+            "country": "Negara",
+            "bankAccountNumber": "Nombor Akaun Bank",
+            "email": "E-mel",
+            "routingNumber": "Nombor Penghalaan",
+            "validationErrors": {
+                "bankAccountNumber": "Nombor akaun bank diperlukan",
+                "routingNumber": "Nombor penghalaan diperlukan",
+                "country": "Negara diperlukan",
+                "email": "E-mel diperlukan",
+                "bankAccountNumberLength": "Nombor akaun bank boleh mengandungi maksimum 24 digit",
+                "routingNumberLength": "Nombor penghalaan boleh mengandungi maksimum 24 digit",
+                "paymentType": "Jenis Pembayaran diperlukan",
+                "invalidEmail": "Masukkan e-mel yang sah"
+            }
+        }
+    },
+    "knowledgebase": {
+        "accordion1": "Bagaimana untuk set Mod Cuti?",
+        "accordion2": "Bagaimana untuk hantar karya seni?",
+        "accordion3": "Mengapa produk saya tidak kelihatan di Koleksi?",
+        "accordion4": "Syarat Untuk Foto",
+        "accordion5": "Sijil Ketulenan (muat turun)"
+    },
+    "purchaseSubscriptionMessage": "Sila beli langganan dahulu",
+    "profileCompletionPopup": {
+        "title": "Lengkapkan Akaun anda",
+        "addProfileImage": "Tambah imej profil",
+        "startSellingArt": "Mula Jual Seni",
+        "placeholder": {
+            "phone": "Nombor Telefon",
+            "city": "Bandar",
+            "country": "Negara"
+        },
+        "validationErrors": {
+            "profileImageRequired": "Imej Profil diperlukan",
+            "cityRequired": "Bandar diperlukan",
+            "countryRequired": "Negara diperlukan",
+            "phoneRequired": "Nombor Telefon diperlukan",
+            "invalidPhone": "Nombor Telefon tidak sah"
+        }
+    }
+}

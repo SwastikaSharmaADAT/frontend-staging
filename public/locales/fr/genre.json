@@ -1,0 +1,47 @@
+{
+    "title": "Genre Artistique",
+    "tabs": {
+        "genre": "Genre Artistique",
+        "media": "Médium d'Art",
+        "timePeriod": "Période",
+        "genreSubTabs": {
+            "definition": "Définition",
+            "abstractExpressionism": "Expressionisme abstrait",
+            "abstract": "Art abstrait",
+            "calligraphy": "Calligraphie",
+            "conceptual": "Art conceptuel",
+            "concrete": "Art concret",
+            "constructivism": "Constructivisme",
+            "cubism": "Cubisme",
+            "documentary": "Art documentaire",
+            "expressionism": "Expressionisme",
+            "fantastic": "Art fantastique",
+            "figurative": "Art figuratif",
+            "illustration": "Illustration",
+            "impressionism": "Impressionnisme",
+            "magicalRealism": "Réalisme magique",
+            "minimalism": "Minimalisme",
+            "naiveArt": "Art naif",
+            "pop": "Pop art",
+            "realism": "Réalisme",
+            "surrealism": "Surréalisme"
+        },
+        "mediaSubTabs": {
+            "definition": "Définition",
+            "collage": "Collage",
+            "design": "Design",
+            "digital": "Arts numériques",
+            "drawing": "Dessin",
+            "mixed": "Techniques mixtes",
+            "multimedia": "Multimédia",
+            "newMedia": "Nouveaux médias",
+            "painting": "Peinture",
+            "sculpture": "Sculpture"
+        },
+        "timeperiodSubTabs": {
+            "definition": "Définition",
+            "contemporary": "Art contemporain",
+            "modern": "Art moderne"
+        }
+    }
+}

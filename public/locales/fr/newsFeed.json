@@ -1,0 +1,122 @@
+{
+    "addContent": {
+        "placeholderAdd": "Ajouter...",
+        "post": "Post",
+        "video": "Vidéo",
+        "album": "Album",
+        "article": "Article",
+        "artwork": "Oeuvres d'Art"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "Ajouter un Album Photo",
+        "limitText": "Ajouter des images (max 50)",
+        "addImages": "Ajouter des images",
+        "placeholderAddTitle": "Ajouter un titre",
+        "writeSomething": "Écris quelque chose...",
+        "firstPhotoInfo": "La première photo sera l'image de couverture de l'album.",
+        "publish": "Publier",
+        "errorLabels": {
+            "maxCharacter100": "Seulement 100 caractères autorisés",
+            "titleRequired": "Le titre est requis",
+            "maxCharacter500": "Seulement 500 caractères autorisés"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "Modifier l'Album Photo",
+        "updateButton": "Mettre à jour"
+    },
+    "addPostPopup": {
+        "title": "Créer une Publication",
+        "editPhoto": "Modifier Photo",
+        "addPhoto": "Ajouter une Photo",
+        "writeSomething": "Écris quelque chose...",
+        "postDescCount": "/200",
+        "publish": "Publier"
+    },
+    "editPostPopup": {
+        "title": "Modifier la Publication",
+        "updateButton": "Mettre à jour"
+    },
+    "addVideoPopup": {
+        "title": "Ajouter une Vidéo",
+        "validUrlError": "Veuillez saisir une URL valide",
+        "placeholderEnterLink": "Insérez un lien depuis YouTube, Vimeo ...",
+        "placeholderWriteSomething": "Écris quelque chose...",
+        "addCategory": "Ajouter Categorie",
+        "next": "Suivant",
+        "publish": "Publier",
+        "update": "Mettre à jour"
+    },
+    "editVideoPopup": {
+        "title": "Modifier la Publication Vidéo",
+        "updateButton": "Mettre à jour"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "Nouvelle activité ajoutée",
+        "refresh": "Rafraîchir"
+    },
+    "hashtags": {
+        "title": "TOP HASHTAGS",
+        "noHashtagsAdded": "Aucun hashtags ajouté",
+        "post": "post",
+        "postPlural": "posts"
+    },
+    "manageArtwork": {
+        "follower": "abonné",
+        "followerPlural": "abonnés",
+        "visit": "Visite ",
+        "manage": "Gérer ",
+        "noPageFound": "Aucune page trouvée"
+    },
+    "profile": {
+        "follower": "abonné",
+        "followerPlural": "abonnés",
+        "profileCompleteness": "Exhaustivité du Profil",
+        "editProfile": "Editer le Profil"
+    },
+    "singlePost": {
+        "photo": "photo",
+        "photoPlural": "photos",
+        "seeInStore": "Voir en Magasin",
+        "deleteText": "Voulez-vous vraiment supprimer votre commentaire?",
+        "capsHide": "Masquer",
+        "capsUnhide": "Afficher",
+        "hide": "masquer",
+        "unhide": "afficher",
+        "areYouSure": "Êtes-vous sûr de vouloir",
+        "thisComment": "ce commentaire?",
+        "update": "Mettre à jour",
+        "like": "Aimer",
+        "comment": "Commenter",
+        "liked": "Aimé",
+        "likedBy": "Aimé par",
+        "lowerLike": "aime",
+        "lowerLikePlural": "aime",
+        "lowerUnlike": "contrairement à",
+        "lowerComment": "commentaire",
+        "lowerCommentPlural": "commentaires",
+        "share": "Partager",
+        "pending": "En attendant",
+        "deleteActivity": "Voulez-vous vraiment supprimer cette activité?",
+        "accept": "Accepter",
+        "reject": "Rejeter",
+        "delete": "Supprimer",
+        "seeMore": "En savoir plus...",
+        "price": "Prix",
+        "priceOnRequest": "Prix sur Demande",
+        "placeholderComment": "Insérez votre commentaire...",
+        "publish": "Publier",
+        "loadMoreText": "Charger plus...",
+        "loadMoreRepliesText": "Charger plus de réponses...",
+        "edit": "Éditer",
+        "commentRemoved": "Ce commentaire a été supprimé",
+        "replyRemoved": "Cette réponse a été supprimée"
+    },
+    "singleActivity": {
+        "activityNotAvailable": "Cette activité n'est pas disponible",
+        "seeMore": "Voir Plus...",
+        "alreadyHaveAnAccount": "Vous avez déjà un compte?",
+        "signUp": "S'inscrire",
+        "logIn": "Se Connecter"
+    }
+}

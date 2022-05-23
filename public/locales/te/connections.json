@@ -1,0 +1,20 @@
+{
+    "myConnectionsLabel": "నా కనెక్షన్స్",
+    "connectionRequests": "కనెక్షన్ అభ్యర్ధనలు",
+    "connectionRequestsSent": "కనెక్షన్ అభ్యర్ధన పంపబడింది",
+    "follower": "అనుచరించే వ్యక్తి",
+    "followerPlural": "అనుచరులు",
+    "disconnected": "డిస్‌కనెక్ట్ చేయబడ్డారు",
+    "disconnect": "డిస్‌కనెక్ట్ చేయు",
+    "loadMore": "మరిన్ని చూపు...",
+    "noConnections": "కనెక్షన్స్ లేవు",
+    "ignore": "పట్టించుకోవద్దు",
+    "ignored": "పట్టించుకోకుండా వదిలేయబడింది",
+    "connect": "కలుపుము",
+    "connected": "కలపబడ్డారు",
+    "noConnectionRequestsReceived": "కనెక్షన్ అభ్యర్ధనలు రాలేదు",
+    "noConnectionRequestsSent": "కనెక్షన్ అభ్యర్ధనలు పంపబడలేదు",
+    "requestDeleted": "అభ్యర్ధన నిర్మూలించడమైనది",
+    "deleteRequest": "అభ్యర్ధనను నిర్మూలించండి",
+    "noConnectionRequests": "ఎటువంటి కనెక్షన్ అభ్యర్ధనలు రాలేదు"
+}

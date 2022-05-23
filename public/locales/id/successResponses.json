@@ -1,0 +1,116 @@
+{
+    "auth": {
+        "passwordResetSuccess": "Kata sandi telah disetel ulang!",
+        "signOutMessage": "Pengguna telah keluar!"
+    },
+    "articles": {
+        "articlePublish": "Artikel dipublikasikan",
+        "articleDraft": "Artikel disimpan ke draf",
+        "articleUpdate": "Artikel diperbarui"
+    },
+    "dashboard": {
+        "settingsSaved": "Pengaturan disimpan"
+    },
+    "groups": {
+        "userRemoved": "Pengguna dihapus dari grup",
+        "assignAsModerator": "Ditugaskan sebagai Moderator",
+        "inviteSent": "Undangan terkirim",
+        "postSentForApproval": "Postingan terbaru anda telah dikirim ke Admin/Moderator untuk persetujuan",
+        "postPublished": "Postingan grup diterbitkan",
+        "groupPostAccepted": "Postingan berhasil diterima",
+        "groupPostRejected": "Postingan berhasil ditolak",
+        "joinRequestAccepted": "Permintaan bergabung diterima",
+        "joinRequestRejected": "Permintaan bergabung ditolak",
+        "groupInviteAccept": "Undangan grup diterima",
+        "groupInviteReject": "Undangan grup diabaikan",
+        "commentAddSuccess": "Komentar ditambahkan",
+        "groupPhotoRemove": "Foto grup dihapus",
+        "groupPhotoUpload": "Foto grup diunggah",
+        "commentDeleted": "Komentar dihapus",
+        "groupPostAction": "Postingan {{diketik}}",
+        "joinRequest": "Permintaan bergabung {{diketik}}"
+    },
+    "mediaLibrary": {
+        "updatedAllMedia": "Memperbarui semua file media.",
+        "updatedMedia": "Berkas media yang diperbarui."
+    },
+    "newsFeed": {
+        "postPublished": "Postingan diterbitkan",
+        "videoPublished": "Video dipublikasikan",
+        "photoAlbumPublished": "Album foto diterbitkan",
+        "photoAlbumUpdated": "Album foto sukses diperbarui",
+        "commentAdded": "Komentar ditambah",
+        "commentDeleted": "Komentar dihapus",
+        "commentHide": "Komentar disembunyikan",
+        "commentUnhide": "Komentar tidak disembunyikan",
+        "commentUpdated": "Komentar diperbarui",
+        "activityDeleted": "Aktivitas dihapus"
+    },
+    "notification": {
+        "notificationRemoved": "Pemberitahuan dihapus!"
+    },
+    "pages": {
+        "pageCreated": "Halaman dibuat"
+    },
+    "profile": {
+        "profilePhotoUploaded": "'Foto profil diunggah",
+        "coverPhotoUploaded": "Foto sampul diunggah",
+        "profilePhotoRemoved": "Foto profil dihapus",
+        "coverPhotoRemoved": "Foto sampul dihapus",
+        "infoSaved": "Informasi tersimpan",
+        "profileUpdated": "Profil diperbarui",
+        "connectionRequestSent": "Permintaan koneksi terkirim",
+        "blockUser": "pengguna {{diketik}}",
+        "blocked": "Pengguna di Blokir",
+        "unblocked": "Pengguna tidak di blokir",
+        "follow": "Pengguna telah diikuti",
+        "unfollow": "Pengguna telah berhenti mengikuti",
+        "noticeDeleted": "Pemberitahuan dihapus",
+        "techniqueUpdate": "Bagian teknik diperbarui",
+        "expertiseUpdate": "Bagian keahlian diperbarui",
+        "awardUpdate": "Bagian penghargaan diperbarui",
+        "publicationUpdate": "Bagian publikasi diperbarui",
+        "exhibitionUpdate": "Bagian Pameran sebelumnya diperbarui",
+        "aboutBusinessUpdate": "Tentang Bisnis Saya | Bagian profesi diperbarui",
+        "disconnectedFromUser": "Terputus dari pengguna",
+        "connectionRequestDeleted": "Permintaan koneksi dihapus",
+        "connectionRequestIgnored": "Permintaan koneksi diabaikan",
+        "userConnected": "Pengguna terhubung",
+        "followUnfollowUser": "Pengguna telah {{ditindaklanjuti}}"
+    },
+    "staticContent": {
+        "inviteSent": "Undangan terkirim"
+    },
+    "myAccount": {
+        "privacySettingsUpdated": "Pengaturan privasi pengguna diperbarui",
+        "webNotificationsSettingsUpdated": "Pengaturan pemberitahuan web diperbarui",
+        "dataDownload": "Data berhasil diunduh",
+        "picsDownload": "Gambar berhasil diunduh",
+        "passwordUpdated": "Kata sandi diperbarui",
+        "notificationUpdated": "Pengaturan pemberitahuan diperbarui",
+        "accountDisconnected": "Akun Anda terputus",
+        "userDataDelete": "Semua data pengguna dihapus",
+        "photosDelete": "Semua album & foto dihapus",
+        "userDelete": "Akun berhasil dihapus"
+    },
+    "artworks": {
+        "artworkUpdated": "Karya seni anda telah diperbarui.",
+        "artworkDeleted": "Karya seni dihapus",
+        "draftSave": "Karya Seni anda telah disimpan dalam mode Draf",
+        "sentForReview": "Karya Seni anda telah dikirim untuk ditinjau Admin",
+        "published": "Karya seni Anda berhasil diterbitkan"
+    },
+    "profileCompletePopup": {
+        "profileUpdated": "Profil berhasil diperbarui"
+    },
+    "subscriptions": {
+        "purchaseSuccess": "Berlangganan berhasil dibeli",
+        "cancel": "Langganan dibatalkan",
+        "paymentReactivate": "Pembayaran diaktifkan kembali"
+    },
+    "messages": {
+        "chatDelete": "Obrolan berhasil dihapus",
+        "userBlock": "Pengguna diblokir",
+        "messageSent": "Pesan Terkirim"
+    }
+}

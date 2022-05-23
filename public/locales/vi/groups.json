@@ -1,0 +1,77 @@
+{
+    "groupbarHeading": "NHÓM",
+    "placeholderSearchGroups": "Tìm kiếm Nhóm",
+    "allCategories": "Tất cả Danh mục",
+    "noCategoriesFound": "Không tìm thấy Danh mục nào",
+    "allTags": "Tất cả Thẻ",
+    "noTagsFound": "Không tìm thấy Thẻ nào",
+    "search": "Tìm kiếm",
+    "clear": "Xóa",
+    "groupListing": {
+        "confirmButtonText": "Rời khỏi nhóm",
+        "confirmLeaveText": "Bạn chắc chắn muốn rời khỏi nhóm này chứ?",
+        "sortedBy": "Sắp xếp Theo",
+        "recentActivity": "Hoạt động Gần đây",
+        "group": "Nhóm",
+        "manageGroupLabel": "Quản lý cài đặt nhóm",
+        "leaveGroup": "Rời khỏi nhóm",
+        "cancelRequest": "Hủy bỏ Yêu cầu",
+        "invitedBy": "Bạn đã được mời bởi",
+        "wouldYouJoin": "Bạn có muốn tham gia nhóm này không?",
+        "accept": "Đồng ý",
+        "ignore": "Bỏ qua",
+        "lastActive": "Hoạt động Gần nhất",
+        "members": "thành viên",
+        "posts": "bài đăng",
+        "noGroupsFound": "Không tìm thấy Nhóm",
+        "loadMore": "Tải Thêm..."
+    },
+    "toolTip": {
+        "tip1": "Bất cứ thành viên nào của trang cũng có thể tham gia nhóm này.",
+        "tip2": "Nhóm này sẽ được liệt kê trong mục các nhóm và trong kết quả tìm kiếm.",
+        "tip3": "Bất cứ thành viên nào của trang cũng có thể xem nội dung và hoạt động của nhóm."
+    },
+    "createGroup": {
+        "placeholderName": "Tên",
+        "placeholderDescription": "Mô tả",
+        "privacyTitle": "Riêng tư",
+        "privacyPublic": "Công khai",
+        "privacyPublicContent": {
+            "point1": "Bất cứ thành viên nào của trang cũng có thể tham gia nhóm này.",
+            "point2": "Nhóm này sẽ được liệt kê trong mục các nhóm và trong kết quả tìm kiếm.",
+            "point3": "Bất cứ thành viên nào của trang cũng có thể xem nội dung và hoạt động của nhóm."
+        },
+        "privacyPrivate": "Nhóm kín",
+        "privacyPrivateContent": {
+            "point1": "Chỉ những người dùng yêu cầu tham gia và được chấp nhận có thể tham gia nhóm.",
+            "point2": "Nhóm này sẽ được liệt kê trong mục các nhóm và trong kết quả tìm kiếm.",
+            "point3": "Chỉ thành viên của nhóm xem được nội dung và hoạt động của nhóm."
+        },
+        "privacyHidden": "Ẩn",
+        "privacyHiddenContent": {
+            "point1": "Chỉ những người dùng được mời có thể tham gia nhóm.",
+            "point2": "Nhóm này sẽ không được liệt kê trong mục các nhóm hay trong kết quả tìm kiếm.",
+            "point3": "Chỉ thành viên của nhóm xem được nội dung và hoạt động của nhóm."
+        },
+        "postModeration": "Kiểm duyệt Bài đăng",
+        "moderationTypes": {
+            "option1": "Chọn kiểu kiểm duyệt bài đăng",
+            "option2": "Tự động xuất bản",
+            "option3": "Xuất bản sau khi đã kiểm duyệt"
+        },
+        "inviteFeature": "Bật tính năng Mời tham gia",
+        "whoCanInvite": "Ai có thể mời thêm thành viên vào nhóm?",
+        "inviteOptions": {
+            "option1": "Chọn kiểu mời",
+            "option2": "Admin",
+            "option3": "Admin & Mod",
+            "option4": "Tất cả mọi người"
+        },
+        "category": "Danh mục",
+        "placeholderCategory": "Chọn danh mục",
+        "tags": "Thẻ",
+        "placeholderTags": "Chọn thẻ",
+        "save": "Lưu",
+        "update": "Cập nhật"
+    }
+}

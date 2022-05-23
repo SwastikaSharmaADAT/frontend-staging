@@ -1,0 +1,17 @@
+{
+    "heading": "DAS KUNST-NETZWERK",
+    "listing": {
+        "country": "Land:",
+        "placeholderCity": "Stadt",
+        "userType": "Nutzer-Typ:",
+        "sortBy": "Sortiert nach...",
+        "search": "Suchen",
+        "searchUsers": "Suche Nutzer...",
+        "searchbyname": "Suche Nutzer nach Name..."
+    },
+    "follower": "Follower",
+    "followers": "Followers",
+    "unfollow": "Nicht folgen",
+    "follow": "Follow",
+    "editProfile": "Profil bearbeiten"
+}

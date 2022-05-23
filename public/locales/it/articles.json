@@ -1,0 +1,83 @@
+{
+    "validationErrors": {
+        "image": "È necessario inserire l'immagine di un articolo",
+        "title": "È necessario inserire un titolo",
+        "titleLength": "La lunghezza massima del titolo è 200 caratteri",
+        "description": "È necessario inserire una descrizione",
+        "descriptionLength": "La descrizione non può superare il limite massimo di 5000 caratteri",
+        "category": "È necessario inserire una categoria",
+        "country": "È necessario inserire un Paese",
+        "city": "È necessario inserire inserire una città",
+        "startDate": "È necessario inserire una data di inizio",
+        "endDate": "È necessario inserire una data di fine",
+        "endDateLarge": "La data di fine non può essere precedente alla data di inizio"
+    },
+    "articleNotAvailable": "Questo articolo non è disponibile",
+    "placeholderImage": "Inserire un un'immagine in evidenza",
+    "placeholderTitle": "Inserire un titolo",
+    "placeholderDescription": "Scrivere il tuo articolo in questa sezione...",
+    "placeholderCountry": "Paese",
+    "placeholderStartDate": "Data di inizio",
+    "placeholderCity": "Città",
+    "placeholderEndDate": "Data di fine",
+    "category": "Categoria",
+    "categoryOptions": {
+        "option1": "Buzz",
+        "option2": "Immagine del giorno",
+        "option3": "Mostra"
+    },
+    "status": {
+        "draft": "Bozza",
+        "publish": "Pubblicato",
+        "pending": "In attesa di approvazione",
+        "rejected": "Rifiutata"
+    },
+    "articleFollowed": "Chi segui",
+    "articleFollow": "Segui",
+    "articleUnFollow": "Non seguire",
+    "update": "Aggiorna",
+    "submit": "Invia",
+    "buzzListing": {
+        "title": "SCOPRI LE NOVITÀ NEL MONDO DELL'ARTE",
+        "titleShort": "BUZZ",
+        "placeholderSearchTitle": "Cerca una mostra per titolo...",
+        "search": "Cerca",
+        "city": "Città",
+        "edit": "Modifica"
+    },
+    "exhibitionListing": {
+        "title": "MOSTRE"
+    },
+    "potd": {
+        "title": "IMMAGINE DEL GIORNO"
+    },
+    "myArticle": {
+        "title": "I miei articoli",
+        "seeMoreText": "Mostra altro..."
+    },
+    "seeMoreText": "Mostra altro...",
+    "addArticleInfo": {
+        "mainSection": {
+            "heading": "Come scrivere un articolo",
+            "firstPara": "Pensa a te stesso come ad un giornalista o opinionista. Scrivi qualcosa d'interessante che abbia a che fare con il mondo dell'arte e gli appassionati di arte. Oltre a godere dell'opportunità di promuovere te stesso e la tua arte, il tuo articolo rappresenta per te uno spazio libero nel quale poter scrivere di un argomento che potrebbe interessare gli utenti in generale.",
+            "secondPara": "Prima di pubblicare un articolo, dovrai completare il tuo profilo in ARTMO.",
+            "thirdPara": "Dopo aver pubblicato il primo articolo, sarai riconosciuto come editore."
+        },
+        "buzzSubSection": {
+            "heading": "Buzz:",
+            "firstPara": "Scrivi un articolo che sia interessante per gli utenti ARTMO. Dai un'occhiata ad alcuni esempi di articoli Buzz",
+            "anchorText": "in questa sezione"
+        },
+        "potdSubSection": {
+            "heading": "Immagine del giorno | POTD:",
+            "firstPara": "Utilizza la categoria POTD quando vuoi parlare di una foto affascinante e accattivante. Metti in evidenza l'immagine, dunque inizia a raccontare la storia di quella foto. Successivamente, il tuo POTD sarà reso pubblico ",
+            "anchorText": "in questa sezione"
+        },
+        "exhibitionSubSection": {
+            "heading": "Exhibition:",
+            "firstPara": "Utilizza questa categoria se ti stai occupando di una galleria o se stai organizzando una mostra. Scrivi qualcosa rigurado la mostra che stai organizzando. Il tuo articolo sarà disponibile nella categoria Mostre.",
+            "secondPara": "Il tuo articolo sulla mostra sarà pubblicato",
+            "anchorText": "in questa sezione"
+        }
+    }
+}

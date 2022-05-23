@@ -1,0 +1,62 @@
+{
+    "createPost": {
+        "title": "Crea un Post",
+        "editPhoto": "Modifica foto",
+        "addPhoto": "Aggiungi foto",
+        "characterLimit": "/500",
+        "publish": "Pubblica",
+        "placeholderWriteSomething": "Scrivi qualcosa..."
+    },
+    "groupBarHead": {
+        "leave": "Leave",
+        "confirmLeave": "Sei sicuro di voler abbandonare il gruppo?",
+        "uploadPhoto": "Carica foto",
+        "removePhoto": "Modifica foto",
+        "changePhoto": "Rimuovi foto",
+        "group": "Gruppo",
+        "leaveGroup": "Abbandona gruppo",
+        "joinGroup": "Iscriviti al gruppo",
+        "lastActive": "Ultima attività",
+        "members": " membro/i",
+        "posts": "post",
+        "editGroupSettings": "Modificare impostazioni del gruppo",
+        "Leave": "Abbandona"
+    },
+    "memberSection": {
+        "title": "Membri del gruppo",
+        "members": "membri",
+        "seeAll": "Vedi tutto..."
+    },
+    "invite": {
+        "title": "Inviti per connessioni",
+        "seeAll": "Vedi tutto",
+        "invited": "Invitato",
+        "follower": "seguace",
+        "followerPlural": "seguaci",
+        "allConnectionsInvited": "Tutti le tue connessioni hanno ricevuto l'invito.",
+        "noConnectionsToInvite": "Nessuna connessione da invitare",
+        "inviteTo": "Invito per",
+        "invite": "Invita",
+        "loading": "Caricamento..."
+    },
+    "joinRequests": {
+        "title": "Richieste di iscrizione",
+        "follower": "follower",
+        "followerPlural": "followers",
+        "reject": "Rifiuta",
+        "accept": "Accetta",
+        "noMoreRequests": "Non ci sono altre richiesta di iscrizione"
+    },
+    "listingPopup": {
+        "remove": "Rimuovi",
+        "admin": "(Amministratore)",
+        "moderator": "(Moderatore)",
+        "follower": "follower",
+        "followerPlural": "followers",
+        "assignModerator": "Assegnare un moderatore",
+        "removeFromGroup": " Rimuovere dal gruppo",
+        "addedAsModerator": "Aggiunto come moderatore",
+        "deleteConfirm": "Sei sicuro di voler rimuovere questo utente?"
+    },
+    "notAuthorized": "Non autorizzato"
+}

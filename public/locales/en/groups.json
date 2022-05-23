@@ -1,0 +1,77 @@
+{
+    "groupbarHeading": "GROUPS",
+    "placeholderSearchGroups": "Search Groups",
+    "allCategories": "All Categories",
+    "noCategoriesFound": "No Categories found",
+    "allTags": "All Tags",
+    "noTagsFound": "noTagsFound",
+    "search": "Search",
+    "clear": "Clear",
+    "groupListing": {
+        "confirmButtonText": "Leave",
+        "confirmLeaveText": "Are you sure you want to leave this group?",
+        "sortedBy": "Sorted By",
+        "recentActivity": "Recent Activity",
+        "group": "Group",
+        "manageGroupLabel": "Manage group settings",
+        "leaveGroup": "Leave group",
+        "cancelRequest": "Cancel Request",
+        "invitedBy": "You’ve been invited by",
+        "wouldYouJoin": "Would you like to join this group?",
+        "accept": "Accept",
+        "ignore": "Ignore",
+        "lastActive": "Last Active",
+        "members": "member(s)",
+        "posts": "posts(s)",
+        "noGroupsFound": "No Group(s) Found",
+        "loadMore": "Load More..."
+    },
+    "toolTip": {
+        "tip1": "Any site member can join this group.",
+        "tip2": "This group will be listed in the groups directory and in search results.",
+        "tip3": "Group content and activity will be visible to any site member."
+    },
+    "createGroup": {
+        "placeholderName": "Name",
+        "placeholderDescription": "Description",
+        "privacyTitle": "Privacy",
+        "privacyPublic": "Public",
+        "privacyPublicContent": {
+            "point1": "Any site member can join this group.",
+            "point2": "This group will be listed in the groups directory and in search results.",
+            "point3": "Group content and activity will be visible to any site member."
+        },
+        "privacyPrivate": "Private",
+        "privacyPrivateContent": {
+            "point1": "Only users who request membership and are accepted can join the group.",
+            "point2": "This group will be listed in the groups directory and in search results.",
+            "point3": "Group content and activity will only be visible to members of the group."
+        },
+        "privacyHidden": "Hidden",
+        "privacyHiddenContent": {
+            "point1": "Only users who are invited can join the group.",
+            "point2": "This group will not be listed in the groups directory or search results.",
+            "point3": "Group content and activity will only be visible to members of the group."
+        },
+        "postModeration": "Post Moderation",
+        "moderationTypes": {
+            "option1": "Select posts moderation type",
+            "option2": "Auto Published",
+            "option3": "Published Upon Review"
+        },
+        "inviteFeature": "Enable Invites feature",
+        "whoCanInvite": "Who can invite members to the group?",
+        "inviteOptions": {
+            "option1": "Select invitation type",
+            "option2": "Admin",
+            "option3": "Admin & Moderators",
+            "option4": "Everyone"
+        },
+        "category": "Category",
+        "placeholderCategory": "Select categories",
+        "tags": "Tags",
+        "placeholderTags": "Select tags",
+        "save": "Save",
+        "update":"Update"
+    }
+}

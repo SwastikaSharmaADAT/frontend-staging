@@ -1,0 +1,47 @@
+{
+    "title": "Genre",
+    "tabs": {
+        "genre": "Genre",
+        "media": "Media",
+        "timePeriod": "Time Period",
+        "genreSubTabs": {
+            "definition": "Depinisyon",
+            "abstractExpressionism": "Ekspresyonismong Abstract",
+            "abstract": "Abstrak",
+            "calligraphy": "Calligraphy",
+            "conceptual": "Konseptuwal",
+            "concrete": "Kongkreto",
+            "constructivism": "Constructivism",
+            "cubism": "Cubismo",
+            "documentary": "Documentaryo",
+            "expressionism": "Ekspresyonismo",
+            "fantastic": "Fantastic",
+            "figurative": "Figuratibo",
+            "illustration": "Ilustrasyon",
+            "impressionism": "Impresyonismo",
+            "magicalRealism": "Magical Realism",
+            "minimalism": "Minimalismo",
+            "naiveArt": "Naive Art",
+            "pop": "Pop",
+            "realism": "Riyalismo",
+            "surrealism": "Suriyalismo"
+        },
+        "mediaSubTabs": {
+            "definition": "Depinisyon",
+            "collage": "Collage",
+            "design": "Disenyo",
+            "digital": "Digital",
+            "drawing": "Ginuhit",
+            "mixed": "Mixed",
+            "multimedia": "Multimedia",
+            "newMedia": "New Media",
+            "painting": "Painting",
+            "sculpture": "Iskultura"
+        },
+        "timeperiodSubTabs": {
+            "definition": "Depinisyon",
+            "contemporary": "Kontemporaryo",
+            "modern": "Moderno"
+        }
+    }
+}

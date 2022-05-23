@@ -1,0 +1,83 @@
+{
+    "pageNotFound": {
+        "404": "404",
+        "signUpTextNotFound": "O mag-sign up kung wala ka pang profile ...",
+        "pageNotFound": "Mukhang hindi namin makita ang page na hinahanap mo.<br/>Baka gusto mong subukan ang mga sumusunod; magiging maayos na iyan...",
+        "goBackHome": "Bumalik"
+    },
+    "usersTermsConditions": {
+        "title": " MGA TERMINO AT KONDISYON NG MGA USER",
+        "overview": "1. OVERVIEW",
+        "contentEligibility": "2. NILALAMAN AT ELIGIBILITY",
+        "feesPayments": "3. MGA SINGILIN AT PAGBABAYAD",
+        "accountTermination": "4. PAG-AALIS AT PAGKAKANSELA NG ACCOUNT",
+        "provisions": "5. KARAGDAGANG MGA PROBISYON",
+        "seePrivacyPolicy": "Tignan ang polisiya sa privacy",
+        "seeVendorTermsConditions": "Tignan ang mga termino at kondisyon ng vendor"
+    },
+    "privacyPolicyPage": {
+        "title": "POLISIYA SA PRIVACY",
+        "seeVendorTermsConditions": "Tignan ang mga termino at kondisyon ng vendor",
+        "seeUserTermsConditions": "Tignan ang mga termino at kondisyon ng user",
+        "accountPrivacySettings": "MGA SETTING SA ACCOUNT PRIVACY",
+        "dataSecurity": "DATA SECURITY",
+        "collectingPersonalData": "PANGONGOLEKTA AT PAGPOPROSESO NG PERSONAL NA DATOS",
+        "adsOnArtmo": "PAG-AADVERTISE SA ARTMO"
+    },
+    "vendorTermsConditions": {
+        "title": "TERMINO AT KONDISYON NG VENDOR",
+        "seePrivacyPolicy": "Tignan ang polisiya sa privacy",
+        "seeUserTermsConditions": "Tignan ang mga termino at kondisyon ng user",
+        "impOverview": "Una sa lahat... isang importanteng overview",
+        "stepByStep": "Step-by-Step",
+        "overview": "1. OVERVIEW",
+        "fees": "2. KOMISYON | MGA SINGILIN | PAGBABAYAD | MGA REFUND",
+        "termination": "3. PAG-AALIS AT PAGKAKANSELA NG ACCOUNT",
+        "payoutSchedule": "4. SCHEDULE NG PAGBABAYAD SA PAGBEBENTA",
+        "contentEligibility": "5. NILALAMAN AT ELIGIBILITY",
+        "yourObligations": "6. IYONG MGA OBLIGASYON",
+        "artmoObligations": "7. MGA OBLIGASYON NG ARTMO",
+        "returns": "8. MGA PAGSASAULI AT DISPUTE",
+        "provisions": "9. KARAGDAGANG MGA PROBISYON",
+        "shippingReturnPolicy": " POLISIYA SA SHIPPING AT PAGSASAULI"
+    },
+    "whatIsArtmo": {
+        "title": "Ano ang ARTMO?",
+        "artNetwork": "Ang Art Network",
+        "artEnthusiast": " Mga Art Enthusiast",
+        "muchMore": "at marami pa!",
+        "member": "Mga Miyembro",
+        "pages": "Mga Page",
+        "marketplace": "Merkado",
+        "needHelp": "Kailangan ng Tulong - Makipag-ugnayan sa Amin ...",
+        "artist": "Mga Artista",
+        "gallery": "Mga Gallery",
+        "university": "Unibersidad",
+        "shop": "Shop"
+    },
+    "mobileApp": {
+        "title": "Mobile App",
+        "subHeading": "Paano simulan ang ARTMO sa home-screen ng iyong mobile",
+        "note": "Note",
+        "step": "Step",
+        "done": "Tapos na"
+    },
+    "artworkUploadInst": {
+        "headerTitle": "Instruksyon sa paga-upload ng artwork",
+        "images": "Mga Imahe",
+        "title": "Titulo",
+        "artMaterial": "Art Material",
+        "series": "Serye",
+        "limitedEdition": "Limited Editions",
+        "price": "Presyo",
+        "dimension": "Dimension",
+        "frame": "Frame",
+        "medium": "Medium",
+        "genre": "Genre",
+        "subjectTags": "Subject Tags",
+        "description": "Deskripsyon",
+        "text": "Teksto",
+        "yourProfile": "Ang Iyong Profile",
+        "pdf": "PDF"
+    }
+}

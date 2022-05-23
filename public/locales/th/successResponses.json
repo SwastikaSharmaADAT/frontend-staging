@@ -1,0 +1,116 @@
+{
+  "auth": {
+    "passwordResetSuccess": "พาสเวิร์ดถูกรีเซ็ต!",
+    "signOutMessage": "ผู้ใช้ออกจากระบบ!"
+  },
+  "articles": {
+    "articlePublish": "เผยแพร่บทความแล้ว",
+    "articleDraft": "บันทึกบทความเป็นแบบร่าง",
+    "articleUpdate": "อัพเดทบทความแล้ว"
+  },
+  "dashboard": {
+    "settingsSaved": "บันทึกการตั้งค่าแล้ว"
+  },
+  "groups": {
+    "userRemoved": "ผู้ใช้ถูกนำออกจากกลุ่ม",
+    "assignAsModerator": "ได้รับมอบหมายให้เป็นผู้ดูแล",
+    "inviteSent": "ส่งคำเชิญแล้ว",
+    "postSentForApproval": "โพสล่าสุดของคุณได้ถูกส่งไปใหแอดมิน/ผู้ดูแลเพื่อรอการอนุมัติ",
+    "postPublished": "เผยแพร่โพสต์ในกลุ่ม",
+    "groupPostAccepted": "โพสต์ได้รับการอนุมัติแล้ว",
+    "groupPostRejected": "โพสต์ถูกปฏิเสธ",
+    "joinRequestAccepted": "คำขอเข้าร่วมได้รับการอนุมัติแล้ว",
+    "joinRequestRejected": "คำขอเข้าร่วมถูกปฏิเสธ",
+    "groupInviteAccept": "คำเชิญเข้ากลุ่มได้รับการตกลง",
+    "groupInviteReject": "คำเชิญเข้ากลุ่มถูกปฏิเสธ",
+    "commentAddSuccess": "คอมเม้นถูกเพิ่ม",
+    "groupPhotoRemove": "ภาพกลุ่มถูกนำออก",
+    "groupPhotoUpload": "ภาพกลุ่มถูกอัพโหลด",
+    "commentDeleted": "คอมเม้นถูกลบ",
+    "groupPostAction": "{{พิมพ์}}โพสต์",
+    "joinRequest": "{{พิมพ์}}คำขอเข้าร่วม"
+  },
+  "mediaLibrary": {
+    "updatedAllMedia": "อัพเดทไฟล์สื่อทั้งหมดแล้ว",
+    "updatedMedia": "อัพเดทไฟล์สื่อแล้ว"
+  },
+  "newsFeed": {
+    "postPublished": "เผยแพร่โพสต์",
+    "videoPublished": "เผยแพร่วิดีโอ",
+    "photoAlbumPublished": "เผยแพร่อัลบั้มรูป",
+    "photoAlbumUpdated": "อัพโหลดอัลบั้มสำเร็จ",
+    "commentAdded": "เพิ่มคอมเม้นแล้ว",
+    "commentDeleted": "คอมเม้นถูกลบแล้ว",
+    "commentHide": "คอมเม้นถูกซ่อน",
+    "commentUnhide": "คอมเม้นไม่ถูกซ่อน",
+    "commentUpdated": "คอมเม้นอัพเดทแล้ว",
+    "activityDeleted": "กิจกรรมถูกลบแล้ว"
+  },
+  "notification": {
+    "notificationRemoved": "การแจ้งเตือนถูกเอาออกแล้ว!"
+  },
+  "pages": {
+    "pageCreated": "สร้างเพจแล้ว"
+  },
+  "profile": {
+    "profilePhotoUploaded": "'อัพโหลดรูปโปรไฟล์แล้ว",
+    "coverPhotoUploaded": "อัพโหลดภาพหน้าปกแล้ว",
+    "profilePhotoRemoved": "นำรูปโปรไฟล์ออกแล้ว",
+    "coverPhotoRemoved": "นำภาพหน้าปกออกแล้ว",
+    "infoSaved": "บันทึกข้อมูลแล้ว",
+    "profileUpdated": "อัพเดทโปรไฟล์แล้ว",
+    "connectionRequestSent": "ส่งคำขอเชื่อมต่อแล้ว",
+    "blockUser": "{{พิมพ์}}ผู้ใช้",
+    "blocked": "บล็อกผู้ใช้",
+    "unblocked": "เลิกบล็อกผู้ใช้",
+    "follow": "ผู้ใช้มีผู้ติดตาม",
+    "unfollow": "ผู้ใช้ถูกเลิกติดตาม",
+    "noticeDeleted": "ลบการแจ้งแล้ว",
+    "techniqueUpdate": "อัพเดทส่วนเทคนิคแล้ว",
+    "expertiseUpdate": "อัพเดทส่วนความเชี่ยวชาญแล้ว",
+    "awardUpdate": "อัพเดทส่วนรางวัลแล้ว",
+    "publicationUpdate": "อัพเดส่วนการเผยแพร่แล้ว",
+    "exhibitionUpdate": "อัพเดทส่วนนิทรรศการที่ผ่านมาแล้ว",
+    "aboutBusinessUpdate": "อัพเดทส่วนเกี่ยวกับธุรกิจ | อาชีพของฉันแล้ว",
+    "disconnectedFromUser": "ยกเลิกการเชื่อมต่อกับผู้ใช้แล้ว",
+    "connectionRequestDeleted": "ลบคำขอเชื่อมต่อแล้ว",
+    "connectionRequestIgnored": "ปฏิเสธคำขอเชื่อมต่อแล้ว",
+    "userConnected": "เชื่อมต่อผู้ใช้แล้ว",
+    "followUnfollowUser": "ผู้ใช้ได้ทำ{{การกระทำ}}"
+  },
+  "staticContent": {
+    "inviteSent": "ส่งคำขอแล้ว"
+  },
+  "myAccount": {
+    "privacySettingsUpdated": "อัพเดทการตั้งค่าความเป็นส่วนตัวของผู้ใช้แล้ว",
+    "webNotificationsSettingsUpdated": "อัพเดทการตั้งค่าการแจ้งเตือนทางเว็บไซต์แล้ว",
+    "dataDownload": "ดาวน์โหลดข้อมูลสำเร็จ",
+    "picsDownload": "ดาวน์โหลดรูปภาพสำเร็จ",
+    "passwordUpdated": "อัพเดทพาสเวิร์ดแล้ว",
+    "notificationUpdated": "อัพเดทการตั้งค่าการแจ้งเตือนแล้ว",
+    "accountDisconnected": "บัญชีของคุณไม่ได้เชื่อมต่อ",
+    "userDataDelete": "ลบข้อมูลทั้งหมดของผู้ใช้แล้ว",
+    "photosDelete": "ลบอัลบั้ม & รูปภาพทั้งหมดแล้ว",
+    "userDelete": "ลบบัญชีผู้ใช้แล้ว"
+  },
+  "artworks": {
+    "artworkUpdated": "งานศิลปะของคุณได้ถูกอัพเดทแล้ว",
+    "artworkDeleted": "ลบงานศิลปะแล้ว",
+    "draftSave": "งานศิลปะของคุณถูกบันทึกไว้ในโหมดร่าง",
+    "sentForReview": "งานศิลปะของคุณถูกส่งให้แอดมินรีวิว",
+    "published": "งานศิลปะของคุณได้รับการเผยแพร่แล้ว"
+  },
+  "profileCompletePopup": {
+    "profileUpdated": "อัพเดทโพรไฟล์เรียบร้อย"
+  },
+  "subscriptions": {
+    "purchaseSuccess": "ซื้อแพ็คเกจสำเร็จ",
+    "cancel": "ยกเลิกการสมัครสมาชิกแล้ว",
+    "paymentReactivate": "เปิดการชำระเงินแล้ว"
+  },
+  "messages": {
+    "chatDelete": "ลบแชทเรียบร้อยแล้ว",
+    "userBlock": "บล็อกผู้ใช้แล้ว",
+    "messageSent": "ส่งข้อความแล้ว"
+  }
+}

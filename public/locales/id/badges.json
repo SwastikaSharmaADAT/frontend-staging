@@ -1,0 +1,20 @@
+{
+    "title": "LENCANA",
+    "promoteProfileSection": {
+        "title": "Promosikan Profil Anda",
+        "description": "Menyematkan tautan ke profil ARTMO Anda di situs web Anda.",
+        "getLinkButton": "Dapatkan tautan"
+    },
+    "badgeSections": {
+        "step1": "Langkah 1: Pilih warna:",
+        "whiteRadioOption": "Putih",
+        "blackRadioOption": "Hitam",
+        "step2": "Langkah 2: Pilih ukuran:",
+        "largeRadioOption": "Besar",
+        "smallRadioOption": "Kecil",
+        "step3": "Langkah 3: Salin dan tempel kode di situs web Anda:",
+        "copyButtonText": "Salin kode",
+        "copiedButtonText": "Tersalin!",
+        "helpText": "Bantuan"
+    }
+}

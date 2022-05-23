@@ -1,0 +1,27 @@
+{
+  "about": "oor",
+  "labels": {
+    "option1": "Die Kuns Netwerk",
+    "option2": "Koop",
+    "option3": "Span",
+    "option4": "Beroep",
+    "option5": "IP",
+    "option6": "Indruk",
+    "option7": "Terme & Privaatheid",
+    "option8": "Beleggerverhoudings"
+  },
+  "career": {
+    "jobOpening": {
+      "title": "Werksgeleenthede"
+    },
+    "lisbonPortugal": {
+      "title": "Lisbon | Portugal",
+      "option1": "Internskappe",
+      "option2": "Sosiale Media Bestuurder & Digitale Bemarker",
+      "option3": "WooCommerce Deskundige"
+    },
+    "hamburgGermany": {
+      "title": "Hamburg | Duitsland"
+    }
+  }
+}

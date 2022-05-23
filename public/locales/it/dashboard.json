@@ -1,0 +1,156 @@
+{
+    "tabLabels": {
+        "dashboard": "BACHECA",
+        "mediaLibrary": "MEDIATECA",
+        "artworks": "OPERE D'ARTE",
+        "orders": "ORDINI",
+        "customers": "ACQUIRENTI",
+        "settings": "IMPOSTAZIONI",
+        "addArtwork": "Aggiungi un'opera d'arte"
+    },
+    "incompletePopup": {
+        "mainText": "È bello vederti qui, iniziare a caricare le tue opere.",
+        "subText": "Prima di poter caricare e pubblicare opere d'arte dovresti completare il tuo profilo."
+    },
+    "knowledgeBase": {
+        "title": "ARCHIVIO DOMANDE"
+    },
+    "dashboard": {
+        "title": "Bacheca",
+        "learnMore": "Scopri di più",
+        "sections": {
+            "sec1": "RICHIESTA DI APPROVAZIONE DI UN'OPERA D'ARTE",
+            "sec2": "COME OTTENERE L'APPROVAZIONE DI UN'OPERA D'ARTE?",
+            "sec3": "Si prega di dare un'occhiata alle istruzioni per per caricare un'opera d'arte",
+            "sec4": "COME AVVIENE LA VENDITA DI UN'OPERA D'ARTE?",
+            "here": "qui."
+        }
+    },
+    "artworks": {
+        "title": "Opere d'arte",
+        "addNew": "Aggiungi nuova",
+        "learnMore": "Scopri di più",
+        "draft": "Bozza",
+        "published": "Pubblicato",
+        "underReview": "In attesa di approvazione",
+        "sold": "Venduto",
+        "pending": "Modifica richiesta",
+        "show": "Mostra",
+        "entries": "Iscrizioni",
+        "placeholderSearch": "Cerca",
+        "eur": "EUR",
+        "quickEdit": {
+            "title": "Modifica rapida",
+            "confirmButton": "Sì",
+            "markAsSoldText": "Sei sicuro di voler contrassegnare questa opera d'arte come venduta? L'operazione non potrà essere annullata",
+            "switchLeft": "Venduta",
+            "switchRight": "Disponibile",
+            "saveChanges": "Salva le modifiche",
+            "selfNotePlaceholder": "Annotazioni personali",
+            "titlePlaceholder": "Titolo",
+            "pricePlaceholder": "Prezzo",
+            "priceOnRequestPlaceholder": "Prezzo su richiesta"
+        },
+        "delete": {
+            "confirmButton": "Sì",
+            "confirmDeleteText": "Sei sicuro di voler eliminare quest'opera d'arte?"
+        },
+        "hover": {
+            "view": "Visualizza",
+            "quickEdit": "Modifica rapida",
+            "edit": "Modifica",
+            "delete": "Elimina"
+        }
+    },
+    "orders": {},
+    "settings": {
+        "title": "Impostazioni",
+        "learnMore": "Scopri di più",
+        "saveChanges": "Salva le modifiche",
+        "updateChanges": "Update changes",
+        "optionTitles": {
+            "general": "Generale",
+            "vacation": "Vacanza",
+            "subscription": "Registrazione",
+            "payouts": "Pagamenti"
+        },
+        "general": {
+            "vendorEmail": "E-mail venditore",
+            "timezone": "Fuso orario",
+            "shippingPolicy": "Politica di trasporto",
+            "validationErrors": {
+                "email": "Si prega di inserire un indirizzo e-mail valido",
+                "shippingPolicy": "La lunghezza massima della politica di trasporto non deve superare i 1000 caratteri"
+            }
+        },
+        "vacation": {
+            "vacationMode": "Abilita la Modalità Vacanza",
+            "disablePurchase": "Disattiva gli acquisti durante il periodo di vacanza",
+            "vacationMessage": "Messaggio per comunicare un periodo di vacanza",
+            "validationErrors": {
+                "vacationMessage": "La lunghezza massima del messaggio non deve superare i 1000 caratteri"
+            }
+        },
+        "subscription": {
+            "paymentsVia": "Metodo di pagamento",
+            "paypalEmail": "Indirizzo E-mail di PayPal",
+            "cardNumber": "Card number ",
+            "changePaymentData": "Modificare le informazioni di pagamento",
+            "subscriptionPeriod": "Periodo di sottoscrizione",
+            "price": "Prezzo",
+            "eur": "EUR",
+            "upcomingPayment": "Pagamento in arrivo",
+            "upgradeMembership": "Aggiorna l'abbonamento",
+            "downgradeYourAccount": "Effettua il downgrade del tuo abbonamento",
+            "cancelSubscription": "Elimina la tua iscrizione",
+            "cancelConfirmText": "Sei sicuro di voler eliminare la tua iscrizione?",
+            "buttonYes": "Sì",
+            "changePaymentText": "Sei sicuro di voler modificare il metodo di pagamento?",
+            "basicPlanText": "Questo è un piano gratuito. Non necessario alcun pagamento."
+        },
+        "payouts": {
+            "wireTransfer": "Trasferimento Wire",
+            "payPal": "PayPal",
+            "paymentTypeQuestion": "In che modo desideri ricevere i guadagni ricavati della vendita di opere d'arte?",
+            "country": "Paese",
+            "bankAccountNumber": "Numero di conto dell'istituto bancario",
+            "email": "Email",
+            "routingNumber": "Coordinate bancarie",
+            "validationErrors": {
+                "bankAccountNumber": "Il numero di conto bancario deve avere un massimo di 24 cifre",
+                "routingNumber": "Il numero delle cordinate bancarie deve avere un massimo 24 cifre",
+                "country": "È necessario indicare una nazione",
+                "email": "È necessario indicare un'indirizzoo Email",
+                "bankAccountNumberLength": "Il numero del conto bancario deve essere composto da un massimo di 24 cifre",
+                "routingNumberLength": "Il numero di instradamento deve essere composto da un massimo di 24 cifre",
+                "paymentType": "È necessario indicare un metodo di pagamento",
+                "invalidEmail": "Inserire un indirizzo email valido"
+            }
+        }
+    },
+    "knowledgebase": {
+        "accordion1": "In che modo impostare la Modalità Vacanza?",
+        "accordion2": "In che modo inviare un'opera d'arte?",
+        "accordion3": "Perché il mio prodotto non è visibile in Collezioni?",
+        "accordion4": "Requisiti per la foto",
+        "accordion5": "Certificato di autenticità (scarica)"
+    },
+    "purchaseSubscriptionMessage": "Si prega di acquistare un abbonamento",
+    "profileCompletionPopup": {
+        "title": "Completa il tuo profilo",
+        "addProfileImage": "Aggiungi un'immagine di profilo",
+        "startSellingArt": "Inzia a vendere arte",
+        "placeholder": {
+            "phone": "Numero di telefono",
+            "city": "Città",
+            "country": "Nazione"
+        },
+        "validationErrors": {
+            "profileImageRequired": "È necessario inserire un'immagine di profilo",
+            "cityRequired": "È necessario indicare una città",
+            "countryRequired": "È necessario indicare una nazione",
+            "phoneRequired": "È necessario inserire un numero di telefono",
+            "invalidPhone": "Il numero di telefono non è valido"
+        }
+    }
+}

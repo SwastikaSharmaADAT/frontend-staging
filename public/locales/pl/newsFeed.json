@@ -1,0 +1,122 @@
+{
+    "addContent": {
+        "placeholderAdd": "Dodaj...",
+        "post": "Post",
+        "video": "Video",
+        "album": "Album",
+        "article": "Artykuł",
+        "artwork": "Dzieło"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "Dodaj Album",
+        "limitText": "Dodaj obrazki (max 50)",
+        "addImages": "Dodaj obrazki",
+        "placeholderAddTitle": "Dodaj tytuł",
+        "writeSomething": "Napisz coś...",
+        "firstPhotoInfo": "Pierwsze zdjęcie będzie obrazem tła albumu",
+        "publish": "Opublikuj",
+        "errorLabels": {
+            "maxCharacter100": "Maksymalnie 100 znaków",
+            "titleRequired": "Tytuł jest wymagany",
+            "maxCharacter500": "Maksymalnie 500 znaków"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "Edit Photo Album",
+        "updateButton": "Update"
+    },
+    "addPostPopup": {
+        "title": "Dodaj Post",
+        "editPhoto": "Edytuj Zdjęcie",
+        "addPhoto": "Dodaj Zdjęćie",
+        "writeSomething": "Napisz coś...",
+        "postDescCount": "/200",
+        "publish": "Opublikuj"
+    },
+    "editPostPopup": {
+        "title": "Edit Post",
+        "updateButton": "Update"
+    },
+    "addVideoPopup": {
+        "title": "Dodaj Video",
+        "validUrlError": "Wpisz prawidłowy adres URL",
+        "placeholderEnterLink": "Wprowadź link do filmu na YouTube, Vimeo...",
+        "placeholderWriteSomething": "Napisz coś...",
+        "addCategory": "Dodaj Kategorię",
+        "next": "Następny",
+        "publish": "Opublikuj",
+        "update": "Update"
+    },
+    "editVideoPopup": {
+        "title": "Edit Video Post",
+        "updateButton": "Update"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "Dodano nową aktywność",
+        "refresh": "Odśwież"
+    },
+    "hashtags": {
+        "title": "HASZTAGI",
+        "noHashtagsAdded": "Nie dodano hasztagów",
+        "post": "post",
+        "postPlural": "postów"
+    },
+    "manageArtwork": {
+        "follower": "obserwujący",
+        "followerPlural": "obserwujących",
+        "visit": "Odwiedź ",
+        "manage": "Zarządzaj ",
+        "noPageFound": "Nie znaleziono strony"
+    },
+    "profile": {
+        "follower": "obserwujący",
+        "followerPlural": "obserwujących",
+        "profileCompleteness": "Kompletność profilu",
+        "editProfile": "Edytuj Profil"
+    },
+    "singlePost": {
+        "photo": "zdjęcie",
+        "photoPlural": "zdjęcia",
+        "seeInStore": "Zobacz w Sklepie",
+        "deleteText": "Czy na pewno chcesz usunąć swój komentarz?",
+        "capsHide": "Ukryj",
+        "capsUnhide": "Pokaż",
+        "hide": "ukryj",
+        "unhide": "pokaż",
+        "areYouSure": "Czy na pewno chcesz",
+        "thisComment": "ten komentarz?",
+        "update": "Aktualizuj",
+        "like": "Polub",
+        "comment": "Skomentuj",
+        "liked": "Polubione",
+        "likedBy": "Polubione przez",
+        "lowerLike": "polubienie",
+        "lowerLikePlural": "polubień",
+        "lowerUnlike": "cofnij",
+        "lowerComment": "komentarz",
+        "lowerCommentPlural": "komentarzy",
+        "share": "Udostępnij",
+        "pending": "W trakcie moderacji",
+        "deleteActivity": "Czy chcesz usunąć tę aktywność?",
+        "accept": "Zaakceptuj",
+        "reject": "Odrzuć",
+        "delete": "Usuń",
+        "seeMore": "Zobacz więcej...",
+        "price": "Cena",
+        "priceOnRequest": "Cena na życzenie",
+        "placeholderComment": "Wprowadź swój komentarz...",
+        "publish": "Opublikuj",
+        "loadMoreText": "Więcej...",
+        "loadMoreRepliesText": "Więcej odpowiedzi...",
+        "edit": "Edytuj",
+        "commentRemoved": "Ten komentarz został usunięty",
+        "replyRemoved": "Ten komentarz został usunięty"
+    },
+    "singleActivity": {
+        "activityNotAvailable": "Ta aktywność nie jest dostępna",
+        "seeMore": "Zobacz więcej...",
+        "alreadyHaveAnAccount": "Masz już konto?",
+        "signUp": "Zarejestruj",
+        "logIn": "Logowanie"
+    }
+}

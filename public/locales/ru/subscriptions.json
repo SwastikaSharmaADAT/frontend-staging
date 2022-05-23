@@ -1,0 +1,113 @@
+{
+  "title": "ПУБЛИЧНАЯ ОФЕРТА",
+  "artistPage": {
+    "sectionLabels": {
+      "sellCommissionFree": "Продавайте без комиссии",
+      "connectWithCollectors": "Общайтесь напрямую с покупателями",
+      "cancelSubscription": "Отмените подписку в любое время",
+      "basicPlan": "Простой тариф - бесплатный"
+    }
+  },
+  "memberPage": {
+    "chooseThePlan": "Выберите тот ТАРИФ, который подходит Вам больше всего...",
+    "planLabels": {
+      "plus": "Плюс",
+      "pro": "Про",
+      "lifetime": "На Всю Жизнь"
+    },
+    "gatewayFees": "Комиссия за Оплату",
+    "cancelAnytime": "Отмените в любое время"
+  },
+  "faq": {
+    "title": "Часто Задаваемые Вопросы",
+    "askQuestion": "Задать Вопрос",
+    "questionLabels": {
+      "subscriptionFee": "Зачем мне платить за подписку?",
+      "basicAccount": "ПРОСТОЙ тариф - это бесплатная пробная версия?",
+      "cancelSubscription": "Могу ли я отменить подписку и сделать возврат средств?",
+      "paymentForSelling": "Как и когда мне заплатят, если одно из произведений будет продано?",
+      "publishAndSell": "Могу ли я публиковать и продавать любые произведения, которые захочу?",
+      "howArtmoSurvive": "Как ARTMO продолжает работу без комиссии?"
+    }
+  },
+  "perMonth": "/мес",
+  "pricingSelectLabels": {
+    "monthly": "Платёж за месяц,",
+    "quarterly": "Платёж за три месяца,",
+    "halfYearly": "Платёж за полгода,",
+    "yearly": "Платёж за год,"
+  },
+  "freePricing": "бесплатно",
+  "currencySwitcher": "Текущая Валюта",
+  "commission": "Комиссия",
+  "helpDesk": "Служба Поддержки ARTMO",
+  "directPayments": "Возможность Получения Оплаты Напрямую",
+  "backLink": "Обратная ссылка Вашей коллекции ARTMO на Главной Странице",
+  "connectDirectly": "Прямая Связь с Покупателями",
+  "certificates": "Создание Сертификатов Подлинности Ваших произведений",
+  "mediation": "Урегулирование диспутов с покупателями",
+  "manageCollection": "Дашборд: Управление Коллекциями и Аккаунтом",
+  "gateways": "Возможность Осуществления Платежа через Paypal, Visa, MasterCard",
+  "badge": "Премиум Значок Продавца",
+  "articles": "Публикация статей и Постов о Ваших работах и выставках",
+  "shippingPolicy": "Ваша Собственная Политика Доставки",
+  "getText": "получить",
+  "noneText": "Нет",
+  "includedText": "Включая",
+  "notIncludedText": "Не Включая",
+  "vendorPaymentPopup": {
+    "yourChoice": "Ваш выбор",
+    "price": "Цена",
+    "every": "каждый",
+    "month": "месяц",
+    "months": "месяцы",
+    "proceedToPayment": "Произвести Оплату"
+  },
+  "underagePopup": {
+    "hi": "Привет",
+    "backToProfile": "Вернуться к Профилю"
+  },
+  "productLimits": {
+    "publishAndSell": "Публикуйте и продавайте...",
+    "basic": "до 5 произведений",
+    "artistPlus": "до 20 произведений",
+    "unlimited": "неограниченное количество"
+  },
+  "termsCondsPopup": {
+    "title": "Публичная Оферта",
+    "agreeAndProceed": "Согласиться и Продолжить",
+    "agreeAndSubscribeTo": "Согласиться и Подписаться"
+  },
+  "artworkListing": {
+    "byText": "от"
+  },
+  "roleChangeWarning": "Соглашаясь, Вы подтверждаете, что хотите изменить тип профиля с",
+  "toText": "на",
+  "toggleMemberLabel": "Для Участников",
+  "toggleArtistLabel": "Для Художников",
+  "pickPlanHeading": "Выберите тариф, который подходит Вам.",
+  "promoteWorkHeading": "Продвигайте и продавайте Ваши произведения без комиссии.",
+  "makeArtSeenHeading": "Продавайте Ваши Произведения.",
+  "categories":{
+    "artistConnectDirectly":"Прямая Связь с Покупателями",
+    "artistEnablePayment":"Возможность Осуществления Платежа через Paypal, Visa, MasterCard",
+    "enableAcceptPayment":"Возможность Получения Оплаты Напрямую",
+    "artistDashboardManage":"Дашборд: Управление Коллекциями и Аккаунтом",
+    "artistShippingPolicy":"Ваша Собственная Политика Доставки",
+    "artistCreateCertificate":"Создание Сертификатов Подлинности Ваших произведений",
+    "artistHelpDesk":"Служба Поддержки ARTMO",
+    "artistPublishArticle":"Публикация статей и Постов о Ваших работах и выставках",
+    "artistBacklinkCollection":"Обратная ссылка Вашей коллекции ARTMO на Главной Странице",
+    "artistDisputeSupport":"Урегулирование диспутов с покупателями",
+    "memberConnectBuyers":"Прямая Связь с Покупателями",
+    "memberEnablePayment":"Возможность Осуществления Платежа через Paypal, Visa, MasterCard",
+    "memberAcceptPayment":"Возможность Получения Оплаты Напрямую",
+    "memberDashboardManage":"Дашборд: Управление Коллекциями и Аккаунтом",
+    "memberShippingPolicy":"Ваша Собственная Политика Доставки",
+    "memberHelpDesk":"Служба Поддержки ARTMO",
+    "memberBacklinkCollection":"Обратная ссылка Вашей коллекции ARTMO на Главной Странице",
+    "memberDisputeSupport":"Урегулирование диспутов с покупателями",
+    "artistBadge":"Премиум Значок Продавца <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+    "memberBadge":"Премиум Значок Продавца <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+  }
+}

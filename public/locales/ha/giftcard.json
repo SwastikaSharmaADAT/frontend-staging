@@ -1,0 +1,37 @@
+ {
+  "title": "Katin Kyauta",
+  "linkToMyGiftCard": "Duba Katukan Kyautar Ka",
+  "giftCardSection": {
+    "title": "Tallata Shafin Ka",
+    "description": "Saka hanyar shiga shafin ka na ARTMO a shafukan yanar gizon ka.",
+    "getLinkButton": "Samu Hanya"
+  },
+  "giftCardContent": {
+    "singular": "Katin Kyauta",
+    "title": "Tura Katin Kyauta na ARTMO ta hanyar Imel. Wanda aka turawa zai iya amfani dashi wajen siyayyan zane.",
+    "selectAmount": "Zabi yawan kudi:",
+    "quesion": "Tura wannan katin kyauta zuwa ga...",
+    "namePlaceholder": "Saka Suna",
+    "emailPlaceholder": "Saka Imel",
+    "lastNote": "Za'a samu bayanan katin a bangaren Asusu Na. Zaka samu shedar tabbatar da siya cikin imel dinka.",
+    "buttonText": "Wuce zuwa Wajen Biya",
+    "hello": "Hello",
+    "sentFrom": "Wannan Katin Kyauta naka ne da aka aiki daga...",
+    "use": "Kayi amfani da katin domin siyan zane.",
+    "seeHere": "Duba Zamuka Anan...",
+    "expiryDate": "* Lokacin Lalacewa: "
+  },
+  "myGiftCardContent": {
+    "title": "Katin Kyautar Ka:",
+    "to": "Zuwa",
+    "name": " Bjorn Andersen",
+    "validUntil": "Inganci kafin",
+    "purchasedOn": "Ansiya ranar",
+    "used": "Amfani",
+    "valid": "Inganci",
+    "expired": "Lalacewa",
+    "makeCard": "Kirkiri Katin Zane na Kyauta.",
+    "buttonText": "Siya Katin Zane na ARTMO",
+    "noGiftCard": "Babu kwandon kyauta a yanzu"
+  }
+}

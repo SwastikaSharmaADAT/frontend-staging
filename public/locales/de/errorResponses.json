@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "noContactsFound": "Keine Kontakte gefunden",
+        "somethingWentWrong": "Ein Fehler ist aufgetreten - bitte einloggen um fortzufahren",
+        "sessionExpired": "Sitzung abgelaufen, bitte wieder einloggen",
+        "loginToContinue": "Bitte einloggen zum Fortfahren."
+    },
+    "mediaLibrary": {
+        "limitMoreImages": "Nur {{limit}} weitere Bilder können ausgewählt werden."
+    },
+    "article": {
+        "articleNotFound": "Artikel nicht gefunden"
+    },
+    "cart": {
+        "alreadyInCart": "Dieses Kunstwerk ist bereits im Einkaufskorb",
+        "removeItemError": "Fehler beim Entfernen des Artikels aus dem Warenkorb."
+    },
+    "subscriptions": {
+        "planExist": "Sie haben bereits diesen Plan!",
+        "artworkNotFound":"Kunstwerk nicht gefunden"
+    }
+}

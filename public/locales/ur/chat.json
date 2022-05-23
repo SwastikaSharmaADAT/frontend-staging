@@ -1,0 +1,24 @@
+{
+    "delete": "Delete",
+    "warningDeleteConversation": "Are you sure you want to delete this conversation?",
+    "block": "Block",
+    "unblock": "Unblock",
+    "blockWarning": "Are you sure you want to",
+    "thisUser": "this user?",
+    "placeholderMessage": "Type your message here...",
+    "send": "Send",
+    "blockText": "You cannot reply to this conversation. Either the user has made messaging private or was suspended.",
+    "noMessage": "No Messages",
+    "history": "View chat history",
+    "emojiPicker": {
+        "smileys_people": "SMILEYS & PEOPLE ",
+        "animals_nature": "ANIAML & NATURE",
+        "food_drink": "FOOD & DRINK",
+        "travel_places": "TRAVEL & PLACES",
+        "activities": "ACTIVITIES",
+        "objects": "OBJECTS",
+        "symbols": "SYMBOLS",
+        "flags": "FLAGS",
+        "recently_used": "RECENTLY USED"
+    }
+}

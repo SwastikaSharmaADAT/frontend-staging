@@ -1,0 +1,47 @@
+{
+  "title": "Genre",
+  "tabs": {
+    "genre": "Genre",
+    "media": "Media",
+    "timePeriod": "Tydsperiode",
+    "genreSubTabs": {
+      "definition": "Definisie",
+      "abstractExpressionism": "Abstrakte Ekspressionisme",
+      "abstract": "Abstrak",
+      "calligraphy": "Kalligrafie",
+      "conceptual": "Konseptuele",
+      "concrete": "Konkreet",
+      "constructivism": "Konstruktivisme",
+      "cubism": "Kubisme",
+      "documentary": "Dokumentêr",
+      "expressionism": "Ekspressionisme",
+      "fantastic": "Fantasies",
+      "figurative": "Figuurlik",
+      "illustration": "Illustrasie",
+      "impressionism": "Impressionisme",
+      "magicalRealism": "Magiese Realisme",
+      "minimalism": "Minimalisme",
+      "naiveArt": "Naïewe kuns",
+      "pop": "Pop",
+      "realism": "Realisme",
+      "surrealism": "Surrealisme"
+    },
+    "mediaSubTabs": {
+      "definition": "Definisie",
+      "collage": "Collage",
+      "design": "Ontwerp",
+      "digital": "Digitaal",
+      "drawing": "Tekening",
+      "mixed": "Gemengde",
+      "multimedia": "Multimedia",
+      "newMedia": "Nuwe Media",
+      "painting": "Skildery",
+      "sculpture": "Beeldhouwerk"
+    },
+    "timeperiodSubTabs": {
+      "definition": "Definisie",
+      "contemporary": "Kontemporêr",
+      "modern": "Modern"
+    }
+  }
+}

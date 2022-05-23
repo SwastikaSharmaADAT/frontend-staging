@@ -1,0 +1,20 @@
+{
+  "title": "เข็มกลัด",
+  "promoteProfileSection": {
+    "title": "โปรโมทโพรไฟล์ของคุณ",
+    "description": "แปะลิ้งค์ARTMOของคุณบนหน้าเว็บไซต์",
+    "getLinkButton": "รับลิ้งค์ที่นี่"
+  },
+  "badgeSections": {
+    "step1": "ขั้นตอนที่1: เลือกสี:",
+    "whiteRadioOption": "ขาว",
+    "blackRadioOption": "ดำ",
+    "step2": "ขั้นตอนที่2: เลือกขนาด:",
+    "largeRadioOption": "ใหญ่",
+    "smallRadioOption": "เล็ก",
+    "step3": "ขั้นตอนที่3: ก๊อปปี้แล้ววางโค้ดบนหน้าเว็บไซต์ของคุณได้เลย:",
+    "copyButtonText": "ก๊อปปี้โค้ด",
+    "copiedButtonText": "ก๊อปปี้แล้ว!",
+    "helpText": "ช่วยเหลือ"
+  }
+}

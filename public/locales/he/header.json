@@ -1,0 +1,46 @@
+{
+  "connectingTheArtWorld": "מתחבר לעולם האמנות",
+  "login": "התחבר",
+  "freeSignup": "הרשמות חינם",
+  "signup": "הרשם",
+  "search": "חפש משתמשים...",
+  "legacyPageInfo": "תוכל לגשת לעמוד שלך כאן",
+  "loginMenu": {
+    "home": "בית",
+    "groups": "Groups", "קבוצות"
+    "network": "רשת",
+    "messages": "הודעות",
+    "notifications": "התראות",
+    "cart": "עגלה",
+    "artwork": "יצירת אמנות",
+    "me": "אני",
+    "more": "עוד....",
+    "sellArt": "מכור אמנות",
+    "dashboard": "דשבורד",
+    "myarticles": "מאמרים",
+  },
+  "logoutMenu": {
+    "artwork": "יצירת אמנות",
+    "cart": "עגלה",
+    "more": "עוד...."
+  },
+  "subMenu": {
+    "createPage": "צור עמוד",
+    "switchPage": "החלף לעמוד",
+    "switchTo": "החלף ל-",
+    "profile": "פרופיל",
+    "page": "העמוד שלי",
+    "myAccount": "החשבון שלי",
+    "signOut": "התנתק",
+    "settings": "הגדרות ופרטיות",
+  },
+  "cart": {
+    "removeWarning": "האם אתה בטוח שאתה רוצה להסיר את הפריט הזה?",
+    "yes": "כן",
+    "checkoutButton": "צ'ק-אאוט",
+    "emptyCartWarning": "העגלה שלך ריקה",
+    "outOfStock": "נגמר המלאי!",
+    "seeArtworks": "צפה ביצירות אומנות",
+    "buttonYes": "כן",
+  }
+}

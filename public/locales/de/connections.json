@@ -1,0 +1,19 @@
+{
+    "myConnectionsLabel": "Meine Kontakte",
+    "connectionRequests": "Kontakt-Anfragen",
+    "connectionRequestsSent": "Kontakt-Anfragen gesendet",
+    "follower": "follower",
+    "followerPlural": "followers",
+    "disconnected": "Vernetzung gelöscht",
+    "disconnect": "Vernetzung löschen",
+    "loadMore": "Mehr laden ...",
+    "noConnections": "Keine Nutzer vernetzt",
+    "ignore": "Ignorieren",
+    "ignored": "Ignoriert",
+    "connect": "Vernetzen",
+    "connected": "Vernetzt",
+    "noConnectionRequests": "Keine Vernetzungs-Anfragen erhalten",
+    "noConnectionRequestsSent": "Keine Vernetzungs-Anfragen gesendet",
+    "requestDeleted": "Anfrage gelöscht",
+    "deleteRequest": "Löschen"
+}

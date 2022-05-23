@@ -1,0 +1,17 @@
+{
+    "heading": "LA PLATEFORM D'ART SOCIAL",
+    "listing": {
+        "country": "Pays:",
+        "placeholderCity": "Ville",
+        "userType": "Type d'utilisateur:",
+        "sortBy": "Trier par:",
+        "search": "Chercher",
+        "searchUsers": "Rechercher des utilisateurs...",
+        "searchbyname": "Rechercher par nom..."
+    },
+    "follower": "abonné",
+    "followers": "abonnés",
+    "unfollow": "Ne plus suivre",
+    "follow": "Suivre",
+    "editProfile": "Éditer le Profil"
+}

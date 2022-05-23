@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "noContactsFound": "Tiada kenalan ditemui",
+        "somethingWentWrong": "Kesilapan telah berlaku, sila log masuk untuk meneruskan",
+        "sessionExpired": "Sesi tamat tempoh, sila log masuk semula",
+        "loginToContinue": "Sila log masuk untuk meneruskan."
+    },
+    "mediaLibrary": {
+        "limitMoreImages": "Hanya {{had}} lagi imej boleh dipilih"
+    },
+    "article": {
+        "articleNotFound": "Artikel tidak ditemui"
+    },
+    "cart": {
+        "alreadyInCart": "Item ini telah ditambah ke dalam bakul",
+        "removeItemError": "Ralat semasa mengalih item keluar daripada bakul"
+    },
+    "subscriptions": {
+        "planExist": "Anda telah membeli pelan ini!",
+        "artworkNotFound": "Karya seni tidak ditemui"
+    }
+}

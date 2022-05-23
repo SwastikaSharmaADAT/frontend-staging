@@ -1,0 +1,20 @@
+{
+    "myConnectionsLabel": "Koneksi Saya",
+    "connectionRequests": "Permintaan Koneksi",
+    "connectionRequestsSent": "Permintaan Koneksi Terkirim",
+    "follower": "pengikut",
+    "followerPlural": "pengikut",
+    "disconnected": "terputus",
+    "disconnect": "memutuskan",
+    "loadMore": "Muat lebih banyak...",
+    "noConnections": "Tidak Ada Koneksi",
+    "ignore": "Mengabaikan",
+    "ignored": "Diabaikan",
+    "connect": "menghubungkan",
+    "connected": "terhubung",
+    "noConnectionRequestsReceived": "Tidak ada Permintaan Koneksi yang diterima",
+    "noConnectionRequestsSent": "Tidak Ada Permintaan Koneksi yang dikirim",
+    "requestDeleted": "Permintaan Dihapus",
+    "deleteRequest": "Hapus Permintaan",
+    "noConnectionRequests": "Tidak ada Permintaan Koneksi yang diterima"
+}

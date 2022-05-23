@@ -1,0 +1,161 @@
+{
+    "leftTabs": {
+        "account": "Account",
+        "changePassword": "Modifica Password",
+        "setPassword": "Imposta Password",
+        "privacy": "Privacy",
+        "notifications": "Notifiche",
+        "webNotifications": "Notifiche Web",
+        "socialConnect": "Connessioni Social",
+        "myPhotos": "Le mie foto",
+        "deleteAccount": "Elimina Account"
+    },
+    "account": {
+        "title": "Account",
+        "username": "Username",
+        "firstname": "Nome",
+        "lastname": "Cognome",
+        "pagename": "Nome della pagina",
+        "email": "Indirizzo E-mail",
+        "updateAccount": "Aggiorna Account",
+        "validationErrors": {
+            "firstname": "È necessario inserire un nome",
+            "lastname": "È necessario inserire un cognome",
+            "firstnameLength": "È obbligatorio inserire fino a un massimo di 50 caratteri",
+            "lastnameLength": "È obbligatorio inserire fino a un massimo di 50 caratteri",
+            "pagename": "È necessario inserire un nome della pagina",
+            "pagenameLength": "È obbligatorio inserire fino a un massimo di 50 caratteri"
+        }
+    },
+    "changePassword": {
+        "changeTitle": "Modifica Password",
+        "setTitle": "Imposta Password",
+        "currentPassword": "Password Attuale",
+        "newPassword": "Nuova Password",
+        "confirmPassword": "Conferma Password",
+        "updatePassword": "Aggiorna Password",
+        "validationErrors": {
+            "currentPassword": "Inserire la password attuale",
+            "newPassword": "Inserire una nuova password",
+            "confirmPassword": "Confermare la nuova password",
+            "passConditions": "La password deve contenere: almeno 8 caratteri, almeno 1 carattere maiuscolo, 1 carattere minuscolo e 1 numero",
+            "passNotMatch": "Le password non corrispondono"
+        }
+    },
+    "notifications": {
+        "title": "Notifiche",
+        "description": "Selezionare le notifiche e-mail che desideri ricevere",
+        "headings": {
+            "followers": "Seguaci",
+            "friends": "Amici",
+            "posts": "Post",
+            "messages": "Messaggi"
+        },
+        "checkboxLabels": {
+            "newFollowers": "Un nuovo utente ti sta seguendo",
+            "newConnectionAdded": "Hai una nuova connessione",
+            "newConnectionRequest": "Hai ricevuto una nuova richiesta di connessione",
+            "groupPost": "Inviami una notifica quando un utente pubblica qualcosa sul gruppo",
+            "groupComments": "Inviami una notifica quando qualcuno pubblica un commento sul gruppo",
+            "privateMessage": "Qualcuno ti ha inviato un messaggio privato",
+            "unreadMessage": "Hai un messaggio non letto"
+        },
+        "updateNotifications": "Aggiornamento notifiche"
+    },
+    "privacy": {
+        "title": "Privacy",
+        "profilePrivacy": "Privacy del profilo",
+        "showProfileOptions": {
+            "everyone": "Tutti",
+            "onlyMe": "Solo io",
+            "following": "Possono vedere il mio profilo solo le persone che seguo",
+            "followers": "Seguaci",
+            "connections": "Solo le connessioni"
+        },
+        "tooltips": {
+            "tip1": "Chi può vedere il tuo profilo pubblico?",
+            "tip2": "In questa sezione puoi nascondere il tuo profilo dalla ricerca pubblica",
+            "tip3": "Vuoi che le altre persone ti vedano quando sei online?",
+            "tip4": "Ci puoi chiedere il documento con le informazioni che crediamo siano utili e importanti per te.",
+            "tip5": "Ci puoi chiedere di eliminare le informazioni che abbiamo su di te."
+        },
+        "hideProfile": "Nascondi il profilo dall'elenco",
+        "yes": "Sì",
+        "no": "No",
+        "showOnlineStatus": "Mostra il mio stato online",
+        "activityWall": "Chi può vedere le tue attività sulla bacheca?",
+        "activityWallOptions": {
+            "public": "Pubblico",
+            "onlyMe": "Solo io",
+            "followers": "Seguaci",
+            "following": "Le persone che seguo"
+        },
+        "privateMessage": "Chi può mandarmi un messaggio privato?",
+        "privateMessageOptions": {
+            "everyone": "Tutti",
+            "nobody": "Nessuno",
+            "following": "Solo le persone che seguo",
+            "followers": "Seguaci",
+            "connections": "Connessioni"
+        },
+        "downloadData": "Scarica i dati",
+        "downloadDataDescription": "Inserire la tua password attuale per confermare l'esportazione dei tuoi dati personali.",
+        "downloadDataButton": "Richiedere dati",
+        "eraseData": "Elimina i tuoi dati",
+        "eraseDataDescription": "Inserire la tua password attuale per confermare l'eliminazione dei tuoi dati personali.",
+        "eraseDataButton": "Richiedi eliminazione dei dati",
+        "updatePrivacyButton": "Aggiorna la Privacy"
+    },
+    "webNotifications": {
+        "title": "Notifiche Web",
+        "description": "Quando ricevo le notifiche?",
+        "checkboxLabels": {
+            "newReplies": "Quando un membro risponde a un mio commento",
+            "newComments": "Quando un membro commenta un mio post",
+            "viewProfile": "Quando un membro visualizza il mio profilo",
+            "privateMessage": "Quando qualcuno mi invia un messaggio privato",
+            "newFollower": "Quando qualcuno inizia a seguirmi",
+            "newConnection": "Quando qualcuno mi invia una richiesta di connessione",
+            "acceptConnection": "Quando qualcuno accetta la richiesta di connessione",
+            "newLike": "Quando qualcuno lascia un Like a un mio post",
+            "newMention": "Quando qualcuno mi menziona",
+            "groupRequestApproved": "Quando le mie richieste di iscrizione a un gruppo ottengono l'approvazione",
+            "newGroupRequest": "Quando un utente invia una richiesta di iscrizione a un mio gruppo",
+            "groupInvitation": "Quando un membro mi invita a iscrivermi a un gruppo",
+            "groupRole": "Quando il regolamento di un gruppo subisce una modifica",
+            "likeArtwork": "Quando qualcuno lascia un Mi Piace a un'opera d'arte"
+        },
+        "updateSettingsButton": "Notifiche di aggiornamento"
+    },
+    "socialConnect": {
+        "title": "Connessioni social",
+        "notConnected": "Non sono presenti connessioni ad alcun account social.",
+        "disconnectFacebook": "Disconnetti da Facebook",
+        "disconnectLinkedin": "Disconnetti da LinkedIn",
+        "passwordWarning": "*Impostare una password prima di disconnettere l'account"
+    },
+    "myPhotos": {
+        "title": "Le mie foto",
+        "warningText": "Una volta che una foto o un album sia stato eliminato, questi saranno eliminati permanentemente e non potranno essere recuperati.",
+        "button1": "Scarica le mie foto",
+        "button2": "Elimina tutti i miei album e le mie foto",
+        "downloadWarning": "* Il download delle tue foto potrebbe richiedere qualche minuto. Il tempo impiegato dipenderà dal numero di foto caricate.",
+        "imagesWarning": "Sei sicuro di voler cancellare tutti gli album e le immagini?",
+        "buttonDelete": "elimina"
+    },
+    "deleteAccount": {
+        "title": "Elimina Account",
+        "warningText": "Sei sicuro di voler eliminare il tuo account? Quest'operazione eliminerà tutte le tue informazioni da questo sito. Per eliminare il tuo account, si prega di inserire la password",
+        "button": "Elimina account",
+        "password": "Password",
+        "passwordWarning": "*Si prega di impostare una password prima di disconnettere l'account",
+        "managePaymentsTitle": "Gestire i pagamenti per l'abbonamento del fornitore",
+        "managePaymentsText": "Se desideri interrompere i pagamenti non è necessario eliminare il tuo profilo.<br/>Puoi tenerlo.<br/>Puoi facilmente effettuare il downgrade al piano FREE BASIC senza che siano richiesti pagamenti futuri.",
+        "managePaymentsText2": "Guarda la tua bacheca",
+        "managePaymentsQuoteText": "Effettua il downgrade del tuo abbonamento",
+        "managePaymentsButtonText": "Vai alla Bacheca > Abbonamento"
+    },
+    "imageContainer": {
+        "viewProfile": "Vedi profilo"
+    }
+}

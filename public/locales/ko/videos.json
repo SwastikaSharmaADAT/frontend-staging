@@ -1,0 +1,10 @@
+{
+    "title": "비디오",
+    "listing": {
+        "placeholderSearch": "제목으로 비디오 검색",
+        "search": "검색",
+        "country": "국가:",
+        "category": "카테고리:",
+        "userType": "사용자 유형:"
+    }
+}

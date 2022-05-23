@@ -1,0 +1,20 @@
+{
+    "myConnectionsLabel": "আমার কানেকশন সমূহ",
+    "connectionRequests": "কানেকশন এর আবেদন",
+    "connectionRequestsSent": "কানেকশন এর আবেদন পাঠানো হয়েছে",
+    "follower": "অনুসারী",
+    "followerPlural": "অনুসারীগণ",
+    "disconnected": "বিচ্ছিন্ন",
+    "disconnect": "বিচ্ছিন্ন করা",
+    "loadMore": "আরো লোড করুন",
+    "noConnections": "কোনো কানেকশন নেই",
+    "ignore": "এড়িয়ে যান",
+    "ignored": "এড়িয়ে যাওয়া হয়েছে",
+    "connect": "সংযোগ করুন",
+    "connected": "সংযুক্ত",
+    "noConnectionRequestsReceived": "কোনো কানেকশন এর আবেদন পাওয়া যায়নি",
+    "noConnectionRequestsSent": "কোনো কানেকশন এর আবেদন পাঠানো হয়নি",
+    "requestDeleted": "আবেদন মুছে ফেলা হয়েছে",
+    "deleteRequest": "আবেদন মুছে ফেলুন",
+    "noConnectionRequests": "কোনো সংযোগ আবেদন পাওয়া যায়নি"
+}

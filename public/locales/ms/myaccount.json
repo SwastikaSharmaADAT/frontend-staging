@@ -1,0 +1,161 @@
+{
+    "leftTabs": {
+        "account": "Akaun",
+        "changePassword": "Tukar Kata Laluan",
+        "setPassword": "Set Kata Laluan",
+        "privacy": "Privasi",
+        "notifications": "Notifikasi",
+        "webNotifications": "Notifikasi Laman Web",
+        "socialConnect": "Sambungan Sosial",
+        "myPhotos": "Foto Saya",
+        "deleteAccount": "Padam Akaun"
+    },
+    "account": {
+        "title": "Akaun",
+        "username": "Nama Pengguna",
+        "firstname": "Nama Pertama",
+        "lastname": "Nama Akhir",
+        "pagename": "Nama Halaman",
+        "email": "Alamat E-mel",
+        "updateAccount": "Kemas kini Akaun",
+        "validationErrors": {
+            "firstname": "Nama Pertama diperlukan",
+            "lastname": "Nama Akhir diperlukan",
+            "firstnameLength": "Mesti 50 karakter atau kurang",
+            "lastnameLength": "Mesti 50 karakter atau kurang",
+            "pagename": "Nama Halaman diperlukan",
+            "pagenameLength": "Mesti 50 karakter atau kurang"
+        }
+    },
+    "changePassword": {
+        "changeTitle": "Tukar Kata Laluan",
+        "setTitle": "Set Kata Laluan",
+        "currentPassword": "Kata Laluan Semasa",
+        "newPassword": "Kata Laluan Baru",
+        "confirmPassword": "Sahkan Kata Laluan",
+        "updatePassword": "Kemas kini Kata Laluan",
+        "validationErrors": {
+            "currentPassword": "Sila masukkan kata laluan semasa anda",
+            "newPassword": "Sila masukkan kata laluan baru",
+            "confirmPassword": "Sila sahkan kata laluan anda",
+            "passConditions": "Mesti mengandungi 8 karakter, sekurangnya satu one Huruf Besar, satu Huruf Kecil dan satu Nombor",
+            "passNotMatch": "Kata Laluan tidak padan"
+        }
+    },
+    "notifications": {
+        "title": "Notifikasi",
+        "description": "Pilih notifikasi e-mel yang anda ingin terima",
+        "headings": {
+            "followers": "Pengikut",
+            "friends": "Kawan",
+            "posts": "Pos",
+            "messages": "Mesej"
+        },
+        "checkboxLabels": {
+            "newFollowers": "Saya Diikuti Oleh Orang Baru",
+            "newConnectionAdded": "Saya Mempunyai Satu Sambungan Baru",
+            "newConnectionRequest": "Saya Mempunyai Satu Permintaan Sambungan Baru",
+            "groupPost": "Maklumkan Saya Apabila Seseorang Pos Dalam Kumpulan",
+            "groupComments": "Notify Me When Someone Comments On Group",
+            "privateMessage": "Seseorang Hantar Saya Mesej Peribadi",
+            "unreadMessage": "Saya Ada Mesej Belum Dibaca"
+        },
+        "updateNotifications": "Notifikasi Kemas Kini"
+    },
+    "privacy": {
+        "title": "Privasi",
+        "profilePrivacy": "Privasi Profil",
+        "showProfileOptions": {
+            "everyone": "Semua Orang",
+            "onlyMe": "Saya Sahaja",
+            "following": "Hanya orang yang ikut saya boleh lihat profil saya",
+            "followers": "Pengikut",
+            "connections": "Sambungan Sahaja"
+        },
+        "tooltips": {
+            "tip1": "Siapa boleh melihat profil umum anda?",
+            "tip2": "Di sini anda boleh meyembunyikan diri anda daripada muncul dalam direktori awam",
+            "tip3": "Adakah anda ingin orang lain untuk lihat anda berada dalam talian?",
+            "tip4": "Anda boleh meminta fail dengan informasi yang anda percaya paling relevan dan berguna kepada anda.",
+            "tip5": "Anda boleh meminta untuk memadam data yang kami ada mengenai anda."
+        },
+        "hideProfile": "Sembunyikan profil saya daripada direktori",
+        "yes": "Ya",
+        "no": "Tidak",
+        "showOnlineStatus": "Tunjukkan status dalam talian saya",
+        "activityWall": "Siapa boleh melihat dinding activiti anda?",
+        "activityWallOptions": {
+            "public": "Umum",
+            "onlyMe": "Hanya Saya",
+            "followers": "Pengikut",
+            "following": "Orang Yang Saya Ikut"
+        },
+        "privateMessage": "Siapa boleh hantar saya mesej peribadi?",
+        "privateMessageOptions": {
+            "everyone": "Semua Orang",
+            "nobody": "Tiada Orang",
+            "following": "Hanya orang yang saya ikut",
+            "followers": "Pengikut",
+            "connections": "Disambung"
+        },
+        "downloadData": "Muat turun data anda",
+        "downloadDataDescription": "Masukkan kata laluan terkini anda untuk mengesahkan eksport data peribadi baru anda.",
+        "downloadDataButton": "Permintaan Data",
+        "eraseData": "Padam data anda",
+        "eraseDataDescription": "Masukkan kata laluan terkini untuk mengesahkan pemadaman data peribadi anda.",
+        "eraseDataButton": "Permintaan untuk memadam data",
+        "updatePrivacyButton": "Kemas kini Privasi"
+    },
+    "webNotifications": {
+        "title": "Notifikasi Laman Web",
+        "description": "Menerima Notifikasi",
+        "checkboxLabels": {
+            "newReplies": "Apabila Seorang Ahli Membalas Salah Satu Komen Saya",
+            "newComments": "Apabila Seorang Ahli Komen Di Salah Satu Pos Saya",
+            "viewProfile": "Apabila Seorang Ahli Melihat Profil Saya",
+            "privateMessage": "Apabila Seorang Ahli Menghantar Mesej Peribadi Kepada Saya",
+            "newFollower": "Apabila Seseorang Mengikut Saya",
+            "newConnection": "Apabila Seseorang Meminta Untuk Menyambung",
+            "acceptConnection": "Apabila Seseorang Menerima Sambungan",
+            "newLike": "Apabila Seseorang Menyukai Pos Anda",
+            "newMention": "Apabila Seseorang Menyebut Saya",
+            "groupRequestApproved": "Apabila Permintaan Kumpulan Saya Telah Diluluskan",
+            "newGroupRequest": "Apabila Seorang Pengguna Meminta Untuk Menyertai Kumpulan Saya",
+            "groupInvitation": "Apabila Seorang Ahli Dijemput Untuk Menyertai Kumpulan",
+            "groupRole": "Apabila Peranan Kumpulan Saya Telah Diubah",
+            "likeArtwork": "Apabila Seseorang Menyukai Satu Karya Seni"
+        },
+        "updateSettingsButton": "Kemas Kini Notifikasi"
+    },
+    "socialConnect": {
+        "title": "Sambungan Sosial",
+        "notConnected": "Anda tidak disambungkan dengan mana-mana akaun sosial media.",
+        "disconnectFacebook": "Terputus hubungan daripada Facebook",
+        "disconnectLinkedin": "Terputus hubungan daripada LinkedIn",
+        "passwordWarning": "*Sila set kata laluan anda sebelum memutuskan akaun"
+    },
+    "myPhotos": {
+        "title": "Foto Saya",
+        "warningText": "Setelah foto dan album dipadamkan, ia dipadam secara kekal dan tidak boleh dipulihkan.",
+        "button1": "Muat turun foto saya",
+        "button2": "Padam semua album dan foto saya",
+        "downloadWarning": "*Tugas muat turn foto saya boleh mengambil masa untuk diselesaikan bergantung kepada nombor foto yang dimuat naik.",
+        "imagesWarning": "Adakah anda pasti anda ingin memadam semua album dan imej?",
+        "buttonDelete": "padam"
+    },
+    "deleteAccount": {
+        "title": "Padam Akaun",
+        "warningText": "Adakah anda pasti anda ingin memadam akaun anda? Ini akan memadam semua data akaun daripada laman web. Untuk memadam akaun anda, masukkan kata laluan di bawah",
+        "button": "Padam Akaun",
+        "password": "Kata Laluan",
+        "passwordWarning": "*Sila set kata laluan anda sebelum memutus sambungan dengan akaun",
+        "managePaymentsTitle": "Urus Bayaran untuk Penjual Langganan",
+        "managePaymentsText": "Jika anda ingin menghentikan pembayaran, anda tidak perlu memadam profil anda.<br/>Anda boleh menyimpan ia.<br/>Dengan mudah, anda boleh turun taraf kepada pelan FREE BASIC tanpa memerlukan bayaran lebih.",
+        "managePaymentsText2": "Lihat papan pemuka anda",
+        "managePaymentsQuoteText": "Turun Taraf Langganan Anda",
+        "managePaymentsButtonText": "Pergi ke Papan Pemuka > Langganan"
+    },
+    "imageContainer": {
+        "viewProfile": "Lihat Profil"
+    }
+}

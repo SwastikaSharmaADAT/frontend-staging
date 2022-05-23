@@ -1,0 +1,46 @@
+{
+    "connectingTheArtWorld": "HADA DUNIYAN ZANE",
+    "login": "Shiga Ciki",
+    "freeSignup": "Yin Rajista Kyauta",
+    "signup": "Yin Rajista",
+    "search": "Nemo masu amfanu...",
+    "legacyPageInfo": "Zaka iya shiga shafin ka ta nan",
+    "loginMenu": {
+        "home": "Shafin Farko",
+        "groups": "Groups",
+        "network": "Netwok",
+        "messages": "Sakuna",
+        "notifications": "Tunatarwa",
+        "cart": "Kwando",
+        "artwork": "Zane",
+        "me": "Ni",
+        "more": "Saura....",
+        "sellArt": "Sayar da Zane",
+        "dashboard": "Dashbod",
+        "myarticles": "Rubutun Bayanai"
+    },
+    "logoutMenu": {
+        "artwork": "Zane",
+        "cart": "Kwando",
+        "more": "Saura...."
+    },
+    "subMenu": {
+        "createPage": "Kirkiri Shafi",
+        "switchPage": "Juya zuwa Shafi",
+        "switchTo": "Juya zuwa",
+        "profile": "Shafi",
+        "page": "My Page",
+        "myAccount": "Asusu Na",
+        "signOut": "Fita Waje",
+        "settings": "Saituka & Sirri"
+    },
+    "cart": {
+        "removeWarning": "Ka tabbata kanaso ka cire abun nan?",
+        "yes": "Eh",
+        "checkoutButton": "BIYAN KUDI",
+        "emptyCartWarning": "Babu komai a kwando!",
+        "outOfStock": "Kaya sun kare!",
+        "seeArtworks": "Kalli Zanuka",
+        "buttonYes": "Eh"
+    }
+}

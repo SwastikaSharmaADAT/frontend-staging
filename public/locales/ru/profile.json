@@ -1,0 +1,363 @@
+{
+    "placeholderIntro":"Короткое Описание",
+    "about": {
+        "title": "ОБО МНЕ",
+        "edit": "Редактировать",
+        "cancel": "Отменить",
+        "save": "Сохранить",
+        "noAboutText": "Нет добавленного текста",
+        "placeholderAbout": "Добавьте текст здесь....",
+        "characterLimit": "/1000",
+        "errorAbout": "Максимальное количество символов 1000"
+    },
+    "biography": {
+        "title": "БИОГРАФИЯ",
+        "edit": "Редактировать",
+        "cancel": "Отменить",
+        "save": "Сохранить",
+        "noBiographyText": "Нет добавленной биографии",
+        "placeholderBiography": "Добавьте биографию здесь....",
+        "characterLimit": "/1000"
+    },
+    "activity": {
+        "title": "Деятельность",
+        "descriptionNotAdded": "Нет добавленной деятельности",
+        "reactions": "реакции",
+        "noActivityText": "Деятельности не найдены",
+        "seeAll": "Посмотреть Все",
+        "add": "Добавить"
+    },
+    "album": {
+        "title": "АЛЬБОМЫ",
+        "seeAll": "Посмотреть Все",
+        "add": "Добавить",
+        "noAlbumFound": "Альбомы не найдены",
+        "edit":"Редактировать"
+    },
+    "artwork": {
+        "title": "ПРОИЗВЕДЕНИЯ",
+        "likedArtworks":"ПОНРАВИВШИЕСЯ ПРОИЗВЕДЕНИЯ",
+        "noArtworkFound": "Произведения не найдены",
+        "seeAll": "Посмотреть Все",
+        "add": "Добавить"
+    },
+    "award": {
+        "title": "НАГРАДЫ",
+        "noAwardFound": "Награды не найдены",
+        "addImages": "Добавить изображения",
+        "placeholderDescription": "Введите описание Ваших художественных наград.",
+        "characterLimit": "/1000",
+        "edit": "Редактировать",
+        "cancel": "Отменить",
+        "save": "Сохранить"
+    },
+    "basicInfo": {
+        "fillDetailsText": "Пожалуйста, заполните эти поля",
+        "placeholderFirstName": "Имя",
+        "placeholderLastName": "Фамилия",
+        "placeholderCity": "Город",
+        "placeholderCountry": "Выберите Страну",
+        "placeholderEmail": "Электронная Почта",
+        "save": "Сохранить",
+        "cancel": "Отменить"
+    },
+    "business": {
+        "title": "О моём Бизнесе | Профессия",
+        "noBusinessFound": "Информация о бизнесе | профессии не найдена",
+        "addImages": "Добавить изображения",
+        "placeholderDescription": "Введите описание Вашего бизнеса | профессии.",
+        "characterLimit": "/1000",
+        "edit": "Редактировать",
+        "cancel": "Отменить",
+        "save": "Сохранить"
+    },
+    "connectionsPopup": {
+        "follower": "подписчик(ца)",
+        "followerPlural": "подписчики",
+        "connected": "Друзья",
+        "requestPending": "Ожидание Запроса",
+        "requestSent": "Запрос Отправлен",
+        "connect": "Заявка в друзья",
+        "userConnectionsTitle": "друзья"
+    },
+    "contact": {
+        "title": "КОНТАКТНАЯ ИНФОРМАЦИЯ И СОЦИАЛЬНЫЕ СЕТИ",
+        "noContactInfoFound": "Контактная информация не добавлена",
+        "email": "Электронная Почта",
+        "skype": "Скайп",
+        "phone": "Телефонный Номер",
+        "address": "Адрес",
+        "openingHours": "Открытые Часы",
+        "socialMedia": "Социальные Сети",
+        "placeholderEmail": "Электронная Почта",
+        "placeholderSkype": "Скайп",
+        "phoneNumber": "Телефонный Номер",
+        "placeholderAddress": "Адрес",
+        "placeholderOpenHours": "Открытые Часы",
+        "edit": "Редактировать",
+        "cancel": "Отменить",
+        "save": "Сохранить"
+    },
+    "expertise": {
+        "title": "ЭКСПЕРТИЗА",
+        "noExpertiseFound": "Экспертизы не найдены",
+        "addImages": "Добавьте изображения",
+        "placeholderDescription": "Введите описание Ваших художественных экспертиз.",
+        "characterLimit": "/1000",
+        "edit": "Редактировать",
+        "cancel": "Отменить",
+        "save": "Сохранить"
+    },
+    "followersPopup": {
+        "follower": "подписчик(ца)",
+        "followerPlural": "подписчики",
+        "followed": "Подписан(а)",
+        "unfollow": "Отписаться",
+        "follow": "Подписаться",
+        "noFollowers":"Нет подписчиков",
+        "userFollowersTitle": "'подписчики"
+    },
+    "followingPopup": {
+        "follower": "подписчик(ца)",
+        "followerPlural": "подписчики",
+        "followed": "Подписан(а)",
+        "unfollow": "Отписаться",
+        "follow": "Подписаться",
+        "noFollowing": "Не подписан(а)",
+        "userFollowersTitle": "подписчики",
+        "followPlural": "Подписан(а)"
+    },
+    "group": {
+        "title": "ГРУППЫ",
+        "noGroupsFound": "Пользователь(ница) не вступил(а) ни в одну группу",
+        "member": "участник(ца)",
+        "memberPlural": "участники",
+        "browseGroups": "Поиск Групп",
+        "create": "Создать"
+    },
+    "invite": {
+        "title": "ПРИГЛАСИТЬ ДРУЗЕЙ",
+        "desc1": "Отправьте сообщение Вашим контактам.",
+        "desc2": "Расскажите им, что Вы здесь.",
+        "invite": "Пригласить"
+    },
+    "messagePopup": {
+        "or": "или",
+        "learnMore": "Узнать Больше"
+    },
+    "pastExhibition": {
+        "title": "ПРОШЕДШИЕ ВЫСТАВКИ",
+        "addImages": "Добавить изображения",
+        "noExhibitionsFound": "Прошедшие выставки не найдены",
+        "placeholderDescription": "Введите описание Ваших прошедших выставок.",
+        "characterLimit": "/1000",
+        "edit": "Редактировать",
+        "cancel": "Отменить",
+        "save": "Сохранить"
+    },
+    "faculty": {
+        "title": "ФАКУЛЬТЕТ",
+        "addImages": "Добавьте изображения",
+        "noExhibitionsFound": "Выставки не найдены",
+        "placeholderDescription": "Введите новости Вашего факультета в университете.",
+        "characterLimit": "/1000",
+        "edit": "Редактировать",
+        "cancel": "Отменить",
+        "save": "Сохранить"
+    },
+    "news": {
+        "title": "НОВОСТИ",
+        "addImages": "Добавить изображения",
+        "noExhibitionsFound": "Выставки не найдены",
+        "placeholderDescription": "Введите новости Вашего университета.",
+        "characterLimit": "/1000",
+        "edit": "Редактировать",
+        "cancel": "Отменить",
+        "save": "Сохранить"
+    },
+    "personalInfo": {
+        "title": "ЛИЧНАЯ ИНФОРМАЦИЯ",
+        "noInfoFound": "Личная информация не добавлена",
+        "city": "Город",
+        "country": "Страна",
+        "profession": "Профессия",
+        "company": "Компания",
+        "industry": "Индустрия",
+        "website": "Сайт",
+        "languages": "Языки",
+        "visibleInfo": "Скрытая по умолчанию информация",
+        "dateOfBirth": "Дата Рождения",
+        "gender": "Пол",
+        "relationshipStatus": "Семейное Положение",
+        "placeholderCity": "Город",
+        "placeholderCountry": "Выбрать Страну",
+        "placeholderProfession": "Профессия",
+        "placeholderCompany": "Компания",
+        "placeholderIndustry": "Индустрия",
+        "placeholderLanguages": "Выбрать Языки",
+        "placeholderWebsite": "Сайт",
+        "placeholderDob": "Дата Рождения",
+        "errorDob": "Необходимо указать Дату Рождения",
+        "genderDropdown": {
+            "option1": "Выберите Пол",
+            "option2": "Мужской",
+            "option3": "Женский",
+            "option4": "Разнообразный"
+        },
+        "relationDropdown": {
+            "option1": "Выберите Семейное Положение",
+            "option2": "Свободен(на)",
+            "option3": "Женат/Замужем",
+            "option4": "В отношениях"
+        },
+        "edit": "Редактировать",
+        "cancel": "Отменить",
+        "save": "Сохранить"
+    },
+    "coverImage": {
+        "menuOptions": {
+            "title": "Изменить обложку",
+            "upload": "Загрузить Фотографию",
+            "change": "Изменить Фотографию",
+            "remove": "Удалить Фотографию"
+        }
+    },
+    "profileHead": {
+        "profileImage": {
+            "menuOptions": {
+                "title": "Изменить изображение",
+                "upload": "Загрузить Фотографию",
+                "change": "Изменить Фотографию",
+                "remove": "Удалить Фотографию"
+            }
+        },
+        "connected": "В друзьях",
+        "requestPending": "Ожидание Запроса",
+        "requestSent": "Запрос Отправлен",
+        "connect": "Отправить заявку",
+        "shareProfile": "Поделиться Профилем",
+        "unblock": "Разблокировать",
+        "block": "Заблокировать",
+        "tooltip": {
+            "text": "У другого типа профиля есть различные варианты тарифов.",
+            "seeMore": "Увидеть Больше..."
+        },
+        "profileDesc" : {
+            "artist": {
+                "firstline" : "<b>Вы Художник(ца).</b>",
+                "secondline" : "Вы можете продавать созданные произведения."
+            },
+            "member": {
+                "firstline": "Вы <b>не</b> Художник(ца).",
+                "secondline": "Вы можете продавать приобретённые произведения."
+            }
+        },
+        "edit": "Редактировать",
+        "cancel": "Отменить",
+        "save": "Сохранить",
+        "followed": "Подписан(а)",
+        "follow": "Подписаться",
+        "message": "Отправить сообщение",
+        "more": "Больше...",
+        "artistProfile": "Художник(ца)",
+        "memberProfile": "Участник(ца)",
+        "enterName": "Пожалуйста, введите Ваше имя",
+        "enterInstitute": "Пожалуйста, введите название университета",
+        "placeholderFirstName": "Имя",
+        "placeholderInstitureName": "Название Университета",
+        "placeholderLastName": "Фамилия"
+    },
+    "notices": {
+        "title": "ДОСКА ОБЪЯВЛЕНИЙ",
+        "notNoticesFound": "Нет объявлений для показа"
+    },
+    "profileCompleteness": {
+        "title": "ЗАПОЛНЕННОСТЬ ПРОФИЛЯ",
+        "incompleteLabel": "Заполните следующие поля",
+        "coverPicUrl": "Обложка",
+        "profilePicUrl": "Изображение Профиля",
+        "city": "Город",
+        "mobile": "Телефонный Номер",
+        "address": "Адрес",
+        "openingHours": "Открытые Часы",
+        "country": "Страна",
+        "aboutMe": "Обо Мне",
+        "profession": "Профессия",
+        "industry": "Индустрия",
+        "company": "Компания",
+        "email": "Электронная Почта"
+    },
+    "publication": {
+        "title": "ПУБЛИКАЦИИ",
+        "noPublicationsFound": "Публикации не найдены",
+        "addImages": "Добавить изображения",
+        "placeholderDescription": "Введите описание Ваших публикаций.",
+        "characterLimit": "/1000",
+        "edit": "Редактировать",
+        "cancel": "Отменить",
+        "save": "Сохранить"
+    },
+    "allSectionHeader": {
+        "add": "Добавить",
+        "seeAll": "Увидеть Все"
+    },
+    "share": {
+        "copiedText": "Скопировано!",
+        "copyLink": "Скопировать ссылку",
+        "share": "Поделиться",
+        "profileShareTitle": " профиль"
+    },
+    "technique": {
+        "title": "ТЕХНИКА",
+        "noTechFound": "Техника не найдена",
+        "addImages": "Добавить изображения",
+        "placeholderDescription": "Введите описание Вашей художественной техники.",
+        "characterLimit": "/1000",
+        "edit": "Редактировать",
+        "cancel": "Отменить",
+        "save": "Сохранить",
+        "your": "Ваша",
+        "photo": "фотография",
+        "apply": "Применить"
+    },
+    "profileNavigator": {
+        "profile": "Профиль",
+        "see": "Посмотреть",
+        "art": " арт",
+        "about": "ОБО МНЕ",
+        "contact": "КОНТАКТНАЯ ИНФОРМАЦИЯ",
+        "activity": "ДЕЯТЕЛЬНОСТЬ",
+        "videos": "ВИДЕО",
+        "artworks": "ПРОИЗВЕДЕНИЯ",
+        "likedArtworks":"Понравившиеся произведения",
+        "albums": "АЛЬБОМЫ",
+        "groups": "ГРУППЫ",
+        "technique": "ТЕХНИКА",
+        "expertise": "ЭКСПЕРТИЗА",
+        "awards": "НАГРАДЫ",
+        "pastExhibitions": "ПРОШЕДШИЕ ВЫСТАВКИ",
+        "publications": "ПУБЛИКАЦИИ",
+        "personalInfo": "ЛИЧНАЯ ИНФОРМАЦИЯ",
+        "business": "О МОЁМ БИЗНЕСЕ"
+    },
+    "connections": {
+        "title": "Друзья",
+        "noConnectionsFound": "Нет друзей",
+        "seeAll": "Посмотреть всех...",
+        "followers": "Подписчики",
+        "following": "Подписан(а)"
+    },
+    "video": {
+        "title": "Видео",
+        "noVideosFound": "Видео не найдены"
+    },
+    "visibility": {
+        "public": "Публичная(зарегистрированные пользователи)",
+        "private": "Приватная",
+        "connectionsOnly": "Только-для-друзей"
+    },
+    "blockSection": {
+        "accountUnavailable": "Этот аккаунт не доступен",
+        "goToHome": "Вернуться на Главную Страницу"
+    }
+}

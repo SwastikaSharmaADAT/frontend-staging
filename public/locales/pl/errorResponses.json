@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "noContactsFound": "Nie znaleziono kontaktów",
+        "somethingWentWrong": "Coś poszło nie tak, zaloguj się aby kontynuować",
+        "sessionExpired": "Sesja wygasła, zaloguj się ponownie",
+        "loginToContinue": "Zaloguj się, aby kontynuować"
+    },
+    "mediaLibrary": {
+        "limitMoreImages": "Można zaznaczyć tylko {{limit}} obrazów"
+    },
+    "article": {
+        "articleNotFound": "Nie znaleziono artykułu"
+    },
+    "cart": {
+        "alreadyInCart": "Ten produkt jest już w Koszyku",
+        "removeItemError": "Błąd przy usuwaniu z koszyka"
+    },
+    "subscriptions": {
+        "planExist": "Ten plan jest już przez Ciebie wykupiony!",
+        "artworkNotFound": "Nie znaleziono dzieła"
+    }
+}

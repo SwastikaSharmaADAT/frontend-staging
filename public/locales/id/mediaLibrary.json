@@ -1,0 +1,27 @@
+{
+    "chooseImage": "Pilih Gambar",
+    "uploadTab": {
+        "title": "Unggah berkas",
+        "dragDropHere": "Seret dan letakkan file di sini",
+        "or": "atau",
+        "selectFiles": "+ Pilih File",
+        "supportedFormatsText": "Hanya gambar dengan format *.jpeg, *.jpg and *.png yang akan diterima",
+        "maxLimitPrefix": "Maksimal dari",
+        "maxLimitSuffix": "gambar dapat dipilih atau diletakkan",
+        "moreImagesText": "{{batas}} lebih banyak gambar dapat dipilih atau diletakkan",
+        "maxFileSize": "Ukuran File Maks: 2 MB",
+        "minFileSize": "Ukuran File Min: 100 kB",
+        "maxLimitText": "Maksimal {{batas}} gambar dapat dipilih atau diletakkan"
+    },
+    "mediaTab": {
+        "title": "Perpustakaan Media",
+        "pickATag": "Pilih Label",
+        "loadMore": "Muat lebih banyak",
+        "deleteImage": "Hapus Gambar",
+        "choose": "Pilih",
+        "saveAll": "Simpan Semua",
+        "placeholderSearch": "Cari item...",
+        "placeholderDescription": "Tambahkan teks deskripsi...",
+        "placeholderEnterTag": "Masukkan Label"
+    }
+}

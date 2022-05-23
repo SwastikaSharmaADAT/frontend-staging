@@ -1,0 +1,62 @@
+{
+    "createPost": {
+        "title": "Kirkiri Rubutu",
+        "editPhoto": "Gyara Hoto",
+        "addPhoto": "Kara Hoto",
+        "characterLimit": "/500",
+        "publish": "Wallafa",
+        "placeholderWriteSomething": "Rubuta wani abu..."
+    },
+    "groupBarHead": {
+        "leave": "Leave",
+        "confirmLeave": "Ka tabbata kanason barin wannan rukunin?",
+        "uploadPhoto": "Daura Hoto",
+        "removePhoto": "Canja hoto",
+        "changePhoto": "Cire Hoto",
+        "group": "Rukuni",
+        "leaveGroup": "Fita daga Rukuni",
+        "joinGroup": "Shiga Rukuni",
+        "lastActive": "Aiki na Karshe",
+        "members": " memba(bobi)",
+        "posts": "rubutu(s)",
+        "editGroupSettings": "Gyara Saitin Rukuni",
+        "Leave": "Fita"
+    },
+    "memberSection": {
+        "title": "Membobin Rukuni",
+        "members": "membobi",
+        "seeAll": "Kalli Duka..."
+    },
+    "invite": {
+        "title": "Gayyaci Masu Hanya",
+        "seeAll": "Kalli Duka",
+        "invited": "An Gayyata",
+        "follower": "mai bi",
+        "followerPlural": "masu bi",
+        "allConnectionsInvited": "Duka masu hanyan ka an gayyace su.",
+        "noConnectionsToInvite": "Babu hadaka da za'a gayyata",
+        "inviteTo": "Gayyata don",
+        "invite": "Gayyata",
+        "loading": "Jira..."
+    },
+    "joinRequests": {
+        "title": "Shiga Nema",
+        "follower": "mai bi",
+        "followerPlural": "masu bi",
+        "reject": "Kore",
+        "accept": "Karba",
+        "noMoreRequests": "Babu wasu neman shiga"
+    },
+    "listingPopup": {
+        "remove": "Cire",
+        "admin": "(Admin)",
+        "moderator": "(Mai Lura)",
+        "follower": "mai bi",
+        "followerPlural": "masu bi",
+        "assignModerator": "Sanya a matsayin Mai Lura",
+        "removeFromGroup": " Cire daga Rukunin",
+        "addedAsModerator": "An kara a matsayin Mai Lura",
+        "deleteConfirm": "Ka tabbata kanaso ka cire sa?"
+    },
+    "notAuthorized": "Babu Iko"
+}

@@ -1,0 +1,16 @@
+{
+    "title": "MỜI BẠN BÈ",
+    "tagsInput": {
+        "placeholder": "Thêm email thủ công. Phân tách bằng dấu phẩy hoặc nhấn enter sau mỗi email."
+    },
+    "cancelButtonLabel": "Hủy bỏ",
+    "sendInvitesButtonLabel": "Gửi Lời mời",
+    "howInviteWork": "Nó hoạt động như thế nào?",
+    "emailTemplateText": "Tôi có thể xem địa chỉ email trước khi gửi đi không?",
+    "pickEmailService": "Chọn dịch vụ email của bạn...",
+    "gmailText": "Gmail",
+    "outlookText": "Outlook",
+    "otherText": "Khác",
+    "selectedText": "Đã chọn",
+    "emptyResultText": "Không tìm thấy Kết quả nào"
+}

@@ -1,0 +1,83 @@
+{
+    "pageNotFound": {
+        "404": "৪০৪",
+        "signUpTextNotFound": "অথবা সাইনআপ করুন যদি আপনার প্রোফাইল না থেকে থাকে...",
+        "pageNotFound": "আপনি যেই পেজ খুঁজছেন তা আমরা পাচ্ছিনা।<br/>আপনি এই বিকল্প গুলি থেকে পছন্দ করবেন; তাহলেই কাজ হবে...",
+        "goBackHome": "ফিরে যান"
+    },
+    "usersTermsConditions": {
+        "title": "ব্যবহারকারীদের শর্তাবলী",
+        "overview": "১) ওভারভিউ",
+        "contentEligibility": "২) বিষয়বস্তু এবং যোগ্যতা",
+        "feesPayments": "৩) ফি এবং পেমেন্ট",
+        "accountTermination": "৪) সমাপ্তিকরণ এবং একাউন্ট বাতিলকরণ",
+        "provisions": "৫) আরো শর্তসমূহ",
+        "seePrivacyPolicy": "গোপনীয়তা নীতি দেখুন",
+        "seeVendorTermsConditions": "বিক্রেতার শর্তাবলী দেখুন"
+    },
+    "privacyPolicyPage": {
+        "title": "গোপনীয়তা নীতি",
+        "seeVendorTermsConditions": "বিক্রেতার শর্তাবলী দেখুন",
+        "seeUserTermsConditions": "ব্যবহারকারীর শর্তাবলী দেখুন",
+        "accountPrivacySettings": "একাউন্ট প্রাইভেসি সেটিংস",
+        "dataSecurity": "তথ্য নিরাপত্তা",
+        "collectingPersonalData": "ব্যক্তিগত তথ্য সংগ্রহ এবং প্রক্রিয়াকরণ",
+        "adsOnArtmo": "ARTMO তে বিজ্ঞাপন দেওয়া"
+    },
+    "vendorTermsConditions": {
+        "title": "বিক্রেতার শর্তাবলী",
+        "seePrivacyPolicy": "গোপনীয়তা নীতি দেখুন",
+        "seeUserTermsConditions": "ব্যবহারকারীর শর্তাবলী দেখুন",
+        "impOverview": "প্রথমত ...একটি গুরুত্বপূর্ণ ওভারভিউ",
+        "stepByStep": "ধাপে ধাপে",
+        "overview": "১) ওভারভিউ",
+        "fees": "২) কমিশন | ফি | পেমেন্ট | রিফান্ড",
+        "termination": "৩) সমাপ্তিকরণ এবং একাউন্ট বাতিলকরণ",
+        "payoutSchedule": "৪) বিক্রয়ের টাকা প্রদানের সময়সূচি",
+        "contentEligibility": "৫)  বিষয়বস্তু এবং যোগ্যতা",
+        "yourObligations": "৬) আপনার বাধ্যবাধকতাসমূহ",
+        "artmoObligations": "৭) ARTMO এর বাধ্যবাধকতাসমূহ",
+        "returns": "৮) ফিরত এবং দ্বন্দসমূহ",
+        "provisions": "৯) আরো শর্তসমূহ",
+        "shippingReturnPolicy": "চলান এবং ফিরতের নীতি"
+    },
+    "whatIsArtmo": {
+        "title": "ARTMO কী?",
+        "artNetwork": "শিল্প নেটওয়ার্ক",
+        "artEnthusiast": "শিল্প কৌতূহলী",
+        "muchMore": "এবং আরো অনেক কিছু!",
+        "member": "সদস্যগণ",
+        "pages": "পেজসমূহ",
+        "marketplace": "মার্কেটপ্লেস",
+        "needHelp": "সাহায্য প্রয়োজন - আমাদের যোগাযোগ করুন...",
+        "artist": "শিল্পীগণ",
+        "gallery": "গ্যালারী",
+        "university": "বিশ্ববিদ্যালয়",
+        "shop": "শপ"
+    },
+    "mobileApp": {
+        "title": "মোবাইল অ্যাপ",
+        "subHeading": "মোবাইলের হোমস্ক্রিন থেকে কিভাবে ARTMO শুরু করতে হয়",
+        "note": "নোট",
+        "step": "ধাপ",
+        "done": "সম্পূর্ণ"
+    },
+    "artworkUploadInst": {
+        "headerTitle": "শিল্পকর্ম আপলোড করার নির্দেশিকা",
+        "images": "ছবিসমূহ",
+        "title": "শিরোনাম",
+        "artMaterial": "শিল্পের উপকরণ",
+        "series": "সিরিজ",
+        "limitedEdition": "সীমিত সংস্করণ",
+        "price": "মূল্য",
+        "dimension": "মাত্রা",
+        "frame": "ফ্রেম",
+        "medium": "মাধ্যম",
+        "genre": "ধরণ/প্রকার",
+        "subjectTags": "বিষয় ট্যাগসমূহ",
+        "description": "বিবরণ",
+        "text": "টেক্সট",
+        "yourProfile": "আপনার প্রোফাইল",
+        "pdf": "পিডিএফ"
+    }
+}

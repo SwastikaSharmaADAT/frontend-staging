@@ -1,0 +1,27 @@
+{
+  "about": "אודות",
+  "labels": {
+    "option1": "רשת האומנות",
+    "option2": "חנות",
+    "option3": "צוות",
+    "option4": "קריירה",
+    "option5": "IP",
+    "option6": "רושם",
+    "option7": "תנאים ופרטיות",
+    "option8": "קשרי משקיעים"
+  },
+  "career": {
+    "jobOpening": {
+      "title": "משרות פנויות",
+    },
+    "lisbonPortugal": {
+      "title": "ליסבון | פורטוגל",
+      "option1": "התמחות",
+      "option2": "מנהל מדיה חברתית ומשווק דיגיטלי",
+      "option3": "מומחה WooCommerce",
+    },
+    "hamburgGermany": {
+      "title": "המבורג | גרמניה",
+    }
+  }
+}

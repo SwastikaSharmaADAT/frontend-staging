@@ -1,0 +1,156 @@
+{
+  "tabLabels": {
+    "dashboard": "डैशबोर्ड",
+    "mediaLibrary": "मीडिया लाइब्रेरी",
+    "artworks": "कलाकृतियों",
+    "orders": "आदेश",
+    "customers": "ग्राहकों",
+    "settings": "सेटिंग",
+    "addArtwork": "कलाकृति जोड़ें"
+  },
+  "incompletePopup": {
+    "mainText": "आपको यहां देखकर बहुत अच्छा लगा, अपनी कलाकृतियों को अपलोड करना शुरू कर दिया।",
+    "subText": "इससे पहले कि आप कलाकृतियां अपलोड और प्रकाशित कर सकें, आपको अपनी प्रोफ़ाइल पूरी करनी होगी।"
+  },
+  "knowledgeBase": {
+    "title": "ज्ञानधार"
+  },
+  "dashboard": {
+    "title": "डैशबोर्ड",
+    "learnMore": "और अधिक जानें",
+    "sections": {
+      "sec1": "कलाकृति अनुमोदन",
+      "sec2": "मैं अपनी कलाकृति को कैसे स्वीकृत करवा सकता हूँ?",
+      "sec3": "कृपया कलाकृति अपलोड निर्देश यहां देखें",
+      "sec4": "कलाकृति कैसे बेची जाती है?",
+      "here": "यहां."
+    }
+  },
+  "artworks": {
+    "title": "कलाकृति",
+    "addNew": "नया जोड़ो",
+    "learnMore": "और अधिक जानें",
+    "draft": "ड्राफ्ट",
+    "published": "प्रकाशित",
+    "underReview": "रुका हुआ  अनुमोदन",
+    "sold": "बेचा गया",
+    "pending": "एडिट आवश्यक",
+    "show": "प्रदर्शन",
+    "entries": "प्रविष्टियां",
+    "placeholderSearch": "खोज",
+    "eur": "ईयूआर",
+    "quickEdit": {
+      "title": "शीघ्र संपादित",
+      "confirmButton": "हाँ",
+      "markAsSoldText": "क्या आप वाकई इस कलाकृति को बिके हुए के रूप में चिह्नित करना चाहते हैं? इसे पूर्ववत नहीं किया जा सकता",
+      "switchLeft": "बेचा",
+      "switchRight": " उपलब्ध",
+      "saveChanges": "परिवर्तनों को सुरक्षित करें",
+      "selfNotePlaceholder": "स्वयं नोट",
+      "titlePlaceholder": "शीर्षक",
+      "pricePlaceholder": "कीमत",
+      "priceOnRequestPlaceholder": "विनती पर कीमत"
+    },
+    "delete": {
+      "confirmButton": "हाँ",
+      "confirmDeleteText": "क्या आप वाकई इस कलाकृति को हटाना चाहते हैं?"
+    },
+    "hover": {
+      "view": "दृश्य",
+      "quickEdit": "शीघ्र संपादित",
+      "edit": "संपादित",
+      "delete": "हटाएं"
+    }
+  },
+  "orders": {},
+  "settings": {
+    "title": "समायोजन",
+    "learnMore": "और अधिक जानें",
+    "saveChanges": "परिवर्तनों को सुरक्षित करें",
+    "updateChanges": "अद्यतन परिवर्तन",
+    "optionTitles": {
+      "general": "सामान्य",
+      "vacation": "छुट्टी",
+      "subscription": "सब्स्क्रिप्शन",
+      "payouts": "भुगतान"
+    },
+    "general": {
+      "vendorEmail": "विक्रेता ईमेल",
+      "timezone": "समय क्षेत्र",
+      "shippingPolicy": "शिपिंग नीति",
+      "validationErrors": {
+        "email": "कृपया एक वैध ई-मेल एड्रेस डालें",
+        "shippingPolicy": "शिपिंग नीति में अधिकतम 1000 वर्ण हो सकते हैं"
+      }
+    },
+    "vacation": {
+      "vacationMode": "अवकाश मोड सक्षम करें",
+      "disablePurchase": "छुट्टी के दौरान खरीदारी अक्षम करें",
+      "vacationMessage": "अवकाश संदेश",
+      "validationErrors": {
+        "vacationMessage": "अवकाश संदेश में अधिकतम 1000 वर्ण हो सकते हैं"
+      }
+    },
+    "subscription": {
+      "paymentsVia": "भुगतान के जरिए",
+      "paypalEmail": "पेपाल का ईमेल पता",
+      "cardNumber": "कार्ड संख्या ",
+      "changePaymentData": "भुगतान डेटा बदलें",
+      "subscriptionPeriod": "सदस्यता अवधि",
+      "price": "कीमत",
+      "eur": "ईयूआर",
+      "upcomingPayment": "आगामी भुगतान",
+      "upgradeMembership": "सदस्यता अपग्रेड करें",
+      "downgradeYourAccount": "अपना खाता डाउनग्रेड करें",
+      "cancelSubscription": "अपनी सदस्यता रद्द करें",
+      "cancelConfirmText": "क्या आप अपनी सदस्यता रद करने के लिए वाकई तैयार हैं?",
+      "buttonYes": "हां",
+      "changePaymentText": "क्या आप वाकई भुगतान प्रकार बदलना चाहते हैं?",
+      "basicPlanText": "यह एक फ्री प्लान है। भुगतान की आवश्यकता नहीं है।."
+    },
+    "payouts": {
+      "wireTransfer": "बैंक खाता स्थानांतरण",
+      "payPal": "पेयपल",
+      "paymentTypeQuestion": "आप अपनी कला बिक्री से पैसे कैसे प्राप्त करना चाहते हैं?",
+      "country": "देश",
+      "bankAccountNumber": "बैंक खाता संख्या",
+      "email": "ईमेल",
+      "routingNumber": "राउटिंग नम्बर",
+      "validationErrors": {
+        "bankAccountNumber": "बैंक खाता संख्या आवश्यक है",
+        "routingNumber": "बीआईसी / स्विफ्ट कोड आवशक है",
+        "country": "देश आवाश्यक है",
+        "email": "ईमेल आवश्यक है",
+        "bankAccountNumberLength": "बैंक खाता संख्या में अधिकतम 24 अंक हो सकते हैं",
+        "routingNumberLength": "बीआईसी / स्विफ्ट कोड में अधिकतम 24 अंक हो सकते हैं",
+        "paymentType": "भुगतान प्रकार आवश्यक है",
+        "invalidEmail": "एक मान्य ईमेल पता दर्ज करें"
+      }
+    }
+  },
+  "knowledgebase": {
+    "accordion1": "वेकेशन मोड कैसे सेट करें?",
+    "accordion2": "मैं एक कलाकृति कैसे जमा करूं?",
+    "accordion3": "मेरा उत्पाद संग्रह में क्यों दिखाई नहीं दे रहा है?",
+    "accordion4": "फोटो आवश्यकताएँ",
+    "accordion5": " प्रामाणिकता का प्रमाणपत्र(डाउनलोड)"
+  },
+  "purchaseSubscriptionMessage": "कृपया पहले एक सदस्यता खरीदें",
+  "profileCompletionPopup": {
+    "title": "अपना खाता पूरा करें",
+    "addProfileImage": "प्रोफ़ाइल फोटोि जोड़ें",
+    "startSellingArt": "कला बेचना शुरू करें",
+    "placeholder": {
+      "phone": "फोन नंबर",
+      "city": "शहर",
+      "country": "देश"
+    },
+    "validationErrors": {
+      "profileImageRequired": "प्रोफ़ाइल फोटो आवश्यक है",
+      "cityRequired": "शहर का नाम आवश्यक है",
+      "countryRequired": "देश जरूरी है",
+      "phoneRequired": "फोन नंबर देना जरूरी है ",
+      "invalidPhone": "फोन नंबर गलत है "
+    }
+  }
+}

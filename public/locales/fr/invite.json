@@ -1,0 +1,16 @@
+{
+    "title": "INVITER DES AMIS",
+    "tagsInput": {
+        "placeholder": "Ajoutez des e-mails manuellement. Séparez-les par une virgule ou appuyez sur Entrée après chaque e-mail."
+    },
+    "cancelButtonLabel": "Annuler",
+    "sendInvitesButtonLabel": "Envoie des invitations",
+    "howInviteWork": "Comment ça marche?",
+    "emailTemplateText": "Puis-je voir l'e-mail avant de l'envoyer?",
+    "pickEmailService": "Choisissez votre service de messagerie...",
+    "gmailText": "Gmail",
+    "outlookText": "Outlook",
+    "otherText": "Autre",
+    "selectedText": "Sélectionné",
+    "emptyResultText": "Aucun Résultat Trouvé"
+}

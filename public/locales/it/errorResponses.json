@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "noContactsFound": "Nessun contatto trovato",
+        "somethingWentWrong": "Qualcosa è andato storto, effettuare l'accesso per proseguire",
+        "sessionExpired": "Sessione scaduta, effettuare un nuovo accesso",
+        "loginToContinue": "Per favore, effettuare il login per continuare."
+    },
+    "mediaLibrary": {
+        "limitMoreImages": "È possibile selezionare solo altre {{limit}} immagini"
+    },
+    "article": {
+        "articleNotFound": "Articolo non trovato"
+    },
+    "cart": {
+        "alreadyInCart": "Questo prodotto è già stato aggiunto al carrello",
+        "removeItemError": "Errore nella rimozione di un articolo dal carrello"
+    },
+    "subscriptions": {
+        "planExist": "Hai già acquistato questo piano!",
+        "artworkNotFound": "Opera d'arte non trovata"
+    }
+}

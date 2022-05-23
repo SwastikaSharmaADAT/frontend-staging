@@ -1,0 +1,83 @@
+{
+    "validationErrors": {
+        "image": "L'image de l'article est requise",
+        "title": "Le titre est requis",
+        "titleLength": "Le titre peut comporter au maximum 200 caractères",
+        "description": "La description est requise",
+        "descriptionLength": "La description peut comporter au maximum 200 caractères",
+        "category": "La catégorie est requise",
+        "country": "Le pays est requis",
+        "city": "La ville est requise",
+        "startDate": "La date de début est requise",
+        "endDate": "La date de fin est requise",
+        "endDateLarge": "La date de fin ne peut pas être définie avant la date de début"
+    },
+    "articleNotAvailable": "Cet article n'est pas disponible",
+    "placeholderImage": "Ajouter une image vedette",
+    "placeholderTitle": "Insérer le titre",
+    "placeholderDescription": "Écrivez votre article ici...",
+    "placeholderCountry": "Pays",
+    "placeholderStartDate": "Date de Début",
+    "placeholderCity": "Ville",
+    "placeholderEndDate": "Date de Fin",
+    "category": "Catégorie",
+    "categoryOptions": {
+        "option1": "Buzz",
+        "option2": "Image du jour",
+        "option3": "Exposition"
+    },
+    "status": {
+        "draft": "Brouillon",
+        "publish": "Publié",
+        "pending": "En attente de validation",
+        "rejected": "Rejeté"
+    },
+    "articleFollowed": "Following",
+    "articleFollow": "Follow",
+    "articleUnFollow": "UnFollow",
+    "update": "Actualiser",
+    "submit": "Soumettre",
+    "buzzListing": {
+        "title": "DÉCOUVREZ CE QUI SECOUE ACTUELLEMENT LE MONDE DE L'ART",
+        "titleShort": "BUZZ",
+        "placeholderSearchTitle": "Rechercher des expositions per titre...",
+        "search": "Chercher",
+        "city": "Ville",
+        "edit": "Éditer"
+    },
+    "exhibitionListing": {
+        "title": "EXPOSITIONS"
+    },
+    "potd": {
+        "title": "IMAGE DU JOUR"
+    },
+    "myArticle": {
+        "title": "Mes Articles",
+        "seeMoreText": "Voir plus..."
+    },
+    "seeMoreText": "Voir plus...",
+    "addArticleInfo": {
+        "mainSection": {
+            "heading": "Comment écrire un article",
+            "firstPara": "Considérez-vous comme un journaliste ou un écrivain d'opinion. Écrivez sur quelque chose d'intéressant pour le monde de l'art et les amateurs d'art. Plutôt qu'une occasion de vous promouvoir ou de promouvoir vos propres créations, votre article est un espace pour écrire sur un sujet qui intéressera le grand public.",
+            "secondPara": "Vous devez avoir un profil complet sur ARTMO avant de pouvoir publier un article.",
+            "thirdPara": "Après la publication, vous serez reconnu comme auteur."
+        },
+        "buzzSubSection": {
+            "heading": "Buzz:",
+            "firstPara": "Rédigez un article sur un sujet d'intérêt pour les utilisateurs d'ARTMO. Voir d'excellents exemples d'articles Buzz ",
+            "anchorText": "ici"
+        },
+        "potdSubSection": {
+            "heading": "Image du jour | POTD:",
+            "firstPara": "Utilisez une catégorie POTD lorsque vous avez une photo captivante et fascinante sur laquelle vous voulez écrire. Utilisez cette image comme image caractéristique, puis racontez au monde l'histoire de cette photo. Votre POTD sera publié ",
+            "anchorText": "ici"
+        },
+        "exhibitionSubSection": {
+            "heading": "Exposition:",
+            "firstPara": "Utilisez cette catégorie si vous exploitez une galerie ou organisez une exposition. Écrivez sur l'exposition que vous organisez et votre article sera vu dans la catégorie Exposition.",
+            "secondPara": "Votre article d'exposition sera publié ",
+            "anchorText": "ici"
+        }
+    }
+}

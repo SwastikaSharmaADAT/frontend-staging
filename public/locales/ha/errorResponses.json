@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "noContactsFound": "Ba'a Samu Lamba Ba",
+        "somethingWentWrong": "An samu matsala, sake shiga don cigaba",
+        "sessionExpired": "Zangon ya lalace, sake shiga kuma",
+        "loginToContinue": "A sake shiga domin ci gaba."
+    },
+    "mediaLibrary": {
+        "limitMoreImages": "Kawai {{limit}} hotunan da za'a iya zaba"
+    },
+    "article": {
+        "articleNotFound": "Ba'a samu bayanan ba"
+    },
+    "cart": {
+        "alreadyInCart": "An riga an saka wannan kayan a kwando",
+        "removeItemError": "Matsala wajen cire kayan daga kwando"
+    },
+    "subscriptions": {
+        "planExist": "Ka riga ka siya wannan tsarin!",
+        "artworkNotFound": "Ba'a samu zane ba"
+    }
+}

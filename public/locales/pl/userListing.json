@@ -1,0 +1,17 @@
+{
+    "heading": "SIEĆ SZTUKI",
+    "listing": {
+        "country": "Kraj:",
+        "placeholderCity": "Miasto",
+        "userType": "Typ:",
+        "sortBy": "Sortuj:",
+        "search": "Szukaj",
+        "searchUsers": "Szukaj użytkowników...",
+        "searchbyname": "Szukaj po imieniu..."
+    },
+    "follower": "obserwujący",
+    "followers": "obserwujący",
+    "unfollow": "Anuluj",
+    "follow": "Obserwuj",
+    "editProfile": "Edytuj Profil"
+}

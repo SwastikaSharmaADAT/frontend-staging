@@ -1,0 +1,24 @@
+{
+    "delete": "Xóa",
+    "warningDeleteConversation": "Bạn chắc chắn muốn xóa cuộc trò chuyện này chứ?",
+    "block": "Chặn",
+    "unblock": "Bỏ chặn",
+    "blockWarning": "Bạn chắc chắn muốn",
+    "thisUser": "người dùng này chứ?",
+    "placeholderMessage": "Nhập tin nhắn của bạn tại đây...",
+    "send": "Gửi",
+    "blockText": "Bạn không thể trả lời cuộc trò chuyện này. Người dùng đã đặt chế độ tin nhắn riêng tư hoặc đã bị tạm ngưng.",
+    "noMessage": "Không có Tin nhắn",
+    "history": "Xem lịch sử trò chuyện",
+    "emojiPicker": {
+        "smileys_people": "NỤ CƯỜI & CON NGƯỜI ",
+        "animals_nature": "ĐỘNG VẬT & THIÊN NHIÊN",
+        "food_drink": "ĐỒ ĂN & ĐỒ UỐNG",
+        "travel_places": "DU LỊCH & ĐỊA ĐIỂM",
+        "activities": "HOẠT ĐỘNG",
+        "objects": "VẬT THỂ",
+        "symbols": "BIỂU TƯỢNG",
+        "flags": "CỜ",
+        "recently_used": "SỬ DỤNG GẦN ĐÂY"
+    }
+}

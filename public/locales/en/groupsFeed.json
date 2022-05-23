@@ -1,0 +1,61 @@
+{
+    "createPost": {
+        "title": "Create a Post",
+        "editPhoto": "Edit Photo",
+        "addPhoto": "Add Photo",
+        "characterLimit": "/500",
+        "publish": "Publish",
+        "placeholderWriteSomething":"Write something..."
+    },
+    "groupBarHead": {
+        "leave": "Leave",
+        "confirmLeave": "Are you sure you want to leave the group?",
+        "uploadPhoto": "Upload Photo",
+        "removePhoto": "Remove Photo",
+        "changePhoto": "Change Photo",
+        "group": "Group",
+        "leaveGroup": "Leave group",
+        "joinGroup": "Join group",
+        "lastActive": "Last active",
+        "members": " member(s)",
+        "posts": "post(s)",
+        "editGroupSettings": "Edit Group Settings"
+    },
+    "memberSection": {
+        "title": "Group Members",
+        "members": "members",
+        "seeAll": "See All..."
+    },
+    "invite": {
+        "title": "Invite Friends",
+        "seeAll": "See All",
+        "invited": "Invited",
+        "follower": "follower",
+        "followerPlural": "followers",
+        "allConnectionsInvited": "Your all connections are invited.",
+        "noConnectionsToInvite": "No connections to invite",
+        "inviteTo": "Invite to",
+        "invite": "Invite",
+        "loading": "Loading..."
+    },
+    "joinRequests": {
+        "title": "Join Requests",
+        "follower": "follower",
+        "followerPlural": "followers",
+        "reject": "Reject",
+        "accept": "Accept",
+        "noMoreRequests": "No more join requests"
+    },
+    "listingPopup": {
+        "remove": "Remove",
+        "admin": "(Admin)",
+        "moderator": "(Moderator)",
+        "follower": "follower",
+        "followerPlural": "followers",
+        "assignModerator": "Assign as Moderator",
+        "removeFromGroup": " Remove from Group",
+        "addedAsModerator": "Added as Moderator",
+        "deleteConfirm": "Are you sure you want to remove this user?"
+    },
+    "notAuthorized": "Not Authorized"
+}

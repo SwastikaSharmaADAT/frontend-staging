@@ -1,0 +1,24 @@
+{
+    "delete": "Hapus",
+    "warningDeleteConversation": "Apakah Anda yakin ingin menghapus percakapan ini??",
+    "block": "Blokir",
+    "unblock": "Buka blokir",
+    "blockWarning": "Apakah Anda yakin ingin",
+    "thisUser": "pengguna ini?",
+    "placeholderMessage": "Ketik pesan Anda disini...",
+    "send": "Kirim",
+    "blockText": "Anda tidak dapat membalas percakapan ini. Entah pengguna telah menjadikan pesan pribadi atau ditangguhkan.",
+    "noMessage": "Tidak ada pesan",
+    "history": "Lihat riwayat obrolan",
+    "emojiPicker": {
+        "smileys_people": "SENYUM & ORANG",
+        "animals_nature": "HEWAN & ALAM",
+        "food_drink": "MAKANAN & MINUMAN",
+        "travel_places": "PERJALANAN & LOKASI",
+        "activities": "AKTIVITAS",
+        "objects": "OBJEK",
+        "symbols": "SIMBOL",
+        "flags": "BENDERA",
+        "recently_used": "Baru-baru ini digunakan"
+    }
+}

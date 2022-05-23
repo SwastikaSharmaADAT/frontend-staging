@@ -1,0 +1,156 @@
+{
+    "tabLabels": {
+        "dashboard": "대시보드",
+        "mediaLibrary": "미디어 라이브러리",
+        "artworks": "작품",
+        "orders": "주문",
+        "customers": "고객",
+        "settings": "설정",
+        "addArtwork": "작품 추가"
+    },
+    "incompletePopup": {
+        "mainText": "여기에서 뵙게 되어 반갑습니다. 작품 업로드를 시작합니다.",
+        "subText": "작품을 업로드하고 게시하려면 프로필을 작성해야 합니다."
+    },
+    "knowledgeBase": {
+        "title": "지식베이스(KNOWLEDGEBASE)"
+    },
+    "dashboard": {
+        "title": "대시보드",
+        "learnMore": "더 알아보기",
+        "sections": {
+            "sec1": "작품 승인",
+            "sec2": "나의 작품를 승인받는 방법",
+            "sec3": "작품 업로드 방법 설명을 여기에서 확인하세요",
+            "sec4": "작품 판매 방식",
+            "here": "여기"
+        }
+    },
+    "artworks": {
+        "title": "작품",
+        "addNew": "새 작품 추가하기",
+        "learnMore": "더 알아보기",
+        "draft": "초안",
+        "published": "게시됨",
+        "underReview": "승인 대기 중",
+        "sold": "판매 된",
+        "pending": "편집 필요",
+        "show": "나타내기",
+        "entries": "마감일",
+        "placeholderSearch": "검색",
+        "eur": "유로",
+        "quickEdit": {
+            "title": "빠른 편집",
+            "confirmButton": "예",
+            "markAsSoldText": "이 작품을 판매되었다고 표시하기를 정말 원하시나요? 되돌릴 수 없습니다.",
+            "switchLeft": "판매되었음",
+            "switchRight": "구매 가능",
+            "saveChanges": "변경사항 저장",
+            "selfNotePlaceholder": "자기 메모",
+            "titlePlaceholder": "제목",
+            "pricePlaceholder": "가격",
+            "priceOnRequestPlaceholder": "요청 가격"
+        },
+        "delete": {
+            "confirmButton": "예",
+            "confirmDeleteText": "이 작품를 정말 삭제하기를 원하시나요?"
+        },
+        "hover": {
+            "view": "보기",
+            "quickEdit": "빠른 편집",
+            "edit": "편집",
+            "delete": "삭제"
+        }
+    },
+    "orders": {},
+    "settings": {
+        "title": "설정",
+        "learnMore": "더 알아보기",
+        "saveChanges": "변경사항 저장",
+        "updateChanges": "변경 내용 업데이트",
+        "optionTitles": {
+            "general": "일반",
+            "vacation": "휴가",
+            "subscription": "구독",
+            "payouts": "지불금"
+        },
+        "general": {
+            "vendorEmail": "판매자 이메일",
+            "timezone": "타임존",
+            "shippingPolicy": "배송 정책",
+            "validationErrors": {
+                "email": "정확한 이메일 주소를 입력하세요",
+                "shippingPolicy": "배송 정책은 최대 1000자 입력 가능합니다"
+            }
+        },
+        "vacation": {
+            "vacationMode": "휴가 모드로 설정하기",
+            "disablePurchase": "휴가 기간 동안 구매 불가 설정하기",
+            "vacationMessage": "휴가 안내 메시지",
+            "validationErrors": {
+                "vacationMessage": "휴가 안내 메시지는 최대 1000자 입력 가능합니다"
+            }
+        },
+        "subscription": {
+            "paymentsVia": "지불 방법",
+            "paypalEmail": "페이팔 이메일",
+            "cardNumber": "카드 번호",
+            "changePaymentData": "지불 날짜 변경",
+            "subscriptionPeriod": "구독 기간",
+            "price": "가격",
+            "eur": "유로",
+            "upcomingPayment": "예정된 지불",
+            "upgradeMembership": "업그레이드 구독",
+            "downgradeYourAccount": "구독 다운그레이드",
+            "cancelSubscription": "구독 취소",
+            "cancelConfirmText": "구독을 취소하시겠습니까?",
+            "buttonYes": "예",
+            "changePaymentText": "결제 유형을 변경하시겠습니까?",
+            "basicPlanText": "이것은 무료 요금제입니다. 지불하지 않아도 됩니다."
+        },
+        "payouts": {
+            "wireTransfer": "유선 전송",
+            "payPal": "페이팔",
+            "paymentTypeQuestion": "원하는 작품 판매금 수령 방식",
+            "country": "국가",
+            "bankAccountNumber": "은행 계좌번호",
+            "email": "이메일",
+            "routingNumber": "라우팅 번호(Routing Number)",
+            "validationErrors": {
+                "bankAccountNumber": "은행 계좌번호는 최대 숫자 24자리 입력 가능합니다",
+                "routingNumber": "라우팅 번호는 최대 숫자 24자리 입력 가능합니다",
+                "country": "국가가 필요합니다",
+                "email": "이메일이 필요합니다",
+                "bankAccountNumberLength": "은행 계좌 번호에는 최대 24자리 숫자를 사용할 수 있습니다.",
+                "routingNumberLength": "라우팅 번호는 최대 24자리 숫자를 가질 수 있습니다.",
+                "paymentType": "결제 유형이 필요합니다",
+                "invalidEmail": "유효한 이메일 주소를 입력하세요"
+            }
+        }
+    },
+    "knowledgebase": {
+        "accordion1": "휴가 모드 설정방법",
+        "accordion2": "작품 제출방법",
+        "accordion3": "내 상품이 컬렉션에서 확인되지 않는 이유는?",
+        "accordion4": "사진 요구사항",
+        "accordion5": "진품 인증서 (다운로드)"
+    },
+    "purchaseSubscriptionMessage": "먼저 구독을 하세요",
+    "profileCompletionPopup": {
+        "title": "계정 작성을 완료하세요",
+        "addProfileImage": "프로필 이미지를 추가하세요",
+        "startSellingArt": "예술 작품 판매 시작",
+        "placeholder": {
+            "phone": "전화 번호",
+            "city": "도시",
+            "country": "국가"
+        },
+        "validationErrors": {
+            "profileImageRequired": "프로필 이미지가 필요합니다",
+            "cityRequired": "도시가 필요합니다",
+            "countryRequired": "국가가 필요합니다",
+            "phoneRequired": "전화 번호가 필요합니다",
+            "invalidPhone": "전화 번화가 맞지 않습니다"
+        }
+    }
+}

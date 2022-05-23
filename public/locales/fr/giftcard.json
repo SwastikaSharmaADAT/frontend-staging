@@ -1,0 +1,37 @@
+ {
+  "title": "Cartes Cadeaux",
+  "linkToMyGiftCard": "Afficher vos cartes cadeaux",
+  "giftCardSection": {
+    "title": "Faites la Promotion de Votre Profil",
+    "description": "Intégrez un lien vers votre profil ARTMO sur vos sites Web.",
+    "getLinkButton": "Obtenir le lien"
+  },
+  "giftCardContent": {
+    "singular": "Carte Cadeau",
+    "title": "Envoyez une carte cadeau ARTMO par e-mail. Le destinataire peut l'utiliser pour l'achat d'œuvres d'art.",
+    "selectAmount": "Choisissez le montant :",
+    "quesion": "Envoyez cette carte cadeau à...",
+    "namePlaceholder": "Insérer le Nom",
+    "emailPlaceholder": "Insérer le Email",
+    "lastNote": "Les informations de la carte seront disponibles dans la section Mon Compte. Vous recevrez un accusé de réception sur l'e-mail de votre compte.",
+    "buttonText": "Passer à la Caisse",
+    "hello": "Salut",
+    "sentFrom": "Ceci est votre carte cadeau envoyée par...",
+    "use": "Utilisez cette carte pour acheter des œuvres d'art.",
+    "seeHere": "Voir les œuvres ici...",
+    "expiryDate": "* Date d'expiration: "
+  },
+  "myGiftCardContent": {
+    "title": "Vos Cartes Cadeaux:",
+    "to": "À",
+    "name": " Bjorn Andersen",
+    "validUntil": "Valable jusque",
+    "purchasedOn": "Acheté le",
+    "used": "Utilisé",
+    "valid": "Valide",
+    "expired": "Expiré",
+    "makeCard": "Faites un cadeau d'art.",
+    "buttonText": "Acheter une carte ARTMO",
+    "noGiftCard": "Aucune carte cadeau disponible"
+  }
+}

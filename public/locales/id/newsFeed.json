@@ -1,0 +1,122 @@
+{
+    "addContent": {
+        "placeholderAdd": "Tambahkan...",
+        "post": "Posting",
+        "video": "Video",
+        "album": "Album",
+        "article": "Artikel",
+        "artwork": "Karya Seni"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "Tambahkan Album Foto",
+        "limitText": "Tambahkan gambar (maks 50)",
+        "addImages": "Tambahkan gambar",
+        "placeholderAddTitle": "Tambahkan Judul",
+        "writeSomething": "Menulis sesuatu...",
+        "firstPhotoInfo": "Foto pertama akan menjadi gambar sampul album.",
+        "publish": "Publikasikan",
+        "errorLabels": {
+            "maxCharacter100": "Hanya 100 karakter yang diizinkan",
+            "titleRequired": "Judul wajib diisi",
+            "maxCharacter500": "Hanya 500 karakter yang diizinkan"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "Edit Album Foto",
+        "updateButton": "Pembaharuan"
+    },
+    "addPostPopup": {
+        "title": "Buat Postingan",
+        "editPhoto": "Edit Foto",
+        "addPhoto": "Tambahkan Foto",
+        "writeSomething": "Menulis sesuatu...",
+        "postDescCount": "/200",
+        "publish": "Publikasikan"
+    },
+    "editPostPopup": {
+        "title": "Edit Unggahan",
+        "updateButton": "Pembaharuan"
+    },
+    "addVideoPopup": {
+        "title": "Tambahkan Video",
+        "validUrlError": "Harap masukkan URL yang valid",
+        "placeholderEnterLink": "Masukkan tautan dari YouTube, Vimeo...",
+        "placeholderWriteSomething": "Menulis sesuatu...",
+        "addCategory": "Tambahkan Kategori",
+        "next": "Selanjutnya",
+        "publish": "Publikasikan",
+        "update": "Pembaharuan"
+    },
+    "editVideoPopup": {
+        "title": "Edit Unggahan Video",
+        "updateButton": "Pembaharuan"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "Aktivitas baru ditambahkan",
+        "refresh": "Segarkan"
+    },
+    "hashtags": {
+        "title": "TAGAR TERATAS",
+        "noHashtagsAdded": "Tidak ada tagar yang ditambahkan",
+        "post": "posting",
+        "postPlural": "postingan"
+    },
+    "manageArtwork": {
+        "follower": "pengikut",
+        "followerPlural": "pengikut",
+        "visit": "Kunjungi",
+        "manage": "Mengelola",
+        "noPageFound": "Tidak ada halaman ditemukan"
+    },
+    "profile": {
+        "follower": "pengikut",
+        "followerPlural": "pengikut",
+        "profileCompleteness": "Kelengkapan profil",
+        "editProfile": "Edit Profil"
+    },
+    "singlePost": {
+        "photo": "foto",
+        "photoPlural": "foto",
+        "seeInStore": "Lihat di Toko",
+        "deleteText": "Apakah anda yakin ingin menghapus komentar anda?",
+        "capsHide": "Sembunyikan",
+        "capsUnhide": "Perlihatkan",
+        "hide": "Sembunyikan",
+        "unhide": "Perlihatkan",
+        "areYouSure": "Apakah anda yakin ingin",
+        "thisComment": "komentar ini?",
+        "update": "Pembaharuan",
+        "like": "Suka",
+        "comment": "Komentar",
+        "liked": "Disukai",
+        "likedBy": "Disukai oleh",
+        "lowerLike": "Suka",
+        "lowerLikePlural": "Suka",
+        "lowerUnlike": "batal menyukai",
+        "lowerComment": "komentar",
+        "lowerCommentPlural": "komentar",
+        "share": "Bagikan",
+        "pending": "Tertunda",
+        "deleteActivity": "Apakah anda yakin ingin menghapus aktivitas ini?",
+        "accept": "Terima",
+        "reject": "Tolak",
+        "delete": "Hapus",
+        "seeMore": "Lihat lainnya..",
+        "price": "Harga",
+        "priceOnRequest": "Harga Sesuai Permintaan",
+        "placeholderComment": "Masukan komentar Anda...",
+        "publish": "Menerbitkan",
+        "loadMoreText": "Muat lebih banyak...",
+        "loadMoreRepliesText": "Muat lebih banyak balasan...",
+        "edit": "Edit",
+        "commentRemoved": "Komentar ini telah dihapus",
+        "replyRemoved": "Balasan ini telah dihapus"
+    },
+    "singleActivity": {
+        "activityNotAvailable": "Aktivitas ini tidak tersedia",
+        "seeMore": "Lihat lainnya...",
+        "alreadyHaveAnAccount": "Sudah memiliki akun?",
+        "signUp": "Daftar",
+        "logIn": "Masuk"
+    }
+}

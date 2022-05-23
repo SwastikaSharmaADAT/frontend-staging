@@ -1,0 +1,363 @@
+{
+    "placeholderIntro": "সংক্ষিপ্ত পরিচিতি",
+    "about": {
+        "title": "সম্পর্কে",
+        "edit": "এডিট",
+        "cancel": "বাতিল",
+        "save": "সংরক্ষন",
+        "noAboutText": "কোনো বিবরণ যুক্ত নেই",
+        "placeholderAbout": "এখানে বিবরণ লিখুন",
+        "characterLimit": "/১০০০",
+        "errorAbout": "সর্বাধিক অক্ষরের দৈর্ঘ্য ১০০০ ছাড়িয়ে গেছে"
+        
+    },
+    "biography": {
+        "title": "জীবনী",
+        "edit": "এডিট",
+        "cancel": "বাতিল",
+        "save": "সংরক্ষণ",
+        "noBiographyText": "কোনো জীবনী যুক্ত করা হয়নি",
+        "placeholderBiography": "এখানে জীবনী যুক্ত করুন",
+        "characterLimit": "/১০০০"
+    },
+    "activity": {
+        "title": "কার্যকলাপ",
+        "descriptionNotAdded": "কোনো বিবরণ যুক্ত নেই",
+        "reactions": "প্রতিক্রিয়া সমূহ",
+        "noActivityText": "কোনো কার্যকলাপ পাওয়া যায়নি",
+        "seeAll": "সব দেখুন",
+        "add": "যুক্ত করুন"
+    },
+    "album": {
+        "title": "অ্যালবাম সমূহ",
+        "seeAll": "সব দেখুন",
+        "add": "যুক্ত করুন",
+        "noAlbumFound": "কোনো অ্যালবাম পাওয়া যায়নি",
+        "edit": "এডিট"
+    },
+    "artwork": {
+        "title": "শিল্পকর্ম",
+        "likedArtworks": "পছন্দকৃত শিল্পকর্মসমূহ",
+        "noArtworkFound": "কোনো শিল্পকর্ম পাওয়া যায়নি",
+        "seeAll": "সব দেখুন",
+        "add": "যুক্ত করুন"
+    },
+    "award": {
+        "title": "পুরষ্কারগুলি",
+        "noAwardFound": "কোনো পুরষ্কার পাওয়া যায়নি",
+        "addImages": "ছবি যুক্ত করুন",
+        "placeholderDescription": "আপনার শিল্প পুরষ্কার এর বিবরণ দিন",
+        "characterLimit": "/১০০০",
+        "edit": "এডিট",
+        "cancel": "বাতিল",
+        "save": "সংরক্ষন"
+    },
+    "basicInfo": {
+        "fillDetailsText": "দয়া করে এই জায়গা গুলি পুরণ করুন",
+        "placeholderFirstName": "প্রথম নাম",
+        "placeholderLastName": "শেষ নাম",
+        "placeholderCity": "শহর",
+        "placeholderCountry": "দেশ নির্বাচন করুন",
+        "placeholderEmail": "ইমেইল",
+        "save": "সংরক্ষন",
+        "cancel": "বাতিল"
+    },
+    "business": {
+        "title": "আমার ব্যবসা সম্পর্কে | পেশা",
+        "noBusinessFound": "আমার ব্যবসা সম্পর্কে কোনো তথ্য নেই | পেশা পাওয়া যায়নি",
+        "addImages": "ছবি যুক্ত করুন",
+        "placeholderDescription": "আপনার ব্যবসার বিবরণ দিন | পেশা.",
+        "characterLimit": "/১০০০",
+        "edit": "এডিট",
+        "cancel": "বাতিল",
+        "save": "সংরক্ষন"
+    },
+    "connectionsPopup": {
+        "follower": "অনুসারী",
+        "followerPlural": "অনুসারীগণ",
+        "connected": "সংযুক্ত",
+        "requestPending": "আবেদন প্রক্রিয়াধীন",
+        "requestSent": "আবেদন পাঠানো হয়েছে",
+        "connect": "সংযোগ",
+        "userConnectionsTitle": " এর সংযোগ সমূহ"
+    },
+    "contact": {
+        "title": "যোগাযোগের তথ্য",
+        "noContactInfoFound": "কোনো যোগাযোগের তথ্য যোগ করা হয়নি",
+        "email": "ই-মেইল",
+        "skype": "স্কাইপ",
+        "phone": "ফোন",
+        "address": "ঠিকানা",
+        "openingHours": "খোলার সময়",
+        "socialMedia": "সামাজিক যোগাযোগ মাধ্যম",
+        "placeholderEmail": "ই-মেইল",
+        "placeholderSkype": "স্কাইপ",
+        "phoneNumber": "ফোন নম্বর",
+        "placeholderAddress": "ঠিকানা",
+        "placeholderOpenHours": "খোলার সময়",
+        "edit": "এডিট",
+        "cancel": "বাতিল",
+        "save": "সংরক্ষন"
+    },
+    "expertise": {
+        "title": "দক্ষতা",
+        "noExpertiseFound": "কোনো দক্ষতা পাওয়া যায়নি",
+        "addImages": "ছবি যুক্ত করুন",
+        "placeholderDescription": "শিল্প দক্ষতার বিবরণ",
+        "characterLimit": "/১০০০",
+        "edit": "এডিট",
+        "cancel": "বাতিল",
+        "save": "সংরক্ষন"
+    },
+    "followersPopup": {
+        "follower": "অনুসারী",
+        "followerPlural": "অনুসারীগণ",
+        "followed": "অনুসরণকৃত",
+        "unfollow": "অনুসরণ করা বাদ দিন",
+        "follow": "অনুসরণ করুন",
+        "userFollowersTitle": "এর অনুসরণকারীরা"
+    },
+    "followingPopup": {
+        "follower": "অনুসারী",
+        "followerPlural": "অনুসারীগণ",
+        "followed": "অনুসরণকৃত",
+        "unfollow": "অনুসরণ করা বাদ দিন",
+        "follow": "অনুসরণ করুন",
+        "noFollowing": "কোনো অনুসরণ নেই",
+        "userFollowersTitle": "এর অনুসরণকারীরা",
+        "followPlural": "অনুসরণ গুলি"
+    },
+    "group": {
+        "title": "গ্রুপ গুলি",
+        "noGroupsFound": "ব্যবহারকারীর কোনো গ্রুপে সাবস্ক্রিপশন নেই",
+        "member": "সদস্য",
+        "memberPlural": "সদস্যবৃন্দ",
+        "browseGroups": "গ্রুপগুলি ব্রাউজ করুন",
+        "create": "তৈরি করুন"
+    },
+    "invite": {
+        "title": "বন্ধুদের আমন্ত্রণ দিন",
+        "desc1": "আপনার যোগাযোগসমূহের কাছে একটি বার্তা পাঠান",
+        "desc2": "তাদের বলুন যে আপনি এখানে আছেন",
+        "invite": "আমন্ত্রণ"
+    },
+    "messagePopup": {
+        "or": "অথবা",
+        "learnMore": "আরো জানুন",
+        "seeMore": "আরো দেখুন..."
+    },
+    "pastExhibition": {
+        "title": "পূর্বের প্রদর্শনীসমূহ",
+        "addImages": "ছবি যুক্ত করুন",
+        "noExhibitionsFound": "পূর্বের কোনো প্রদর্শনী পাওয়া যায়নি",
+        "placeholderDescription": "আপনার পূর্বের প্রদর্শনীগুলোর বিবরণ দিন",
+        "characterLimit": "/১০০০",
+        "edit": "এডিট",
+        "cancel": "বাতিল",
+        "save": "সংরক্ষন"
+    },
+    "personalInfo": {
+        "title": "ব্যক্তিগত তথ্য",
+        "noInfoFound": "কোনো ব্যক্তিগত তথ্য যোগ করা হয়নি",
+        "city": "শহর",
+        "country": "দেশ",
+        "profession": "পেশা",
+        "company": "কোম্পানি",
+        "industry": "শিল্প-কারখানা",
+        "website": "ওয়েবসাইট",
+        "languages": "ভাষা",
+        "visibleInfo": "জনসাধারণ এর কাছে গতানুগতিক ভাবেই অদৃশ্য",
+        "dateOfBirth": "জন্মতারিখ",
+        "gender": "লিঙ্গ",
+        "relationshipStatus": "সম্পর্কের অবস্থা",
+        "placeholderCity": "শহর",
+        "placeholderCountry": "দেশ",
+        "placeholderProfession": "পেশা",
+        "placeholderCompany": "কোম্পানি",
+        "placeholderIndustry": "শিল্প-কারখানা",
+        "placeholderLanguages": "ভাষা",
+        "placeholderWebsite": "ওয়েবসাইট",
+        "placeholderDob": "জন্মতারিখ",
+        "errorDob": "জন্মতারিখ প্রয়োজন",
+        "genderDropdown": {
+            "option1": "লিঙ্গ নির্ধারণ করুন",
+            "option2": "পুরুষ",
+            "option3": "মহিলা",
+            "option4": "অন্যান্য"
+        },
+        "relationDropdown": {
+            "option1": "সম্পর্কের অবস্থা নির্ধারণ করুন",
+            "option2": "সিঙ্গেল",
+            "option3": "বিবাহিত",
+            "option4": "অংশীদারিত্ব"
+        },
+        "edit": "এডিট",
+        "cancel": "বাতিল",
+        "save": "সংরক্ষন"
+    },
+    "coverImage": {
+        "menuOptions": {
+            "title": "কভারের ছবি পরিবর্তন করুন",
+            "upload": "ছবি আপলোড করুন",
+            "change": "ছবি পরিবর্তন করুন",
+            "remove": "ছবি সরান"
+        }
+    },
+    "profileHead": {
+        "profileImage": {
+            "menuOptions": {
+                "title": "ছবি পরিবর্তন করুন",
+                "upload": "ছবি আপলোড করুন",
+                "change": "ছবি পরিবর্তন করুন",
+                "remove": "ছবি সরান"
+            }
+        },
+        "connected": "সংযুক্ত",
+        "requestPending": "আবেদন প্রক্রিয়াধীন",
+        "requestSent": "আবেদন পাঠানো হয়েছে",
+        "connect": "সংযোগ",
+        "shareProfile": "প্রোফাইল শেয়ার করুন",
+        "unblock": "আনব্লক করুন",
+        "block": "ব্লক করুন",
+        "tooltip": {
+            "text": "অন্য প্রোফাইলের ধরনটি তে ভিন্ন সাবস্ক্রিপশন মডেল রয়েছে",
+            "seeMore": "আরো দেখুন"
+        },
+        "profileDesc": {
+            "artist": {
+                "firstline": "<b>আপনি একজন শিল্পী</b>",
+                "secondline": "আপনার তৈরীকৃত শিল্পকর্মগুলি আপনি বিক্রি করতে পারবেন।"
+            },
+            "member": {
+                "firstline": "আপনি একজন শিল্পী <b><i>নন<i></b>",
+                "secondline": "আপনি আপনার মালিকানাধীন শিল্পকর্মগুলি বিক্রি করতে পারবেন।"
+            }
+        },
+        "edit": "এডিট",
+        "cancel": "বাতিল",
+        "save": "সংরক্ষন",
+        "followed": "অনুসরণকৃত",
+        "follow": "অনুসরণ",
+        "message": "বার্তা",
+        "more": "আরো...",
+        "artistProfile": "শিল্পীর প্রোফাইল",
+        "memberProfile": "সদস্যের প্রোফাইল",
+        "enterName": "আপনার নাম প্রবেশ করান",
+        "enterInstitute": "আপনার প্রতিষ্ঠান এর নাম প্রবেশ করান",
+        "placeholderFirstName": "প্রথম নাম",
+        "placeholderInstitureName": "প্রতিষ্ঠান এর নাম",
+        "placeholderLastName": "শেষ নাম"
+    },
+    "notices": {
+        "title": "বিজ্ঞপ্তিগুলি",
+        "notNoticesFound": "কোনো বিজ্ঞপ্তি নেই"
+    },
+    "profileCompleteness": {
+        "title": "প্রোফাইল এর সম্পূর্ণতা",
+        "incompleteLabel": "নিচের ফাঁকা স্থানগুলি পুর্ণ করুন",
+        "coverPicUrl": "কভার ছবি",
+        "profilePicUrl": "প্রোফাইল ছবি",
+        "city": "শহর",
+        "mobile": "ফোন নম্বর",
+        "address": "ঠিকানা",
+        "openingHours": "খোলা থাকার সময়",
+        "country": "দেশ",
+        "aboutMe": "সম্পর্কে",
+        "profession": "পেশা",
+        "industry": "ইন্ডাস্ট্রি",
+        "company": "কোম্পানি",
+        "email": "ইমেইল"
+    },
+    "publication": {
+        "title": "প্রকাশনী সমূহ",
+        "noPublicationsFound": "কোনো প্রকাশনী পাওয়া যায়নি",
+        "addImages": "ছবি সংযুক্ত করুন",
+        "placeholderDescription": "আপনার প্রকাশনীর বিবরণ দিন",
+        "characterLimit": "/১০০০",
+        "edit": "এডিট",
+        "cancel": "বাতিল",
+        "save": "সংরক্ষন"
+    },
+    "allSectionHeader": {
+        "add": "যোগ করুন",
+        "seeAll": "সব দেখুন"
+    },
+    "share": {
+        "copiedText": "কপি করা হয়েছে",
+        "copyLink": "কপির লিংক",
+        "share": "শেয়ার",
+        "profileShareTitle": "এর প্রোফাইল"
+    },
+    "technique": {
+        "title": "কৌশল",
+        "noTechFound": "কোনো কৌশল পাওয়া যায়নি",
+        "addImages": "ছবি যোগ করুন",
+        "placeholderDescription": "আপনার শিল্প কৌশল এর বিবরণ দিন",
+        "characterLimit": "/১০০০",
+        "edit": "এডিট",
+        "cancel": "বাতিল",
+        "save": "সংরক্ষন",
+        "your": "আপনার",
+        "photo": "ছবি",
+        "apply": "প্রয়োগ করুন"
+    },
+    "profileNavigator": {
+        "profile": "প্রোফাইল",
+        "see": "দেখুন",
+        "art": "এর শিল্প",
+        "about": "সম্পর্কে",
+        "contact": "যোগাযোগের তথ্য",
+        "activity": "কার্যকলাপ",
+        "videos": "ভিডিওগুলি",
+        "artworks": "শিল্পকর্মগুলি",
+        "likedArtworks": "পছন্দকৃত শিল্পকর্মগুলি",
+        "albums": "অ্যালবামগুলি",
+        "groups": "গ্রুপগুলি",
+        "technique": "কৌশল",
+        "expertise": "দক্ষতা",
+        "awards": "পুরষ্কারসমূহ",
+        "pastExhibitions": "পূর্বের প্রদর্শনী সমূহ",
+        "publications": "প্রকাশনী সমূহ",
+        "personalInfo": "ব্যাক্তিগত তথ্য",
+        "business": "আমার ব্যবসা সম্পর্কে"
+    },
+    "connections": {
+        "title": "কানেকশন সমূহ",
+        "noConnectionsFound": "কোনো কানেকশন নেই",
+        "seeAll": "সব দেখুন",
+        "followers": "অনুসারীগণ",
+        "following": "অনুসরণ করা হচ্ছে"
+    },
+    "video": {
+        "title": "ভিডিওগুলি",
+        "noVideosFound": "কোনো ভিডিও পাওয়া যায়নি"
+    },
+    "visibility": {
+        "public": "জনসাধারণ(লগড-ইন ব্যবহারকারীগণ)",
+        "private": "ব্যক্তিগত",
+        "connectionsOnly": "শুধু কানেকশন সমূহ"
+    },
+    "blockSection": {
+        "accountUnavailable": "এই একাউন্টটি পাওয়া যায়নি",
+        "goToHome": "হোমে যান"
+    },
+    "emailShare": {
+        "bodyText2": "\nযোগাযোগ রেখো!\nARTMO কি ~ আরও জানুন https://artmo.com/what-is-artmo",
+        "profileShare" : {
+            "subject" : "ARTMO দেখুন",
+            "bodyText1": "হ্যালো,\nআমি মনে করি আপনি ARTMO পরীক্ষা করে আর্ট নেটওয়ার্কে যোগদান করতে আগ্রহী হতে পারেন।\nআমার প্রোফাইল দেখতে এখানে ক্লিক করুন: "
+        },
+        "articleShare": {
+            "subject" : "ARTMO-তে এই নিবন্ধটি দেখুন",
+            "bodyText1": "হ্যালো,\nআমি মনে করি আপনি ARTMO-তে এই নিবন্ধটি দেখতে আগ্রহী হতে পারেন।\nএটা পড়তে এখানে ক্লিক করুন: "
+        },
+        "artworkShare":{
+            "subject" : "ARTMO-তে এই শিল্পকর্মটি দেখুন",
+            "bodyText1": "হ্যালো,\nআমি মনে করি আপনি ARTMO-তে এই আশ্চর্যজনক শিল্পকর্মটি দেখতে আগ্রহী হতে পারেন।\nশিল্পকর্ম দেখতে এখানে ক্লিক করুন: "
+        },
+        "postShare": {
+            "subject" : "ARTMO-তে এই পোস্টটি দেখুন",
+            "bodyText1": "হ্যালো,\nআমি মনে করি আপনি ARTMO-তে এই পোস্টটি দেখতে আগ্রহী হতে পারেন।\nএটা পড়তে এখানে ক্লিক করুন: "
+        }
+    }
+}

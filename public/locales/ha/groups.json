@@ -1,0 +1,77 @@
+{
+    "groupbarHeading": "RUKUNI",
+    "placeholderSearchGroups": "Nemo Rukuni",
+    "allCategories": "Duka Nau'o'i",
+    "noCategoriesFound": "Ba'a Samu Nau'o'i",
+    "allTags": "Duka Tambura",
+    "noTagsFound": "Ba'a Samu Tambura Ba",
+    "search": "Nemowa",
+    "clear": "Gogewa",
+    "groupListing": {
+        "confirmButtonText": "Bari",
+        "confirmLeaveText": "Ka tabbata kanaso kabar wannan rukunin?",
+        "sortedBy": "An Kasa Ta",
+        "recentActivity": "Ayyukan Kusa",
+        "group": "Rukuni",
+        "manageGroupLabel": "Lura da saitin rukuni",
+        "leaveGroup": "Bar Rukuni",
+        "cancelRequest": "Fasa Nema",
+        "invitedBy": "Ne ya gayyace ka",
+        "wouldYouJoin": "Kana so ka shiga wannan rukuni?",
+        "accept": "Yarda",
+        "ignore": "Yi Banza",
+        "lastActive": "Lokacin Karshe da Kake",
+        "members": "memba(bobi)",
+        "posts": "rubutu(s)",
+        "noGroupsFound": "Ba'a Samu Rukuni (nuwa) Ba",
+        "loadMore": "Bude Saura..."
+    },
+    "toolTip": {
+        "tip1": "Ko wane memba din shafin zai iya shiga rukuni.",
+        "tip2": "Za'a saka wannan rukuni acikin wajen ajiyan rukunoni da kuma cikin sakamakon nema.",
+        "tip3": "Memban shafin zai iya ganin abubuwan cikin rukuni da ayyukan."
+    },
+    "createGroup": {
+        "placeholderName": "Suna",
+        "placeholderDescription": "Kwatance",
+        "privacyTitle": "Sirri",
+        "privacyPublic": "Waje",
+        "privacyPublicContent": {
+            "point1": "Ko wane memba din shafin zai iya shiga rukuni.",
+            "point2": "Za'a saka wannan rukuni acikin wajen ajiyan rukunoni da kuma cikin sakamakon nema.",
+            "point3": "Memban shafin zai iya ganin abubuwan cikin rukuni da ayyukan."
+        },
+        "privacyPrivate": "Sirrince",
+        "privacyPrivateContent": {
+            "point1": "Masu amfani da suka nemi yin rajista kuma aka amince musu ne kawai zasu iya shiga wannan rukuni.",
+            "point2": "Za'a saka wannan rukuni acikin wajen ajiyan rukunoni da kuma cikin sakamakon nema.",
+            "point3": "Memban shafin ne kadai zai iya ganin abubuwan cikin rukuni da ayyukan."
+        },
+        "privacyHidden": "Boye",
+        "privacyHiddenContent": {
+            "point1": "Membobi da aka gayyata ne kadai zasu iya shiga wannan rukuni.",
+            "point2": "Ba za'a saka wannan rukuni acikin wajen ajiyan rukunoni da kuma cikin sakamakon nema.",
+            "point3": "Memban shafin ne kadai zai iya ganin abubuwan cikin rukuni da ayyukan."
+        },
+        "postModeration": "Binciken Rubutu",
+        "moderationTypes": {
+            "option1": "Zabi Nau'in Binciken Rubutu",
+            "option2": "Wallafawa Kai=Tsaye",
+            "option3": "Wallafawa Bayan Bincike"
+        },
+        "inviteFeature": "Saka tsarin gayyata",
+        "whoCanInvite": "Waye zai gayyaci membobi zuwa rukuni?",
+        "inviteOptions": {
+            "option1": "Zabi nau'in gayyata",
+            "option2": "Admin",
+            "option3": "Admin da Masu-Lura",
+            "option4": "Kowa"
+        },
+        "category": "Nau'i",
+        "placeholderCategory": "Zabi nau'o'i",
+        "tags": "Tambari",
+        "placeholderTags": "zabi tambari",
+        "save": "Ajiye",
+        "update": "Sabunta"
+    }
+}

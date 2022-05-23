@@ -1,0 +1,59 @@
+name: ENV Check
+on:
+  workflow_dispatch:
+    inputs:
+      env-name:
+        description: 'ENV Check'
+        required: true
+      Confirm if you're on master branch:
+        description: "I am on master only"
+        required: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Make envfile
+      uses: SpicyPizza/create-envfile@v1
+      with:
+          envkey_NEXT_PUBLIC_REACT_APP_AUTH_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_AUTH_SERVICE_API_ENDPOINT_DEV }}
+          envkey_NEXT_PUBLIC_REACT_APP_USER_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_USER_SERVICE_API_ENDPOINT_DEV }}
+          envkey_NEXT_PUBLIC_REACT_APP_GROUPS_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_GROUPS_SERVICE_API_ENDPOINT_DEV }}
+          envkey_NEXT_PUBLIC_REACT_APP_LINKEDIN_APP_CLIENT_ID: ${{ secrets.REACT_APP_LINKEDIN_APP_CLIENT_ID }}
+          envkey_NEXT_PUBLIC_REACT_APP_LINKEDIN_APP_CLIENT_SECRET: ${{ secrets.REACT_APP_LINKEDIN_APP_CLIENT_SECRET }}
+          envkey_NEXT_PUBLIC_REACT_APP_LINKEDIN_APP_STATE: ${{ secrets.REACT_APP_LINKEDIN_APP_STATE }}
+          envkey_NEXT_PUBLIC_REACT_APP_FACEBOOK_APP_STATE: ${{ secrets.REACT_APP_FACEBOOK_APP_STATE }}
+          envkey_NEXT_PUBLIC_REACT_APP_FACEBOOK_LOGIN_APP_ID: ${{ secrets.REACT_APP_FACEBOOK_LOGIN_APP_ID }}
+          envkey_NEXT_PUBLIC_REACT_APP_ARTWORKS_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_ARTWORKS_SERVICE_API_ENDPOINT_DEV }}
+          envkey_NEXT_PUBLIC_REACT_APP_ACTIVITIES_LIST_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_ACTIVITIES_LIST_SERVICE_API_ENDPOINT_DEV }}
+          envkey_NEXT_PUBLIC_REACT_APP_STATIC_CONTENT_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_STATIC_CONTENT_SERVICE_API_ENDPOINT_DEV }}
+          envkey_NEXT_PUBLIC_REACT_APP_SOCKET_ENDPOINT: ${{ secrets.REACT_APP_SOCKET_ENDPOINT_DEV }}
+          envkey_NEXT_PUBLIC_REACT_APP_SUBSCRIPTION_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_SUBSCRIPTION_SERVICE_API_ENDPOINT_DEV }}
+          envkey_NEXT_PUBLIC_REACT_APP_GOOGLE_CLIENT_ID: ${{ secrets.REACT_APP_GOOGLE_CLIENT_ID }}
+          envkey_NEXT_PUBLIC_REACT_APP_MICROSOFT_GRAPH_CLIENT_ID: ${{ secrets.REACT_APP_MICROSOFT_GRAPH_CLIENT_ID }}
+          envkey_NEXT_PUBLIC_REACT_APP_MESSAGES_SERVICE_API_ENDPOINT: ${{ secrets.REACT_APP_MESSAGES_SERVICE_API_ENDPOINT_DEV }}
+          envkey_NEXT_PUBLIC_REACT_APP_SECRET_ACCESS_KEY: ${{ secrets.REACT_APP_SECRET_ACCESS_KEY }}
+          envkey_NEXT_PUBLIC_REACT_APP_ACCESS_KEY_ID: ${{ secrets.REACT_APP_ACCESS_KEY_ID }}
+          envkey_NEXT_PUBLIC_REACT_APP_IMAGE_S3_URL: ${{ secrets.REACT_APP_IMAGE_S3_URL_DEV }}
+          envkey_NEXT_PUBLIC_REACT_APP_LANGUAGE_FLAGS_FOLDER: ${{ secrets.REACT_APP_LANGUAGE_FLAGS_FOLDER }}
+          envkey_NEXT_PUBLIC_REACT_APP_IMAGE_S3_BUCKET_NAME: ""
+          envkey_NEXT_PUBLIC_REACT_APP_RESIZE_IMAGE_S3_URL: ${{ secrets.REACT_APP_RESIZE_IMAGE_S3_URL_DEV }}
+          envkey_NEXT_PUBLIC_REACT_APP_MAX_IMAGE_SIZE: ${{ secrets.REACT_APP_MAX_IMAGE_SIZE }}
+          envkey_NEXT_PUBLIC_REACT_APP_MIN_IMAGE_SIZE: ${{ secrets.REACT_APP_MIN_IMAGE_SIZE }}
+          envkey_NEXT_PUBLIC_REACT_APP_SITEMAP: ${{ secrets.NEXT_PUBLIC_REACT_APP_SITEMAP }}
+          envkey_NEXT_PUBLIC_REACT_APP_MAGENTO_LOGOUT: ${{ secrets.NEXT_PUBLIC_REACT_APP_MAGENTO_LOGOUT_DEV }}
+          envkey_NEXT_PUBLIC_REACT_APP_GA_ID: ${{ secrets.NEXT_PUBLIC_REACT_APP_GA_ID }}
+          envkey_NEXT_PUBLIC_REACT_APP_DATA_AD_CLIENT: ${{ secrets.NEXT_PUBLIC_REACT_APP_DATA_AD_CLIENT }}
+          envkey_NEXT_PUBLIC_REACT_APP_DATA_AD_SLOT: ${{ secrets.NEXT_PUBLIC_REACT_APP_DATA_AD_SLOT }}
+          envkey_NEXT_PUBLIC_REACT_APP_DATA_AD_SOURCE: ${{ secrets.NEXT_PUBLIC_REACT_APP_DATA_AD_SOURCE }}
+          envkey_NEXT_PUBLIC_REACT_APP_TINY_MCE: ${{secrets.NEXT_PUBLIC_REACT_APP_TINY_MCE}}
+          file_name: development.txt
+    - name: rsync deployments
+      uses: burnett01/rsync-deployments@5.1
+      with:
+        switches: -avzr
+        path: development.txt
+        remote_path: /home/github
+        remote_host: 3.125.22.185
+        remote_user: github
+        remote_key: ${{ secrets.REMOTE_KEY }}

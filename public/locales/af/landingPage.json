@@ -1,0 +1,69 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Vandag se Kenmerk",
+        "seeMore": "Sien meer..."
+    },
+    "loggedOutBanner": {
+        "title": "Welkom by Jou",
+        "title2": "Kuns Gemeenskap",
+        "descr": "Of kuns jou passie is of jou beroep, Jy het na  die regte plek gekom.",
+        "joinInBtnText": "Sluit Gratis Aan",
+        "network": "Netwerk",
+        "blog": "Blog",
+        "group": "Groepe",
+        "news": "Nuus",
+        "marketplace": "Markplek",
+        "whatIsArtmo": "Wat is ARTMO?",
+        "learnMore": "Leer meer...",
+        "signUp": "Sluit Gratis Aan",
+        "logIn": "Sluit Aan",
+        "videos": "Videos",
+        "exhibition": "Uitstallings",
+        "gallery": "Galerye"
+    },
+    "usersListing": {
+        "title": "DIE KUNS NETWERK",
+        "follower": "volgeling",
+        "followers": "volgelinge",
+        "unfollow": "Ontvolg",
+        "follow": "Volg",
+        "seeMore": "Sien meer",
+        "following": "Volgende"
+    },
+    "gridSection": {
+        "home": "TUIS",
+        "artists": "KUNSTENAARS",
+        "galleries": "GALLERYE",
+        "exhibitions": "UITSTALLINGS",
+        "users": "GEBRUIKERS",
+        "artwork": "KUNSWERK",
+        "genres": "GENRES",
+        "universities": "UNIVERSITEITE"
+    },
+    "artworkSection": {
+        "title": "NUWE KUNSWERKE",
+        "priceOnRequest": "Prys op Aanvraag",
+        "artist": "Kunstenaar",
+        "member": "Lid",
+        "seeMore": "Sien meer..."
+    },
+    "buzzSection": {
+        "title": "GONS",
+        "seeMore": "Sien meer..."
+    },
+    "videosSection": {
+        "title": "VIDEOS",
+        "seeMore": "Sien meer..."
+    },
+    "exhibitionsSection": {
+        "title": "UITSTALLINGS",
+        "seeMore": "Sien meer..."
+    },
+    "potdSection": {
+        "title": "PRENT VAN DIE DAG",
+        "seeMore": "Sien meer..."
+    },
+    "joinInSection": {
+        "joinInTitle": "Sluit aan, dis gratis."
+    }
+}

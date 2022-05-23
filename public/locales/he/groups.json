@@ -1,0 +1,77 @@
+{
+  "groupbarHeading": "קבוצות",
+  "placeholderSearchGroups": "חפש קבוצות",
+  "allCategories": "כל הקטגוריות",
+  "noCategoriesFound": "לא נמצאו קטגוריות",
+  "allTags": "כל התגיות",
+  "noTagsFound": "לא נמצאו תגיות",
+  "search": "חפש",
+  "clear": "נקה",
+  "groupListing": {
+    "confirmButtonText": "עזוב",
+    "confirmLeaveText": "האם אתה בטוח שאתה רוצה לעזוב את הקבוצה הזו?",
+    "sortedBy": "ממוין לפי",
+    "recentActivity": "פעילות אחרונה",
+    "group": "קבוצה",
+    "manageGroupLabel": "נהל הגדרות קבוצה",
+    "leaveGroup": "עזוב קבוצה",
+    "cancelRequest": "בטל בקשה",
+    "invitedBy": "הוזמנת ע\"י",
+    "wouldYouJoin": "האם תרצה להצטרף לקבוצה זו?",
+    "accept": "אשר",
+    "ignore": "התעלם",
+    "lastActive": "פעיל לאחרונה",
+    "members": "מנוי (ים)",
+    "posts": "פוסט (ים)",
+    "noGroupsFound": "לא נמצאו קבוצות",
+    "loadMore": "טען עוד"
+  },
+  "toolTip": {
+    "tip1": "כל חבר באתר יכול להצטרף לקבוצה זו.",
+    "tip2": "קבוצה זו תופיע בספריית הקבוצות ובתוצאות החיפוש.",
+    "tip3": "תוכן ופעילות קבוצתית יהיו גלויים לכל חבר באתר."
+  },
+  "createGroup": {
+    "placeholderName": "שם",
+    "placeholderDescription": "תיאור",
+    "privacyTitle": "פרטיות",
+    "privacyPublic": "ציבורי",
+    "privacyPublicContent": {
+      "point1": "כל מנוי יכול להצטרף לקבוצה זו.",
+      "point2": "קבוצה זו תופיע בספריית הקבוצות ובתוצאות החיפוש.",
+      "point3": "תוכן ופעילות קבוצתית יהיו גלויים לכל מנוי באתר."
+    },
+    "privacyPrivate": "פרטי",
+    "privacyPrivateContent": {
+      "point1": "רק משתמשים המבקשים חברות ומתקבלים יכולים להצטרף לקבוצה.",
+      "point2": "קבוצה זו תופיע בספריית הקבוצות ובתוצאות החיפוש.",
+      "point3": "תוכן ופעילות קבוצתית יהיו גלויים רק לחברי הקבוצה."
+    },
+    "privacyHidden": "מוּסתָר",
+    "privacyHiddenContent": {
+      "point1": "רק משתמשים המוזמנים יכולים להצטרף לקבוצה.",
+      "point2": "קבוצה זו תופיע בספריית הקבוצות ובתוצאות החיפוש.",
+      "point3": "תוכן ופעילות קבוצתית יהיו גלויים רק לחברי הקבוצה."
+    },
+    "postModeration": "ניהול פוסט",
+    "moderationTypes": {
+      "option1": "בחר סוג ניהול פוסט",
+      "option2": "פורסם אוטומטית",
+      "option3": "פורסם לאחר סקירה"
+    },
+    "inviteFeature": "הפעל הזמנות",
+    "whoCanInvite": "מי יכול להזמין חברים לקבוצה?",
+    "inviteOptions": {
+      "option1": "בחר סוג הזמנה",
+      "option2": "מנהל",
+      "option3": "מנהל ועורכים",
+      "option4": "כולם"
+    },
+    "category": "קטגוריה",
+    "placeholderCategory": "בחר קטגוריות",
+    "tags": "תגיות",
+    "placeholderTags": "בחר תגיות",
+    "save": "שמור",
+    "update": "Update", "עדכן"
+  }
+}

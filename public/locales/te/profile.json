@@ -1,0 +1,363 @@
+{
+    "placeholderIntro": "Short Intro",
+    "about": {
+        "title": "సమాచారం",
+        "edit": "సవరించండి",
+        "cancel": "రద్దు చేయండి",
+        "save": "సేవ్ చేయండి",
+        "noAboutText": "ఎటువంటి సమాచారం జతచేయలేదు",
+        "placeholderAbout": "సమాచారాన్ని ఇక్కడ వ్రాయండి...",
+        "characterLimit": "/1000",
+        "errorAbout": "గరిష్ట అక్షర పొడవు 1000 దాటింది"
+    },
+    "biography": {
+        "title": "స్వీయ పరిచయం",
+        "edit": "సవరించండి",
+        "cancel": "రద్దు చేయండి",
+        "save": "సేవ్ చేయండి",
+        "noBiographyText": "స్వీయ పరిచయ వివరాలు పొందుపరచలేదు",
+        "placeholderBiography": "స్వీయ పరిచయం ఇక్కడ పొందుపరచండి...",
+        "characterLimit": "/1000"
+    },
+    "activity": {
+        "title": "కార్యాచరణ",
+        "descriptionNotAdded": "వివరణ జతచేయలేదు",
+        "reactions": "స్పందనలు",
+        "noActivityText": "ఎటువంటి కార్యాచరణ లభించలేదు",
+        "seeAll": "అన్నిటిని చూడుము",
+        "add": "జతచేయండి"
+    },
+    "album": {
+        "title": "ఆల్బంలు",
+        "seeAll": "అన్నిటిని చూడుము",
+        "add": "జతచేయండి",
+        "noAlbumFound": "ఎటువంటి ఆల్బంలు లభించలేదు",
+        "edit": "సవరించండి"
+    },
+    "artwork": {
+        "title": "కళాకృతులు",
+        "likedArtworks": "ఇష్టత చూపిన కళాకృతులు",
+        "noArtworkFound": "ఎటువంటి కళాకృతులు లభించలేదు",
+        "seeAll": "అన్నిటిని చూడుము",
+        "add": "జతచేయండి"
+    },
+    "award": {
+        "title": "పురస్కారాలు",
+        "noAwardFound": "ఎటువంటి పురస్కారాలు లభించలేదు",
+        "addImages": "చిత్రాలను జతచేయండి",
+        "placeholderDescription": "కళకు సంబంధించి మీరు పొందిన పురస్కారాల గురించి ఇక్కడ తెలుపండి.",
+        "characterLimit": "/1000",
+        "edit": "సవరించండి",
+        "cancel": "రద్దు చేయండి",
+        "save": "సేవ్ చేయండి"
+    },
+    "basicInfo": {
+        "fillDetailsText": "దయచేసి ఈ క్షేత్రములను నింపండి",
+        "placeholderFirstName": "మొదటి పేరు",
+        "placeholderLastName": "చివరి పేరు",
+        "placeholderCity": "రాష్ట్రం",
+        "placeholderCountry": "దేశాన్ని ఎన్నుకోండి",
+        "placeholderEmail": "ఈ-మెయిల్",
+        "save": "సేవ్ చేయండి",
+        "cancel": "రద్దు చేయండి"
+    },
+    "business": {
+        "title": "నా వ్యాపారము | వృత్తి",
+        "noBusinessFound": "వ్యాపారము | వృత్తి గురించి ఎటువంటి సమాచారం లభించలేదు",
+        "addImages": "చిత్రాలను జతచేయండి",
+        "placeholderDescription": "మీ వ్యాపారము | వృత్తి గురించి వివరణ ఇక్కడ తెలుపండి.",
+        "characterLimit": "/1000",
+        "edit": "సవరించండి",
+        "cancel": "రద్దు చేయండి",
+        "save": "సేవ్ చేయండి"
+    },
+    "connectionsPopup": {
+        "follower": "అనుచరించు వారు",
+        "followerPlural": "అనుచరులు",
+        "connected": "కనెక్ట్ అవ్వబడ్డారు",
+        "requestPending": "అభ్యర్ధన పెండింగ్ లో ఉంది",
+        "requestSent": "అభ్యర్ధన పంపబడినది",
+        "connect": "కనెక్ట్",
+        "userConnectionsTitle": "కనెక్ట్స్"
+    },
+    "contact": {
+        "title": "సంప్రదింపు సమాచారం",
+        "noContactInfoFound": "ఎటువంటి సంప్రదింపు సమాచారం లభించలేదు",
+        "email": "ఈమెయిల్",
+        "skype": "స్కైప్",
+        "phone": "ఫోన్",
+        "address": "చిరునామా",
+        "openingHours": "తెరుచు వేళలు",
+        "socialMedia": "సామజిక మాధ్యమాలు",
+        "placeholderEmail": "ఈమెయిల్",
+        "placeholderSkype": "స్కైప్",
+        "phoneNumber": "ఫోన్ నెంబర్",
+        "placeholderAddress": "చిరునామా",
+        "placeholderOpenHours": "తెరుచు వేళలు",
+        "edit": "సవరించండి",
+        "cancel": "రద్దు చేయండి",
+        "save": "సేవ్ చేయండి"
+    },
+    "expertise": {
+        "title": "నైపుణ్యము",
+        "noExpertiseFound": "ఎటువంటి నైపుణ్యము లభించలేదు",
+        "addImages": "చిత్రాలను జతచేయండి",
+        "placeholderDescription": "కళా రంగంలో మీ నైపుణ్యతల వివరాలు ఇక్కడ తెలుపండి.",
+        "characterLimit": "/1000",
+        "edit": "సవరించండి",
+        "cancel": "రద్దు చేయండి",
+        "save": "సేవ్ చేయండి"
+    },
+    "followersPopup": {
+        "follower": "అనుచరించు వారు",
+        "followerPlural": "అనుచరులు",
+        "followed": "అనుచరించారు",
+        "unfollow": "అనుసరించవద్దు",
+        "follow": "అనుసరించవద్దు",
+        "userFollowersTitle": "' అనుచరులు"
+    },
+    "followingPopup": {
+        "follower": "అనుచరించు వారు",
+        "followerPlural": "అనుచరులు",
+        "followed": "అనుచరించారు",
+        "unfollow": "అనుసరించవద్దు",
+        "follow": "అనుచరించండి",
+        "noFollowing": "అనుచరణ లేదు",
+        "userFollowersTitle": "' అనుచరులు",
+        "followPlural": "అనుసరిస్తున్నారు"
+    },
+    "group": {
+        "title": "సమూహాలు",
+        "noGroupsFound": "వినియోగదారుడు ఏ సమూహంలోనూ సభ్యత్వం పొందలేదు",
+        "member": "సభ్యుడు",
+        "memberPlural": "సభ్యులు",
+        "browseGroups": "సమూహాలను శోధించండి",
+        "create": "సృష్టించండి"
+    },
+    "invite": {
+        "title": "స్నేహితులను ఆహ్వానించండి",
+        "desc1": "మీ కాంటాక్టులకు సందేశం పంపించండి.",
+        "desc2": "మీరు ఇక్కడ ఉన్నారని తెలుపండి.",
+        "invite": "ఆహ్వానించండి"
+    },
+    "messagePopup": {
+        "or": "లేదా",
+        "seeMore": "ఇంకా చూడుము...",
+        "learnMore": "మరింత తెలుసుకోండి"
+    },
+    "pastExhibition": {
+        "title": "పూర్వపు ప్రదర్శనలు",
+        "addImages": "చిత్రాలను జతచేయండి",
+        "noExhibitionsFound": "ఎటువంటి పూర్వపు ప్రదర్శనలు లభించలేదు",
+        "placeholderDescription": "మీ పూర్వపు ప్రదర్శనల గురించి వివరణ ఇక్కడ తెలుపండి.",
+        "characterLimit": "/1000",
+        "edit": "సవరించండి",
+        "cancel": "రద్దు చేయండి",
+        "save": "సేవ్ చేయండి"
+    },
+    "personalInfo": {
+        "title": "వ్యక్తిగత సమాచారం",
+        "noInfoFound": "ఎటువంటి వ్యక్తిగత సమాచారం జతచేయలేదు",
+        "city": "రాష్ట్రం",
+        "country": "దేశం",
+        "profession": "వృత్తి",
+        "company": "కంపెనీ",
+        "industry": "ఇండస్ట్రీ",
+        "website": "అంతర్జాల వేదిక",
+        "languages": "భాషలు",
+        "visibleInfo": "డిఫాల్ట్ గా బయటి వారికి కనిపించరు",
+        "dateOfBirth": "పుట్టిన తేదీ",
+        "gender": "లింగం",
+        "relationshipStatus": "సంబంధముల స్థితి",
+        "placeholderCity": "రాష్ట్రం",
+        "placeholderCountry": "దేశాన్ని ఎన్నుకోండి",
+        "placeholderProfession": "వృత్తి",
+        "placeholderCompany": "కంపెనీ",
+        "placeholderIndustry": "ఇండస్ట్రీ",
+        "placeholderLanguages": "భాషలను ఎంచుకోండి",
+        "placeholderWebsite": "అంతర్జాల వేదిక",
+        "placeholderDob": "పుట్టిన తేదీ",
+        "errorDob": "పుట్టిన తేదీ అవసరము",
+        "genderDropdown": {
+            "option1": "లింగమును ఎన్నుకోండి",
+            "option2": "పురుషుడు",
+            "option3": "స్త్రీ",
+            "option4": "భిన్నమైన"
+        },
+        "relationDropdown": {
+            "option1": "సంబంధముల స్థితి ఎన్నుకోండి",
+            "option2": "బ్రహ్మచారి",
+            "option3": "వివాహితులు",
+            "option4": "సహజీవనం"
+        },
+        "edit": "సవరించండి",
+        "cancel": "రద్దు చేయండి",
+        "save": "సేవ్ చేయండి"
+    },
+    "coverImage": {
+        "menuOptions": {
+            "title": "కవర్ ఛాయాచిత్రాన్ని మార్చండి",
+            "upload": "ఛాయాచిత్రాన్ని అప్‌లోడ్ చేయండి",
+            "change": "ఛాయాచిత్రాన్ని మార్చండి",
+            "remove": "ఛాయాచిత్రాన్ని తొలగించండి"
+        }
+    },
+    "profileHead": {
+        "profileImage": {
+            "menuOptions": {
+                "title": "చిత్రాన్ని మార్చండి",
+                "upload": "ఛాయాచిత్రాన్ని అప్‌లోడ్ చేయండి",
+                "change": "ఛాయాచిత్రాన్ని మార్చండి",
+                "remove": "ఛాయాచిత్రాన్ని తొలగించండి"
+            }
+        },
+        "connected": "కనెక్ట్ అయ్యున్నారు",
+        "requestPending": "అభ్యర్ధన పెండింగ్ లో ఉంది",
+        "requestSent": "అభ్యర్ధన పంపబడినది",
+        "connect": "కనెక్ట్ ",
+        "shareProfile": "ప్రొఫైల్ పంచుకోండి",
+        "unblock": "అన్‌బ్లాక్",
+        "block": "బ్లాక్",
+        "tooltip": {
+            "text": "ఇతర ప్రొఫైల్ రకంలో అనేకమైన సబ్‌స్క్రిప్షన్ మోడల్స్ ఉన్నాయి.",
+            "seeMore": "మరిన్ని చూడుము..."
+        },
+        "profileDesc": {
+            "artist": {
+                "firstline": "<b>మీరు కళాకారులు!</b>",
+                "secondline": "మీరు సృష్టించిన కళాకృతులను మీరు అమ్ముకోవచ్చు.."
+            },
+            "member": {
+                "firstline": "మీరు కళాకారులు <b><i>కాదు<i></b>",
+                "secondline": "మీరు వ్యక్తిగతంగా స్వంతం చేసుకున్న కళాకృతులను అమ్మవచ్చు."
+            }
+        },
+        "edit": "సవరించండి",
+        "cancel": "రద్దు చేయండి",
+        "save": "సేవ్ చేయండి",
+        "followed": "అనుసరించారు",
+        "follow": "అనుచరించు",
+        "message": "సందేశం",
+        "more": "మరిన్ని...",
+        "artistProfile": "కళాకారుని ప్రొఫైల్",
+        "memberProfile": "సభ్యుని ప్రొఫైల్",
+        "enterName": "దయచేసి మీ పేరుని ఇక్కడ తెలుపండి",
+        "enterInstitute": "దయచేసి మీ సంస్థ పేరుని ఇక్కడ తెలుపండి",
+        "placeholderFirstName": "మొదటి పేరు",
+        "placeholderInstitureName": "సంస్థ పేరు",
+        "placeholderLastName": "చివరి పేరు"
+    },
+    "notices": {
+        "title": "ప్రకటనలు",
+        "notNoticesFound": "ప్రదర్శించుటకు ఎటువంటి ప్రకటనలూ లేవు!!"
+    },
+    "profileCompleteness": {
+        "title": "ప్రొఫైల్ పరిపూర్ణత",
+        "incompleteLabel": "కింద ఉన్న క్షేత్రాలను నింపండి",
+        "coverPicUrl": "కవర్ చిత్రం",
+        "profilePicUrl": "ప్రొఫైల్ చిత్రం",
+        "city": "నగరం",
+        "mobile": "ఫోన్ నంబరు",
+        "address": "చిరునామా",
+        "openingHours": "తెరుచు వేళలు",
+        "country": "దేశం",
+        "aboutMe": "పరిచయం",
+        "profession": "వృత్తి",
+        "industry": "కర్మాగారం",
+        "company": "కంపెనీ",
+        "email": "ఈ-మెయిల్"
+    },
+    "publication": {
+        "title": "ప్రచురణలు",
+        "noPublicationsFound": "ఎటువంటి ప్రచురణలు లభించలేదు",
+        "addImages": "చిత్రాలను జతచేయండి",
+        "placeholderDescription": "మీ ప్రచురణల గురించి వివరణ ఇక్కడ తెలుపండి.",
+        "characterLimit": "/1000",
+        "edit": "సవరించండి",
+        "cancel": "రద్దు చేయండి",
+        "save": "సేవ్ చేయండి"
+    },
+    "allSectionHeader": {
+        "add": "జతచేయండి",
+        "seeAll": "అన్నిటిని చూడుము"
+    },
+    "share": {
+        "copiedText": "కాపీ చేయబడింది!",
+        "copyLink": "లింక్ ను కాపీ చేయు",
+        "share": "పంచుకొనుట",
+        "profileShareTitle": "' యొక్క ప్రొఫైల్"
+    },
+    "technique": {
+        "title": "సాంకేతిక పరిజ్ఞానం",
+        "noTechFound": "ఎటువంటి సాంకేతిక పరిజ్ఞానం లభించలేదు",
+        "addImages": "చిత్రాలు జతచేయండి",
+        "placeholderDescription": "కళకు సంబంధించి మీ సాంకేతిక పరిజ్ఞానాన్ని ఇక్కడ వివరించండి.",
+        "characterLimit": "/1000",
+        "edit": "సవరించండి",
+        "cancel": "రద్దు చేయండి",
+        "save": "సేవ్ చేయండి",
+        "your": "మీ యొక్క",
+        "photo": "ఛాయాచిత్రం",
+        "apply": "అనువర్తించండి"
+    },
+    "profileNavigator": {
+        "profile": "ప్రొఫైల్",
+        "see": "చూడుము",
+        "art": "' యొక్క కళ",
+        "about": "సమాచారం",
+        "contact": "సంప్రదింపుల సమాచారం",
+        "activity": "కార్యాచరణ",
+        "videos": "వీడియోలు",
+        "artworks": "కళాకృతులు",
+        "likedArtworks": "ఇష్టత చూపిన కళాకృతులు",
+        "albums": "ఆల్బంలు",
+        "groups": "సమూహాలు",
+        "technique": "సాంకేతిక పరిజ్ఞానం",
+        "expertise": "నైపుణ్యము",
+        "awards": "పురస్కారాలు",
+        "pastExhibitions": "పూర్వపు ప్రదర్శనలు",
+        "publications": "ప్రచురణలు",
+        "personalInfo": "వ్యక్తిగత సమాచారం",
+        "business": "నా వ్యాపార సమాచారం"
+    },
+    "connections": {
+        "title": "కనెక్షన్లు",
+        "noConnectionsFound": "కనెక్షన్లు లేవు",
+        "seeAll": "అన్నిటిని చూడుము...",
+        "followers": "అనుచరులు",
+        "following": "అనుచరించే వారు"
+    },
+    "video": {
+        "title": "వీడియోలు",
+        "noVideosFound": "ఎటువంటి వీడియోలు లభించలేదు"
+    },
+    "visibility": {
+        "public": "బహిర్గతమైన (లాగిన్ అయిన వినియోగదారులకు మాత్రమే కనపడుతుంది)",
+        "private": "ఆంతరంగికమైన",
+        "connectionsOnly": "కేవలం కనెక్షన్స్ కు మాత్రమే"
+    },
+    "blockSection": {
+        "accountUnavailable": "ఈ ఖాతా అందుబాటులో లేదు",
+        "goToHome": "హోమ్ కు వెళ్ళండి"
+    },
+    "emailShare": {
+        "bodyText2": "\nటచ్ లో ఉంచండి!\nకళాత్మక ఏమిటి ~ మరింత తెలుసుకోండి https://artmo.com/what-is-artmo",
+        "profileShare" : {
+            "subject" : "Artmo తనిఖీ",
+            "bodyText1": "హలో,\nనేను మీరు కళాత్మక తనిఖీ మరియు ఆర్ట్ నెట్వర్క్ చేరిన ఆసక్తి ఉండవచ్చు అనుకుంటున్నాను.\nనా ప్రొఫైల్ను చూడడానికి ఇక్కడ క్లిక్ చేయండి: "
+        },
+        "articleShare": {
+            "subject" : "ARTMOను అన్వేషించండి",
+            "bodyText1": "నమస్తే,\n మీకు ARTMO ను శోధించడం మరియు ఆర్ట్ నెట్‌వర్క్ లో భాగం కావడం ఇష్టమని నేను భావిస్తున్నాను.\n నా ప్రొఫైల్ ను ఇక్కడ చూడగలరు: "
+        },
+        "artworkShare":{
+            "subject" : "ARTMOలో ఈ కళాకృతిని అన్వేషించండి",
+            "bodyText1": "నమస్తే,\n మీరు ARTMOలో ఈ అద్భుతమైన కళాకృతిని చూడాలనుకున్నారని నేను భావిస్తున్నాను.\n కళాకృతిని చూసేందుకు ఇక్కడ క్లిక్ చేయండి::"
+        },
+        "postShare": {
+            "subject" : "ARTMOలో ఈ పోస్టును చూడండి",
+            "bodyText1": "నమస్తే,\n మీరు ARTMOలో ఈ కళాత్మకమైన పోస్టును చూడాలనుకుంటున్నారని అని నేను భావిస్తున్నాను.\n దీన్ని చదవడానికి ఇక్కడ క్లిక్ చేయండి:"
+            "bodyText1": "నమస్తే,\n మీరు ARTMOలో ఈ కళాత్మకమైన పోస్టును చూడాలనుకుంటున్నారని అని నేను భావిస్తున్నాను.\n దీన్ని చదవడానికి ఇక్కడ క్లిక్ చేయండి:"
+        }
+    }
+}

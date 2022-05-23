@@ -1,0 +1,24 @@
+{
+    "delete": "Deletar",
+    "warningDeleteConversation": "Tem certeza de que deseja excluir esta conversa?",
+    "block": "Bloquear",
+    "unblock": "Desbloquear",
+    "blockWarning": "Você tem certeza que quer",
+    "thisUser": "este usuário?",
+    "placeholderMessage": "Digite sua mensagem aqui...",
+    "send": "Enviar",
+    "blockText": "Você não pode responder a essa conversa",
+    "noMessage":"Nenhuma Mensagem",
+    "history":"Ver histórico de conversa",
+    "emojiPicker": {
+        "smileys_people": "SMILEYS & PESSOAS ",
+        "animals_nature": "ANIMAIS & NATUREZA",
+        "food_drink": "COMIDA & BEBIDA",
+        "travel_places": "VIAGENS & LUGARES",
+        "activities": "ATIVIDADES",
+        "objects": "OBJETOS",
+        "symbols": "SÍMBOLOS",
+        "flags": "BANDEIRAS",
+        "recently_used": "USADOS RECENTEMENTE"
+    }
+}

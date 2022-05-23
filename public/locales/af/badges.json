@@ -1,0 +1,20 @@
+{
+    "title": "KENTEKENS",
+    "promoteProfileSection": {
+        "title": "Bevorder Jou Profiel",
+        "description": "Sluit 'n skakel na jou ARTMO-profiel op jou webwerwe in.",
+        "getLinkButton": "Kry Skakel"
+    },
+    "badgeSections": {
+        "step1": "Step 1: Kies 'n kleur:",
+        "whiteRadioOption": "Wit",
+        "blackRadioOption": "Swart",
+        "step2": "Step 2: Kies 'n grootte:",
+        "largeRadioOption": "Groot",
+        "smallRadioOption": "Klein",
+        "step3": "Step 3: Kopieer en plak kode op jou webwerf:",
+        "copyButtonText": "Kopieer die kode",
+        "copiedButtonText": "Gekopieer!",
+        "helpText": "Help"
+    }
+}

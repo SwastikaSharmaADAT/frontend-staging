@@ -1,0 +1,122 @@
+{
+  "addContent": {
+    "placeholderAdd": "הוסף...",
+    "post": "פוסט",
+    "video": "סרטון",
+    "album": "אלבום",
+    "article": "מאמר",
+    "artwork": "יצירת אמנות"
+  },
+  "addPhotoAlbumPopup": {
+    "title": "הוסף אלבום תמונות",
+    "limitText": "הוסף תמונות (מקסימום 50)",
+    "addImages": "הוסף תמונות",
+    "placeholderAddTitle": "הוסף כותרת",
+    "writeSomething": "כתוב משהו...",
+    "firstPhotoInfo": "התמונה הראשונה תהיה תמונת הרקע של האלבום.",
+    "publish": "פרסם",
+    "errorLabels": {
+      "maxCharacter100": "רק 100 תווים מותרים",
+      "titleRequired": "כותרת נדרשת",
+      "maxCharacter500": "רק 500 תווים מותרים"
+    }
+  },
+  "editPhotoAlbumPopup": {
+    "title": "ערוך אלבום תמונות",
+    "updateButton": "עדכן",
+  },
+  "addPostPopup": {
+    "title": "צור פוסט",
+    "editPhoto": "ערוך תמונה",
+    "addPhoto": "הוסף תמונה",
+    "writeSomething": "כתוב משהו...",
+    "postDescCount": "/200",
+    "publish": "פרסם"
+  },
+  "editPostPopup": {
+    "title": "ערוך פוסט",
+    "updateButton": "עדכן",
+  },
+  "addVideoPopup": {
+    "title": "הוסף סרטון",
+    "validUrlError": "אנא הזן כתובת חוקית",
+    "placeholderEnterLink": "הוסף קישור מיוטיוב, Vimeo...",
+    "placeholderWriteSomething": "כתוב משהו...",
+    "addCategory": "הוסף קטגוריה",
+    "next": "הבא",
+    "publish": "פרסם",
+    "update": "עדכן",
+  },
+  "editVideoPopup": {
+    "title": "Edit Video Post","ערוך פוסט וידאו"
+    "updateButton": "Update", "עדכן"
+  },
+  "refreshOverlay": {
+    "newActivityAdded": "נוספה פעילות חדשה",
+    "refresh": "רענן"
+  },
+  "hashtags": {
+    "title": "מובילים HASHTAGS",
+    "noHashtagsAdded": "לא התווספו Hashtags",
+    "post": "פוסט",
+    "postPlural": "פוסטים"
+  },
+  "manageArtwork": {
+    "follower": "עוקב",
+    "followerPlural": "עוקבים",
+    "visit": "בקר ",
+    "manage": "נהל ",
+    "noPageFound": "עמוד לא נמצא"
+  },
+  "profile": {
+    "follower": "עוקב",
+    "followerPlural": "עוקבים",
+    "profileCompleteness": "שלמות הפרופיל",
+    "editProfile": "ערוך פרופיל"
+  },
+  "singlePost": {
+    "photo": "תמונה",
+    "photoPlural": "תמונות",
+    "seeInStore": "ראה בחנות",
+    "deleteText": "האם אתה בטוח שברצונך למחוק את התגובה שלך?",
+    "capsHide": "הסתר",
+    "capsUnhide": "גלה",
+    "hide": "הסתר",
+    "unhide": "גלה",
+    "areYouSure": "אתה בטוח שאתה רוצה",
+    "thisComment": "התגובה הזו?",
+    "update": "עדכן",
+    "like": "לייק",
+    "comment": "תגובה",
+    "liked": "אהב",
+    "likedBy": "אהב",
+    "lowerLike": "אוהב",
+    "lowerLikePlural": "אוהבים",
+    "lowerUnlike": "לא אוהבים",
+    "lowerComment": "תגובה",
+    "lowerCommentPlural": "תגובות",
+    "share": "שתף",
+    "pending": "ממתין",
+    "deleteActivity": "האם אתה בטוח שברצונך למחוק פעילות זו?",
+    "accept": "קבל",
+    "reject": "דחה",
+    "delete": "מחק",
+    "seeMore": "ראה עוד..",
+    "price": "מחיר",
+    "priceOnRequest": "מחיר לפי בקשה",
+    "placeholderComment": "הוסף את ההערה שלך...",
+    "publish": "פרסם",
+    "loadMoreText": "טען עוד...",
+    "loadMoreRepliesText": "טען עוד  תגובות...",
+    "edit": "ערוך",
+    "commentRemoved": "הערה זו הוסרה",
+    "replyRemoved": "תגובה זו הוסרה",
+  },
+  "singleActivity": {
+    "activityNotAvailable": "פעילות זו אינה זמינה",
+    "seeMore": "ראה עוד...",
+    "alreadyHaveAnAccount": "כבר יש לך חשבון?",
+    "signUp": "הירשם",
+    "logIn": "התחבר",
+  }
+}

@@ -1,0 +1,70 @@
+{
+    "bannerSection": {
+        "todaysFeature": "ميزة اليوم",
+        "seeMore": "مشاهدة المزيد ..."
+    },
+    "loggedOutBanner": {
+        "title": "مرحبًا بك في",
+        "title2": "مجتمعك الفني",
+        "descr": "سواء كان الفن هو شغفك أو مهنتك, فأنت هنا  في المكان الصحيح.",
+        "joinInBtnText": "الانضمام مجانًا",
+        "network": "الشبكة",
+        "blog": "المدونة",
+        "news": "الأخبار",
+        "group": "المجموعات",
+        "marketplace": "السوق",
+        "whatIsArtmo": "من هي ARTMO?",
+        "learnMore": "تعلم المزيد ...",
+        "signUp": "إنشاء حسابك مجانا",
+        "logIn": "تسجيل دخول",
+        "videos": "أشرطة فيديو",
+        "exhibition": "المعارض",
+        "gallery": "المعارض"
+    },
+    "usersListing": {
+        "title": "تواصل مع محبي الفنون",
+        "follower": "المتابع",
+        "followers": "المتابعون",
+        "unfollow": "إلغاء المتابعة",
+        "follow": "متابعة",
+        "seeMore": "شاهد المزيد",
+        "following": "متابعة"
+    },
+    "gridSection": {
+        "home": "الصفحة الرئيسية",
+        "artists": "الفنانون",
+        "galleries": "المعارض",
+        "exhibitions": "المعارض",
+        "users": "المستخدمون",
+        "artwork": "العمل الفني",
+        "genres": "الأنواع",
+        "universities": "الجامعات"
+    },
+    "artworkSection": {
+        "title": "قم بشراء وبيع فنك بدون عمولات مرتبطة",
+        "priceOnRequest": "السعر عند الطلب",
+        "artist": "فنان",
+        "member": "عضو",
+        "seeMore": "مشاهدة المزيد ..."
+    },
+    "buzzSection": {
+        "title": "تعرف على ما يجري في عالم الفن",
+        "seeMore": "مشاهدة المزيد ..."
+    },
+    "videosSection": {
+        "title": "مقاطع الفيديو",
+        "seeMore": "مشاهدة المزيد ..."
+    },
+    "exhibitionsSection": {
+        "title": "ابحث عن المعارض في جميع أنحاء العالم",
+        "selectCountry": "اختر موقعا",
+        "latest": "في الآونة الأخيرة"  
+    },
+    "potdSection": {
+        "title": "صور اليوم",
+        "seeMore": "مشاهدة المزيد ..."
+    },
+    "joinInSection": {
+        "joinInTitle": "انضم إلينا مجانًا."
+    }
+}

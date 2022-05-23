@@ -1,0 +1,20 @@
+{
+  "title": "बैज",
+  "promoteProfileSection": {
+    "title": "अपनी प्रोफ़ाइल का प्रचार करें",
+    "description": "अपनी वेबसाइटों पर अपने एआरटीएमओ प्रोफ़ाइल का लिंक एम्बेड करें",
+    "getLinkButton": "लिंक लें"
+  },
+  "badgeSections": {
+    "step1": "चरण 1: एक रंग चुनें:",
+    "whiteRadioOption": "सफेद",
+    "blackRadioOption": "कला",
+    "step2": "चरण 1: आकार चुनें:",
+    "largeRadioOption": "बड़ा",
+    "smallRadioOption": "छोटा",
+    "step3": "अपनी वेबसाइट पर कोड को कॉपी और पेस्ट करें",
+    "copyButtonText": "कोड कॉपी करे",
+    "copiedButtonText": "कॉपी हो गया",
+    "helpText": "मदद"
+  }
+}

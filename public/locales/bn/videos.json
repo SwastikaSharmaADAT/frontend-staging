@@ -1,0 +1,10 @@
+{
+    "title": "ভিডিওগুলি",
+    "listing": {
+        "placeholderSearch": "শিরোনাম দিয়ে ভিডিও খুঁজুন",
+        "search": "খুঁজুন",
+        "country": "দেশ:",
+        "category": "ক্যাটাগরি:",
+        "userType": "ব্যবহারকারীর ধরণ:"
+    }
+}

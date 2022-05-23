@@ -1,0 +1,46 @@
+{
+    "connectingTheArtWorld": "MENGHUBUNGKAN DUNIA SENI",
+    "login": "Masuk",
+    "freeSignup": "Daftar Gratis",
+    "signup": "Daftar",
+    "search": "Telusuri pengguna...",
+    "legacyPageInfo": "Anda dapat mengakses halaman Anda di sini",
+    "loginMenu": {
+        "home": "Beranda",
+        "groups": "Group",
+        "network": "Jaringan",
+        "messages": "Pesan",
+        "notifications": "Pemberitahuan",
+        "cart": "Keranjang",
+        "artwork": "Karya Seni",
+        "me": "Saya",
+        "more": "Lebih....",
+        "sellArt": "Jual Karya Seni",
+        "dashboard": "Dasbor",
+        "myarticles": "Artikel"
+    },
+    "logoutMenu": {
+        "artwork": "Karya Seni",
+        "cart": "Keranjang",
+        "more": "Lebih...."
+    },
+    "subMenu": {
+        "createPage": "Buat Halaman",
+        "switchPage": "Beralih ke Halaman",
+        "switchTo": "Beralih ke",
+        "profile": "Profil",
+        "page": "Halaman Saya",
+        "myAccount": "Akun Saya",
+        "signOut": "Keluar",
+        "settings": "Pengaturan & Privasi"
+    },
+    "cart": {
+        "removeWarning": "Apakah Anda yakin ingin menghapus item ini?",
+        "yes": "Ya",
+        "checkoutButton": "PERIKSA",
+        "emptyCartWarning": "Keranjang Anda kosong!",
+        "outOfStock": "Stok Habis!",
+        "seeArtworks": "Lihat Karya seni",
+        "buttonYes": "Ya"
+    }
+}

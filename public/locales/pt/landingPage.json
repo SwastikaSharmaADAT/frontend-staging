@@ -1,0 +1,69 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Destaque de Hoje",
+        "seeMore": "Veja Mais"
+    },
+    "loggedOutBanner": {
+        "title": "Bem vindo a sua",
+        "title2": "Comunidade Artística",
+        "descr": "Se a arte é sua paixão  ou profissão, você veio  para o lugar certo.",
+        "joinInBtnText": "Participar de graça",
+        "network": "Rede",
+        "blog": "Blog",
+        "news": "Novidades",
+        "group": "Grupos",
+        "marketplace": "Marketplace",
+        "whatIsArtmo": "O que é ARTMO?",
+        "learnMore": "Saiba Mais ...",
+        "signUp": "Inscrição gratuita",
+        "logIn": "Entrar",
+        "videos": "Vídeos",
+        "exhibition": "Exposições.",
+        "gallery": "Galerias"
+    },
+    "usersListing": {
+        "title": "A REDE DE ARTE",
+        "follower": "seguidor",
+        "followers": "seguidores",
+        "unfollow": "Deixar de seguir",
+        "follow": "Seguir",
+        "seeMore": "Veja Mais",
+        "following": "Seguindo"
+    },
+    "gridSection": {
+        "home": "INÍCIO",
+        "artists": "ARTISTAS",
+        "galleries": "GALERIAS",
+        "exhibitions": "EXIBIÇÕES",
+        "users": "USUÁRIOS",
+        "artwork": "OBRAS DE ARTE",
+        "genres": "GÊNEROS",
+        "universities": "UNIVERSIDADES"
+    },
+    "artworkSection": {
+        "title": "NOVAS OBRAS DE ARTE",
+        "priceOnRequest": "Preço sob Consulta",
+        "artist": "Artista",
+        "member": "Membro",
+        "seeMore": "Veja Mais"
+    },
+    "buzzSection": {
+        "title": "BUZZ",
+        "seeMore": "Veja Mais"
+    },
+    "videosSection": {
+        "title": "VÍDEOS",
+        "seeMore": "Ver Mais"
+    },
+    "exhibitionsSection": {
+        "title": "EXIBIÇÕES",
+        "seeMore": "Veja Mais"
+    },
+    "potdSection": {
+        "title": "FOTO DO DIA",
+        "seeMore": "See More"
+    },
+    "joinInSection": {
+        "joinInTitle": "Participe, é grátis."
+    }
+}

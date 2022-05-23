@@ -1,0 +1,383 @@
+ {
+  "placeholderIntro": "संक्षिप्त परिचय",
+  "about": {
+    "title": "बारे",
+    "edit": "संपादि",
+    "cancel": "रद्द करना",
+    "save": "सेव",
+    "noAboutText": "जोड़े गए विषय के बारे में नहीं",
+    "placeholderAbout": "यहाँ के बारे में जोड़ें....",
+    "characterLimit": "/1000",
+    "errorAbout": "1000 . की अधिकतम वर्ण लंबाई से अधिक"
+  },
+  "biography": {
+    "title": "जीवनी",
+    "edit": "संपादित करें",
+    "cancel": "रद्द करें",
+    "save": "सेव",
+    "noBiographyText": "कोई जीवनी पाठ नहीं जोड़ा गया",
+    "placeholderBiography": "जीवनी यहाँ जोड़ें....",
+    "characterLimit": "/1000"
+  },
+  "activity": {
+    "title": "गतिविधि",
+    "descriptionNotAdded": "विवरण नहीं जोड़ा गया",
+    "reactions": "प्रतिक्रियाओं",
+    "noActivityText": "कोई गतिविधि नहीं मिली",
+    "seeAll": "सभी देखें",
+    "add": "जोड़ना"
+  },
+  "album": {
+    "title": "एलबम",
+    "seeAll": "सभी देखें",
+    "add": "जोड़ना",
+    "noAlbumFound": "कोई एल्बम नहीं मिला",
+    "edit": "एडिट"
+  },
+  "artwork": {
+    "title": "कलाकृतियों",
+    "likedArtworks": "पसंद की हुई कलाकृतियाँ",
+    "noArtworkFound": "कोई कलाकृति नहीं मिली",
+    "seeAll": "सभी देखें",
+    "add": "जोड़ना"
+  },
+  "award": {
+    "title": "पुरस्कार",
+    "noAwardFound": "कोई पुरस्कार नहीं मिला",
+    "addImages": "छवियां जोड़ें",
+    "placeholderDescription": "अपने कला पुरस्कारों का विवरण सम्मिलित करें.",
+    "characterLimit": "/1000",
+    "edit": "संपादित",
+    "cancel": "रद्द करना",
+    "save": "सेव"
+  },
+  "basicInfo": {
+    "fillDetailsText": "कृपया इन क्षेत्रों को भरें",
+    "placeholderFirstName": "पहला नाम",
+    "placeholderLastName": "अंतिम नाम",
+    "placeholderCity": "शहर",
+    "placeholderCountry": "देश चुनें",
+    "placeholderEmail": "ईमेल",
+    "save": "सेव",
+    "cancel": "रद्द करना"
+  },
+  "business": {
+    "title": "मेरे व्यवसाय के बारे में | पेशा",
+    "noBusinessFound": "मेरे व्यवसाय के बारे में कोई जानकारी नहीं | पेशा मिला",
+    "addImages": "छवियां जोड़ें",
+    "placeholderDescription": " मेरे व्यवसाय के बारे में अपना विवरण सम्मिलित करें | पेशा.",
+    "characterLimit": "/1000",
+    "edit": "संपादित",
+    "cancel": "रद्द करना",
+    "save": "सेव"
+  },
+  "connectionsPopup": {
+    "follower": "अनुयायी",
+    "followerPlural": "अनुयायियों",
+    "connected": "जुड़े हुए",
+    "requestPending": "अनुरोध लंबित है",
+    "requestSent": "निमंत्रण भेजा गया",
+    "connect": "जुडिये",
+    "userConnectionsTitle": "कनेक्शन"
+  },
+  "contact": {
+    "title": "संपर्क जानकारी",
+    "noContactInfoFound": "कोई संपर्क जानकारी नहीं जोड़ी गई",
+    "email": "ईमेल",
+    "skype": "स्काइप",
+    "phone": "फ़ोन",
+    "address": "पता",
+    "openingHours": "खुलने का समय",
+    "socialMedia": "सामाजिक मीडिया",
+    "placeholderEmail": "ईमेल",
+    "placeholderSkype": "स्काइप",
+    "phoneNumber": "फ़ोन नंबर",
+    "placeholderAddress": "पता",
+    "placeholderOpenHours": "खुलने का समय",
+    "edit": "संपादित",
+    "cancel": "रद्द करना",
+    "save": "सेव"
+  },
+  "expertise": {
+    "title": "विशेषज्ञता",
+    "noExpertiseFound": "कोई विशेषज्ञता नहीं मिली",
+    "addImages": "छवियां जोड़ें",
+    "placeholderDescription": "अपनी कला विशेषज्ञता का विवरण सम्मिलित करें.",
+    "characterLimit": "/1000",
+    "edit": "संपादित",
+    "cancel": "रद्द करना",
+    "save": "सेव"
+  },
+  "followersPopup": {
+    "follower": "अनुयायी",
+    "followerPlural": "अनुयायियों",
+    "followed": "अनुसरण",
+    "unfollow": "अनुयायी से हटना",
+    "follow": "अनुयायी",
+    "noFollowers": "फॉलोवर नहीं हैं",
+    "userFollowersTitle": "अनुयायियों"
+  },
+  "followingPopup": {
+    "follower": "अनुयायी",
+    "followerPlural": "अनुयायियों",
+    "followed": "अनुसरण",
+    "unfollow": "अनुयायी से हटना",
+    "follow": "अनुयायी",
+    "noFollowing": "कोई अनुसरण नहीं",
+    "userFollowersTitle": "अनुयायियों",
+    "followPlural": "अनुयायी"
+  },
+  "group": {
+    "title": "समूह",
+    "noGroupsFound": "उपयोगकर्ता ने किसी भी समूह की सदस्यता नहीं ली है",
+    "member": "सदस्य",
+    "memberPlural": "सदस्यों",
+    "browseGroups": "समूह देखना",
+    "create": "सृजन करना"
+  },
+  "invite": {
+    "title": "मित्रों को आमंत्रित करें",
+    "desc1": "अपने संपर्कों को संदेश भेजें.",
+    "desc2": "उन्हें बताएं कि आप यहां हैं.",
+    "invite": "आमंत्रण"
+  },
+  "messagePopup": {
+    "or": "या",
+    "seeMore": "और देखें...",
+    "learnMore": "और अधिक जानें"
+  },
+  "pastExhibition": {
+    "title": "पिछली प्रदर्शनियां",
+    "addImages": "छवियां जोड़ें",
+    "noExhibitionsFound": "कोई पिछली प्रदर्शनी नहीं मिली",
+    "placeholderDescription": "अपनी पिछली प्रदर्शनियों का विवरण सम्मिलित करें.",
+    "characterLimit": "/1000",
+    "edit": "संपादित",
+    "cancel": "रद्द करना",
+    "save": "सेव"
+  },
+  "faculty": {
+    "title": "संकाय",
+    "addImages": "तस्वीर जोड़ें",
+    "noExhibitionsFound": "कोई खबर नहीं मिली",
+    "placeholderDescription": "अपने संस्थान के संकाय का विवरण सम्मिलित करें.",
+    "characterLimit": "/1000",
+    "edit": "एडिट",
+    "cancel": "रद करें",
+    "save": "सेव"
+  },
+  "news": {
+    "title": "खबर",
+    "addImages": "तस्वीर जोड़ें",
+    "noExhibitionsFound": "कोई खबर नहीं मिली",
+    "placeholderDescription": "अपने संस्थान के खबर का विवरण सम्मिलित करें.",
+    "characterLimit": "/1000",
+    "edit": "एडिट",
+    "cancel": "रद करें",
+    "save": "सेव"
+  },
+  "personalInfo": {
+    "title": "व्यक्तिगत जानकारी",
+    "noInfoFound": "कोई व्यक्तिगत जानकारी नहीं जोड़ी गई",
+    "city": "शहर",
+    "country": "देश",
+    "profession": "पेशा",
+    "company": "कम्पनी",
+    "industry": "उद्योग",
+    "website": "वेबसाइट",
+    "languages": "भाषाए",
+    "visibleInfo": "चूक से सार्वजनिक रूप से अदृश्य",
+    "dateOfBirth": "जन्म की तारीख",
+    "gender": "लिंग",
+    "relationshipStatus": "रिश्ते की स्थिति",
+    "placeholderCity": "शहर",
+    "placeholderCountry": "देश चुनें",
+    "placeholderProfession": "पेशा",
+    "placeholderCompany": "कम्पनी",
+    "placeholderIndustry": "उद्योग",
+    "placeholderLanguages": "भाषाएं चुनें",
+    "placeholderWebsite": "वेबसाइट",
+    "placeholderDob": "जन्म की तारीख",
+    "errorDob": "जन्म तिथि आवश्यक है",
+    "genderDropdown": {
+      "option1": "लिंग चुनें",
+      "option2": "पुरुष",
+      "option3": "महिला",
+      "option4": "विविध"
+    },
+    "relationDropdown": {
+      "option1": "संबंध स्थिति चुनें",
+      "option2": "अविवाहित",
+      "option3": "विवाहित",
+      "option4": "साझेदारी"
+    },
+    "edit": "संपादित",
+    "cancel": "रद्द करना",
+    "save": "सेव"
+  },
+  "coverImage": {
+    "menuOptions": {
+      "title": "कवर फोटो बदलें",
+      "upload": "फोटो अपलोड करें",
+      "change": "तस्वीर बदलिये",
+      "remove": "फोटो हटाएं"
+    }
+  },
+  "profileHead": {
+    "profileImage": {
+      "menuOptions": {
+        "title": "चित्र बदलें",
+        "upload": "फोटो अपलोड करें",
+        "change": "तस्वीर बदलिये",
+        "remove": "फोटो हटाएं"
+      }
+    },
+    "connected": "जुड़े हुए",
+    "requestPending": "अनुरोध लंबित है",
+    "requestSent": "निमंत्रण भेजा गया",
+    "connect": "जुडिये",
+    "shareProfile": "प्रोफ़ाइल साझा करें",
+    "unblock": "अवरोध हटाना",
+    "block": "ब्लाक",
+    "tooltip": {
+      "text": " अन्य प्रोफ़ाइल प्रकार में भिन्न सदस्यता मॉडल हैं।",
+      "seeMore": "और देखें..."
+    },
+    "profileDesc": {
+      "artist": {
+        "firstline": "<b>आप एक कलाकार हैं!</b>",
+        "secondline": "You can sell artworks you have created."
+      },
+      "member": {
+        "firstline": "You are <b><i>NOT<i></b> an Artist!",
+        "secondline": "आप अपने द्वारा बनाई गई कलाकृतियां बेच सकते हैं."
+      }
+    },
+    "edit": "संपादित",
+    "cancel": "रद्द करना",
+    "save": "सेव",
+    "followed": "अनुगमन करना",
+    "follow": "अनुयायी",
+    "message": "संदेश",
+    "more": "अधिक...",
+    "artistProfile": "कलाकार प्रोफ़ाइल",
+    "memberProfile": "सदस्य प्रोफ़ाइल",
+    "enterName": "अपना नाम दर्ज करें",
+    "enterInstitute": "कृपया संस्थान का नाम दर्ज करें",
+    "placeholderFirstName": "पहला नाम",
+    "placeholderInstitureName": " संस्था का नाम",
+    "placeholderLastName": "अंतिम नाम"
+  },
+  "notices": {
+    "title": "सूचनाए",
+    "notNoticesFound": "प्रदर्शित करने के लिए कोई सूचनाए नहीं!!"
+  },
+  "profileCompleteness": {
+    "title": "प्रोफ़ाइल पूर्णता",
+    "incompleteLabel": "निम्नलिखित फ़ील्ड भरें",
+    "coverPicUrl": "कवर चित्र",
+    "profilePicUrl": "प्रोफाइल चित्र",
+    "city": "शहर",
+    "mobile": "फ़ोन नंबर",
+    "address": "पता",
+    "openingHours": "खुलने का समय",
+    "country": "देश",
+    "aboutMe": "बारे में",
+    "profession": "पेशा",
+    "industry": "उद्योग",
+    "company": "कंपनी",
+    "email": "ईमेल"
+  },
+  "publication": {
+    "title": "प्रकाशनों",
+    "noPublicationsFound": "कोई प्रकाशन नहीं मिला",
+    "addImages": "छवियां जोड़ें",
+    "placeholderDescription": "अपने प्रकाशनों का विवरण सम्मिलित करें.",
+    "characterLimit": "/1000",
+    "edit": "संपादित",
+    "cancel": "रद्द करना",
+    "save": "सेव"
+  },
+  "allSectionHeader": {
+    "add": "जोड़ना",
+    "seeAll": "सभी देखें"
+  },
+  "share": {
+    "copiedText": "कॉपी किया गया!",
+    "copyLink": "प्रतिरूप जोड़ना",
+    "share": "बांटना",
+    "profileShareTitle": "प्रोफ़ाइल"
+  },
+  "technique": {
+    "title": "तकनीक",
+    "noTechFound": "कोई तकनीक नहीं मिली",
+    "addImages": "छवियां जोड़ें",
+    "placeholderDescription": "अपनी कला तकनीक का विवरण सम्मिलित करें.",
+    "characterLimit": "/1000",
+    "edit": "संपादित",
+    "cancel": "रद्द करना",
+    "save": "सेव",
+    "your": "आप का",
+    "photo": "तस्वीर",
+    "apply": "लागू"
+  },
+  "profileNavigator": {
+    "profile": "प्रोफ़ाइल",
+    "see": "देख",
+    "art": "कला",
+    "about": "बारे",
+    "contact": "संपर्क जानकारी",
+    "activity": "गतिविधि",
+    "videos": "वीडियो",
+    "artworks": "कलाकृतियों",
+    "likedArtworks": "पसंद की गई कलाकृति",
+    "albums": "एलबम",
+    "groups": "समूह",
+    "technique": "तकनीक",
+    "expertise": "विशेषज्ञता",
+    "awards": "पुरस्कार",
+    "pastExhibitions": "पिछली प्रदर्शनियां",
+    "publications": "प्रकाशनों",
+    "personalInfo": "व्यक्तिगत जानकारी",
+    "business": "मेरे व्यवसाय के बारे में"
+  },
+  "connections": {
+    "title": "कनेक्शन",
+    "noConnectionsFound": "कोई कनेक्शन नहीं",
+    "seeAll": "सभी देखे...",
+    "followers": "अनुयायी",
+    "following": "अनुगामी"
+  },
+  "video": {
+    "title": "वीडियो",
+    "noVideosFound": "कोई वीडियो नहीं मिले"
+  },
+  "visibility": {
+    "public": "सार्वजनिक(लॉग इन यूजर)",
+    "private": "निजी",
+    "connectionsOnly": "केवल-कनेक्शन"
+  },
+  "blockSection": {
+    "accountUnavailable": "यह खाता अनुपलब्ध है",
+    "goToHome": "होम पर जाएं"
+  },
+  "emailShare": {
+    "bodyText2": "\nसंपर्क में रहें!\n ARTMO कया है ~ और जानें https://artmo.com/what-is-artmo",
+    "profileShare": {
+      "subject": " ARTMO देखें",
+      "bodyText1": "हैलो,\nI लगता है कि ARTMO को देखने और आर्ट नेटवर्क में शामिल होने में आपकी रुचि हो सकती है.\nमेरी प्रोफ़ाइल को देखने के लिए यहां क्लिक करें: "
+    },
+    "articleShare": {
+      "subject": "ARTMO पर इस लेख को देखें",
+      "bodyText1": "हैलो,\n लगता है कि ARTMO के इस लेख को देखने में आपकी रुचि हो सकती.\nइसे पढ़ने के लिए यहां क्लिक करें: "
+    },
+    "artworkShare": {
+      "subject": "ARTMO पर इस कलाकृति को देखें",
+      "bodyText1": "हैलो,\n मुझे लगता है कि आपको ARTMO पर इस अद्भुत कलाकृति को देखने में रुचि हो सकती है।\n कलाकृति देखने के लिए यहां क्लिक करें "
+    },
+    "postShare": {
+      "subject": "ARTMO पर इस पोस्ट को देखें",
+      "bodyText1": "नमस्ते,\nमुझे लगता है कि आप ARTMO पर इस पोस्ट को देखने में रुचि ले सकते हैं।\इसे पढ़ने के लिए यहां क्लिक करें: "
+    }
+  }
+}

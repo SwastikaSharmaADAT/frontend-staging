@@ -1,0 +1,37 @@
+  {
+  "title": "Gift Cards",
+  "linkToMyGiftCard": "View Your Purchased Gift Cards",
+  "giftCardSection": {
+    "title": "Promote Your Profile",
+    "description": "Embed a link to your ARTMO profile on your websites.",
+    "getLinkButton": "Get Link"
+  },
+  "giftCardContent": {
+    "singular": "Gift Card",
+    "title": "Send an ARTMO Gift Card via email. The recipient can use it for purchasing artworks.",
+    "selectAmount": "Choose the amount:",
+    "quesion": "Send this gift card to...",
+    "namePlaceholder": "Insert Name",
+    "emailPlaceholder": "Insert Email",
+    "lastNote": "The card information will be available in the My Account section. You will receive a confirmation receipt to your account email.",
+    "buttonText": "Proceed to Checkout",
+    "hello": "Hello",
+    "sentFrom": "This is your Gift Card sent from...",
+    "use": "Use this card for purchasing artworks.",
+    "seeHere": "See Artworks Here...",
+    "expiryDate": "* Expiry Date: "
+  },
+  "myGiftCardContent": {
+    "title": "Your Purchased Gift Cards:",
+    "to": "To",
+    "name": " Bjorn Andersen",
+    "validUntil": "Valid until",
+    "purchasedOn": "Purchased on",
+    "used": "Used",
+    "valid": "Valid",
+    "expired": "Expired",
+    "makeCard": "Make a Gift of Art.",
+    "buttonText": "Purchase an ARTMO Card",
+    "noGiftCard": "No Gift card available"
+  }
+}

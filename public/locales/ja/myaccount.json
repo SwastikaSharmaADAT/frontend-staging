@@ -1,0 +1,161 @@
+{
+    "leftTabs": {
+        "account": "アカウント",
+        "changePassword": "パスワードを変更",
+        "setPassword": "パスワードを設定",
+        "privacy": "プライバシー",
+        "notifications": "お知らせ",
+        "webNotifications": "Web通知",
+        "socialConnect": "ソーシャル連携",
+        "myPhotos": "マイフォト",
+        "deleteAccount": "アカウントを削除"
+    },
+    "account": {
+        "title": "アカウント",
+        "username": "ユーザー名",
+        "firstname": "名",
+        "lastname": "姓",
+        "pagename": "ページ名",
+        "email": "メールアドレス",
+        "updateAccount": "アカウントを更新",
+        "validationErrors": {
+            "firstname": "名は必須です",
+            "lastname": "姓は必須です",
+            "firstnameLength": "50文字以内で入力してください",
+            "lastnameLength": "50文字以内で入力してください",
+            "pagename": "ページ名は必須です",
+            "pagenameLength": "50文字以内で入力してください"
+        }
+    },
+    "changePassword": {
+        "changeTitle": "パスワードを変更",
+        "setTitle": "パスワードを設定",
+        "currentPassword": "現在のパスワード",
+        "newPassword": "新しいパスワード",
+        "confirmPassword": "パスワードを確認",
+        "updatePassword": "パスワードを更新",
+        "validationErrors": {
+            "currentPassword": "現在のパスワードを入力してください",
+            "newPassword": "新しいパスワードを入力してください",
+            "confirmPassword": "新しいパスワードを確認してください",
+            "passConditions": "パスワードは8文字以上で、少なくとも大文字、小文字、記号が1つずつ含まれている必要があります",
+            "passNotMatch": "パスワードが一致しません"
+        }
+    },
+    "notifications": {
+        "title": "お知らせ",
+        "description": "受取るメール通知を選択",
+        "headings": {
+            "followers": "フォロワー",
+            "friends": "友達",
+            "posts": "投稿",
+            "messages": "メッセージ"
+        },
+        "checkboxLabels": {
+            "newFollowers": "新しいユーザーにフォローされました",
+            "newConnectionAdded": "新しいコネクションを獲得しました",
+            "newConnectionRequest": "新しいコネクションリクエストを獲得しました",
+            "groupPost": "誰かがグループに投稿したら通知する",
+            "groupComments": "誰かがグループにコメントしたら通知する",
+            "privateMessage": "プライベートメッセージを受け取りました",
+            "unreadMessage": "未読のメッセージがあります"
+        },
+        "updateNotifications": "お知らせを更新"
+    },
+    "privacy": {
+        "title": "プライバシー",
+        "profilePrivacy": "プロフィール・プライバシー",
+        "showProfileOptions": {
+            "everyone": "全員",
+            "onlyMe": "自分だけ",
+            "following": "フォローしている人だけがプロフィールを見れる",
+            "followers": "フォロワー",
+            "connections": "コネクションのみ"
+        },
+        "tooltips": {
+            "tip1": "誰が公開プロフィールを見れますか？",
+            "tip2": "ここでは、公開ディレクトリに表示されないように非表示にすることができます。",
+            "tip3": "あなたがオンラインであることを他のユーザーが見れるようにしますか？",
+            "tip4": "あなたにとって最も適切で有用と思われる情報を記載したファイルをリクエストすることができます。",
+            "tip5": "弊社が保有するユーザーデータの消去をリクエストできます。"
+        },
+        "hideProfile": "ディレクトリーからマイプロフィールを非表示",
+        "yes": "はい",
+        "no": "いいえ",
+        "showOnlineStatus": "オンラインステータスを表示",
+        "activityWall": "誰があなたのアクティビティを見れますか？",
+        "activityWallOptions": {
+            "public": "公開",
+            "onlyMe": "自分だけ",
+            "followers": "フォロワー",
+            "following": "フォローしている人々"
+        },
+        "privateMessage": "誰がプライベートメッセージを送れますか？",
+        "privateMessageOptions": {
+            "everyone": "全員",
+            "nobody": "誰も送れない",
+            "following": "フォローしている人のみ",
+            "followers": "フォロワー",
+            "connections": "接続済み"
+        },
+        "downloadData": "データをダウンロード",
+        "downloadDataDescription": "現在のパスワードを入力して、個人情報の新しいエクスポートを確認します。",
+        "downloadDataButton": "データをリクエスト",
+        "eraseData": "データを削除",
+        "eraseDataDescription": "個人情報を削除するために現在のパスワードを入力してください。",
+        "eraseDataButton": "データの削除をリクエスト",
+        "updatePrivacyButton": "プライバシーを更新"
+    },
+    "webNotifications": {
+        "title": "Web通知",
+        "description": "受取っているお知らせ",
+        "checkboxLabels": {
+            "newReplies": "メンバーが自分のコメントへリプライした時",
+            "newComments": "メンバーが自分の投稿にコメントした時",
+            "viewProfile": "メンバーがプロフィールを閲覧した時",
+            "privateMessage": "ユーザーがプライベートメッセージを送った時",
+            "newFollower": "フォローされた時",
+            "newConnection": "コネクトリクエストが届いた時",
+            "acceptConnection": "コネクションを許可した時",
+            "newLike": "投稿にいいねがついた時",
+            "newMention": "メンションされた時",
+            "groupRequestApproved": "グループリクエストが承認された時",
+            "newGroupRequest": "ユーザーがグループへの参加リクエストを送った時",
+            "groupInvitation": "メンバーがグループに招待された時",
+            "groupRole": "グループのロールが変更された時",
+            "likeArtwork": "ユーザーが作品にいいねした時"
+        },
+        "updateSettingsButton": "お知らせを更新"
+    },
+    "socialConnect": {
+        "title": "ソーシャル連携",
+        "notConnected": "ソーシャルメディアアカウントに連携していません。",
+        "disconnectFacebook": "Facebookから連携解除",
+        "disconnectLinkedin": "LinkedInから連携解除",
+        "passwordWarning": "*アカウント連携解除の前にパスワードを設定してください"
+    },
+    "myPhotos": {
+        "title": "マイフォト",
+        "warningText": "一度削除された写真やアルバムは永久に削除され、復元することはできません。",
+        "button1": "自分の写真をダウンロード",
+        "button2": "全てのアルバムと写真を削除",
+        "downloadWarning": "*写真のダウンロードタスクは、アップロードされた写真の枚数によって完了までに時間がかかることがあります。",
+        "imagesWarning": "本当にすべてのアルバムと画像を削除してよろしいですか？",
+        "buttonDelete": "削除"
+    },
+    "deleteAccount": {
+        "title": "アカウントを削除",
+        "warningText": "本当にアカウントを削除しますか？これであなたのアカウントデータはサイトからすべて消去されます。アカウントを削除するには、以下にパスワードを入力してください。",
+        "button": "アカウントを削除",
+        "password": "パスワード",
+        "passwordWarning": "*アカウントの接続を解除する前にパスワードを設定してください",
+        "managePaymentsTitle": "ベンダーサブスクリプションの支払いを管理する",
+        "managePaymentsText": "支払いを停止したい場合は、プロファイルを削除する必要はありません。<br/>あなたはそれを維持することができます。<br/>それ以上の支払いを必要とせずに、無料のベーシックプランに簡単にダウングレードできます。",
+        "managePaymentsText2": "ダッシュボードで見る",
+        "managePaymentsQuoteText": "サブスクリプションをダウングレードする",
+        "managePaymentsButtonText": "[ダッシュボード]> [サブスクリプション]に移動します"
+    },
+    "imageContainer": {
+        "viewProfile": "プロフィールを見る"
+    }
+}

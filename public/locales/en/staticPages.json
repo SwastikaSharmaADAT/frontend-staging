@@ -1,0 +1,84 @@
+{
+    "pageNotFound": {
+        "404": "Oops!",
+        "signUpTextNotFound": "Or sign up if you don't have a profile yet ...",
+        "pageNotFound": "We can't seem to find the page you are looking for.<br/>You might want to try one of these options; that should do the trick...",
+        "goBackHome": "Go Back"
+    },
+    "usersTermsConditions": {
+        "title": "USERS TERMS & CONDITIONS",
+        "overview": "1. OVERVIEW",
+        "contentEligibility": "2. CONTENT AND ELIGIBILITY",
+        "feesPayments": "3. FEES AND PAYMENTS",
+        "accountTermination": "4. TERMINATION AND ACCOUNT CANCELLATION",
+        "provisions": "5. FURTHER PROVISIONS",
+        "seePrivacyPolicy": "See Privacy Policy",
+        "seeVendorTermsConditions": "See Vendor's Terms & Conditions"
+    },
+    "privacyPolicyPage": {
+        "title": "PRIVACY POLICY",
+        "seeVendorTermsConditions": "See Vendor's Terms & Conditions",
+        "seeUserTermsConditions": "See User's Terms & Conditions",
+        "accountPrivacySettings": "HOW TO DELETE USER DATA / CHANGE PRIVACY SETTINGS",
+        "dataSecurity": "DATA SECURITY",
+        "collectingPersonalData": "PURPOSES AND PROCEDURES FOR COLLECTING AND PROCESSING OF PERSONAL DATA",
+        "adsOnArtmo": "ADVERTISING ON ARTMO"
+    },
+    "vendorTermsConditions": {
+        "title": "VENDOR'S TERMS & CONDITIONS",
+        "seePrivacyPolicy": "See Privacy Policy",
+        "seeUserTermsConditions": "See User's Terms & Conditions",
+        "impOverview": "First of all ... an important overview",
+        "stepByStep": "Step-by-Step",
+        "overview": "1. OVERVIEW",
+        "fees": "2. COMMISSION | FEES | PAYMENTS | REFUNDS",
+        "termination": "3. TERMINATION AND ACCOUNT CANCELLATION",
+        "payoutSchedule": "4. PAYOUT SCHEDULE FOR SALES",
+        "contentEligibility": "5. CONTENT AND ELIGIBILITY",
+        "yourObligations": "6. YOUR OBLIGATIONS",
+        "artmoObligations": "7. ARTMO'S OBLIGATIONS",
+        "returns": "8. RETURNS AND DISPUTES",
+        "provisions": "9. FURTHER PROVISIONS",
+        "shippingReturnPolicy": "SHIPPING & RETURN POLICY"
+    },
+    "whatIsArtmo": {
+        "title": "What is ARTMO?",
+        "artNetwork": "The Art Network",
+        "artEnthusiast": "Art Enthusiast",
+        "muchMore": "and much more!",
+        "member": "Members",
+        "pages": "Pages",
+        "marketplace": "Marketplace",
+        "needHelp": "Need Help - Contact Us ...",
+        "artist": "Artists",
+        "gallery": "Gallery",
+        "university": "University",
+        "shop": "Shop"
+    },
+    "mobileApp": {
+        "title": "Mobile App",
+        "subHeading": "How to start ARTMO from your mobile's home-screen",
+        "note": "Note",
+        "step": "Step",
+        "done": "Done"
+    },
+    "artworkUploadInst": {
+        "headerTitle": "Artwork Upload Instructions",
+        "images": "Images",
+        "title": "Title",
+        "artMaterial": "Art Material",
+        "series": "Series",
+        "limitedEdition": "Limited Editions",
+        "price": "Price",
+        "dimension": "Dimension",
+        "frame": "Frame",
+        "medium": "Medium",
+        "genre": "Genre",
+        "subjectTags": "Subject Tags",
+        "description": "Description",
+        "text": "Text",
+        "yourProfile": "Your Profile",
+        "pdf": "Physical Art",
+        "pdfDigital": "Digital Art"
+    }
+}

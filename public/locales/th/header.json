@@ -1,0 +1,46 @@
+{
+  "connectingTheArtWorld": "เชื่อมต่อโลกศิลปะ",
+  "login": "เข้าสู่ระบบ",
+  "freeSignup": "สมัครฟรี",
+  "signup": "สมัครสมาชิก",
+  "search": "ค้นหาผู้ใช้...",
+  "legacyPageInfo": "เข้าหน้าเพจของคุณได้ที่นี่",
+  "loginMenu": {
+    "home": "หน้าหลัก",
+    "groups": "กลุ่ม",
+    "network": "เครือข่าย",
+    "messages": "ข้อความ",
+    "notifications": "การแจ้งเตือน",
+    "cart": "ตะกร้า",
+    "artwork": "ผลงานศิลปะ",
+    "me": "ฉัน",
+    "more": "อื่นๆ....",
+    "sellArt": "ขายงานศิลปะ",
+    "dashboard": "แดชบอร์ด",
+    "myarticles": "บทความ"
+  },
+  "logoutMenu": {
+    "artwork": "ผลงานศิลปะ",
+    "cart": "ตะกร้า",
+    "more": "อื่นๆ...."
+  },
+  "subMenu": {
+    "createPage": "สร้างหน้าเพจ",
+    "switchPage": "เปลี่ยนไปยังเพจ",
+    "switchTo": "เปลี่ยนไปยัง",
+    "profile": "โปรไฟล์",
+    "page": "My Page",
+    "myAccount": "บัญชีของฉัน",
+    "signOut": "ออกจากระบบ",
+    "settings": "ตั้งค่า & ความเป็นส่วนตัว"
+  },
+  "cart": {
+    "removeWarning": "แน่ใจใช่ไหมว่าจะลบชิ้นนี้ออก?",
+    "yes": "ใช่",
+    "checkoutButton": "ชำระเงิน",
+    "emptyCartWarning": "ไม่มีของในตะกร้า!",
+    "outOfStock": "หมด!",
+    "seeArtworks": "ดูงานศิลปะ",
+    "buttonYes": "ใช่"
+  }
+}

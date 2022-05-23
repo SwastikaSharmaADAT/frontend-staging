@@ -1,0 +1,70 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Ciri Hari Ini",
+        "seeMore": "Lihat Lanjut ..."
+    },
+    "loggedOutBanner": {
+        "title": "Selamat datang kepada anda",
+        "title2": "Komuniti Seni",
+        "descr": "Sama ada seni ialah minat anda  atau profesion anda, anda telah tiba  di tempat yang betul.",
+        "joinInBtnText": "Sertai Secara Percuma",
+        "network": "Rangkaian",
+        "blog": "Blog",
+        "news": "Berita",
+        "group": "Kumpulan",
+        "marketplace": "Pasaran",
+        "whatIsArtmo": "Apa itu ARTMO?",
+        "learnMore": "Ketahui Lanjut ...",
+        "signUp": "Buat akaun anda secara percuma",
+        "logIn": "Log Masuk",
+        "videos": "Video",
+        "exhibition": "Pameran",
+        "gallery": "Galeri."
+    },
+    "usersListing": {
+        "title": "BERHUBUNG DENGAN PENCINTA SENI",
+        "follower": "pengikut",
+        "followers": "pengikut",
+        "unfollow": "Nyahikut",
+        "follow": "Ikut",
+        "seeMore": "Lihat Lanjut",
+        "following": "Ikut"
+    },
+    "gridSection": {
+        "home": "MAIN",
+        "artists": "ARTIS",
+        "galleries": "GALERI",
+        "exhibitions": "PAMERAN",
+        "users": "PENGGUNA",
+        "artwork": "KARYA SENI",
+        "genres": "GENRE",
+        "universities": "UNIVERSITI"
+    },
+    "artworkSection": {
+        "title": "BELI DAN JUAL SENI ANDA TANPA KOMISEN BERKAITAN",
+        "priceOnRequest": "Harga atas Permintaan",
+        "artist": "Artis",
+        "member": "Ahli",
+        "seeMore": "Lihat Lanjut ..."
+    },
+    "buzzSection": {
+        "title": "LIHAT APA YANG BERLAKU DALAM DUNIA SENI",
+        "seeMore": "Lihat Lanjut ..."
+    },
+    "videosSection": {
+        "title": "VIDEO",
+        "seeMore": "Lihat Lanjut ..."
+    },
+    "exhibitionsSection": {
+        "title": "CARI PAMERAN DI SELURUH DUNIA",
+        "selectCountry": "pilih lokasi",
+        "latest": "baru-baru ini"  
+    },
+    "potdSection": {
+        "title": "GAMBAR HARI INI",
+        "seeMore": "Lihat Lanjut ..."
+    },
+    "joinInSection": {
+        "joinInTitle": "Sertai kami, ianya percuma."
+    }
+}

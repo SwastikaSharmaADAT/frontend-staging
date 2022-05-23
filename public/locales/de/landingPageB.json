@@ -1,0 +1,70 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Titel-Story",
+        "seeMore": "Mehr sehen..."
+    },
+    "loggedOutBanner": {
+        "title": "Deine",
+        "title2": "Kunst-Plattform",
+        "descr": "Ob Kunst deine Leidenschaft ist  oder Beruf, du bist gekommen  am richtigen Ort.",
+        "joinInBtnText": "Kostenlos registrieren",
+        "network": "Netzwerk",
+        "blog": "Blog",
+        "group": "Gruppen",
+        "news": "Neues",
+        "marketplace": "Marktplatz",
+        "whatIsArtmo": "Was ist ARTMO?",
+        "learnMore": "Mehr erfahren...",
+        "signUp": "Erstellen Sie Ihr Konto kostenlos",
+        "logIn": "Log In",
+        "videos": "videos",
+        "exhibition": "Ausstellungen",
+        "gallery": "Galerien"
+    },
+    "usersListing": {
+        "title": "VERBINDEN SIE SICH MIT KUNSTLIEBHABERN",
+        "follower": "Follower",
+        "followers": "Followers",
+        "unfollow": "Nicht folgen",
+        "follow": "Follow",
+        "seeMore": "Mehr sehen",
+        "following": "Folge ich"
+    },
+    "gridSection": {
+        "home": "HOME",
+        "artists": "KÜNSTLER",
+        "galleries": "GALERIEN",
+        "exhibitions": "AUSSTELLUNGEN",
+        "users": "NUTZER",
+        "artwork": "KUNSTWERKE",
+        "genres": "GENRES",
+        "universities": "UNIVERSITÄTEN"
+    },
+    "artworkSection": {
+        "title": "KAUFEN UND VERKAUFEN SIE IHRE KUNST OHNE PROVISIONEN",
+        "priceOnRequest": "Preis auf Anfrage",
+        "artist": "Künstler",
+        "member": "Member",
+        "seeMore": "Mehr sehen"
+    },
+    "buzzSection": {
+        "title": "SEHEN SIE, WAS DIE KUNSWELT BEWEGT",
+        "seeMore": "Mehr sehen"
+    },
+    "videosSection": {
+        "title": "VIDEOS",
+        "seeMore": "Mehr sehen"
+    },
+    "exhibitionsSection": {
+        "title": "AUSSTELLUNGEN WELTWEIT FINDEN",
+        "selectCountry": "Wählen Sie einen Standort",
+        "latest": "neuerdings"
+    },
+    "potdSection": {
+        "title": "BILD DES TAGES",
+        "seeMore": "Mehr sehen"
+    },
+    "joinInSection": {
+        "joinInTitle": "Mach mit, es ist kostenlos."
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "delete": "ลบ",
+  "warningDeleteConversation": "แน่ใจใช่ไหมว่าจะลบบทสนทนานี้?",
+  "block": "บล็อก",
+  "unblock": "เลิกบล็อก",
+  "blockWarning": "คุณแน่ใจแล้วใช่ไหม",
+  "thisUser": "ผู้ใช้คนนี้?",
+  "placeholderMessage": "พิมพ์ข้อความที่นี่...",
+  "send": "ส่ง",
+  "blockText": "คณไม่สามารถตอบบทสนทนานี้ได้ อาจจะเพราะผู้ใช้คนนี้ตั้งค่าให้เป็นส่วนตัวหรือถูกระงับใช้งาน",
+  "noMessage": "ไม่มีข้อความ",
+  "history": "ดูประวัติแชท",
+  "emojiPicker": {
+    "smileys_people": "หน้ายิ้ม & ผู้คน ",
+    "animals_nature": "สัตว์ & ธรรมชาติ",
+    "food_drink": "อาหาร & เครื่องดื่ม",
+    "travel_places": "ท่องเที่ยว & สถานที่",
+    "activities": "กิจกรรม",
+    "objects": "สิ่งของ",
+    "symbols": "สัญลักษณ์",
+    "flags": "ธง",
+    "recently_used": "ที่ใช้บ่อย"
+  }
+}

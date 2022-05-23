@@ -1,0 +1,156 @@
+{
+    "tabLabels": {
+        "dashboard": "PANEL DE CONTROL",
+        "mediaLibrary": "MEDIATECA",
+        "artworks": "OBRAS DE ARTE",
+        "orders": "PEDIDOS",
+        "customers": "CLIENTES",
+        "settings": "AJUSTES",
+        "addArtwork": "Agregar Obra de Arte"
+    },
+    "incompletePopup": {
+        "mainText": "Genial verte aquí, comenzando a subir tus obras de arte.",
+        "subText": "Antes de poder cargar y publicar obras de arte, debe completar su perfil."
+      },
+    "knowledgeBase": {
+        "title": "BASE DE CONOCIMIENTOS"
+    },
+    "dashboard": {
+        "title": "Panel de control",
+        "learnMore": "Saber Más",
+        "sections": {
+            "sec1": "APROBACIÓN DE LA OBRA",
+            "sec2": "¿CÓMO PUEDO APROBAR MIS OBRAS DE ARTE?",
+            "sec3": "Consulte las instrucciones de carga de obras de arte aquí.",
+            "sec4": "¿CÓMO SE VENDE UNA OBRA DE ARTE?",
+            "here": "here."
+        }
+    },
+    "artworks": {
+        "title": "Obras de Arte",
+        "addNew": "Añadir Nueva",
+        "learnMore": "Saber Más",
+        "draft": "borrador",
+        "published": "Publicado",
+        "underReview": "Aprobación pendiente",
+        "sold": "Vendido",
+        "pending": "Es necesario editar",
+        "show": "Mostrar",
+        "entries": "Entradas",
+        "placeholderSearch": "Buscar",
+        "eur": "EUR",
+        "quickEdit": {
+            "title": "Edición Rapida",
+            "confirmButton": "Sí",
+            "markAsSoldText": "¿Estás seguro de que deseas marcar esta obra de arte como vendida? Esto no se puede deshacer",
+            "switchLeft": "vendido",
+            "switchRight": "Disponible",
+            "saveChanges": "Guardar cambios",
+            "selfNotePlaceholder": "Nota Personal",
+            "titlePlaceholder": "Título",
+            "pricePlaceholder": "Precio",
+            "priceOnRequestPlaceholder": "Precio en Demanda"
+        },
+        "delete": {
+            "confirmButton": "Sí",
+            "confirmDeleteText": "¿Está seguro de que desea eliminar esta obra de arte?"
+        },
+        "hover": {
+            "view": "Ver",
+            "quickEdit": "Edición Rapida",
+            "edit": "Editar",
+            "delete": "Eliminar"
+        }
+    },
+    "orders": {},
+    "settings": {
+        "title": "Ajustes",
+        "learnMore": "Saber Más",
+        "saveChanges": "Guardar Cambios",
+        "updateChanges": "Actualizar Cambios",
+        "optionTitles": {
+            "general": "General",
+            "vacation": "Vacaciones",
+            "subscription": "Suscripción",
+            "payouts": "Pagos"
+        },
+        "general": {
+            "vendorEmail": "Correo electrónico del proveedor",
+            "timezone": "Zona Horaria",
+            "shippingPolicy": "Politica de Envios",
+            "validationErrors": {
+                "email": "Por favor, introduce una dirección de correo electrónico válida",
+                "shippingPolicy": "La política de envío puede tener un máximo de 1000 caracteres."
+            }
+        },
+        "vacation": {
+            "vacationMode": "Habilitar el modo de vacaciones",
+            "disablePurchase": "Desactivar la compra durante las vacaciones",
+            "vacationMessage": "Mensaje de vacaciones",
+            "validationErrors": {
+                "vacationMessage": "El mensaje de vacaciones puede tener un máximo de 1000 caracteres"
+            }
+        },
+        "subscription": {
+            "paymentsVia": "Pagos vía",
+            "paypalEmail": "E-mail de Paypal",
+            "cardNumber": "Card number ",
+            "changePaymentData": "Cambiar Datos de Pago",
+            "subscriptionPeriod": "Periodo de suscripción",
+            "price": "Precio",
+            "eur": "EUR",
+            "upcomingPayment": "Próximo pago",
+            "upgradeMembership": "Suscripción de actualización",
+            "downgradeYourAccount": "Degradar su suscripción",
+            "cancelSubscription": "Cancela tu suscripción",
+            "cancelConfirmText": "¿Estás seguro de que deseas cancelar tu suscripción?",
+            "buttonYes": "Sí",
+            "changePaymentText": "¿Está seguro de que desea cambiar el tipo de pago?",
+            "basicPlanText": "Este es un plan gratuito. No se requiere pago."
+        },
+        "payouts": {
+            "wireTransfer": "Transferencia Bancaria",
+            "payPal": "PayPal",
+            "paymentTypeQuestion": "¿Cómo desea recibir el dinero de sus ventas de arte?",
+            "country": "País",
+            "bankAccountNumber": "Número de Cuenta Bancaria",
+            "email": "Email",
+            "routingNumber": "Número de Ruta",
+            "validationErrors": {
+                "bankAccountNumber": "El número de cuenta bancaria puede tener un máximo de 24 dígitos.",
+                "routingNumber": "El número de ruta puede tener un máximo de 24 dígitos",
+                "country": "El país es obligatorio",
+                "email": "Correo electronico es requerido",
+                "bankAccountNumberLength": "El número de cuenta bancaria puede tener un máximo de 24 dígitos",
+                "routingNumberLength": "El número de ruta puede tener un máximo de 24 dígitos",
+                "paymentType": "Se requiere tipo de pago",
+                "invalidEmail": "Introduzca una dirección de correo electrónico válida"
+            }
+        }
+    },
+    "knowledgebase": {
+        "accordion1": "¿Cómo configurar el Modo de Vacaciones?",
+        "accordion2": "¿Cómo envío una Obra de Arte?",
+        "accordion3": "¿Por qué mi producto no está visible en Colecciones?",
+        "accordion4": "Requisitos de la foto",
+        "accordion5": "Certificado de autenticidad (descargar)"
+    },
+    "purchaseSubscriptionMessage": "Por favor compre una suscripción primero",
+    "profileCompletionPopup": {
+        "title": "Complete su Cuenta",
+        "addProfileImage": "Agregar imagen de perfil",
+        "startSellingArt": "Empieza a Vender Arte",
+        "placeholder": {
+            "phone": "Número de Teléfono",
+            "city": "Ciudad",
+            "country": "País"
+        },
+        "validationErrors": {
+            "profileImageRequired": "Se requiere imagen de perfil",
+            "cityRequired": "Ciudad es requerida",
+            "countryRequired": "El país es obligatorio",
+            "phoneRequired": "Se requiere número de teléfono",
+            "invalidPhone": "El número de teléfono no es válido"
+        }
+    }
+}

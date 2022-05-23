@@ -1,0 +1,122 @@
+{
+    "addContent": {
+        "placeholderAdd": "추가하기",
+        "post": "게시물",
+        "video": "비디오",
+        "album": "앨범",
+        "article": "기사",
+        "artwork": "작품"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "사진 앨범 추가",
+        "limitText": "이미지 추가 (최대 50자)",
+        "addImages": "이미지 추가",
+        "placeholderAddTitle": "제목 추가",
+        "writeSomething": "여기 무언가 적어보세요",
+        "firstPhotoInfo": "첫 번째 사진은 앨범 커버 이미지가 됩니다",
+        "publish": "발행하기",
+        "errorLabels": {
+            "maxCharacter100": "100자만 입력가능합니다",
+            "titleRequired": "제목은 필수 입력 항목입니다",
+            "maxCharacter500": "500자만 입력가능합니다"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "포토 앨법 편집",
+        "updateButton": "업데이트"
+    },
+    "addPostPopup": {
+        "title": "게시물 작성",
+        "editPhoto": "사진 편집",
+        "addPhoto": "사진 추가",
+        "writeSomething": "여기 무언가 적어보세요",
+        "postDescCount": "/200",
+        "publish": "발행하기"
+    },
+    "editPostPopup": {
+        "title": "게시물 편집",
+        "updateButton": "업데이트"
+    },
+    "addVideoPopup": {
+        "title": "비디오 추가",
+        "validUrlError": "유효한 URL을 입력하세요",
+        "placeholderEnterLink": "YouTube, Vimeo 등의 링크를 입력하세요",
+        "placeholderWriteSomething": "여기 무언가 적어보세요",
+        "addCategory": "카테고리 추가",
+        "next": "다음",
+        "publish": "발행하기",
+        "update": "업데이트"
+    },
+    "editVideoPopup": {
+        "title": "비디오 게시물 편집",
+        "updateButton": "업데이트"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "새 활동이 추가되었습니다",
+        "refresh": "새로고침"
+    },
+    "hashtags": {
+        "title": "가장 인기많은 해쉬태크",
+        "noHashtagsAdded": "추가된 해쉬태그가 없습니다",
+        "post": "게시물",
+        "postPlural": "게시물"
+    },
+    "manageArtwork": {
+        "follower": "팔로워",
+        "followerPlural": "팔로워",
+        "visit": "방문 ",
+        "manage": "관리 ",
+        "noPageFound": "페이지가 발견되지 않았습니다"
+    },
+    "profile": {
+        "follower": "팔로워",
+        "followerPlural": "팔로워",
+        "profileCompleteness": "프로필 완성도",
+        "editProfile": "프로필 편집"
+    },
+    "singlePost": {
+        "photo": "사진",
+        "photoPlural": "사진",
+        "seeInStore": "스토어에서 보기",
+        "deleteText": "댓글 삭제를 정말 원하십니까?",
+        "capsHide": "숨기기",
+        "capsUnhide": "숨기기 해제",
+        "hide": "숨기기",
+        "unhide": "슴기기 해제",
+        "areYouSure": "정말 원하십니까?",
+        "thisComment": "이 댓글을?",
+        "update": "업데이트",
+        "like": "좋아요",
+        "comment": "댓글",
+        "liked": "선택됨",
+        "likedBy": "좋아하는 사람",
+        "lowerLike": "좋아요",
+        "lowerLikePlural": "좋아요",
+        "lowerUnlike": "싫어요",
+        "lowerComment": "댓글",
+        "lowerCommentPlural": "댓글",
+        "share": "공유",
+        "pending": "보류",
+        "deleteActivity": "이 활동을 정말 삭제하기를 원하십니까?",
+        "accept": "수락",
+        "reject": "거절",
+        "delete": "삭제",
+        "seeMore": "더 보기",
+        "price": "Price",
+        "priceOnRequest": "요청 가격",
+        "placeholderComment": "댓글을 입력하세요...",
+        "publish": "게시하기",
+        "loadMoreText": "추가 로드...",
+        "loadMoreRepliesText": "답장 추가 로드...",
+        "edit": "편집하기",
+        "commentRemoved": "이 댓글이 제거되었습니다",
+        "replyRemoved": "이 답장이 제거되었습니다."
+    },
+    "singleActivity": {
+        "activityNotAvailable": "이 활동을 사용할 수 없습니다.",
+        "seeMore": "더 보기...",
+        "alreadyHaveAnAccount": "이미 계정이 있습니까?",
+        "signUp": "가입",
+        "logIn": "로그인"
+    }
+}

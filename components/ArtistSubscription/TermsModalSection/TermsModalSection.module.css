@@ -1,0 +1,91 @@
+.accordion {
+  border: 0;
+  border-radius: 0;
+  margin: 0px;
+}
+
+.accordion__button {
+  display: flex;
+  align-items: center;
+  width: auto;
+  justify-content: space-between;
+  background: #fff;
+  border: 0;
+  margin: 0;
+  font-size: 16px;
+  line-height: 29px;
+  color: #222222;
+  padding: 15px;
+  box-shadow: none;
+}
+
+.accordion__button:focus,
+.accordion__button:hover {
+  outline: 0;
+  box-shadow: none;
+  background: #fff;
+}
+
+.accordion__button:before {
+  order: 2;
+  margin-top: -5px;
+  color: #000;
+}
+
+.accordion__button:before {
+  transform: rotate(45deg);
+}
+
+.accordion__button[aria-expanded="true"]::before,
+.accordion__button[aria-selected="true"]::before {
+  transform: rotate(224deg);
+  margin-top: 4px;
+}
+
+.accordion__panel {
+  padding: 15px;
+  animation: fadein 0.35s ease-in;
+  border: 0;
+  border-top: 0;
+  margin: 0 0 15px;
+  color: #222;
+  background: #fff;
+  font-size: 14px;
+}
+
+.accordion__panel p {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+}
+
+.accordion__item {
+  margin: 0 0 15px;
+}
+
+.accordion__button:hover {
+  background-color: #fff;
+  box-shadow: none;
+}
+
+.accordion__item + .accordion__item {
+  border-top: 0;
+}
+
+@media (max-width: 767px) {
+  .accordion {
+    margin: 15px;
+  }
+  .accordion__button {
+    font-size: 16px;
+    line-height: normal;
+    padding: 10px;
+  }
+  .accordion__panel {
+    padding: 15px;
+    font-size: 14px;
+  }
+  .accordion__button span {
+    max-width: 80%;
+  }
+}

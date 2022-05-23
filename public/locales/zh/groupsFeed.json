@@ -1,0 +1,62 @@
+{
+    "createPost": {
+        "title": "创建帖子",
+        "editPhoto": "编辑图片",
+        "addPhoto": "加入图片",
+        "characterLimit": "/500",
+        "publish": "发布",
+        "placeholderWriteSomething":"写点什么..."
+    },
+    "groupBarHead": {
+        "leave": "Leave",
+        "confirmLeave": "您确定要离开小组吗？",
+        "uploadPhoto": "上传图片",
+        "removePhoto": "更换图片",
+        "changePhoto": "删除图片",
+        "group": "小组",
+        "leaveGroup": "离开小组",
+        "joinGroup": "加入小组",
+        "lastActive": "最后登录",
+        "members": " 成员",
+        "posts": "帖子",
+        "editGroupSettings": "编辑小组设置",
+        "Leave": "离开"
+    },
+    "memberSection": {
+        "title": "小组成员",
+        "members": "成员",
+        "seeAll": "查看全部..."
+    },
+    "invite": {
+        "title": "邀请朋友",
+        "seeAll": "查看全部",
+        "invited": "已邀请",
+        "follower": "粉丝",
+        "followerPlural": "粉丝",
+        "allConnectionsInvited": "邀请您所有的朋友",
+        "noConnectionsToInvite": "No connections to invite",
+        "inviteTo": "邀请到",
+        "invite": "邀请",
+        "loading": "Loading..."
+    },
+    "joinRequests": {
+        "title": "加入请求",
+        "follower": "粉丝",
+        "followerPlural": "粉丝",
+        "reject": "拒绝",
+        "accept": "接受",
+        "noMoreRequests": "不再有加入请求"
+    },
+    "listingPopup": {
+        "remove": "删除",
+        "admin": "(管理员)",
+        "moderator": "(主持人)",
+        "follower": "粉丝",
+        "followerPlural": "粉丝",
+        "assignModerator": "指派为主持人",
+        "removeFromGroup": " 从组内删除",
+        "addedAsModerator": "添加为主持人",
+        "deleteConfirm": "您确定要删除此用户吗?"
+    },
+    "notAuthorized": "未经授权"
+}

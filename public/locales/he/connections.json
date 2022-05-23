@@ -1,0 +1,19 @@
+{
+  "myConnectionsLabel": "החיבורים שלי",
+  "connectionRequests": "בקשות חיבור",
+  "connectionRequestsSent": "בקשות חיבור נשלחו",
+  "follower": "עוקב",
+  "followerPlural": "עוקבים",
+  "disconnected": "מנותק",
+  "disconnect": "התנתק",
+  "loadMore": "טעו עוד...",
+  "noConnections": "אין חיבורים",
+  "ignore": "התעלם",
+  "ignored": "התעלם",
+  "connect": "חיבור",
+  "connected": "מחובר",
+  "noConnectionRequestsReceived": "לא התקבלו בקשות לחיבור",
+  "noConnectionRequestsSent": "לא נשלחו בקשות חיבור",
+  "requestDeleted": "בקשה נמחקה",
+  "deleteRequest": "מחק בקשה"
+}

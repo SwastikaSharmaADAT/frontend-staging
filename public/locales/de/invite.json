@@ -1,0 +1,29 @@
+{
+  "title": "FREUNDE EINLADEN",
+  "followers": "MEHR FOLLOWERS",
+  "ctaText": "Vernetze deine Freunde und Kontakten.",
+  "tagsInput": {
+    "placeholder": "E-Mails manuell hinzufügen. Trenne jede E-Mail durch ein Komma oder die Eingabetaste nach jeder E-Mail drücken."
+  },
+  "cancelButtonLabel": "Abbrechen",
+  "sendInvitesButtonLabel": "Einladungen senden",
+  "howInviteWork": "Wie funktioniert das?",
+  "emailTemplateText": "Kann ich die E-Mail vor dem Senden sehen?",
+  "pickEmailService": "oder wähle deinen E-Mail-Dienst ...",
+  "sendManually": "Füge E-Mail-Adressen ein ...",
+  "gmailText": "Gmail",
+  "outlookText": "Outlook",
+  "selectedText": "Ausgewählt",
+  "emptyResultText": "Keine Einträge gefunden",
+  "template": {
+    "hasInvitedYou": "hat dich zu ARTMO eingeladen",
+    "yourProfilePic": "Your Profile Picture",
+    "emailContent": "Hallo, ich würde dich gerne zu meinem Netzwerk auf ARTMO einladen.",
+    "click": "Klick",
+    "here": "hier",
+    "seeMyProfile": "Siehe mein Profil",
+    "kit": "Auf bald!",
+    "whatIsArtmo": "Was ist ARTMO?",
+    "learnMore": "Mehr erfahren"
+  }
+}

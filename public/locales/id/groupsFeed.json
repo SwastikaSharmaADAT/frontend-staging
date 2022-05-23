@@ -1,0 +1,62 @@
+{
+    "createPost": {
+        "title": "Buat Postingan",
+        "editPhoto": "Edit foto",
+        "addPhoto": "Tambahkan Foto",
+        "characterLimit": "/500",
+        "publish": "Publikasikan",
+        "placeholderWriteSomething": "Tuliskan sesuatu..."
+    },
+    "groupBarHead": {
+        "leave": "Meninggalkan",
+        "confirmLeave": "Anda yakin ingin keluar dari grup?",
+        "uploadPhoto": "Unggah foto",
+        "removePhoto": "Ganti Foto",
+        "changePhoto": "Hapus Foto",
+        "group": "Grup",
+        "leaveGroup": "Tinggalkan grup",
+        "joinGroup": "Bergabung dengan grup",
+        "lastActive": "Terakhir aktif",
+        "members": "anggota",
+        "posts": "postingan",
+        "editGroupSettings": "Edit Pengaturan Grup",
+        "Leave": "Meninggalkan"
+    },
+    "memberSection": {
+        "title": "Anggota Grup",
+        "members": "anggota",
+        "seeAll": "Lihat Semua..."
+    },
+    "invite": {
+        "title": "Undang Koneksi",
+        "seeAll": "Lihat Semua",
+        "invited": "Diundang",
+        "follower": "pengikut",
+        "followerPlural": "para pengikut",
+        "allConnectionsInvited": "Semua koneksi anda diundang.",
+        "noConnectionsToInvite": "Tidak ada koneksi untuk diundang",
+        "inviteTo": "Mengundang ke",
+        "invite": "Mengundang",
+        "loading": "Memuat..."
+    },
+    "joinRequests": {
+        "title": "Permintaan Bergabung",
+        "follower": "pengikut",
+        "followerPlural": "para pengikut",
+        "reject": "Menolak",
+        "accept": "Menerima",
+        "noMoreRequests": "Tidak ada lagi permintaan bergabung"
+    },
+    "listingPopup": {
+        "remove": "Menghapus",
+        "admin": "(Admin)",
+        "moderator": "(Moderator)",
+        "follower": "pengikut",
+        "followerPlural": "para pengikut",
+        "assignModerator": "Tetapkan sebagai Moderator",
+        "removeFromGroup": "Hapus dari Grup",
+        "addedAsModerator": "Ditambahkan sebagai Moderator",
+        "deleteConfirm": "Apakah anda yakin ingin menghapus pengguna ini?"
+    },
+    "notAuthorized": "Tidak diizinkan"
+}

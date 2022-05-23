@@ -1,0 +1,83 @@
+{
+    "pageNotFound": {
+        "404": "404",
+        "signUpTextNotFound": "或者如果您没有配置文件，请注册 ...",
+        "pageNotFound": "我们似乎无法找到您正在寻找的页面。<br/>您可能想要尝试其中一个选项; 这应该够了吧...",
+        "goBackHome": "回去"
+    },
+    "usersTermsConditions": {
+        "title": "用户条款和条件",
+        "overview": "1. 概述",
+        "contentEligibility": "2. 内容和资格",
+        "feesPayments": "3. 费用和付款",
+        "accountTermination": "4. 终止和注销账户",
+        "provisions": "5. 另行规定",
+        "seePrivacyPolicy": "参见隐私政策",
+        "seeVendorTermsConditions": "见供应商的条款和条件"
+    },
+    "privacyPolicyPage": {
+        "title": "隐私政策",
+        "seeVendorTermsConditions": "S见供应商的条款和条件",
+        "seeUserTermsConditions": "见用户条款和条件",
+        "accountPrivacySettings": "帐户隐私设置",
+        "dataSecurity": "数据安全",
+        "collectingPersonalData": "收集和处理个人数据",
+        "adsOnArtmo": "ARTMO上的广告"
+    },
+    "vendorTermsConditions": {
+        "title": "供应商的条款和条件",
+        "seePrivacyPolicy": "参见隐私政策",
+        "seeUserTermsConditions": "见用户条款和条件",
+        "impOverview": "首先 ... 一个重要的概述",
+        "stepByStep": "循序渐进",
+        "overview": "1. 概述",
+        "fees": "2. 佣金|费用|付款|退款",
+        "termination": "3. 终止和注销账户",
+        "payoutSchedule": "4. 销售支出计划",
+        "contentEligibility": "5. 内容和资格",
+        "yourObligations": "6. 您的义务",
+        "artmoObligations": "7. ARTMO的义务",
+        "returns": "8. 退货和争议",
+        "provisions": "9. 另行规定",
+        "shippingReturnPolicy": "发货和退货政策"
+    },
+    "whatIsArtmo": {
+        "title": "ARTMO是什么?",
+        "artNetwork": "艺术网络",
+        "artEnthusiast": "艺术爱好者",
+        "muchMore": "以及更多！",
+        "member": "成员",
+        "pages": "页面",
+        "marketplace": "市场",
+        "needHelp": "需要帮助 - 联系我们 ...",
+        "artist": "艺术家",
+        "gallery": "画廊",
+        "university": "大学",
+        "shop": "店铺"
+    },
+    "mobileApp": {
+        "title": "移动应用程序",
+        "subHeading": "如何从手机主屏幕启动ARTMO",
+        "note": "注",
+        "step": "步骤",
+        "done": "完成"
+    },
+    "artworkUploadInst": {
+        "headerTitle": "艺术品上传说明",
+        "images": "图像",
+        "title": "头衔",
+        "artMaterial": "艺术材料",
+        "series": "系列",
+        "limitedEdition": "限量版",
+        "price": "价格",
+        "dimension": "纬度",
+        "frame": "框架",
+        "medium": "媒介",
+        "genre": "流派",
+        "subjectTags": "主题标签",
+        "description": "说明",
+        "text": "文本",
+        "yourProfile": "您的个人资料",
+        "pdf": "PDF"
+    }
+}

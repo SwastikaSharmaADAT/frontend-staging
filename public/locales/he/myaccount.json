@@ -1,0 +1,161 @@
+{
+  "leftTabs": {
+    "account": "חשבון",
+    "changePassword": "שנה סיסמה",
+    "setPassword": "הגדר סיסמה",
+    "privacy": "פרטיות",
+    "notifications": "התראות",
+    "webNotifications": "התראות אינטרנט",
+    "socialConnect": "חברתי",
+    "myPhotos": "התמונות שלי",
+    "deleteAccount": "מחק חשבון"
+  },
+  "account": {
+    "title": "חשבון",
+    "username": "שם משתמש",
+    "firstname": "שם פרטי",
+    "lastname": "שם משפחה",
+    "pagename": "שם עמוד",
+    "email": "כתובת דוא\"ל",
+    "updateAccount": "עדכן חשבון",
+    "validationErrors": {
+      "firstname": "שם פרטי נדרש",
+      "lastname": "שם משפחה נדרש",
+      "firstnameLength": "חייב להכיל 50 תווים או פחות",
+      "lastnameLength": "חייב להכיל 50 תווים או פחות",
+      "pagename": "שם עמוד נדרש",
+      "pagenameLength": "חייב להכיל 50 תווים או פחות"
+    }
+  },
+  "changePassword": {
+    "changeTitle": "שנה סיסמה",
+    "setTitle": "הגדר סיסמה",
+    "currentPassword": "סיסמה נוכחית",
+    "newPassword": "סיסמה חדשה",
+    "confirmPassword": "אשר סיסמה",
+    "updatePassword": "עדכן סיסמה",
+    "validationErrors": {
+      "currentPassword": "אנא הזן את הסיסמה הנוכחית",
+      "newPassword": "אנא הזן סיסמה חדשה",
+      "confirmPassword": "אנא אשר את הסיסמה",
+      "passConditions": "חייב להכיל 8 תווים, לפחות אותיות רישיות, אותיות קטנות ומספר אחד",
+      "passNotMatch": "סיסמאות לא תואמות"
+    }
+  },
+  "notifications": {
+    "title": "התראות",
+    "description": "בחר אילו הודעות דוא\"ל ברצונך לקבל",
+    "headings": {
+      "followers": "עוקבים",
+      "friends": "חברים",
+      "posts": "פוסטים",
+      "messages": "הודעות"
+    },
+    "checkboxLabels": {
+      "newFollowers": "עוקב אחריי מישהו חדש",
+      "newConnectionAdded": "יש לי חיבור חדש",
+      "newConnectionRequest": "יש לי בקשת חיבור חדשה",
+      "groupPost": "הודע לי כשמישהו מפרסם בקבוצה",
+      "groupComments": "הודע לי כאשר מישהו מגיב בקבוצה",
+      "privateMessage": "מישהו שלח לי הודעה פרטית",
+      "unreadMessage": "יש לי הודעה שלא נקראה"
+    },
+    "updateNotifications": "עדכן התראות"
+  },
+  "privacy": {
+    "title": "פרטיות",
+    "profilePrivacy": "פרטיות פרופיל",
+    "showProfileOptions": {
+      "everyone": "כולם",
+      "onlyMe": "רק אני",
+      "following": "רק אנשים שאני עוקב אחריהם יכולים לצפות בפרופיל שלי",
+      "followers": "עוקבים",
+      "connections": "רק חיבורים"
+    },
+    "tooltips": {
+      "tip1": "מי יכול לראות את הפרופיל הציבורי שלך?",
+      "tip2": "כאן אתה יכול להסתיר את עצמך מלהופיע בספרייה ציבורית",
+      "tip3": "האם אתה רוצה שאנשים אחרים יראו שאתה מקוון?",
+      "tip4": "תוכל לבקש קובץ עם המידע שלדעתנו הוא הרלוונטי והשימושי ביותר עבורך.",
+      "tip5": "אתה יכול לבקש מחיקה של הנתונים שיש לנו עליך.",
+    },
+    "hideProfile": "הסתר את הפרופיל שלי מהספרייה",
+    "yes": "כן",
+    "no": "לא",
+    "showOnlineStatus": "הצג את הסטטוס המקוון שלי",
+    "activityWall": "מי יכול לראות את קיר הפעילות שלך?",
+    "activityWallOptions": {
+      "public": "ציבורי",
+      "onlyMe": "רק אני",
+      "followers": "עוקבים",
+      "following": "אנשים שאני עוקב אחריהם"
+    },
+    "privateMessage": "מי יכול לשלוח לי הודעות פרטיות?",
+    "privateMessageOptions": {
+      "everyone": "כולם",
+      "nobody": "אף אחד",
+      "following": "רק אנשים שאני עוקב אחריהם",
+      "followers": "עוקבים",
+      "connections": "מחובר"
+    },
+    "downloadData": "הורד את הנתונים שלך",
+    "downloadDataDescription": "הזן את הסיסמה הנוכחית שלך כדי לאשר ייצוא חדש של הנתונים האישיים שלך.",
+    "downloadDataButton": "בקש נתונים",
+    "eraseData": "מחק את הנתונים שלך",
+    "eraseDataDescription": "הזן את הסיסמה הנוכחית שלך כדי לאשר מחיקה של הנתונים האישיים שלך.",
+    "eraseDataButton": "בקש מחיקת נתונים",
+    "updatePrivacyButton": "עדכן פרטיות"
+  },
+  "webNotifications": {
+    "title": "התראות אינטרנט",
+    "description": "קבלת התראות",
+    "checkboxLabels": {
+      "newReplies": "כאשר חבר עונה לאחת מהתגובות שלי",
+      "newComments": "כאשר חבר מגיב על ההודעות שלי",
+      "viewProfile": "כאשר חבר צופה בפרופיל שלי",
+      "privateMessage": "כשמישהו שולח לי הודעה פרטית",
+      "newFollower": "כשמישהו עוקב אחרי",
+      "newConnection": "כאשר מישהו מבקש להתחבר",
+      "acceptConnection": "כשמישהו מאשר חיבור",
+      "newLike": "כשמישהו אוהב את ההודעה שלך",
+      "newMention": "כשמישהו מזכיר אותי",
+      "groupRequestApproved": "כאשר בקשות הקבוצה שלי אושרו",
+      "newGroupRequest": "כאשר משתמש ביקש להצטרף לקבוצה שלי",
+      "groupInvitation": "כאשר חבר הזמין להצטרף לקבוצה",
+      "groupRole": "כאשר תפקידי הקבוצה השתנו",
+      "likeArtwork": "כשמישהו אוהב יצירת אמנות"
+    },
+    "updateSettingsButton": "עדכן התראות"
+  },
+  "socialConnect": {
+    "title": "חברתי",
+    "notConnected": "אינך מחובר לשום חשבון מדיה חברתית.",
+    "disconnectFacebook": "התנתק מפייסבוק",
+    "disconnectLinkedin": "התנתק מלינקדאין",
+    "passwordWarning": "*אנא הגדר את הסיסמה שלך לפני ניתוק החשבון"
+  },
+  "myPhotos": {
+    "title": "התמונות שלי",
+    "warningText": "ברגע שהתמונות והאלבומים נמחקים, הם נמחקים לצמיתות ולא ניתן לשחזר אותם.",
+    "button1": "הורד את התמונות שלי",
+    "button2": "מחק את כל האלבומים והתמונות שלי",
+    "downloadWarning": "* המשימה של הורדת התמונות שלי עשויה להימשך זמן מה, בהתאם למספר התמונות שהועלו.",
+    "imagesWarning": "* הורדת התמונות שלי עשויה להימשך זמן מה, בהתאם למספר התמונות שהועלו.",
+    "buttonDelete": "מחק",
+  },
+  "deleteAccount": {
+    "title": "מחק חשבון",
+    "warningText": "האם אתה בטוח שאתה רוצה למחוק את חשבונך? פעולה זו תמחק את כל נתוני החשבון שלך מהאתר. כדי למחוק את חשבונך הזן את הסיסמה שלך למטה",
+    "button": "מחק חשבון",
+    "password": "סיסמה",
+    "passwordWarning": "*אנא הגדר את הסיסמה שלך לפני ניתוק החשבון",
+    "managePaymentsTitle": "נהל תשלומים עבור מנוי ספק",
+    "managePaymentsText": "אם אתה רוצה להפסיק את התשלומים, אתה לא צריך למחוק את הפרופיל שלך.<br/>תוכל לשמור אותו.<br/>תוכל לשדרג לאחור בקלות לחבילת BASIC ללא צורך בתשלומים נוספים.",
+    "managePaymentsText2": "ראה בדשבורד שלך",
+    "managePaymentsQuoteText": "שנמך את המנוי שלך",
+    "managePaymentsButtonText": "עבור לדשבורד > מנוי",
+  },
+  "imageContainer": {
+    "viewProfile": "צפה בפרופיל",
+  }
+}

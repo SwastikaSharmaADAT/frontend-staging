@@ -1,0 +1,20 @@
+{
+    "title": "BADGES",
+    "promoteProfileSection": {
+        "title": "קדם את הפרופיל שלך",
+        "description": "הטמע קישור לפרופיל ARTMO שלך באתרי האינטרנט שלך.",
+        "getLinkButton": "קבל קישור",
+    },
+    "badgeSections": {
+        "step1": "שלב 1: בחר צבע:",
+        "whiteRadioOption": "לבן",
+        "blackRadioOption": "שחור",
+        "step2": "שלב 2: בחר גודל:",
+        "largeRadioOption": "גדול",
+        "smallRadioOption": "קטן",
+        "step3": "שלב 3: העתק והדבק את הקוד באתר שלך:",
+        "copyButtonText": "העתק את הקוד",
+        "copiedButtonText": "הועתק!",
+        "helpText": "עזרה",
+    }
+}

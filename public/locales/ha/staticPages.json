@@ -1,0 +1,83 @@
+{
+    "pageNotFound": {
+        "404": "404",
+        "signUpTextNotFound": "Ko kayi rajista idan baka da shafi ...",
+        "pageNotFound": "Bamu samu shafin da kake nema ba.<br/>Amma zaka iya neman wadannan zabukan; hakan zai taimaka...",
+        "goBackHome": "Koma Baya"
+    },
+    "usersTermsConditions": {
+        "title": "DOKOKI DA KA'IDOJIN MASU AMFANI",
+        "overview": "1. GABADAYA",
+        "contentEligibility": "2. ABUBUWAN CIKI DA CANCANTA",
+        "feesPayments": "3. KUDI DA BIYA",
+        "accountTermination": "4. GOGEWA DA SOKEWAR ASUSU",
+        "provisions": "5. ABUBUWA NA GABA",
+        "seePrivacyPolicy": "Kalli Manufar Sirri",
+        "seeVendorTermsConditions": "Kalli Dokoki da Ka'idojin Masu Amfani"
+    },
+    "privacyPolicyPage": {
+        "title": "KA'IDOJIN SIRRI",
+        "seeVendorTermsConditions": "Kalli Dokoki da Ka'idojin Dillali",
+        "seeUserTermsConditions": "Kallo Dokoki da Ka'idojin Mai Amfani",
+        "accountPrivacySettings": "SAITIN ASUSUN SIRRI",
+        "dataSecurity": "TSARON BAYANAI",
+        "collectingPersonalData": "KARBA DA SARRAFA BAYANAN MUTUM",
+        "adsOnArtmo": "TALLE-TALLE AKAN ARTMO"
+    },
+    "vendorTermsConditions": {
+        "title": "DOKOKI DA KA'IDOJIN DILLALI",
+        "seePrivacyPolicy": "Kalli Manufar Sirri",
+        "seeUserTermsConditions": "Kalli Dokoki da Ka'idojin Mai Amfani",
+        "impOverview": "Da farko dai ... bayanai mai muhimmanci",
+        "stepByStep": "Mataki-mataki",
+        "overview": "1. BAYANAI",
+        "fees": "2. KAMISHO | KUDI | BIYA | MAIDA KUDI",
+        "termination": "3. GOGEWA DA SOKEWAR ASUSU",
+        "payoutSchedule": "4. SAITA LOKACIN TURA KUDIN DA AKAYI SIYAYYA",
+        "contentEligibility": "5. ABUBUWAN CIKI DA CANCANTA",
+        "yourObligations": "6. WAJIBCIN KA",
+        "artmoObligations": "7. WAJIBCIN ARTMO",
+        "returns": "8. DAWO DA KUDI DA RIGINGIMU",
+        "provisions": "9. CIGABAN BAYANAI",
+        "shippingReturnPolicy": "MANUFAR AIKA KAYA DA DAWO DA KUDI"
+    },
+    "whatIsArtmo": {
+        "title": "Menene ARTMO?",
+        "artNetwork": "Netwok din Zane",
+        "artEnthusiast": "Masoyan Zane",
+        "muchMore": "da dai sauran su!",
+        "member": "Membobi",
+        "pages": "Shafuka",
+        "marketplace": "Kasuwa",
+        "needHelp": "Ana bukatar taimako - Tuntube Mu ...",
+        "artist": "Masu Zane",
+        "gallery": "Rumbun Hotuna",
+        "university": "Jami'a",
+        "shop": "Shago"
+    },
+    "mobileApp": {
+        "title": "Manhajar Waya",
+        "subHeading": "Yadda zaka fara ARTMO daga screem din wayar ka",
+        "note": "Rubutu",
+        "step": "Mataki",
+        "done": "Gamawa"
+    },
+    "artworkUploadInst": {
+        "headerTitle": "Yadda ake saka Zanuka",
+        "images": "Hotuna",
+        "title": "Take",
+        "artMaterial": "Kayan Zane",
+        "series": "Jeri",
+        "limitedEdition": "Editions masu iyaka",
+        "price": "Farashi",
+        "dimension": "Girma",
+        "frame": "Frame",
+        "medium": "Hanya",
+        "genre": "Nau'i",
+        "subjectTags": "Tags din Batutuwa",
+        "description": "Kwatance",
+        "text": "Rubutu",
+        "yourProfile": "Shafin Ka",
+        "pdf": "PDF"
+    }
+}

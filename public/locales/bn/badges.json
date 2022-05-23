@@ -1,0 +1,20 @@
+{
+    "title": "ব্যাজসমূহ",
+    "promoteProfileSection": {
+        "title": "আপনার প্রোফাইল প্রচার করুন",
+        "description": "আপনার ওয়েবসাইট সমূহে আপনার ARTMO প্রোফাইলের লিঙ্ক যুক্ত করুন।",
+        "getLinkButton": "লিঙ্ক পান"
+    },
+    "badgeSections": {
+        "step1": "ধাপ ১: একটি রং বাছুন:",
+        "whiteRadioOption": "সাদা",
+        "blackRadioOption": "কালো",
+        "step2": "ধাপ ২: একটি আকার বাছুন:",
+        "largeRadioOption": "বড়",
+        "smallRadioOption": "ছোট",
+        "step3": "ধাপ ৩: আপনার ওয়েবসাইটে কোড কপি এবং পেস্ট করুন:",
+        "copyButtonText": "কোড কপি করুন",
+        "copiedButtonText": "কপি করা হয়েছে!",
+        "helpText": "সাহায্য"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "addContent": {
+        "placeholderAdd": "Kara...",
+        "post": "Tura",
+        "video": "Bidiyo",
+        "album": "Album",
+        "article": "Rubutu",
+        "artwork": "Zane"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "Kara Ma'adanin Hoto",
+        "limitText": "Kara hotuna (max 50)",
+        "addImages": "Kara hotuna",
+        "placeholderAddTitle": "Kara Batu",
+        "writeSomething": "Rubuta wani abu...",
+        "firstPhotoInfo": "Haton farko da aka daura shi zai zama na cova.",
+        "publish": "Wallafa",
+        "errorLabels": {
+            "maxCharacter100": "harufa 100 kawai aka bada dama",
+            "titleRequired": "Ana bukatar batu",
+            "maxCharacter500": "harufa 500 kawai aka bada dama"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "Gyara Albam din Hotuna",
+        "updateButton": "Sabunta"
+    },
+    "addPostPopup": {
+        "title": "Kirkiri Rubutu",
+        "editPhoto": "Gyara Hoto",
+        "addPhoto": "Kara Hoto",
+        "writeSomething": "Rubuta wani abu...",
+        "postDescCount": "/200",
+        "publish": "Wallafa"
+    },
+    "editPostPopup": {
+        "title": "Gyara Rubutu",
+        "updateButton": "Sabunta"
+    },
+    "addVideoPopup": {
+        "title": "Daura Bidiyo",
+        "validUrlError": "Saka adireshin URL mai kyau",
+        "placeholderEnterLink": "Saka hanya daga YouTube, Vimeo...",
+        "placeholderWriteSomething": "Rubuta wani abu...",
+        "addCategory": "Kara nau'i",
+        "next": "Na Gaba",
+        "publish": "Wallafa",
+        "update": "Sabunta"
+    },
+    "editVideoPopup": {
+        "title": "Gyara Rubutun Bidiyo",
+        "updateButton": "Sabunta"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "An kara sabon aiki",
+        "refresh": "Wartsakewa"
+    },
+    "hashtags": {
+        "title": "MANYAN HASHTAGS",
+        "noHashtagsAdded": "Babu hashtags da aka kara",
+        "post": "tura",
+        "postPlural": "rubutu"
+    },
+    "manageArtwork": {
+        "follower": "mai bi",
+        "followerPlural": "masu bi",
+        "visit": "Ziyara ",
+        "manage": "Lura ",
+        "noPageFound": "Ba'a samu shafi ba"
+    },
+    "profile": {
+        "follower": "mai bi",
+        "followerPlural": "masu bi",
+        "profileCompleteness": "Cike shafin ka",
+        "editProfile": "Gyara shafin ka"
+    },
+    "singlePost": {
+        "photo": "hoto",
+        "photoPlural": "hotuna",
+        "seeInStore": "Sai mun ganka a shago",
+        "deleteText": "Ka tabbatar da cewa zaka goge maganar ka?",
+        "capsHide": "Boye",
+        "capsUnhide": "Bayyana",
+        "hide": "boye",
+        "unhide": "bayyana",
+        "areYouSure": "Ka tabbata kana son yin",
+        "thisComment": "wannan bayanin?",
+        "update": "Sabuntawa",
+        "like": "So",
+        "comment": "Sharhi",
+        "liked": "An so",
+        "likedBy": "Wanda ya so",
+        "lowerLike": "so",
+        "lowerLikePlural": "so",
+        "lowerUnlike": "rashin so",
+        "lowerComment": "sharhi",
+        "lowerCommentPlural": "sharhohi",
+        "share": "Raba",
+        "pending": "Jira",
+        "deleteActivity": "Ka tabbata kanaso ka goge wannan aikin?",
+        "accept": "Karbi",
+        "reject": "Kore",
+        "delete": "Goge",
+        "seeMore": "Duba saura..",
+        "price": "Farashi",
+        "priceOnRequest": "Farashi an Nema",
+        "placeholderComment": "Saka martanin ka...",
+        "publish": "Wallafa",
+        "loadMoreText": "Shiga saura...",
+        "loadMoreRepliesText": "Bude sauran martani...",
+        "edit": "Gyara",
+        "commentRemoved": "An goge wannan martani",
+        "replyRemoved": "An goge wannan maida martani"
+    },
+    "singleActivity": {
+        "activityNotAvailable": "Wannan aikin babu shi",
+        "seeMore": "Kalli Saura...",
+        "alreadyHaveAnAccount": "Dama kana da asusu?",
+        "signUp": "Yi Rajista",
+        "logIn": "Shiga Ciki"
+    }
+}

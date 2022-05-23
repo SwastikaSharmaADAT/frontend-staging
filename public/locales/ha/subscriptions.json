@@ -1,0 +1,103 @@
+{
+    "title": "BIYAN KUDIN MAI SIYA",
+    "artistPage": {
+        "sectionLabels": {
+            "sellCommissionFree": "Sayar da Zanen Ka Babu Biyan Kamisho",
+            "connectWithCollectors": "Hadu da Dillalai Kai-Tsaye",
+            "cancelSubscription": "Janye Biyan Kudin Ka a Kowanne Lokaci",
+            "basicPlan": "Tsarin BASIC KYAUTA ne"
+        }
+    },
+    "memberPage": {
+        "chooseThePlan": "Zabi TSARIN da ya dace dakai...",
+        "planLabels": {
+            "plus": "Plus",
+            "pro": "Pro",
+            "lifetime": "Lifetime"
+        },
+        "gatewayFees": "Gateway Fees",
+        "cancelAnytime": "Tsayarwa Kowanne Lokaci"
+    },
+    "faq": {
+        "title": "Tambayoyin da ake yawan nema",
+        "askQuestion": "Yi Tambaya",
+        "questionLabels": {
+            "subscriptionFee": "Sabida mene zan biya kudin amfani?",
+            "basicAccount": "Asusun BASIC kyauta ce ta wani lokaci?",
+            "cancelSubscription": "Zan iya janyewa a kowanne lokaci kuma za'a dawo min da kudi na?",
+            "paymentForSelling": "Ta yaya kuma yaushe zan samu kudi na idan an sayar da zane na?",
+            "publishAndSell": "Zan iya wallafa wa da siyar da zanen da nakeso?",
+            "howArtmoSurvive": "Babu kudin kamisho, ta yaya ARTMO zai rayu?"
+        }
+    },
+    "perMonth": "/mo",
+    "pricingSelectLabels": {
+        "monthly": "Biya kowanne wata,",
+        "quarterly": "Biya bayan wata uku,",
+        "halfYearly": "Biya a rabin shekara,",
+        "yearly": "Biya shekara-shekara,"
+    },
+    "freePricing": "kyauta",
+    "currencySwitcher": "macanjin kudi",
+    "commission": "Kamisho",
+    "getText": "samu",
+    "signUpText": "Yi rajista",
+    "noneText": "Babu",
+    "includedText": "A ciki",
+    "notIncludedText": "Babu ciki",
+    "vendorPaymentPopup": {
+        "yourChoice": "Zabin ka",
+        "price": "Farashi",
+        "every": "kowanne",
+        "month": "wata",
+        "months": "wata",
+        "proceedToPayment": "Tafi wajen Biya"
+    },
+    "underagePopup": {
+        "hi": "Hi",
+        "backToProfile": "Koma Shafi"
+    },
+    "productLimits": {
+        "publishAndSell": "Wallafawa da siyarwa...",
+        "basic": "har zuwa zanuka 5",
+        "artistPlus": "har zuwa zanuka 20",
+        "unlimited": "zanuka babu adadi"
+    },
+    "termsCondsPopup": {
+        "title": "Dokoki da Ka'idojin Dillali",
+        "agreeAndProceed": "Amince sai aci gaba",
+        "agreeAndSubscribeTo": "Yarda da Biyan Tsarin"
+    },
+    "artworkListing": {
+        "byText": "by"
+    },
+    "roleChangeWarning": "Idan kaci gaba, ka yarda ka maida tsarin shafin ka",
+    "toText": "to",
+    "toggleMemberLabel": "Na Membobi",
+    "toggleArtistLabel": "Na Masu Zane",
+    "pickPlanHeading": "Ka zabi tsarin da yayi daidai da kai.",
+    "promoteWorkHeading": "Tallatar da siyar da zanen ka babu kudin kamisho.",
+    "makeArtSeenHeading": "Sell Your Art.",
+    "categories":{
+        "artistConnectDirectly":"Haduwa kai tsaye da masu siya",
+        "artistEnablePayment":"Saka wajen biya Gateways: Paypal, Visa, MasterCard",
+        "enableAcceptPayment":"Karbi biya Kai Tsaye",
+        "artistDashboardManage":"Dashbod: Lura da Zanuka da Asusu",
+        "artistShippingPolicy":"Tsarin ka na Tura Kaya",
+        "artistCreateCertificate":"Kirkiri takardan inganci na zanukan ka",
+        "artistHelpDesk":"Wajen bada taimakon ARTMO",
+        "artistPublishArticle":"Wallafa da saka rubutu game da zanukan ka",
+        "artistBacklinkCollection":"Saka hanyar shiga zanukan ka na ARTMO a jikin shafin ka na farko",
+        "artistDisputeSupport":"Wajen sasanta rikici tsakanin masu siya da siyarwa",
+        "memberConnectBuyers":"Haduwa kai tsaye da masu siya",
+        "memberEnablePayment":"Saka wajen biya Gateways: Paypal, Visa, MasterCard",
+        "memberAcceptPayment":"Karbi biya Kai Tsaye",
+        "memberDashboardManage":"Dashbod: Lura da Zanuka da Asusu",
+        "memberShippingPolicy":"Tsarin ka na Tura Kaya",
+        "memberHelpDesk":"Wajen bada taimakon ARTMO",
+        "memberBacklinkCollection":"Saka hanyar shiga zanukan ka na ARTMO a jikin shafin ka na farko",
+        "memberDisputeSupport":"Wajen sasanta rikici tsakanin masu siya da siyarwa",
+        "artistBadge":"Premium Seller Badge <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+        "memberBadge":"Premium Seller Badge <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+      }
+}

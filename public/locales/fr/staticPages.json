@@ -1,0 +1,83 @@
+{
+    "pageNotFound": {
+        "404": "404",
+        "signUpTextNotFound": "Ou inscrivez-vous si vous n'avez pas encore de profil...",
+        "pageNotFound": "Nous n'arrivons pas à trouver la page que vous recherchez.<br/>Vous voudrez peut-être essayer l'une de ces options ; cela devrait faire l'affaire...",
+        "goBackHome": "Retourner"
+    },
+    "usersTermsConditions": {
+        "title": "CONDITIONS GÉNÉRALES D'UTILISATION",
+        "overview": "1. APERÇU",
+        "contentEligibility": "2. CONTENU ET ADMISSIBILITÉ",
+        "feesPayments": "3. FRAIS ET PAIEMENTS",
+        "accountTermination": "4. RÉSILIATION ET ANNULATION DE COMPTE",
+        "provisions": "5. DISPOSITIONS COMPLÉMENTAIRES",
+        "seePrivacyPolicy": "Voir la Politique de Confidentialité",
+        "seeVendorTermsConditions": "Voir les Conditions Générales du Vendeur"
+    },
+    "privacyPolicyPage": {
+        "title": "POLITIQUE DE CONFIDENTIALITÉ",
+        "seeVendorTermsConditions": "Voir les Conditions Générales du Vendeur",
+        "seeUserTermsConditions": "Voir les Termes et Conditions de l'Utilisateur",
+        "accountPrivacySettings": "PARAMÈTRES DE CONFIDENTIALITÉ DU COMPTE",
+        "dataSecurity": "SÉCURITÉ DES DONNÉES",
+        "collectingPersonalData": "COLLECTE ET TRAITEMENT DES DONNEES PERSONNELLES",
+        "adsOnArtmo": "PUBLICITÉ SUR ARTMO"
+    },
+    "vendorTermsConditions": {
+        "title": "CONDITIONS GÉNÉRALES DU VENDEUR",
+        "seePrivacyPolicy": "Voir la Politique de Confidentialité",
+        "seeUserTermsConditions": "Voir les Termes et Conditions de l'Utilisateur",
+        "impOverview": "Tout d'abord ... un aperçu important",
+        "stepByStep": "Pas à pas",
+        "overview": "1. APERÇU",
+        "fees": "2. COMMISSION | FRAIS | PAIEMENTS | REMBOURSEMENTS",
+        "termination": "3. RÉSILIATION ET ANNULATION DE COMPTE",
+        "payoutSchedule": "4. CALENDRIER DES PAIEMENTS POUR LES VENTES",
+        "contentEligibility": "5. CONTENU ET ÉLIGIBILITÉ",
+        "yourObligations": "6. VOS OBLIGATIONS",
+        "artmoObligations": "7. OBLIGATIONS D'ARTMO",
+        "returns": "8. RETOURS ET LITIGES",
+        "provisions": "9. DISPOSITIONS COMPLÉMENTAIRES",
+        "shippingReturnPolicy": "POLITIQUE D'EXPÉDITION ET DE RETOUR"
+    },
+    "whatIsArtmo": {
+        "title": "Qu'est-ce qu'ARTMO ?",
+        "artNetwork": "Le Plateform d'Art Social",
+        "artEnthusiast": "Passionné d'Art",
+        "muchMore": "et beaucoup plus !",
+        "member": "Membres",
+        "pages": "Pages",
+        "marketplace": "Marketplace",
+        "needHelp": "Besoin d'aide - Contactez-nous...",
+        "artist": "Artistes",
+        "gallery": "Galerie",
+        "university": "Université",
+        "shop": "Boutique"
+    },
+    "mobileApp": {
+        "title": "Application mobile",
+        "subHeading": "Comment démarrer ARTMO à partir de l'écran d'accueil de votre mobile",
+        "note": "Note",
+        "step": "Étape",
+        "done": "Fait"
+    },
+    "artworkUploadInst": {
+        "headerTitle": "Instructions de Téléchargement des Illustrations",
+        "images": "Images",
+        "title": "Titre",
+        "artMaterial": "Matériel Artistique",
+        "series": "Séries",
+        "limitedEdition": "Éditions Limitées",
+        "price": "Prix",
+        "dimension": "Dimension",
+        "frame": "Cadre",
+        "medium": "Médium",
+        "genre": "Genre",
+        "subjectTags": "Balises de Sujet",
+        "description": "Description",
+        "text": "Texte",
+        "yourProfile": "Votre Profil",
+        "pdf": "PDF"
+    }
+}

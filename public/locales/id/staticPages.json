@@ -1,0 +1,83 @@
+{
+    "pageNotFound": {
+        "404": "404",
+        "signUpTextNotFound": "Atau daftar jika Anda belum memiliki profil ...",
+        "pageNotFound": "Kami tidak dapat menemukan halaman yang Anda cari.<br/>Anda mungkin ingin mencoba salah satu opsi ini; harus melakukan suatu trik...",
+        "goBackHome": "Kembali"
+    },
+    "usersTermsConditions": {
+        "title": "SYARAT & KETENTUAN PENGGUNA",
+        "overview": "1. TINJAUAN",
+        "contentEligibility": "2. ISI DAN KELAYAKAN",
+        "feesPayments": "3. BIAYA DAN PEMBAYARAN",
+        "accountTermination": "4. PENGHENTIAN DAN PEMBATALAN AKUN",
+        "provisions": "5. KETENTUAN LEBIH LANJUT",
+        "seePrivacyPolicy": "Lihat Kebijakan Privasi",
+        "seeVendorTermsConditions": "Lihat Syarat & Ketentuan Vendor"
+    },
+    "privacyPolicyPage": {
+        "title": "KEBIJAKAN PRIVASI",
+        "seeVendorTermsConditions": "Lihat Syarat & Ketentuan Vendor",
+        "seeUserTermsConditions": "Lihat Syarat & Ketentuan Pengguna",
+        "accountPrivacySettings": "PENGATURAN PRIVASI AKUN",
+        "dataSecurity": "KEAMANAN DATA",
+        "collectingPersonalData": "PENGUMPULAN DAN PENGOLAHAN DATA PRIBADI",
+        "adsOnArtmo": "IKLAN DI ARTMO"
+    },
+    "vendorTermsConditions": {
+        "title": "SYARAT & KETENTUAN VENDOR",
+        "seePrivacyPolicy": "Lihat Kebijakan Privasi",
+        "seeUserTermsConditions": "Lihat Syarat & Ketentuan Pengguna",
+        "impOverview": "Pertama-tama ... ikhtisar penting",
+        "stepByStep": "Langkah demi Langkah",
+        "overview": "1. TINJAUAN",
+        "fees": "2. KOMISI | BIAYA | PEMBAYARAN | PENGEMBALIAN",
+        "termination": "3. PENGHENTIAN DAN PEMBATALAN AKUN",
+        "payoutSchedule": "4. JADWAL PEMBAYARAN UNTUK PENJUALAN",
+        "contentEligibility": "5. ISI DAN KELAYAKAN",
+        "yourObligations": "6. KEWAJIBAN ANDA",
+        "artmoObligations": "7. KEWAJIBAN ARTMO",
+        "returns": "8. PENGEMBALIAN DAN SENGKETA",
+        "provisions": "9. KETENTUAN LEBIH LANJUT",
+        "shippingReturnPolicy": "KEBIJAKAN PENGIRIMAN & PENGEMBALIAN"
+    },
+    "whatIsArtmo": {
+        "title": "Apa itu ARTMO?",
+        "artNetwork": "Jaringan Seni",
+        "artEnthusiast": "Penggemar Seni",
+        "muchMore": "dan banyak lainnya!",
+        "member": "Anggota",
+        "pages": "Halaman",
+        "marketplace": "Pasar",
+        "needHelp": "Butuh Bantuan - Hubungi Kami ...",
+        "artist": "Seniman",
+        "gallery": "Galeri",
+        "university": "Universitas",
+        "shop": "Toko"
+    },
+    "mobileApp": {
+        "title": "Aplikasi Seluler",
+        "subHeading": "Bagaimana memulai ARTMO dari layar utama ponsel Anda",
+        "note": "Catatan",
+        "step": "Langkah",
+        "done": "Selesai"
+    },
+    "artworkUploadInst": {
+        "headerTitle": "Instruksi Mengunggah Karya seni",
+        "images": "Gambar",
+        "title": "Judul",
+        "artMaterial": "Material Seni",
+        "series": "Serial",
+        "limitedEdition": "Edisi Terbatas",
+        "price": "Harga",
+        "dimension": "Dimensi",
+        "frame": "Bingkai",
+        "medium": "Media",
+        "genre": "Genre",
+        "subjectTags": "Label Subjek",
+        "description": "Deskripsi",
+        "text": "Teks",
+        "yourProfile": "Profil Anda",
+        "pdf": "PDF"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "connectingTheArtWorld": "CONECTANDO EL MUNDO DEL ARTE",
+    "login": "Iniciar Sesión",
+    "freeSignup": "Inscripción Gratuita",
+    "signup": "Inscribirse",
+    "search": "Buscar usuarios...",
+    "legacyPageInfo": "Puedes acceder a su página aquí",
+    "loginMenu": {
+        "home": "Inicio",
+        "groups": "Grupos",
+        "network": "Red",
+        "messages": "Mensajes",
+        "notifications": "Notificaciones",
+        "cart": "Carrito",
+        "artwork": "Obras",
+        "me": "Yo",
+        "more": "Más....",
+        "sellArt": "Vender Arte",
+        "dashboard": "Tablero",
+        "myarticles": "Artículos"
+    },
+    "logoutMenu": {
+        "artwork": "Obras",
+        "cart": "Carrito",
+        "more": "Más...."
+    },
+    "subMenu": {
+        "createPage": "Crear una Pagina",
+        "switchPage": "Cambiar a la página",
+        "switchTo": "Cambiar a",
+        "profile": "Perfil",
+        "page": "Mi Página",
+        "myAccount": "Mi Cuenta",
+        "signOut": "Desconectar",
+        "settings": "Configuración y Privacidad"
+    },
+    "cart": {
+        "removeWarning": "¿Estás seguro de que quieres eliminar este artículo?",
+        "yes": "Sí",
+        "checkoutButton": "CHECKOUT",
+        "emptyCartWarning": "¡Tu carrito esta vacío!",
+        "outOfStock": "¡Agotado!",
+        "seeArtworks": "Ver Obras de Arte",
+        "buttonYes": "Sí"
+    }
+}

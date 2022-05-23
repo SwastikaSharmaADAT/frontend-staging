@@ -1,0 +1,27 @@
+{
+    "about": "关于我们",
+    "labels": {
+        "option1": "艺术网络",
+        "option2": "商店",
+        "option3": "团队",
+        "option4": "加入我们",
+        "option5": "知识产权",
+        "option6": "公司信息",
+        "option7": "条款和隐私",
+        "option8": "投资者关系"
+    },
+    "career": {
+        "jobOpening": {
+            "title": "职位空缺"
+        },
+        "lisbonPortugal": {
+            "title": "里斯本 | 葡萄牙",
+            "option1": "实习生",
+            "option2": "社交媒体经理及数字营销人员",
+            "option3": "WooCommerce专家"
+        },
+        "hamburgGermany": {
+            "title": "汉堡 | 德国"
+        }
+    }
+}

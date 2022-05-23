@@ -1,0 +1,27 @@
+{
+    "chooseImage": "Elegir Imagen",
+    "uploadTab": {
+        "title": "Subir Archivos",
+        "dragDropHere": "Arrastra y suelta archivos aquí",
+        "or": "o",
+        "selectFiles": "+ Selecciona archivos",
+        "supportedFormatsText": "Solo se aceptarán imágenes *.jpeg, *.jpg y *.png",
+        "maxLimitPrefix": "Un máximo de",
+        "maxLimitSuffix": "imágenes se pueden seleccionar o eliminar",
+        "moreImagesText": "Se pueden seleccionar o quitar {{limit}} más imágenes",
+        "maxFileSize": "Tamaño máximo de archivo: 2 MB",
+        "minFileSize": "Tamaño mínimo del archivo: 100 kB",
+        "maxLimitText": "Se puede seleccionar o quitar un máximo de {{limit}} imágenes"
+    },
+    "mediaTab": {
+        "title": "Mediateca",
+        "pickATag": "Elige una Tag",
+        "loadMore": "Carga Más",
+        "deleteImage": "Eliminar Imagen",
+        "choose": "Escoger",
+        "saveAll": "Salvar a Todos",
+        "placeholderSearch": "Buscar elementos...",
+        "placeholderDescription": "Agregar texto de descripción...",
+        "placeholderEnterTag": "Ingresar Tag"
+    }
+}

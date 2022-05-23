@@ -1,0 +1,16 @@
+{
+    "title": "INVITAR A AMIGOS",
+    "tagsInput": {
+        "placeholder": "Agregue correos electrónicos manualmente. Separe con una coma o presione enter después de cada correo electrónico."
+    },
+    "cancelButtonLabel": "Cancelar",
+    "sendInvitesButtonLabel": "Enviar Invitaciones",
+    "howInviteWork": "¿Como funciona esto?",
+    "emailTemplateText": "¿Puedo ver el correo electrónico antes de enviarlo?",
+    "pickEmailService": "Elija su servicio de correo electrónico ...",
+    "gmailText": "Gmail",
+    "outlookText": "Outlook",
+    "otherText": "Otro",
+    "selectedText": "Seleccionado",
+    "emptyResultText": "No se han encontrado resultados"
+}

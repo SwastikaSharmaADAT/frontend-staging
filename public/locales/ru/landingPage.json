@@ -1,0 +1,69 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Сегодняшнее Внимание",
+        "seeMore": "Посмотреть больше ..."
+    },
+    "loggedOutBanner": {
+        "title": "Добро пожаловать в Ваше",
+        "title2": "Арт Сообщество",
+        "descr": "Является ли искусство вашей страстью  или профессия, вы пришли  в нужное место.",
+        "joinInBtnText": "Присоединяйтесь к бесплатному",
+        "network": "Друзья",
+        "blog": "Блог",
+        "news": "Новости",
+        "group": "Группы",
+        "marketplace": "Маркетплейс",
+        "whatIsArtmo": "Что такое ARTMO?",
+        "learnMore": "Узнать больше ...",
+        "signUp": "Регистрация",
+        "logIn": "Вход",
+        "videos": "Ролики",
+        "exhibition": "Выставки",
+        "gallery": "Галереи"
+    },
+    "usersListing": {
+        "title": "АРТ ПЛАТФОРМА",
+        "follower": "подписчик(ца)",
+        "followers": "подписчики",
+        "unfollow": "Отписаться",
+        "follow": "Подписаться",
+        "seeMore": "Увидеть больше",
+        "following": "Подписан(а)"
+    },
+    "gridSection": {
+        "home": "ГЛАВНАЯ СТРАНИЦА",
+        "artists": "ХУДОЖНИКИ",
+        "galleries": "ГАЛЕРЕИ",
+        "exhibitions": "ВЫСТАВКИ",
+        "users": "ПОЛЬЗОВАТЕЛИ",
+        "artwork": "ПРОИЗВЕДЕНИЯ",
+        "genres": "ЖАНРЫ",
+        "universities": "УНИВЕРСИТЕТЫ"
+    },
+    "artworkSection": {
+        "title": "НОВЫЕ ПРОИЗВЕДЕНИЯ",
+        "priceOnRequest": "Цена по Запросу",
+        "artist": "Художник(ца)",
+        "member": "Участник(ца)",
+        "seeMore": "Посмотреть больше ..."
+    },
+    "buzzSection": {
+        "title": "НОВОСТНАЯ ЛЕНТА",
+        "seeMore": "Посмотреть больше ..."
+    },
+    "videosSection": {
+        "title": "ВИДЕО",
+        "seeMore": "Посмотреть больше ..."
+    },
+    "exhibitionsSection": {
+        "title": "ВЫСТАВКИ",
+        "seeMore": "Посмотреть больше ..."
+    },
+    "potdSection": {
+        "title": "КАРТИНА ДНЯ",
+        "seeMore": "Посмотреть больше ..."
+    },
+    "joinInSection": {
+        "joinInTitle": "Присоединяйтесь, это бесплатно."
+    }
+}

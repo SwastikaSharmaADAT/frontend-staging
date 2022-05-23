@@ -1,0 +1,77 @@
+{
+    "groupbarHeading": "グループ",
+    "placeholderSearchGroups": "検索グループ",
+    "allCategories": "すべてのカテゴリー",
+    "noCategoriesFound": "カテゴリーがありません",
+    "allTags": "すべてのタグ",
+    "noTagsFound": "タグがありません",
+    "search": "検索",
+    "clear": "クリア",
+    "groupListing": {
+        "confirmButtonText": "退出する",
+        "confirmLeaveText": "このグループを退出します。よろしいですか？",
+        "sortedBy": "並び替え",
+        "recentActivity": "最近のアクティビティ",
+        "group": "グループ",
+        "manageGroupLabel": "グループ設定を管理する",
+        "leaveGroup": "グループを離れる",
+        "cancelRequest": "リクエストをキャンセル",
+        "invitedBy": "招待されました",
+        "wouldYouJoin": "このグループに参加しますか？",
+        "accept": "許可",
+        "ignore": "無視",
+        "lastActive": "最後のアクティビティ",
+        "members": "メンバー",
+        "posts": "投稿",
+        "noGroupsFound": "グループがありません",
+        "loadMore": "もっと見る..."
+    },
+    "toolTip": {
+        "tip1": "メンバーは誰でもこのグループに参加できます。",
+        "tip2": "このグループはグループディレクトリーと検索結果に表示されます。",
+        "tip3": "グループコンテンツとアクティビティはサイトメンバーに表示されます。"
+    },
+    "createGroup": {
+        "placeholderName": "名前",
+        "placeholderDescription": "説明文",
+        "privacyTitle": "プライバシー",
+        "privacyPublic": "公開",
+        "privacyPublicContent": {
+            "point1": "サイトメンバーは誰でもこのグループに参加できます。",
+            "point2": "このグループはグループディレクトリーと検索結果に表示されます。",
+            "point3": "グループコンテンツとアクティビティはサイトメンバーに表示されます。"
+        },
+        "privacyPrivate": "非公開",
+        "privacyPrivateContent": {
+            "point1": "メンバーシップリクエストが承認されたメンバーのみがこのグループに参加できます。",
+            "point2": "このグループはグループディレクトリーと検索結果に表示されます。",
+            "point3": "グループコンテンツとアクティビティはサイトメンバーに表示されます。"
+        },
+        "privacyHidden": "非表示",
+        "privacyHiddenContent": {
+            "point1": "招待されたユーザーのみがこのグループに参加できます。",
+            "point2": "このグループはグループディレクトリーと検索結果に表示されます。",
+            "point3": "グループコンテンツとアクティビティはサイトメンバーに表示されます。"
+        },
+        "postModeration": "投稿モデレーション",
+        "moderationTypes": {
+            "option1": "投稿モデレーションのタイプを選択",
+            "option2": "自動公開",
+            "option3": "レビューして公開"
+        },
+        "inviteFeature": "招待機能を有効にする",
+        "whoCanInvite": "誰がこのグループへメンバーを招待できますか？",
+        "inviteOptions": {
+            "option1": "招待タイプを選択する",
+            "option2": "管理者",
+            "option3": "管理者 & モデレーター",
+            "option4": "全員"
+        },
+        "category": "カテゴリー",
+        "placeholderCategory": "カテゴリーを選択",
+        "tags": "タグ",
+        "placeholderTags": "タグを選択",
+        "save": "保存",
+        "update": "更新"
+    }
+}

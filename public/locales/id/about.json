@@ -1,0 +1,27 @@
+{
+    "about": "tentang",
+    "labels": {
+        "option1": "Jajaring Seni",
+        "option2": "Belanja",
+        "option3": "Tim Kerja",
+        "option4": "Karir",
+        "option5": "IP",
+        "option6": "Kesan",
+        "option7": "Ketentuan & Privasi",
+        "option8": "Hubungan Investor"
+    },
+    "career": {
+        "jobOpening": {
+            "title": "Lowongan Pekerjaan"
+        },
+        "lisbonPortugal": {
+            "title": "Lisbon | Portugal",
+            "option1": "Magang",
+            "option2": "Sosial Media Manajer & Digital Marketing",
+            "option3": "Ahli WooCommerce"
+        },
+        "hamburgGermany": {
+            "title": "Hamburg | Jerman"
+        }
+    }
+}

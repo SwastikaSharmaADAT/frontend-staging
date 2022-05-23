@@ -1,0 +1,83 @@
+{
+    "validationErrors": {
+        "image": "Ana bukatar hoton bayani",
+        "title": "Ana bukatar batu",
+        "titleLength": "Batu yana da yawan harufa 200",
+        "description": "Ana bukatar kwatance",
+        "descriptionLength": "Kwatance yana da yawan harufa 5000",
+        "category": "Ana bukatar nau'i",
+        "country": "Ana bukatar kasa",
+        "city": "Ana bukatar gari",
+        "startDate": "Ana bukatar kwanar watan farawa",
+        "endDate": "Ana bukatar kwanar watan gamawa",
+        "endDateLarge": "Ba zai yiwu a saita kwanar watan gamawa ba kafin na farawa"
+    },
+    "articleNotAvailable": "Wannan rubutun bayanan babu shi",
+    "placeholderImage": "Daura hoton samfoti",
+    "placeholderTitle": "Shigar da batu",
+    "placeholderDescription": "Rubuta bayanan ka anan...",
+    "placeholderCountry": "Kasa",
+    "placeholderStartDate": "Kwanar Watan Farawa",
+    "placeholderCity": "Gari",
+    "placeholderEndDate": "Kwanar Watan Gamawa",
+    "category": "Nau'i",
+    "categoryOptions": {
+        "option1": "Buzz",
+        "option2": "Hoton Yau",
+        "option3": "Nunawa"
+    },
+    "status": {
+        "draft": "Draft",
+        "publish": "An Wallafa",
+        "pending": "Jiran Izini",
+        "rejected": "Anki"
+    },
+    "articleFollowed": "Ana bi",
+    "articleFollow": "Bibiya",
+    "articleUnFollow": "Daina bi",
+    "update": "Sabunta",
+    "submit": "Tura wa",
+    "buzzListing": {
+        "title": "KALLI ABINDA YAKE TAFIYA A DUNIYAR ZANE",
+        "titleShort": "BUZZ",
+        "placeholderSearchTitle": "Nemo hotunan nunawa ta batun su...",
+        "search": "Nemowa",
+        "city": "Gari",
+        "edit": "Gyara"
+    },
+    "exhibitionListing": {
+        "title": "NUNAWA"
+    },
+    "potd": {
+        "title": "HOTON YAU"
+    },
+    "myArticle": {
+        "title": "Takardun bayanai na",
+        "seeMoreText": "Duba saura..."
+    },
+    "seeMoreText": "Duba saura...",
+    "addArticleInfo": {
+        "mainSection": {
+            "heading": "Yadda za'a rubuta bayani",
+            "firstPara": "Ka dauki kanka a matsayin mai rubutun ra'ayin ka. Ka rubuta wani abu mai kayatarwa game da zane da masoya zane. Ba kawai dama ce da zaka tallata kanka da zanen ka kawai ba, wajen rubutun ka wajene da zakayi rubutu akan batu da zai kayatar da jama'a baki daya.",
+            "secondPara": "Kanada bukatar cike shafin ka akan ARTMO kafin ka wallafa rubutu.",
+            "thirdPara": "Bawan wallafawa, za'a gane ka a matsayin mai wallafawa."
+        },
+        "buzzSubSection": {
+            "heading": "Buzz:",
+            "firstPara": "Rubutu bayani akan batu da zai kayata masu amfani da ARTMO. Kalli misalai masu kyau a Buzz",
+            "anchorText": "anan"
+        },
+        "potdSubSection": {
+            "heading": "Kayataccen Hoton Yau | POTD:",
+            "firstPara": "Shiga cikin category idan kana da shahararren hoto da kakeson yin rubutu akai. Yi amfani da wannan hoton a matsayin hoton feature don fadawa duniya labarin wannan hoton. Za'a wallafa POTD dinka ",
+            "anchorText": "anan"
+        },
+        "exhibitionSubSection": {
+            "heading": "Nuna Hotuna:",
+            "firstPara": "Yi amfani da wannan category idan kana da rumbun hotuna ko shirya nuna hotuna. Yi rubutu akan nuna hotunan da kake shiryawa sai aga bayanan ka a gefen Nuna Hotuna.",
+            "secondPara": "Za'a wallafa rubutun Nuna Hotunan ka ",
+            "anchorText": "anan"
+        }
+    }
+}

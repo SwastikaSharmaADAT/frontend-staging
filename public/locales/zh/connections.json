@@ -1,0 +1,20 @@
+{
+    "myConnectionsLabel": "我的联系人",
+    "connectionRequests": "请求添加为联系人",
+    "connectionRequestsSent": "连接请求已发送",
+    "follower": "粉丝",
+    "followerPlural": "粉丝们",
+    "disconnected": "已断开连接",
+    "disconnect": "断开连接",
+    "loadMore": "加载更多...",
+    "noConnections": "没有联系人",
+    "ignore": "暂不处理",
+    "ignored": "已忽略",
+    "connect": "连接",
+    "connected": "已连接",
+    "noConnectionRequestsReceived": "No Connection Requests received",
+    "noConnectionRequestsSent": "未发送任何连接请求",
+    "requestDeleted": "请求已删除",
+    "deleteRequest": "删除请求",
+    "noConnectionRequests": "没有连接请求"
+}

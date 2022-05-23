@@ -1,0 +1,17 @@
+{
+    "heading": "MẠNG LƯỚI NGHỆ THUẬT",
+    "listing": {
+        "country": "Quốc gia:",
+        "placeholderCity": "Thành phố",
+        "userType": "Loại Người dùng:",
+        "sortBy": "Sắp xếp Theo:",
+        "search": "Tìm kiếm",
+        "searchUsers": "Tìm kiếm người dùng...",
+        "searchbyname": "Tìm kiếm theo tên..."
+    },
+    "follower": "người theo dõi",
+    "followers": "người theo dõi",
+    "unfollow": "Bỏ theo dõi",
+    "follow": "Theo dõi",
+    "editProfile": "Sửa Hồ sơ"
+}

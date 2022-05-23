@@ -1,0 +1,47 @@
+{
+    "title": "Genre",
+    "tabs": {
+        "genre": "Genre",
+        "media": "Media",
+        "timePeriod": "Jangka Waktu",
+        "genreSubTabs": {
+            "definition": "Definisi",
+            "abstractExpressionism": "Ekspresionisme Abstrak",
+            "abstract": "Abstrak",
+            "calligraphy": "Kaligrafi",
+            "conceptual": "Konseptual",
+            "concrete": "Konkrit",
+            "constructivism": "Konstruktivisme",
+            "cubism": "Kubisme",
+            "documentary": "Dokumenter",
+            "expressionism": "Ekspresionisme",
+            "fantastic": "Fantastis",
+            "figurative": "Figuratif",
+            "illustration": "Illustrasi",
+            "impressionism": "Impresionisme",
+            "magicalRealism": "Realisme Magis",
+            "minimalism": "Minimalisme",
+            "naiveArt": "Seni Naif",
+            "pop": "Pop",
+            "realism": "Realisme",
+            "surrealism": "Surrealisme"
+        },
+        "mediaSubTabs": {
+            "definition": "Definisi",
+            "collage": "Kolase",
+            "design": "Rancangan",
+            "digital": "Digital",
+            "drawing": "Gambar",
+            "mixed": "Ragam",
+            "multimedia": "Multimedia",
+            "newMedia": "Media Baru",
+            "painting": "Lukisan",
+            "sculpture": "Patung"
+        },
+        "timeperiodSubTabs": {
+            "definition": "Definisi",
+            "contemporary": "Kontemporer",
+            "modern": "Modern"
+        }
+    }
+}

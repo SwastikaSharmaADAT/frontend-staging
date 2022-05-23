@@ -1,0 +1,70 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Tiêu điểm Hôm nay",
+        "seeMore": "Xem thêm ..."
+    },
+    "loggedOutBanner": {
+        "title": "Chào mừng đến với",
+        "title2": "Cộng đồng Nghệ thuật của Bạn",
+        "descr": "Dù nghệ thuật là đam mê  hay là nghề của bạn, bạn đã đến  đúng chỗ.",
+        "joinInBtnText": "Tham gia Miễn phí",
+        "network": "Mạng lưới",
+        "blog": "Blog",
+        "news": "Tin tức",
+        "group": "Nhóm",
+        "marketplace": "Sàn giao dịch",
+        "whatIsArtmo": "ARTMO là gì?",
+        "learnMore": "Tìm hiểu thêm ...",
+        "signUp": "Tạo tài khoản của bạn miễn phí",
+        "logIn": "Đăng Nhập",
+        "videos": "Video.",
+        "exhibition": "Triển lãm",
+        "gallery": "Phòng trưng bày"
+    },
+    "usersListing": {
+        "title": "KẾT NỐI VỚI NHỮNG NGƯỜI YÊU NGHỆ THUẬT",
+        "follower": "người theo dõi",
+        "followers": "người theo dõi",
+        "unfollow": "Bỏ theo dõi",
+        "follow": "Theo dõi",
+        "seeMore": "Xem Thêm",
+        "following": "Đang theo dõi"
+    },
+    "gridSection": {
+        "home": "TRANG CHỦ",
+        "artists": "NGHỆ SĨ",
+        "galleries": "PHÒNG TRƯNG BÀY",
+        "exhibitions": "TRIỂN LÃM",
+        "users": "NGƯỜI DÙNG",
+        "artwork": "TÁC PHẨM NGHỆ THUẬT",
+        "genres": "THỂ LOẠI",
+        "universities": "ĐẠI HỌC"
+    },
+    "artworkSection": {
+        "title": "MUA VÀ BÁN NGHỆ THUẬT CỦA BẠN MÀ KHÔNG CÓ HỖ TRỢ LIÊN KẾT",
+        "priceOnRequest": "Giá Thương lượng",
+        "artist": "Nghệ sĩ",
+        "member": "Thành viên",
+        "seeMore": "Xem thêm ..."
+    },
+    "buzzSection": {
+        "title": "XEM ĐIỀU GÌ ĐANG TỚI TRONG THẾ GIỚI NGHỆ THUẬT",
+        "seeMore": "Xem thêm ..."
+    },
+    "videosSection": {
+        "title": "VIDEO",
+        "seeMore": "Xem thêm ..."
+    },
+    "exhibitionsSection": {
+        "title": "TÌM CÁC TRIỂN LÃM TRÊN TOÀN THẾ GIỚI",
+        "selectCountry": "chọn một địa điểm",
+        "latest": "gần đây hơn"  
+    },
+    "potdSection": {
+        "title": "BỨC ẢNH CỦA NGÀY",
+        "seeMore": "Xem thêm ..."
+    },
+    "joinInSection": {
+        "joinInTitle": "Tham gia miễn phí"
+    }
+}

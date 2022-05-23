@@ -1,0 +1,113 @@
+{
+  "auth": {
+    "passwordResetSuccess": "Wagwoord was herstel!",
+    "signOutMessage": "Gebruiker is afgemeld!"
+  },
+  "articles": {
+    "articlePublish": "Artikel gepubliseer",
+    "articleDraft": "Artikel gestoor in konsepte",
+    "articleUpdate": "Artikel opgedateer"
+  },
+  "dashboard": {
+    "settingsSaved": "Instellings gestoor"
+  },
+  "groups": {
+    "userRemoved": "Gebruiker verwyder van groep",
+    "assignAsModerator": "As Moderator Opgedra",
+    "inviteSent": "Uitnodiging gestuur",
+    "postSentForApproval": "U onlangse berig is aan die  Admin/Moderator gestuur vir goedkeuring",
+    "postPublished": "Groeppos gepubliseer",
+    "groupPostAccepted": "Pos suksesvol aanvaar",
+    "groupPostRejected": "Pos suksevol verwerp",
+    "joinRequestAccepted": "Aansluiting versoek aanvaar",
+    "joinRequestRejected": "Annsluiting versoek verwerp",
+    "groupInviteAccept": "Groepuitnodiging aanvaar",
+    "groupInviteReject": "Groepuitnodiging geïgnoreer",
+    "commentAddSuccess": "Kommentaar bygevoeg",
+    "groupPhotoRemove": "Groepfoto verwyder",
+    "groupPhotoUpload": "Groepfoto gelaai",
+    "commentDeleted": "Kommentaar uitgevee"
+  },
+  "mediaLibrary": {
+    "updatedAllMedia": "Alle medialêers is opgedateer.",
+    "updatedMedia": "Opgedateerde Media."
+  },
+  "newsFeed": {
+    "postPublished": "Berig gepubliseer",
+    "videoPublished": "Video gepubliseer",
+    "photoAlbumPublished": "Foto-album gepubliseer",
+    "photoAlbumUpdated": "Foto-album suksesvol opgegradeer",
+    "commentAdded": "Kommentaar bygevoeg",
+    "commentDeleted": "Kommentaar uitgevee",
+    "commentHide": "Kommentaar weggesteek",
+    "commentUnhide": "Kommentaar Onthul",
+    "commentUpdated": "Kommentaar Opgedateer",
+    "activityDeleted": "Aktiwiteit uitgevee"
+  },
+  "notification": {
+    "notificationRemoved": "Kennisgewing verwyder!"
+  },
+  "pages": {
+    "pageCreated": "Bladsy geskep"
+  },
+  "profile": {
+    "profilePhotoUploaded": "'Profielfoto opgelaai",
+    "coverPhotoUploaded": "Voorbladfoto opgelaai",
+    "profilePhotoRemoved": "Profielfoto verwyder",
+    "coverPhotoRemoved": "Voorbladfoto verwyder",
+    "infoSaved": "Inligting gestoor",
+    "profileUpdated": "Profiel Opgedateer",
+    "connectionRequestSent": "Konneksie versoek gestuur",
+    "blockUser": "Gebruiker {{tipe}}",
+    "blocked": "Gebruiker geblokkeer",
+    "unblocked": "Gebruiker ontblokkeer",
+    "follow": "Gebruiker was gevolg",
+    "unfollow": "Gebruiker was ontvolg",
+    "noticeDeleted": "Kennisgewing uitgevee",
+    "techniqueUpdate": "Tegniekafdeling opgedateer",
+    "expertiseUpdate": "Kundigheidafdeling opgedateer",
+    "awardUpdate": "Toekenningsafdeling opgedateer",
+    "publicationUpdate": "Publikasie-afdeling opgedateer",
+    "exhibitionUpdate": "Vorige Uitstallingsafdeling opgedateer",
+    "aboutBusinessUpdate": "Oor my Besigheid| Beroepsafdeling opgedateer",
+    "disconnectedFromUser": "Ontkoppel van gebruiker",
+    "connectionRequestDeleted": "Verbindingsversoek uitgevee",
+    "connectionRequestIgnored": "Verbindingsversoek is geïgnoreer",
+    "userConnected": "Gebruiker gekoppel"
+  },
+  "staticContent": {
+    "inviteSent": "Uitnodiging gestuur"
+  },
+  "myAccount": {
+    "privacySettingsUpdated": "Gebruikers se privaatheidinstellings is opgedateer",
+    "webNotificationsSettingsUpdated": "Webkennisgewinginstellings is opgedateer",
+    "dataDownload": "Data suksesvol afgelaai",
+    "picsDownload": "Prente suksesvol afgelaai",
+    "passwordUpdated": "Wagwoord opgedateer",
+    "notificationUpdated": "Kennisgewingsinstellings is opgedateer",
+    "accountDisconnected": "U rekening is ontkoppel",
+    "userDataDelete": "Alle gebruikersinligting is uitgevee",
+    "photosDelete": "Alle albums en fotos is uitgevee",
+    "userDelete": "Rekening is suksesvol uitgevee"
+  },
+  "artworks": {
+    "artworkUpdated": "U Kunswerk is opgedateer.",
+    "artworkDeleted": "Kunswerk uitgevee",
+    "draftSave": "Jou kunswerke is in die konsepmodus gestoor",
+    "sentForReview": "Jou kunswerke is gestuur vir moderator se hersiening",
+    "published": "U kunswerk is suksesvol gepubliseer"
+  },
+  "profileCompletePopup": {
+    "profileUpdated": "Profiel is suksesvol opgedateer"
+  },
+  "subscriptions": {
+    "purchaseSuccess": "Intekening suksesvol gekoop",
+    "cancel": "Intekening is gekanselleer",
+    "paymentReactivate": "betaling gereaktiveer"
+  },
+  "messages": {
+    "chatDelete": "Gesels suksesvol uitgevee",
+    "userBlock": "Gebruiker is geblokkeer",
+    "messageSent": "Boodskap gestuur"
+  }
+}

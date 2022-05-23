@@ -1,0 +1,24 @@
+{
+    "delete": "Borrar",
+    "warningDeleteConversation": "¿Seguro que quieres eliminar esta conversación?",
+    "block": "Bloquear",
+    "unblock": "Desbloquear",
+    "blockWarning": "Estás seguro que quieres",
+    "thisUser": "este usuario?",
+    "placeholderMessage": "Escribe tu mensaje aquí...",
+    "send": "Enviar",
+    "blockText": "Usted no puede responder a esta conversación. El usuario ha hecho que la mensajería sea privada o fue suspendida.",
+    "noMessage": "Ningún Mensaje",
+    "history": "Ver historial de conversaciones",
+    "emojiPicker": {
+        "smileys_people": "SONRISAS Y PERSONAS",
+        "animals_nature": "ANIMALES Y NATURALEZA",
+        "food_drink": "COMIDA Y BEBIDA",
+        "travel_places": "VIAJES Y LUGARES",
+        "activities": "OCUPACIONES",
+        "objects": "OBJETOS",
+        "symbols": "SÍMBOLOS",
+        "flags": "BANDERAS",
+        "recently_used": "RECIENTEMENTE USADO"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "bannerSection": {
+        "todaysFeature": "Le Meilleur d'aujourd'hui",
+        "seeMore": "Voir plus..."
+    },
+    "loggedOutBanner": {
+        "title": "Bienvenue dans Votre",
+        "title2": "Communauté Artistique",
+        "descr": "Que l'art soit votre passion  ou votre profession, vous êtes  au bon endroit.",
+        "joinInBtnText": "Inscrivez-vous Gratuitement",
+        "network": "Le Réseau",
+        "blog": "Blog",
+        "news": "Des Nouvelles",
+        "group": "Groupes",
+        "marketplace": "Marketplace",
+        "whatIsArtmo": "Qu'est-ce qu'ARTMO ?",
+        "learnMore": "Savoir Plus...",
+        "signUp": "Créez votre compte gratuitement",
+        "logIn": "Identifiez-vous",
+        "videos": "Vidéos",
+        "exhibition": "Des expositions",
+        "gallery": "Galeries"
+    },
+    "usersListing": {
+        "title": "CONNECTEZ-VOUS AVEC LES AMATEURS D'ART",
+        "follower": "abonné",
+        "followers": "abonnées",
+        "unfollow": "Ne plus suivre",
+        "follow": "Suivre",
+        "seeMore": "Voir Plus",
+        "following": "Suivant"
+    },
+    "gridSection": {
+        "home": "PAGE D'ACCUEIL",
+        "artists": "ARTISTES",
+        "galleries": "GALERIES",
+        "exhibitions": "EXPOSITIONS",
+        "users": "UTILISATEURS",
+        "artwork": "ŒUVRES D'ART",
+        "genres": "GENRES",
+        "universities": "UNIVERSITÉS"
+    },
+    "artworkSection": {
+        "title": "ACHETEZ ET VENDEZ VOTRE ART SANS COMMISSIONS ASSOCIÉES",
+        "priceOnRequest": "Prix ​​sur Demande",
+        "artist": "Artiste",
+        "member": "Membre",
+        "seeMore": "Voir Plus ..."
+    },
+    "buzzSection": {
+        "title": "VOIR CE QUI SE PASSE DANS LE MONDE DE L'ART",
+        "seeMore": "Voir Plus ..."
+    },
+    "videosSection": {
+        "title": "VIDEOS",
+        "seeMore": "Voir Plus ..."
+    },
+    "exhibitionsSection": {
+        "title": "TROUVEZ DES EXPOSITIONS DANS LE MONDE ENTIER",
+        "selectCountry": "choisissez un pays",
+        "latest": "plus récemment"
+    },
+    "potdSection": {
+        "title": "IMAGE DU JOUR",
+        "seeMore": "Voir Plus ..."
+    },
+    "joinInSection": {
+        "joinInTitle": "Participez, c'est gratuit."
+    }
+}

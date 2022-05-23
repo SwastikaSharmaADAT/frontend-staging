@@ -1,0 +1,161 @@
+{
+    "leftTabs": {
+        "account": "账号",
+        "changePassword": "修改密码",
+        "setPassword": "设置密码",
+        "privacy": "隐私",
+        "notifications": "通知",
+        "webNotifications": "网页通知",
+        "socialConnect": "社交联系",
+        "myPhotos": "我的图片",
+        "deleteAccount": "删除账号"
+    },
+    "account": {
+        "title": "账号",
+        "username": "用户名",
+        "firstname": "名",
+        "lastname": "姓",
+        "pagename": "页面名称",
+        "email": "邮箱地址",
+        "updateAccount": "更新账号",
+        "validationErrors": {
+            "firstname": "名是必填项",
+            "lastname": "姓是必填项",
+            "firstnameLength": "必须在50个字符以内",
+            "lastnameLength": "必须在50个字符以内",
+            "pagename": "页面名称必填项",
+            "pagenameLength": "必须在50个字符以内"
+        }
+    },
+    "changePassword": {
+        "changeTitle": "修改密码",
+        "setTitle": "设置密码",
+        "currentPassword": "当前密码",
+        "newPassword": "新密码",
+        "confirmPassword": "确认密码",
+        "updatePassword": "更新密码",
+        "validationErrors": {
+            "currentPassword": "请输入你当前的密码",
+            "newPassword": "请输入新密码",
+            "confirmPassword": "请确认您的新密码",
+            "passConditions": "必须8个字符及以上，其中包含至少有一个大写字母、一个小写字母和一个数字",
+            "passNotMatch": "密码不相符"
+        }
+    },
+    "notifications": {
+        "title": "通知",
+        "description": "选择您想要收到通知的电子邮件",
+        "headings": {
+            "followers": "粉丝",
+            "friends": "朋友",
+            "posts": "帖子",
+            "messages": "消息"
+        },
+        "checkboxLabels": {
+            "newFollowers": "我有一个新关注者",
+            "newConnectionAdded": "我获得一个新的连接",
+            "newConnectionRequest": "我有一个新的连接请求",
+            "groupPost": "当有人在组里发布帖子时通知我",
+            "groupComments": "当有人对小组发表评论时通知我",
+            "privateMessage": "有人给我发了一条私信",
+            "unreadMessage": "我有一条未读信息"
+        },
+        "updateNotifications": "更新通知"
+    },
+    "privacy": {
+        "title": "隐私",
+        "profilePrivacy": "个人档案隐私",
+        "showProfileOptions": {
+            "everyone": "所有人",
+            "onlyMe": "仅自己可见",
+            "following": "只有我关注的人可以查看我的资料",
+            "followers": "粉丝",
+            "connections": "仅限连接"
+        },
+        "tooltips":{
+            "tip1":"谁可以查看您的公开档案?",
+            "tip2":"在这里您可以隐藏自己，不会出现在公开目录中",
+            "tip3":"您希望其他人看到您在线吗?",
+            "tip4":"您可以申请一份包含我们认为对您最相关和最有用的信息的文件.",
+            "tip5":"您可以要求删除我们关于您的数据。"
+        },
+        "hideProfile": "从目录中隐藏我的个人档案",
+        "yes": "是",
+        "no": "否",
+        "showOnlineStatus": "显示我的在线状态",
+        "activityWall": "谁可以看到您的活动墙?",
+        "activityWallOptions": {
+            "public": "公开",
+            "onlyMe": "仅自己",
+            "followers": "粉丝",
+            "following": "仅我关注的人"
+        },
+        "privateMessage": "谁可以给我发私人信息?",
+        "privateMessageOptions": {
+            "everyone": "所有人",
+            "nobody": "没有人",
+            "following": "仅我关注的人",
+            "followers": "粉丝",
+            "connections": "连接"
+        },
+        "downloadData": "下载您的资料",
+        "downloadDataDescription": "输入您的当前密码，确认新导出的个人数据。",
+        "downloadDataButton": "申请数据",
+        "eraseData": "删除你的数据",
+        "eraseDataDescription": "输入您的当前密码，确认删除您的个人数据。",
+        "eraseDataButton": "请求删除数据",
+        "updatePrivacyButton": "隐私更新"
+    },
+    "webNotifications": {
+        "title": "网页通知",
+        "description": "接收通知",
+        "checkboxLabels": {
+            "newReplies": "当有会员回复我的评论时",
+            "newComments": "当有会员对我的帖子发表评论时",
+            "viewProfile": "当有会员浏览我的资料时",
+            "privateMessage": "当有人给我发私信时",
+            "newFollower": "当有人关注我时",
+            "newConnection": "当有人请求联系时",
+            "acceptConnection": "当有人接受连接时",
+            "newLike": "当有人喜欢你的帖子时",
+            "newMention": "当有人提到我时",
+            "groupRequestApproved": "当我的小组申请被批准时",
+            "newGroupRequest": "当一个用户要求加入我的小组时",
+            "groupInvitation": "当一个会员被邀请加入一个小组时",
+            "groupRole": "当我的小组角色被改变时",
+            "likeArtwork": "当有人喜欢一件艺术品时"
+        },
+        "updateSettingsButton": "更新通知"
+    },
+    "socialConnect": {
+        "title": "社交连接",
+        "notConnected": "你没有连接到任何社会媒体账户。",
+        "disconnectFacebook": "断开与Facebook的联系",
+        "disconnectLinkedin": "断开与LinkedIn的联系",
+        "passwordWarning": "*请在断开账户前设置密码"
+    },
+    "myPhotos": {
+        "title": "我的照片",
+        "warningText": "一旦照片和相册被删除，它们将被永久删除，并且无法恢复。",
+        "button1": "下载我的照片",
+        "button2": "删除我所有的相册和照片",
+        "downloadWarning": "* 下载我的照片任务可能需要一点时间才能完成，具体取决于上传的照片数量。",
+        "imagesWarning":"是否确实要删除所有相册和图像?",
+        "buttonDelete":"删除"
+    },
+    "deleteAccount": {
+        "title": "删除帐户",
+        "warningText": "您确定要删除您的帐户吗？这将从站点中删除您帐户所有的数据。如要删除您的帐户，请在下方输入您的密码",
+        "button": "删除帐户",
+        "password": "密码",
+        "passwordWarning": "*请在断开帐户连接之前设置密码",
+        "managePaymentsTitle": "管理供应商订阅的付款",
+        "managePaymentsText": "如果您想停止付款，则无需删除您的个人资料。<br/>你可以留着。<br/>您可以轻松降级到 FREE BASIC 计划，无需进一步付款。",
+        "managePaymentsText2": "在您的仪表板上查看",
+        "managePaymentsQuoteText": "降级您的订阅",
+        "managePaymentsButtonText": "转到仪表板 > 订阅"
+    },
+    "imageContainer": {
+        "viewProfile": "查看档案"
+    }
+}

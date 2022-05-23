@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "noContactsFound": "没有找到联系人",
+        "somethingWentWrong": "报错！如需继续请先登录",
+        "sessionExpired": "会话超时，请重新登录",
+        "loginToContinue": "请登录后继续."
+    },
+    "mediaLibrary": {
+        "limitMoreImages": "只能 {{limit}} 选择更多图片"
+    },
+    "article": {
+        "articleNotFound": "话题未找到"
+    },
+    "cart": {
+        "alreadyInCart": "这件作品已添加到您的购物车中",
+        "removeItemError": "从购物车中删除项目时出错"
+    },
+    "subscriptions": {
+        "planExist": "您已经购买了此项目!",
+        "artworkNotFound":"未找到艺术品"
+    }
+}

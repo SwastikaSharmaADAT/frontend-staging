@@ -1,0 +1,103 @@
+{
+    "title": "SUBSKRYPCJA SPRZEDAŻOWA",
+    "artistPage": {
+        "sectionLabels": {
+            "sellCommissionFree": "Sprzedawaj swoje dzieła bez prowizji",
+            "connectWithCollectors": "Kontaktuj się bezpośrednio z merszandami",
+            "cancelSubscription": "Wypisz się w dowolnym momencie",
+            "basicPlan": "Plan podstawowy za darmo"
+        }
+    },
+    "memberPage": {
+        "chooseThePlan": "Wybierz odpowiadający Ci plan...",
+        "planLabels": {
+            "plus": "Plus",
+            "pro": "Pro",
+            "lifetime": "Lifetime"
+        },
+        "gatewayFees": "Opłaty za bramkę",
+        "cancelAnytime": "Anuluj w każdym czasie"
+    },
+    "faq": {
+        "title": "Najczęściej zadawane pytania",
+        "askQuestion": "Zapytaj",
+        "questionLabels": {
+            "subscriptionFee": "Dlaczego mam opłacać subskrypcję?",
+            "basicAccount": "Czy wersja podstawowa to tylko wersja próbna?",
+            "cancelSubscription": "Czy mogę wypisać się w dowolnym czasie - i czy dostanę zwrot?",
+            "paymentForSelling": "Jak i kiedy dostanę wypłatę po sprzeday dzieła?",
+            "publishAndSell": "Czy mogę publikować i sprzedawać taką sztukę, jaką chcę?",
+            "howArtmoSurvive": "Jak ARTMO przetrwa bez prowizji?"
+        }
+    },
+    "perMonth": "/mo",
+    "pricingSelectLabels": {
+        "monthly": "Opłata miesięczna,",
+        "quarterly": "Opłata kwartalna,",
+        "halfYearly": "Opłata co pół roku,",
+        "yearly": "Opłata roczna,"
+    },
+    "freePricing": "darmowa",
+    "currencySwitcher": "Waluta",
+    "commission": "Prowizja",
+    "getText": "Zapisz",
+    "signUpText": "Zapisać się",
+    "noneText": "Brak",
+    "includedText": "Tak",
+    "notIncludedText": "Nie",
+    "vendorPaymentPopup": {
+        "yourChoice": "Twój wybóe",
+        "price": "Cena",
+        "every": "każde",
+        "month": "miesiące",
+        "months": "miesięcy",
+        "proceedToPayment": "Przejdź do płatności"
+    },
+    "underagePopup": {
+        "hi": "Cześć",
+        "backToProfile": "Wróć do profilu"
+    },
+    "productLimits": {
+        "publishAndSell": "Opublikuj i sprzedaj...",
+        "basic": "do 5 dzieł",
+        "artistPlus": "do 20 dzieł",
+        "unlimited": "nielimitowane dzieła"
+    },
+    "termsCondsPopup": {
+        "title": "Zasady dla Sprzedawców",
+        "agreeAndProceed": "Zgoda",
+        "agreeAndSubscribeTo": "Zgoda, przejdź do subskrypcji"
+    },
+    "artworkListing": {
+        "byText": ""
+    },
+    "roleChangeWarning": "Kontynuując, zgadzasz się na zmianę typu użytkownika z",
+    "toText": "na",
+    "toggleMemberLabel": "Dla członków",
+    "toggleArtistLabel": "Dla artystów",
+    "pickPlanHeading": "Wybierz plan, który Ci odpowiada.",
+    "promoteWorkHeading": "Promuj i sprzedawaj swoją sztukę bez prowizji.",
+    "makeArtSeenHeading": "Sprzedaj swoją sztukę.",
+    "categories":{
+        "artistConnectDirectly":"Połącz się bezpośrednio z kupującymi",
+        "artistEnablePayment":"Włącz bramki płatnicze: Paypal, Visa, MasterCard",
+        "enableAcceptPayment":"Akceptuj płatności bezpośrednie",
+        "artistDashboardManage":"Pulpit nawigacyjny: Zarządzaj kolekcją i kontem",
+        "artistShippingPolicy":"Twoja własna polityka wysyłki",
+        "artistCreateCertificate":"Twórz Certyfikaty Autentyczności dla swoich dzieł",
+        "artistHelpDesk":"Biuro pomocy ARTMO",
+        "artistPublishArticle":"Publikuj i publikuj artykuły o swojej pracy i wystawach",
+        "artistBacklinkCollection":"Back-Link do swojej kolekcji ARTMO na swojej stronie głównej",
+        "artistDisputeSupport":"Wsparcie mediacji w sporach z klientami",
+        "memberConnectBuyers":"Połącz się bezpośrednio z kupującymi",
+        "memberEnablePayment":"Włącz bramki płatnicze: Paypal, Visa, MasterCard",
+        "memberAcceptPayment":"Akceptuj płatności bezpośrednie",
+        "memberDashboardManage":"Pulpit nawigacyjny: Zarządzaj kolekcją i kontem",
+        "memberShippingPolicy":"Twoja własna polityka wysyłki",
+        "memberHelpDesk":"Biuro pomocy ARTMO",
+        "memberBacklinkCollection":"Back-Link do swojej kolekcji ARTMO na swojej stronie głównej",
+        "memberDisputeSupport":"Wsparcie mediacji w sporach z klientami",
+        "artistBadge":"Sprzedawca Premium <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />",
+        "memberBadge":"Sprzedawca Premium <img src=\"https://d5i0d1vvu790l.cloudfront.net/premium-badge/premium-badge.png\" width=\"15\" height=\"15\" style=\"padding-left: 5px;\" />"
+      }
+}

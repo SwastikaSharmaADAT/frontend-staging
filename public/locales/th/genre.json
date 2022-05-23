@@ -1,0 +1,47 @@
+{
+  "title": "ประเภท",
+  "tabs": {
+    "genre": "ประเภท",
+    "media": "สื่อ",
+    "timePeriod": "ระยะเวลา",
+    "genreSubTabs": {
+      "definition": "คำจำกัดความ",
+      "abstractExpressionism": "Abstract Expressionism",
+      "abstract": "Abstract",
+      "calligraphy": "Calligraphy",
+      "conceptual": "Conceptual",
+      "concrete": "Concrete",
+      "constructivism": "Constructivism",
+      "cubism": "Cubism",
+      "documentary": "สารคดี",
+      "expressionism": "Expressionism",
+      "fantastic": "Fantastic",
+      "figurative": "Figurative",
+      "illustration": "Illustration",
+      "impressionism": "Impressionism",
+      "magicalRealism": "Magical Realism",
+      "minimalism": "Minimalism",
+      "naiveArt": "Naive Art",
+      "pop": "Pop",
+      "realism": "Realism",
+      "surrealism": "Surrealism"
+    },
+    "mediaSubTabs": {
+      "definition": "คำจำกัดความ",
+      "collage": "งานคอลลาจ",
+      "design": "งานออกแบบ",
+      "digital": "งานดิจิตอล",
+      "drawing": "งานวาด",
+      "mixed": "งานผสมผสาน",
+      "multimedia": "มัลติมีเดีย",
+      "newMedia": "สื่อใหม่",
+      "painting": "งานลงสี",
+      "sculpture": "ประติมากรรม"
+    },
+    "timeperiodSubTabs": {
+      "definition": "คำจำกัดความ",
+      "contemporary": "ร่วมสมัย",
+      "modern": "โมเดิร์น"
+    }
+  }
+}

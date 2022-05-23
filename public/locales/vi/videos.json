@@ -1,0 +1,10 @@
+{
+    "title": "VIDEO",
+    "listing": {
+        "placeholderSearch": "Tìm kiếm video theo tiêu đề...",
+        "search": "Tìm kiếm",
+        "country": "Quốc gia:",
+        "category": "Danh mục:",
+        "userType": "Loại Người dùng:"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "connectingTheArtWorld": "కళా ప్రపంచాన్ని కలుపుతూ...",
+    "login": "లాగిన్",
+    "freeSignup": "ఉచిత సైన్ అప్",
+    "signup": "సైన్ అప్",
+    "search": "వినియోగదారులను వెతకండి...",
+    "legacyPageInfo": "మీ పేజీకు ఇక్కడ నుండి ప్రవేశించవచ్చు",
+    "loginMenu": {
+        "home": "హోమ్",
+        "groups": "సమూహాలు",
+        "network": "నెట్‌వర్క్",
+        "messages": "సందేశాలు",
+        "notifications": "ప్రకటనలు",
+        "cart": "కార్ట్",
+        "artwork": "కళాకృతులు",
+        "me": "నేను",
+        "more": "మరిన్ని...",
+        "sellArt": "కళాకృతులను అమ్మండి",
+        "dashboard": "డాష్‌బోర్డ్",
+        "myarticles": "వ్యాసాలు"
+    },
+    "logoutMenu": {
+        "artwork": "కళాకృతులు",
+        "cart": "కార్ట్",
+        "more": "మరిన్ని..."
+    },
+    "subMenu": {
+        "createPage": "పేజీని సృష్టించండి",
+        "switchPage": "పేజీకు మారండి",
+        "switchTo": "ఇక్కడకు మారండి",
+        "profile": "ప్రొఫైల్",
+        "page": "నా పేజీ",
+        "myAccount": "నా ఖాతా",
+        "signOut": "సైన్ అవుట్",
+        "settings": "సెట్టింగులు మరియు గోప్యత"
+    },
+    "cart": {
+        "removeWarning": "మీరు ఖచ్చితంగా ఈ వస్తువును తొలగించాలి అనుకుంటున్నారా?",
+        "yes": "అవును",
+        "checkoutButton": "చెక్అవుట్",
+        "emptyCartWarning": "మీ కార్ట్ ఖాళీగా ఉన్నది!",
+        "outOfStock": "స్టాక్ అయిపోయినది!",
+        "seeArtworks": "కళాకృతులను చూడండి",
+        "buttonYes": "అవును"
+    }
+}

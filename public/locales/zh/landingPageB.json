@@ -1,0 +1,70 @@
+{
+    "bannerSection": {
+        "todaysFeature": "今日专题",
+        "seeMore": "查看更多"
+    },
+    "loggedOutBanner": {
+        "title": "欢迎来到您的网站",
+        "title2": "艺术社区",
+        "descr": "艺术是你的热情  或职业，你来了  到了正确的地方.",
+        "joinInBtnText": "免费加入",
+        "network": "网络",
+        "blog": "博客",
+        "news": "新闻",
+        "group": "团体",
+        "marketplace": "市场",
+        "whatIsArtmo": "ARTMO是什么?",
+        "learnMore": "了解更多...",
+        "signUp": "免费创建您的帐户",
+        "logIn": "登录",
+        "videos": "视频",
+        "exhibition": "展览会",
+        "gallery": "画廊"
+    },
+    "usersListing": {
+        "title": "与艺术爱好者联系",
+        "follower": "粉丝",
+        "followers": "粉丝",
+        "unfollow": "未关注",
+        "follow": "关注",
+        "seeMore": "查看更多",
+        "following": "关注中"
+    },
+    "gridSection": {
+        "home": "主页",
+        "artists": "艺术家",
+        "galleries": "画廊",
+        "exhibitions": "展览",
+        "users": "用户",
+        "artwork": "艺术品",
+        "genres": "流派",
+        "universities": "大学"
+    },
+    "artworkSection": {
+        "title": "在没有相关佣金的情况下买卖您的艺术品",
+        "priceOnRequest": "按需报价",
+        "artist": "艺术家",
+        "member": "会员",
+        "seeMore": "查看更多"
+    },
+    "buzzSection": {
+        "title": "看看艺术界正在发生什么",
+        "seeMore": "查看更多"
+    },
+    "videosSection": {
+        "title": "视频",
+        "seeMore": "查看更多"
+    },
+    "exhibitionsSection": {
+        "title": "查找全球展览",
+        "selectCountry": "选择一个位置",
+        "latest": "最近"
+    },
+    "potdSection": {
+        "title": "当日图片",
+        "seeMore": "查看更多"
+    },
+    "joinInSection": {
+        "joinInTitle": "免费加入."
+    }
+}

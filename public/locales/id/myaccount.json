@@ -1,0 +1,161 @@
+{
+    "leftTabs": {
+        "account": "Akun",
+        "changePassword": "Ganti Kata Sandi",
+        "setPassword": "Atur Kata Sandi",
+        "privacy": "Privasi",
+        "notifications": "Pemberitahuan",
+        "webNotifications": "Pemberitahuan Web",
+        "socialConnect": "Koneksi Sosial",
+        "myPhotos": "Foto Saya",
+        "deleteAccount": "Hapus Akun"
+    },
+    "account": {
+        "title": "Akun",
+        "username": "Nama pengguna",
+        "firstname": "Nama Depan",
+        "lastname": "Nama Belakang",
+        "pagename": "Nama Halaman",
+        "email": "Alamat Email",
+        "updateAccount": "Memperbarui Akun",
+        "validationErrors": {
+            "firstname": "Nama depan wajib diisi",
+            "lastname": "Nama belakang wajib diisi",
+            "firstnameLength": "Harus 50 karakter atau kurang",
+            "lastnameLength": "Harus 50 karakter atau kurang",
+            "pagename": "Nama halaman wajib diisi",
+            "pagenameLength": "Harus 50 karakter atau kurang"
+        }
+    },
+    "changePassword": {
+        "changeTitle": "Ganti Kata Sandi",
+        "setTitle": "Atur Kata Sandi",
+        "currentPassword": "Kata sandi saat ini",
+        "newPassword": "Kata Sandi Baru",
+        "confirmPassword": "Setujui Kata Sandi",
+        "updatePassword": "Memperbarui Kata Sandi",
+        "validationErrors": {
+            "currentPassword": "Silakan masukkan kata sandi anda saat ini",
+            "newPassword": "Silakan masukkan kata sandi baru",
+            "confirmPassword": "Harap konfirmasi kata sandi baru anda",
+            "passConditions": "Harus berisi 8 karakter, setidaknya satu Huruf Besar, satu Huruf Kecil, dan satu Angka",
+            "passNotMatch": "Kata sandi tidak cocok"
+        }
+    },
+    "notifications": {
+        "title": "Pemberitahuan",
+        "description": "Pilih pemberitahuan email apa yang ingin anda terima",
+        "headings": {
+            "followers": "Pengikut",
+            "friends": "Teman",
+            "posts": "Postingan",
+            "messages": "Pesan"
+        },
+        "checkboxLabels": {
+            "newFollowers": "Saya Diikuti Orang Baru",
+            "newConnectionAdded": "Saya Punya Koneksi Baru",
+            "newConnectionRequest": "Saya Punya Permintaan Koneksi Baru",
+            "groupPost": "Beritahu Saya Ketika Seseorang Memposting Di Grup",
+            "groupComments": "Beritahu Saya Ketika Seseorang Mengomentari Grup",
+            "privateMessage": "Seseorang Mengirimi Saya Pesan Pribadi",
+            "unreadMessage": "Saya Memiliki Pesan yang Belum Dibaca"
+        },
+        "updateNotifications": "Memperbarui Pemberitahuan"
+    },
+    "privacy": {
+        "title": "Privasi",
+        "profilePrivacy": "Privasi Profil",
+        "showProfileOptions": {
+            "everyone": "Semua Orang",
+            "onlyMe": "Hanya Saya",
+            "following": "Hanya orang yang saya ikuti yang dapat melihat profil saya",
+            "followers": "Pengikut",
+            "connections": "Hanya Koneksi"
+        },
+        "tooltips": {
+            "tip1": "Siapa yang dapat melihat profil publik Anda?",
+            "tip2": "Di sini Anda dapat menyembunyikan diri Anda agar tidak muncul di direktori publik",
+            "tip3": "Apakah Anda ingin orang lain melihat bahwa Anda sedang online?",
+            "tip4": "Anda dapat meminta file dengan informasi yang kami yakini paling relevan dan berguna bagi Anda.",
+            "tip5": "Anda dapat meminta penghapusan data yang kami miliki tentang Anda."
+        },
+        "hideProfile": "Sembunyikan profil saya dari direktori",
+        "yes": "Ya",
+        "no": "Tidak",
+        "showOnlineStatus": "Tampilkan status online saya",
+        "activityWall": "Siapa yang dapat melihat dinding aktivitas anda?",
+        "activityWallOptions": {
+            "public": "Publik",
+            "onlyMe": "Hanya Saya",
+            "followers": "Pengikut",
+            "following": "Orang yang saya ikuti"
+        },
+        "privateMessage": "Siapa yang dapat mengirimi saya pesan pribadi?",
+        "privateMessageOptions": {
+            "everyone": "Semua Orang",
+            "nobody": "Tak seorangpun",
+            "following": "Orang yang saya ikuti",
+            "followers": "Pengikut",
+            "connections": "Terkoneksi"
+        },
+        "downloadData": "Unduh data anda",
+        "downloadDataDescription": "Masukkan kata sandi anda saat ini untuk mengonfirmasi data pribadi ekspor baru anda.",
+        "downloadDataButton": "Permintaan data",
+        "eraseData": "Hapus data anda",
+        "eraseDataDescription": "Masukkan kata sandi anda saat ini untuk mengonfirmasi penghapusan data pribadi anda.",
+        "eraseDataButton": "Meminta hapus data",
+        "updatePrivacyButton": "Memperbarui Privasi"
+    },
+    "webNotifications": {
+        "title": "Pemberitahuan Web",
+        "description": "Menerima Pemberitahuan",
+        "checkboxLabels": {
+            "newReplies": "Ketika Seorang Anggota Membalas Salah Satu Komentar Saya",
+            "newComments": "Ketika Seorang Anggota Mengomentari Postingan Saya",
+            "viewProfile": "Ketika Seorang Anggota Melihat Profil Saya",
+            "privateMessage": "Ketika Seseorang Mengirim Pesan Pribadi Kepada Saya",
+            "newFollower": "Ketika Seseorang Mengikuti Saya",
+            "newConnection": "Ketika Seseorang Meminta Untuk Terhubung",
+            "acceptConnection": "Ketika Seseorang Menerima Koneksi",
+            "newLike": "Ketika Seseorang Menyukai Postingan anda",
+            "newMention": "Ketika Seseorang Menyebut Saya",
+            "groupRequestApproved": "Ketika Permintaan Grup Saya Telah Disetujui",
+            "newGroupRequest": "Ketika Seorang Pengguna Meminta Untuk Bergabung dengan Grup Saya",
+            "groupInvitation": "Ketika Seorang Anggota Telah Diundang Untuk Bergabung Dengan Grup",
+            "groupRole": "Ketika Peran Grup Saya Telah Berubah",
+            "likeArtwork": "Ketika Seseorang Menyukai Sebuah Karya Seni"
+        },
+        "updateSettingsButton": "Memperbarui Pemberitahuan"
+    },
+    "socialConnect": {
+        "title": "Koneksi Sosial",
+        "notConnected": "Anda tidak terhubung ke akun media sosial mana pun.",
+        "disconnectFacebook": "Putuskan sambungan dari Facebook",
+        "disconnectLinkedin": "Putuskan sambungan dari LinkedIn",
+        "passwordWarning": "*Harap setel kata sandi anda sebelum memutuskan sambungan akun"
+    },
+    "myPhotos": {
+        "title": "Foto Saya",
+        "warningText": "Setelah foto dan album dihapus, mereka akan dihapus secara permanen dan tidak dapat dipulihkan.",
+        "button1": "Unduh foto saya",
+        "button2": "Hapus semua album & foto saya",
+        "downloadWarning": "*Unduh tugas foto saya dapat memakan waktu untuk diselesaikan tergantung pada jumlah foto yang diunggah.",
+        "imagesWarning": "Apakah Anda yakin ingin menghapus semua album & gambar Anda?",
+        "buttonDelete": "hapus"
+    },
+    "deleteAccount": {
+        "title": "Hapus Akun",
+        "warningText": "Apakah Anda yakin ingin menghapus akun Anda? Ini akan menghapus semua data akun Anda dari situs. Untuk menghapus akun Anda, masukkan kata sandi Anda di bawah ini",
+        "button": "Hapus akun",
+        "password": "Kata sandi",
+        "passwordWarning": "*Harap setel kata sandi Anda sebelum memutuskan sambungan akun",
+        "managePaymentsTitle": "Kelola Pembayaran untuk Langganan Vendor",
+        "managePaymentsText": "Jika Anda ingin menghentikan pembayaran, Anda tidak perlu menghapus profil Anda.<br/>Anda bisa menyimpannya.<br/>Anda dapat dengan mudah menurunkan versi ke paket DASAR GRATIS tanpa perlu pembayaran lebih lanjut.",
+        "managePaymentsText2": "Lihat di dasbor Anda",
+        "managePaymentsQuoteText": "Turunkan Langganan Anda",
+        "managePaymentsButtonText": "Buka Dasbor > Berlangganan"
+    },
+    "imageContainer": {
+        "viewProfile": "Lihat Profil"
+    }
+}

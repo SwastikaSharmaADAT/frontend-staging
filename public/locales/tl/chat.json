@@ -1,0 +1,24 @@
+{
+    "delete": "Burahin",
+    "warningDeleteConversation": "Sigurado ka bang gusto mong burahin ang pag-uusap na ito?",
+    "block": "I-block",
+    "unblock": "I-unblock",
+    "blockWarning": "Sigurado ka bang gusto mo?",
+    "thisUser": "itong user?",
+    "placeholderMessage": "I-type ang iyong mensahe rito...",
+    "send": "Ipadala",
+    "blockText": " Hindi ka na maaaring sumagot sa pag-uusap na ito. Maaaring ang user na ito ay ginawang private ang kanyang messaging o suspendido.",
+    "noMessage": "Walang mga mensahe",
+    "history": "Tignan ang chat history",
+    "emojiPicker": {
+        "smileys_people": "MGA SMILEY AT TAO ",
+        "animals_nature": "HAYOP AT KALIKASAN",
+        "food_drink": "PAGKAIN AT INUMIN",
+        "travel_places": "MGA DESTINASYON AT LUGAR",
+        "activities": "MGA ACTIVITY",
+        "objects": "MGA BAGAY",
+        "symbols": "MGA SIMBOLO",
+        "flags": "MGA WATAWAT",
+        "recently_used": "KAMAKAILANG GINAMIT"
+    }
+}

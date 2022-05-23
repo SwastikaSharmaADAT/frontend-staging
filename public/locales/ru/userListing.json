@@ -1,0 +1,17 @@
+{
+    "heading": "АРТ СООБЩЕСТВО",
+    "listing": {
+        "country": "Страна:",
+        "placeholderCity": "Город",
+        "userType": "Тип Пользователя:",
+        "sortBy": "Сортировать по:",
+        "search": "Поиск",
+        "searchUsers": "Искать пользователя...",
+        "searchbyname": "Искать по имени..."
+    },
+    "follower": "подписчик(ца)",
+    "followers": "подписчики",
+    "unfollow": "Отписаться",
+    "follow": "Подписаться",
+    "editProfile": "Редактировать Профиль"
+}

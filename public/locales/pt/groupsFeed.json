@@ -1,0 +1,59 @@
+{
+    "createPost": {
+        "title": "Criar um Post",
+        "editPhoto": "Editar Imagem",
+        "addPhoto": "Adicionar Imagem",
+        "characterLimit": "/500",
+        "publish": "Publicar",
+        "placeholderWriteSomething":"Escreva alguma coisa..."
+    },
+    "groupBarHead": {
+        "Leave": "Sair",
+        "confirmLeave": "Tem certeza que quer sair do grupo?",
+        "uploadPhoto": "Adicionar Imagem",
+        "removePhoto": "Alterar Imagem",
+        "changePhoto": "Remover Imagem",
+        "group": "Grupo",
+        "leaveGroup": "Sair do grupo",
+        "joinGroup": "Entrar no grupo",
+        "lastActive": "Ativo pela última vez",
+        "members": " membro(s)",
+        "posts": "post(s)",
+        "editGroupSettings": "Editar Configurações de Grupo"
+    },
+    "memberSection": {
+        "title": "Membros do Grupo",
+        "members": "membros",
+        "seeAll": "Ver Todos..."
+    },
+    "invite": {
+        "title": "Convidar Conexões",
+        "seeAll": "Ver Todos",
+        "invited": "Convidado",
+        "follower": "seguidor",
+        "followerPlural": "seguidores",
+        "allConnectionsInvited": "Todas as suas conexões foram convidadas.",
+        "inviteTo": "Convidar para",
+        "invite": "Convidar"
+    },
+    "joinRequests": {
+        "title": "Pedidos de adesão",
+        "follower": "seguidor",
+        "followerPlural": "seguidores",
+        "reject": "Recusar",
+        "accept": "Aceitar",
+        "noMoreRequests": "Não há mais pedidos de adesão"
+    },
+    "listingPopup": {
+        "remove": "Remover",
+        "admin": "(Admin)",
+        "moderator": "(Moderador)",
+        "follower": "seguidor",
+        "followerPlural": "seguidores",
+        "assignModerator": "Atribuir como moderador",
+        "removeFromGroup": "Remover do Grupo",
+        "addedAsModerator": "Adicionado como Moderador",
+        "deleteConfirm": "Tem certeza que quer remover este usuário?"
+    },
+    "notAuthorized": "Não Autorizado"
+}

@@ -1,0 +1,27 @@
+{
+  "about": "เกี่ยวกับ",
+  "labels": {
+    "option1": "เครือข่ายงานศิลปะ",
+    "option2": "ร้านค้า",
+    "option3": "ทีมงาน",
+    "option4": "ตำแหน่งงาน",
+    "option5": "IP",
+    "option6": "ที่มาทางกฎหมายของสิ่งตีพิมพ์",
+    "option7": "ข้อกำหนดการใช้งาน & นโยบายความเป็นส่วนตัว",
+    "option8": "ความสัมพันธ์กับนักลงทุน"
+  },
+  "career": {
+    "jobOpening": {
+      "title": "ตำแหน่งงานที่เปิดรับ"
+    },
+    "lisbonPortugal": {
+      "title": "ลิสบอร์น | โปรตุเกส",
+      "option1": "ฝึกงาน",
+      "option2": "Social Media Manager & Digital Marketer",
+      "option3": "ผู้เชี่ยวชาญด้าน WooCommerce "
+    },
+    "hamburgGermany": {
+      "title": "แฮมบวร์ก | เยอรมัน"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "auth": {
+    "noContactsFound": "לא נמצאו אנשי קשר",
+    "somethingWentWrong": "משהו השתבש, אנא התחבר כדי להמשיך",
+    "sessionExpired": "פג תוקף החיבור, אנא התחבר שוב",
+    "loginToContinue": "אנא התחבר על מנת להמשיך.",
+  },
+  "mediaLibrary": {
+    "limitMoreImages": "ניתן לבחור רק {{limit}} תמונות נוספות"
+  },
+  "article": {
+    "articleNotFound": "המאמר לא נמצא"
+  },
+  "cart": {
+    "alreadyInCart": "מוצר זה כבר בעגלה שלך",
+    "removeItemError": "שגיאה בהסרת פריט מהעגלה",
+  },
+  "subscriptions": {
+    "planExist": "כבר רכשת את החבילה הזו!",
+    "artworkNotFound": "אומנות לא נמצאה",
+  }
+}

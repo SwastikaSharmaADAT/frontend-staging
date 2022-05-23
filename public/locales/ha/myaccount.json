@@ -1,0 +1,161 @@
+{
+    "leftTabs": {
+        "account": "Asusu",
+        "changePassword": "Canja Lambobin Sirri",
+        "setPassword": "Saika Lambobin Sirri",
+        "privacy": "Sirri",
+        "notifications": "Tunatarwa",
+        "webNotifications": "Tunatarwar Yanar-Gizo",
+        "socialConnect": "Hadin Shafin Zumunta",
+        "myPhotos": "Hotuna Na",
+        "deleteAccount": "Goge Asusu"
+    },
+    "account": {
+        "title": "Asusu",
+        "username": "Suna",
+        "firstname": "Sunan Farko",
+        "lastname": "Sunan Karshe",
+        "pagename": "Sunan Shafi",
+        "email": "Adireshin Imel",
+        "updateAccount": "Sabunta Asusu",
+        "validationErrors": {
+            "firstname": "Ana bukatar sunan farko",
+            "lastname": "Anan bukatar sunan karshe",
+            "firstnameLength": "Dole ya kasance harufa 50 ko kasa",
+            "lastnameLength": "Dole ya kasance harufa 50 ko kasa",
+            "pagename": "Ana bukatar sunan shafi",
+            "pagenameLength": "Dole ya kasance harufa 50 ko kasa"
+        }
+    },
+    "changePassword": {
+        "changeTitle": "Canja Lambobin Sirri",
+        "setTitle": "Saita Lambobin Sirri",
+        "currentPassword": "Lambobin Sirri na Yanzu",
+        "newPassword": "Sabon Lambobin Sirri",
+        "confirmPassword": "Tabbatar da Lambobin Sirri",
+        "updatePassword": "Sabunta Lambobin Sirri",
+        "validationErrors": {
+            "currentPassword": "Shigar da lambobin sirrin ka na yanzu",
+            "newPassword": "Shigar da sabon lambobin sirri",
+            "confirmPassword": "Tabbatar da sabon lambobin sirri",
+            "passConditions": "Dole ya kasance harufa 8, akalla babban harafi daya, karamin harafi daya da Lamba daya",
+            "passNotMatch": "Lambobin sirrin basuyi daidai ba"
+        }
+    },
+    "notifications": {
+        "title": "Tunatarwa",
+        "description": "Zabi irin sakon imel din da kakeso ka dinga samu",
+        "headings": {
+            "followers": "Masu bi",
+            "friends": "Abokai",
+            "posts": "Rubutu",
+            "messages": "Sakonni"
+        },
+        "checkboxLabels": {
+            "newFollowers": "Nasamu sabon mai bina",
+            "newConnectionAdded": "Nasamu sabon hadaka",
+            "newConnectionRequest": "Nasamu sabon neman hadaka",
+            "groupPost": "Tunatar dani idan wani yayi rubutu a rukuni",
+            "groupComments": "Tunatar dani idan wani yayi sharhi a rukuni",
+            "privateMessage": "Wani ya turomin sako a sirrin ce",
+            "unreadMessage": "Inada sako da ban karanta ba"
+        },
+        "updateNotifications": "Sabunta Tunatarwa"
+    },
+    "privacy": {
+        "title": "Sirri",
+        "profilePrivacy": "Sirrin Shafi",
+        "showProfileOptions": {
+            "everyone": "Kowa",
+            "onlyMe": "Ni kadai",
+            "following": "Mutanen da kawai nakebi ne zasu iya ganin shafi na",
+            "followers": "Masu bi",
+            "connections": "Hadaka Kawai"
+        },
+        "tooltips": {
+            "tip1": "Waye daga waje zai iya ganin shafin ka?",
+            "tip2": "Anan zaka iya boye shafin ka daga fitowa idan an nema daga waje",
+            "tip3": "Kanaso sauran mutane su sani idan kana kan layi?",
+            "tip4": "Zaka iya neman fayil mai bayanai da muna yakinin yana da muhimmanci da amfani gareka.",
+            "tip5": "Zaka iya neman izinin a goge duka bayanai akan ka da muke dashi."
+        },
+        "hideProfile": "Boye shafi na daga wajen ajiya",
+        "yes": "Yes",
+        "no": "No",
+        "showOnlineStatus": "Nuna lokacin da nake kan na'ura",
+        "activityWall": "waye zai iya ganin bangon ayyuka na?",
+        "activityWallOptions": {
+            "public": "Kowa",
+            "onlyMe": "Ni kadai",
+            "followers": "Masu bi",
+            "following": "Mutanen da nake bi"
+        },
+        "privateMessage": "Waye zai iya turomin sakon sirri?",
+        "privateMessageOptions": {
+            "everyone": "Kowa",
+            "nobody": "Babu Kowa",
+            "following": "Mutanen da nake bi",
+            "followers": "Masu bi",
+            "connections": "An hada"
+        },
+        "downloadData": "Dauko bayanan ka",
+        "downloadDataDescription": "Shigar da lambobin sirrin ka na yanzu domin samun damar daukan bayanan ka.",
+        "downloadDataButton": "Nemi bayanan",
+        "eraseData": "Goge bayanan ka",
+        "eraseDataDescription": "Shigar da lambobin sirrin ka na yanzu domin samun damar goge bayanan ka.",
+        "eraseDataButton": "Nemi goge bayanai",
+        "updatePrivacyButton": "Sabunta Sirri"
+    },
+    "webNotifications": {
+        "title": "Tunatarwar Yanar-gizo",
+        "description": "Karbar Tunatarwa",
+        "checkboxLabels": {
+            "newReplies": "Idan Memba Yayi Martani Akan Sharhi Na",
+            "newComments": "Idan Memba Yayi Sharhi a Rubutu Na",
+            "viewProfile": "Idan Memba Yayi Kalli Shafi Na",
+            "privateMessage": "Idan Memba Ya Tura Min Sakon Sirri",
+            "newFollower": "Idan Wani Ya Bini",
+            "newConnection": "Idan Wani Ya Nemi Hadaka",
+            "acceptConnection": "Idan Wani Ya Karbi Hadaka",
+            "newLike": "Idan Wani Ya So Rubutu Na",
+            "newMention": "Idan Wani Ya Kira Suna Na",
+            "groupRequestApproved": "Idan an Yarda da Nema Na a Rukuni",
+            "newGroupRequest": "idan Mai Amfani ya Nemi Shiga Rukuni Na",
+            "groupInvitation": "Idan Aka Gayyaci Memba Rukuni Na",
+            "groupRole": "Idan Aka Canja Aikina a Rukuni",
+            "likeArtwork": "Idan Wani Ya So Zane"
+        },
+        "updateSettingsButton": "Sabunta Tunatarwa"
+    },
+    "socialConnect": {
+        "title": "Hadakar Zumunta",
+        "notConnected": "Baka da hadi da wani shafin sada zumunta.",
+        "disconnectFacebook": "An fita daga Facebook",
+        "disconnectLinkedin": "An fita daga LinkedIn",
+        "passwordWarning": "*Saita lambobin sirrin ka kafin fita daga asusu"
+    },
+    "myPhotos": {
+        "title": "Hotuna Na",
+        "warningText": "Idan aka goge hotuna da albam, an goge su na dindindin bazasu taba dawowa ba.",
+        "button1": "Dauko hotuna na",
+        "button2": "Goge duka hotuna na da albam",
+        "downloadWarning": "* Aikin dauko hotuna na zai dauki wasu lokuta wajen gamawa amma ya danganta da yawan hotunan da aka ajiye.",
+        "imagesWarning": "Ka tabbatar kanaso ka goge duka hotuna da albam dinka?",
+        "buttonDelete": "goge"
+    },
+    "deleteAccount": {
+        "title": "Goge Asusu",
+        "warningText": "Ka tabbatar kanaso ka goge asusu? Hakan zai goge duka bayanan asusun ka daga shafin. Don goge asusun ka rubuta lambobin sirrin ka a kasa.",
+        "button": "Goge asusu",
+        "password": "Lambobin Sirri",
+        "passwordWarning": "*A saita lambobin sirri kafin cire asusun",
+        "managePaymentsTitle": "Sarrafa Biyan Kuɗi don Biyan Kuɗi na Mai siyarwa",
+        "managePaymentsText": "Idan kuna son dakatar da biyan kuɗi ba kwa buƙatar share bayanan martabarku.<br/>Kuna iya ajiye shi.<br/>Kuna iya sauƙi rage darajar zuwa tsarin BASIC KYAUTA ba tare da ƙarin biyan kuɗi da ake buƙata ba.",
+        "managePaymentsText2": "Duba kan dashboard ɗin ku",
+        "managePaymentsQuoteText": "Rage Biyan Kuɗi",
+        "managePaymentsButtonText": "Je zuwa Dashbod> Biyan kuɗi"
+    },
+    "imageContainer": {
+        "viewProfile": "Duba Shafi"
+    }
+}

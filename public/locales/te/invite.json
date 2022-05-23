@@ -1,0 +1,16 @@
+{
+    "title": "స్నేహితులను ఆహ్వానించండి",
+    "tagsInput": {
+        "placeholder": "ఈమెయిల్లను స్వతహాగా జతచేయండి. ప్రతి ఈ-మెయిల్ తర్వాత కామా పెట్టండి లేదా ఎంటర్ నొక్కండి."
+    },
+    "cancelButtonLabel": "రద్దు చేయు",
+    "sendInvitesButtonLabel": "ఆహ్వానాలు పంపు",
+    "howInviteWork": "ఇది ఎలా పని చేస్తుంది?",
+    "emailTemplateText": "పంపించే ముందు నేను ఈ-మెయిల్ చూడవచ్చా?",
+    "pickEmailService": "మీ ఈ-మెయిల్ సేవా వేదికను ఎన్నుకోండి...",
+    "gmailText": "జిమెయిల్",
+    "outlookText": "ఔట్‌లుక్",
+    "otherText": "ఇతరవి",
+    "selectedText": "ఎన్నుకున్నవి",
+    "emptyResultText": "ఎటువంటి ఫలితాలు లభించలేదు"
+}

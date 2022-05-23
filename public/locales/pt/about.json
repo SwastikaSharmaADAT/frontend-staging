@@ -1,0 +1,27 @@
+{
+    "about": "sobre nós",
+    "labels": {
+        "option1": "A Rede de Arte",
+        "option2": "Loja",
+        "option3": "Equipe",
+        "option4": "Carreiras",
+        "option5": "IP",
+        "option6": "Impressum",
+        "option7": "Termos & Privacidade",
+        "option8": "Relações com Investidores"
+    },
+    "career": {
+        "jobOpening": {
+            "title": "Vagas de Trabalho"
+        },
+        "lisbonPortugal": {
+            "title": "Lisboa | Portugal",
+            "option1": "Estágios",
+            "option2": "Gestor de Redes Sociais & Marketing Digital",
+            "option3": "Especialista em WooCommerce"
+        },
+        "hamburgGermany": {
+            "title": "Hamburgo | Alemanha"
+        }
+    }
+}

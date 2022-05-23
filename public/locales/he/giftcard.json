@@ -1,0 +1,37 @@
+{
+  "title": "כרטיס מתנה",
+  "linkToMyGiftCard": "צפה בכרטיסי המתנה שלך",
+  "giftCardSection": {
+    "title": "קדם את הפרופיל שלך",
+    "description": "הטמע קישור לפרופיל ARTMO שלך באתרי האינטרנט שלך.",
+    "getLinkButton": "קבל קישור",
+  },
+  "giftCardContent": {
+    "singular": "כרטיס מתנה",
+    "title": "שלח כרטיס מתנה של ARTMO בדוא"ל. הנמען יכול להשתמש בו לרכישת יצירות אמנות.",
+    "selectAmount": "בחר סכום:",
+    "quesion": "שלח את כרטיס המתנה הזה אל...",
+    "namePlaceholder": "הזן שם",
+    "emailPlaceholder": "הזן דוא"ל",
+    "lastNote": "פרטי הכרטיס יהיו זמינים בקטע החשבון שלי. תקבל קבלה למייל החשבון שלך.",
+    "buttonText": "התקדם לתשלום",
+    "hello": "שלום",
+    "sentFrom": "זהו כרטיס המתנה שלך שנשלח על ידי...",
+    "use": "השתמש בכרטיס זה לרכישת יצירות אמנות.",
+    "seeHere": "ראה יצירות אמנות כאן...",
+    "expiryDate": "* תאריך תפוגה:"
+  },
+  "myGiftCardContent": {
+    "title": "כרטיסי המתנה שלך:",
+    "to": "ל",
+    "name": "ביורן אנדרסן",
+    "validUntil": "בתוקף עד",
+    "purchasedOn": "נרכש ב",
+    "used": "נוצל",
+    "valid": "בתוקף",
+    "expired": "פג תוקף",
+    "makeCard": ".הכן מתנה מאמנות",
+    "buttonText": "רכוש כרטיס ARTMO",
+    "noGiftCard": "אין כרטיס מתנה זמין"
+  }
+}

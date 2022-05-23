@@ -1,0 +1,118 @@
+{
+    "auth": {
+        "passwordResetSuccess": "Password has been reset successfully!!",
+        "signOutMessage": "User has been signed out!!"
+    },
+    "articles": {
+        "articlePublish": "Article sent for moderation",
+        "articleDraft": "Article saved to drafts",
+        "articleUpdate": "Article updated & sent for moderation"
+    },
+    "dashboard": {
+        "settingsSaved": "Settings saved"
+    },
+    "groups": {
+        "userRemoved": "User removed from group",
+        "assignAsModerator": "Assigned as Moderator",
+        "inviteSent": "Invite sent",
+        "postSentForApproval": "Your recent post has been sent to Admin/Moderator for the approval",
+        "postPublished": "Group post published successfully",
+        "groupPostAccepted": "Post accepted successfully",
+        "groupPostRejected": "Post rejected successfully",
+        "joinRequestAccepted": "Join request accepted",
+        "joinRequestRejected": "Join request rejected",
+        "groupInviteAccept": "Group invitation accepted",
+        "groupInviteReject": "Group invitation ignored",
+        "commentAddSuccess": "Comment added successfully",
+        "groupPhotoRemove": "Group photo removed successfully",
+        "groupPhotoUpload": "Group photo uploaded successfully",
+        "commentDeleted": "Comment deleted successfully"
+    },
+    "mediaLibrary": {
+        "updatedAllMedia": "Updated all media files.",
+        "updatedMedia": "Updated media file."
+    },
+    "newsFeed": {
+        "postPublished": "Post published successfully",
+        "videoPublished": "Video published successfully",
+        "photoAlbumPublished": "Photo album published successfully",
+        "photoAlbumUpdated": "Photo album updated successfully",
+        "commentAdded": "Comment added successfully",
+        "commentDeleted": "Comment deleted successfully",
+        "commentHide": "Comment hidden successfully",
+        "commentUnhide": "Comment unhide successfully",
+        "commentUpdated": "Comment updated successfully",
+        "activityDeleted": "Activity deleted successfully"
+    },
+    "notification": {
+        "notificationRemoved": "Notification removed!"
+    },
+    "pages": {
+        "pageCreated": "Page created successfully"
+    },
+    "profile": {
+        "profilePhotoUploaded": "Profile photo uploaded successfully",
+        "coverPhotoUploaded": "Cover photo uploaded successfully",
+        "profilePhotoRemoved": "Profile photo removed successfully",
+        "coverPhotoRemoved": "Cover photo removed successfully",
+        "infoSaved": "Info saved successfully",
+        "profileUpdated": "Profile updated successfully",
+        "connectionRequestSent": "Connection request sent",
+        "blockUser": "User {{type}}ed",
+        "blocked":"User blocked",
+        "unblocked":"User unblocked",
+        "follow":"User has been followed",
+        "unfollow":"User has been unfollowed",
+        "noticeDeleted": "Notice deleted successfully",
+        "techniqueUpdate": "Technique section updated successfully",
+        "expertiseUpdate": "Expertise section updated successfully",
+        "awardUpdate": "Awards section updated successfully",
+        "publicationUpdate": "Publications section updated successfully",
+        "exhibitionUpdate": "Past Exhibitions section updated successfully",
+        "aboutBusinessUpdate": "About My Business | Profession section updated successfully",
+        "disconnectedFromUser": "Disconnected from user successfully",
+        "connectionRequestDeleted": "Connection request deleted successfully",
+        "connectionRequestIgnored": "Connection request ignored successfully",
+        "userConnected": "User connected successfully"
+    },
+    "staticContent": {
+        "inviteSent": "Invite sent"
+    },
+    "myAccount": {
+        "privacySettingsUpdated": "User privacy settings updated successfully",
+        "webNotificationsSettingsUpdated": "Web notifications settings updated successfully",
+        "dataDownload": "Data downloaded successfully",
+        "picsDownload": "Pictures downloaded successfully",
+        "passwordUpdated": "Password updated successfully",
+        "notificationUpdated": "Notifications settings updated successfully",
+        "accountDisconnected": "Your account is disconnected",
+        "userDataDelete":"All user data is deleted",
+        "photosDelete":"All albums & photos deleted",
+        "userDelete":"Account deleted successfully"
+    },
+    "artworks": {
+        "artworkUpdated": "Your Artwork has been updated successfully.",
+        "artworkDeleted": "Artwork deleted successfully",
+        "draftSave": "Your Artwork has been saved in Drafted mode",
+        "sentForReview": "Your Artwork has been sent for the review",
+        "published":"Your artwork is published successfully"
+    },
+    "profileCompletePopup": {
+        "profileUpdated": "Profile updated successfully"
+    },
+    "subscriptions": {
+        "purchaseSuccess": "Subscription purchased successfully",
+        "updateSuccess": "Subscription updated successfully",
+        "cancel": "Subscription is cancelled",
+        "paymentReactivate":"Payment reactivated"
+    },
+    "messages": {
+        "chatDelete": "Chat deleted successfully",
+        "userBlock": "User is blocked",
+        "messageSent":"Message Sent"
+    },
+    "wishlist":{
+        "added": "Artwork Added to Wishlist",
+        "removed":"Artwork Removed to Wishlist"
+    }
+}

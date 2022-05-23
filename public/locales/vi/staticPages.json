@@ -1,0 +1,83 @@
+{
+    "pageNotFound": {
+        "404": "404",
+        "signUpTextNotFound": "Hoặc đăng ký nếu bạn chưa có hồ sơ ...",
+        "pageNotFound": "Có vẻ như chúng tôi không tìm thấy trang bạn đang tìm kiếm.<br/>Bạn có thể muốn thử một trong những lựa chọn sau, chúng có thể giúp...",
+        "goBackHome": "Quay Lại"
+    },
+    "usersTermsConditions": {
+        "title": "CÁC ĐIỀU KHOẢN & ĐIỀU KIỆN DÀNH CHO NGƯỜI DÙNG",
+        "overview": "1. TỔNG QUAN",
+        "contentEligibility": "2. NỘI DUNG VÀ TƯ CÁCH",
+        "feesPayments": "3. PHÍ VÀ THANH TOÁN",
+        "accountTermination": "4. CHẤM DỨT VÀ HỦY TÀI KHOẢN",
+        "provisions": "5. ĐIỀU KHOẢN KHÁC",
+        "seePrivacyPolicy": "Xem Chính sách Riêng tư",
+        "seeVendorTermsConditions": "Xem các Điều khoản & Điều kiện dành cho Nhà cung cấp"
+    },
+    "privacyPolicyPage": {
+        "title": "CHÍNH SÁCH RIÊNG TƯ",
+        "seeVendorTermsConditions": "Xem các Điều khoản & Điều kiện dành cho Nhà cung cấp",
+        "seeUserTermsConditions": "Xem các Điều khoản & Điều kiện dành cho Người dùng",
+        "accountPrivacySettings": "CÀI ĐẶT RIÊNG TƯ TÀI KHOẢN",
+        "dataSecurity": "BẢO MẬT DỮ LIỆU",
+        "collectingPersonalData": "THU THẬP VÀ XỬ LÝ DỮ LIỆU CÁ NHÂN",
+        "adsOnArtmo": "QUẢNG CÁO TRÊN ARTMO"
+    },
+    "vendorTermsConditions": {
+        "title": "CÁC ĐIỀU KHOẢN & ĐIỀU KIỆN DÀNH CHO NHÀ CUNG CẤP",
+        "seePrivacyPolicy": "Xem Chính sách Riêng tư",
+        "seeUserTermsConditions": "Xem các Điều khoản & Điều kiện dành cho Người dùng",
+        "impOverview": "Điều đầu tiên ... một cái nhìn tổng thể quan trọng",
+        "stepByStep": "Từng Bước Một",
+        "overview": "1. TỔNG QUAN",
+        "fees": "2. HOA HỒNG | PHÍ | THANH TOÁN | HOÀN PHÍ",
+        "termination": "3. CHẤM DỨT VÀ HỦY TÀI KHOẢN",
+        "payoutSchedule": "4. LỊCH THANH TOÁN VIỆC KINH DOANH",
+        "contentEligibility": "5. NỘI DUNG VÀ TƯ CÁCH",
+        "yourObligations": "6. NGHĨA VỤ CỦA BẠN",
+        "artmoObligations": "7. NGHĨA VỤ CỦA ARTMO",
+        "returns": "8. HOÀN TRẢ VÀ TRANH CHẤP",
+        "provisions": "9. ĐIỀU KHOẢN KHÁC",
+        "shippingReturnPolicy": "CHÍNH SÁCH VẬN CHUYỂN VÀ HOÀN TRẢ"
+    },
+    "whatIsArtmo": {
+        "title": "ARTMO là gì?",
+        "artNetwork": "Mạng lưới Nghệ thuật",
+        "artEnthusiast": "Người Đam mê Nghệ thuật",
+        "muchMore": "và hơn thế nữa!",
+        "member": "Thành viên",
+        "pages": "Trang",
+        "marketplace": "Sàn giao dịch",
+        "needHelp": "Cần Trợ giúp - Liên hệ với Chúng tôi ...",
+        "artist": "Nghệ sĩ",
+        "gallery": "Phòng trưng bày",
+        "university": "Đại học",
+        "shop": "Cửa hàng"
+    },
+    "mobileApp": {
+        "title": "Ứng dụng Điện thoại",
+        "subHeading": "Làm thế nào để mở ARTMO từ màn hình chính trên điện thoại của bạn",
+        "note": "Ghi chú",
+        "step": "Bước",
+        "done": "Hoàn thành"
+    },
+    "artworkUploadInst": {
+        "headerTitle": "Hướng dẫn Tải lên Tác phẩm Nghệ thuật",
+        "images": "Hình ảnh",
+        "title": "Tiêu đề",
+        "artMaterial": "Phương tiện Nghệ thuật",
+        "series": "Series",
+        "limitedEdition": "Bản Giới hạn",
+        "price": "Giá",
+        "dimension": "Kích thước",
+        "frame": "Khung",
+        "medium": "Phương tiện",
+        "genre": "Thể loại",
+        "subjectTags": "Thẻ Chủ đề",
+        "description": "Mô tả",
+        "text": "Văn bản",
+        "yourProfile": "Hồ sơ của Bạn",
+        "pdf": "PDF"
+    }
+}

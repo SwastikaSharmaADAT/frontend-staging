@@ -1,0 +1,20 @@
+{
+    "title": "HUY HIỆU",
+    "promoteProfileSection": {
+        "title": "Quảng bá Hồ sơ của Bạn",
+        "description": "Nhúng đường dẫn đến hồ sơ ARTMO của bạn trên trang web của bạn.",
+        "getLinkButton": "Lấy Đường dẫn"
+    },
+    "badgeSections": {
+        "step1": "Bước 1: Chọn màu:",
+        "whiteRadioOption": "Trắng",
+        "blackRadioOption": "Đen",
+        "step2": "Bước 2: Chọn kích thước:",
+        "largeRadioOption": "To",
+        "smallRadioOption": "Nhỏ",
+        "step3": "Bước 3: Sao chép và dán mã vào trang web của bạn:",
+        "copyButtonText": "Sao chép mã",
+        "copiedButtonText": "Đã sao chép!",
+        "helpText": "Trợ giúp"
+    }
+}

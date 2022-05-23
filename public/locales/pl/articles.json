@@ -1,0 +1,83 @@
+{
+    "validationErrors": {
+        "image": "Dodaj obrazek artykułu",
+        "title": "Wprowadź tytuł artykułu",
+        "titleLength": "Tytuł może zawierać maksymalnie 200 znaków",
+        "description": "Dołącz treść",
+        "descriptionLength": "Treść może zawierać maksymalnie 50000 znaków",
+        "category": "Wybierz kategorię",
+        "country": "Wybierz kraj",
+        "city": "Wybierz miasto",
+        "startDate": "Wprowadź datę rozpoczęcia wystawy",
+        "endDate": "Wprowadź datę zakończenia wystawy",
+        "endDateLarge": "Data zakończenia wystawy nie może być wcześniejsza od daty rozpoczęcia"
+    },
+    "articleNotAvailable": "Artykuł jest niedostępny.",
+    "placeholderImage": "Dodaj obrazek",
+    "placeholderTitle": "Wprowadź tytuł",
+    "placeholderDescription": "Tu napisz swój artykuł...",
+    "placeholderCountry": "Kraj",
+    "placeholderStartDate": "Data rozpoczęcia",
+    "placeholderCity": "Miasto",
+    "placeholderEndDate": "Data zakończenia",
+    "category": "Kategoria",
+    "categoryOptions": {
+        "option1": "Buzz",
+        "option2": "Obraz dnia",
+        "option3": "Wystawa"
+    },
+    "status": {
+        "draft": "Szablon",
+        "publish": "Opublikowano",
+        "pending": "W moderacji",
+        "rejected": "Odrzucono"
+    },
+    "articleFollowed": "Następny",
+    "articleFollow": "Obserwuj",
+    "articleUnFollow": "Przestań obserwować",
+    "update": "Zaktualizuj",
+    "submit": "Prześlij",
+    "buzzListing": {
+        "title": "Zobacz to, co porusza.",
+        "titleShort": "BUZZ",
+        "placeholderSearchTitle": "Szukaj wystaw...",
+        "search": "Szukaj",
+        "city": "Miasto",
+        "edit": "Edytuj"
+    },
+    "exhibitionListing": {
+        "title": "WYSTAWY"
+    },
+    "potd": {
+        "title": "OBRAZ DNIA"
+    },
+    "myArticle": {
+        "title": "Moje Artykuły",
+        "seeMoreText": "Zobacz więcej..."
+    },
+    "seeMoreText": "Zobacz więcej...",
+    "addArticleInfo": {
+        "mainSection": {
+            "heading": "Jak napisać artykuł",
+            "firstPara": "Pomyśl o sobie jako o dziennikarzu lub autorze opinii. Napisz o czymś, co zainteresuje świat sztuki i miłośników sztuki. Twój artykuł nie jest okazją do wypromowania siebie lub własnego dzieła sztuki, ale jest przestrzenią do napisania na temat, który zainteresuje szerokie grono odbiorców.",
+            "secondPara": "Aby opublikować artykuł, musisz mieć wypełniony profil w ARTMO.",
+            "thirdPara": "Po opublikowaniu zostaniesz rozpoznany jako wydawca. "
+        },
+        "buzzSubSection": {
+            "heading": "Buzz:",
+            "firstPara": "Napisz artykuł na interesujący dla użytkowników ARTMO temat. Zobacz świetne przykłady artykułów Buzz ",
+            "anchorText": "tutaj"
+        },
+        "potdSubSection": {
+            "heading": "Obraz Dnia | POTD:",
+            "firstPara": "Użyj kategorii POTD, jeśli masz urzekające i fascynujące zdjęcie, o którym chcesz napisać. Użyj tego obrazu jako obrazu głównego, a następnie opowiedz światu historię tego zdjęcia. Twój POTD zostanie opublikowany ",
+            "anchorText": "tutaj"
+        },
+        "exhibitionSubSection": {
+            "heading": "Wystawy:",
+            "firstPara": "Użyj tej kategorii, jeśli prowadzisz galerię lub organizujesz wystawę. Napisz o wystawie, którą organizujesz, a Twój artykuł pojawi się w kategorii Wystawy.",
+            "secondPara": "Twój artykuł wystawowy zostanie opublikowany ",
+            "anchorText": "tutaj"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "connectingTheArtWorld": "শিল্প জগৎ কে যুক্তকরণ",
+    "login": "প্রবেশ করুন",
+    "freeSignup": "ফ্রি তে নিবন্ধন করুন",
+    "signup": "নিবন্ধন করুন",
+    "search": "ব্যবহারকারীদের খুঁজুন",
+    "legacyPageInfo": "আপনি এখান থেকে আপনার পেজে ঢুকতে পারবেন",
+    "loginMenu": {
+        "home": "হোম",
+        "groups": "গ্রুপসমূহ",
+        "network": "নেটওয়ার্ক",
+        "messages": "বার্তাসমূহ",
+        "notifications": "বিজ্ঞপ্তিসমূহ",
+        "cart": "ঝুড়ি",
+        "artwork": "শিল্পকর্মসমূহ",
+        "me": "আমি",
+        "more": "আরো",
+        "sellArt": "শিল্প বিক্রি",
+        "dashboard": "ড্যাসবোর্ড",
+        "myarticles": "প্রবন্ধ সমূহ"
+    },
+    "logoutMenu": {
+        "artwork": "শিল্পকর্ম",
+        "cart": "ঝুড়ি",
+        "more": "আরো"
+    },
+    "subMenu": {
+        "createPage": "পেজ তৈরি করুন",
+        "switchPage": "পেজ বদল করুন",
+        "switchTo": "বদল করুন",
+        "profile": "প্রোফাইল",
+        "page": "আমার পেজ",
+        "myAccount": "আমার একাউন্ট",
+        "signOut": "বের হন",
+        "settings": "সেটিংস এবং গোপনীয়তা"
+    },
+    "cart": {
+        "removeWarning": "আপনি কি নিশ্চিত আপনি এই আইটেম সরাতে চান?",
+        "yes": "হ্যাঁ",
+        "checkoutButton": "চেকআউট",
+        "emptyCartWarning": "আপনার ঝুড়িটি খালি!",
+        "outOfStock": "স্টকে নেই!",
+        "seeArtworks": "শিল্পকর্মগুলি দেখুন",
+        "buttonYes": "হ্যাঁ"
+    }
+}

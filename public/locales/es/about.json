@@ -1,0 +1,27 @@
+{
+    "about": "acerca de nosotros",
+    "labels": {
+        "option1": "La Red de Arte",
+        "option2": "Tienda",
+        "option3": "Equipo",
+        "option4": "Trabaja con Nosotros",
+        "option5": "IP",
+        "option6": "Impressum",
+        "option7": "Términos y Privacidad",
+        "option8": "Relaciones con Inversionistas"
+    },
+    "career": {
+        "jobOpening": {
+            "title": "Job Openings"
+        },
+        "lisbonPortugal": {
+            "title": "Lisbon | Portugal",
+            "option1": "Internships",
+            "option2": "Social Media Manager & Digital Marketer",
+            "option3": "WooCommerce Expert"
+        },
+        "hamburgGermany": {
+            "title": "Hamburg | Germany"
+        }
+    }
+}

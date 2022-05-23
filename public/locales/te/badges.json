@@ -1,0 +1,20 @@
+{
+    "title": "బాడ్జిలు",
+    "promoteProfileSection": {
+        "title": "మీ ప్రొఫైల్ ను ప్రచారం చేసుకోండి",
+        "description": "మీ అంతర్జాల వేదికలలో మీ ARTMO ప్రొఫైల్ లింకును ఎంబెడ్ చేయండి.",
+        "getLinkButton": "లింక్ పొందండి"
+    },
+    "badgeSections": {
+        "step1": "1వ దశ: రంగును ఎన్నుకోండి:",
+        "whiteRadioOption": "తెలుపు",
+        "blackRadioOption": "నలుపు",
+        "step2": "2వ దశ: పరిమాణము ఎన్నుకోండి:",
+        "largeRadioOption": "పెద్దది",
+        "smallRadioOption": "చిన్నది",
+        "step3": "3వ దశ: మీ అంతర్జాల వేదికలో కోడ్ ను కాపీ, పేస్ట్ చేయండి:",
+        "copyButtonText": "కోడ్ ను కాపీ చేయండి",
+        "copiedButtonText": "కాపీ చేయబడింది!",
+        "helpText": "సహాయము"
+    }
+}

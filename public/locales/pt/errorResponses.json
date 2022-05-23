@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "noContactsFound": "Nenhum contato encontrado",
+        "somethingWentWrong": "Algo deu errado, por favor faça login para continuar",
+        "sessionExpired": "Sessão expirada, por favor faça login novamente",
+        "loginToContinue": "Por favor faça o login para continuar."
+    },
+    "mediaLibrary": {
+        "limitMoreImages": "Apenas mais {{limit}} imagens podem ser selecionadas"
+    },
+    "article": {
+        "articleNotFound": "Artigo não encontrado"
+    },
+    "cart": {
+        "alreadyInCart": "Este produto já foi adicionado ao seu carrinho",
+        "removeItemError": "Erro ao remover item do carrinho"
+    },
+    "subscriptions": {
+        "planExist": "Você já comprou este plano!",
+        "artworkNotFound":"Obra de arte não encontrada"
+    }
+}

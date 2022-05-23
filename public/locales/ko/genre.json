@@ -1,0 +1,47 @@
+{
+    "title": "장르",
+    "tabs": {
+        "genre": "장르",
+        "media": "분야",
+        "timePeriod": "시대",
+        "genreSubTabs": {
+            "definition": "정의",
+            "abstractExpressionism": "추상적 표현주의",
+            "abstract": "추상화",
+            "calligraphy": "캘리그라피",
+            "conceptual": "구상화",
+            "concrete": "구체 미술",
+            "constructivism": "구성주의",
+            "cubism": "큐비즘",
+            "documentary": "다큐멘터리",
+            "expressionism": "표현주의",
+            "fantastic": "환상주의",
+            "figurative": "구상미술",
+            "illustration": "일러스트레이션",
+            "impressionism": "인상주의",
+            "magicalRealism": "마술적 사실주의",
+            "minimalism": "미니멀리즘",
+            "naiveArt": "나이브 아트(Naive Art)",
+            "pop": "팝(Pop)",
+            "realism": "사실주의",
+            "surrealism": "초현실주의"
+        },
+        "mediaSubTabs": {
+            "definition": "정의",
+            "collage": "콜라주",
+            "design": "디자인",
+            "digital": "디지털",
+            "drawing": "드로잉",
+            "mixed": "혼합",
+            "multimedia": "멀티미디어",
+            "newMedia": "뉴미디어",
+            "painting": "페인팅",
+            "sculpture": "조각"
+        },
+        "timeperiodSubTabs": {
+            "definition": "정의",
+            "contemporary": "현대미술",
+            "modern": "근대미술"
+        }
+    }
+}

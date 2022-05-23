@@ -1,0 +1,77 @@
+{
+  "groupbarHeading": "GROEPE",
+  "placeholderSearchGroups": "Soek Groepe",
+  "allCategories": "Alle Kategorieë«",
+  "noCategoriesFound": "Geen Kategorieë« gevind",
+  "allTags": "Alle Merkers",
+  "noTagsFound": "Geen Merkers Gevind Nie",
+  "search": "Soek",
+  "clear": "Duidelik",
+  "groupListing": {
+    "confirmButtonText": "Verlaat",
+    "confirmLeaveText": "Is u seker dat u hierdie groep wil verlaat?",
+    "sortedBy": "Gesorteer Volgens",
+    "recentActivity": "Onlangse Aktiwiteit",
+    "group": "Groep",
+    "manageGroupLabel": "Bestuur Groepinstellings",
+    "leaveGroup": "Verlaat Groep",
+    "cancelRequest": "Kanselleer Versoek",
+    "invitedBy": "Jy is uitgenooi deur",
+    "wouldYouJoin": "Sal u graag by hierdie groep wil aansluit?",
+    "accept": "Aanvaar",
+    "ignore": "Ignoreer",
+    "lastActive": "Laaste Aktief",
+    "members": "Lid(Lede)",
+    "posts": "pos(poste)",
+    "noGroupsFound": "Geen Groep(e) Gevind",
+    "loadMore": "Laai Meer..."
+  },
+  "toolTip": {
+    "tip1": "Enige webwerflid kan by hierdie groep aansluit.",
+    "tip2": "Hierdie groep sal gelys word in die groep gids en in soekresultate.",
+    "tip3": "Groepinhoud en aktiwiteit sal sigbaar wees vir enige lid van die werf."
+  },
+  "createGroup": {
+    "placeholderName": "Naam",
+    "placeholderDescription": "Beskrywing",
+    "privacyTitle": "Privaatheid",
+    "privacyPublic": "Publiek",
+    "privacyPublicContent": {
+      "point1": "Enige werflid kan by hierdie groep aansluit.",
+      "point2": "Hierdie groep sal gelys word in die groep gids en in soekresultate.",
+      "point3": "Groepinhoud en aktiwiteit sal sigbaar wees vir enige lid van die werf."
+    },
+    "privacyPrivate": "Privaat",
+    "privacyPrivateContent": {
+      "point1": "Slegs gebruikers wat lidmaatskap aanvra en aanvaar word, kan by die groep aansluit.",
+      "point2": "Hierdie groep sal gelys word in die groep gids en in soekresultate.",
+      "point3": "Groepinhoud en aktiwiteit sal sigbaar wees vir enige lid van die werf."
+    },
+    "privacyHidden": "Verborge",
+    "privacyHiddenContent": {
+      "point1": "Slegs gebruikers wat uitgenooi is kan by hierdie groep aansluit.",
+      "point2": "Hierdie groep sal nie gelys word in die groep gids en in soekresultate nie.",
+      "point3": "Groepinhoud en aktiwiteit sal slegs sigbaar wees vir lede van die groep."
+    },
+    "postModeration": "Pos-moderering",
+    "moderationTypes": {
+      "option1": "Kies tipe pos-moderering",
+      "option2": "Auto Gepubliseer",
+      "option3": "Gepubliseer By Hersiening"
+    },
+    "inviteFeature": "Aktiveer Uitnodigingsfunksie",
+    "whoCanInvite": "Wie kan lede na die groep uitnooi?",
+    "inviteOptions": {
+      "option1": "Kies Uitnodigingstipe",
+      "option2": "Admin",
+      "option3": "Admin & Moderators",
+      "option4": "Almal"
+    },
+    "category": "Kategorie",
+    "placeholderCategory": "Kies Kategorieë«",
+    "tags": "Merkers",
+    "placeholderTags": "Kies Merkers",
+    "save": "Stoor",
+    "update": "Update"
+  }
+}

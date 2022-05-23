@@ -1,0 +1,69 @@
+{
+    "bannerSection": {
+        "todaysFeature": "今日の特集",
+        "seeMore": "もっと見る..."
+    },
+    "loggedOutBanner": {
+        "title": "ようこそあなたの",
+        "title2": "アートコミュニティ",
+        "descr": "アートがあなたの情熱であれ、職業であれ、あなたは正しい場所に来ています。",
+        "joinInBtnText": "無料ではじめる",
+        "network": "ネットワーク",
+        "blog": "ブログ",
+        "news": "ニュース",
+        "marketplace": "マーケットプレイス",
+        "whatIsArtmo": "ARTMOとは？",
+        "learnMore": "詳しく見る...",
+        "signUp": "無料でアカウントを作成する",
+        "logIn": "ログイン",
+        "videos": "ビデオ",
+        "exhibition": "展示会",
+        "gallery": "ギャラリー"
+    },
+    "usersListing": {
+        "title": "アート愛好家とつながる",
+        "follower": "フォロワー",
+        "followers": "フォロワー",
+        "unfollow": "フォロー解除",
+        "follow": "フォロー",
+        "seeMore": "もっと見る",
+        "following": "フォロー中"
+    },
+    "gridSection": {
+        "home": "ホーム",
+        "artists": "アーティスト",
+        "galleries": "ギャラリー",
+        "exhibitions": "展示",
+        "users": "ユーザー",
+        "artwork": "作品",
+        "genres": "ジャンル",
+        "universities": "大学"
+    },
+    "artworkSection": {
+        "title": "関連する手数料なしであなたのアートを売買します",
+        "priceOnRequest": "価格はお問い合わせください",
+        "artist": "アーティスト",
+        "member": "メンバー",
+        "seeMore": "もっと見る..."
+    },
+    "buzzSection": {
+        "title": "アートの世界で何が起こっているかを見る",
+        "seeMore": "もっと見る..."
+    },
+    "videosSection": {
+        "title": "映像",
+        "seeMore": "もっと見る..."
+    },
+    "exhibitionsSection": {
+        "title": "世界中の展示会を探す",
+        "selectCountry": "場所を選択",
+        "latest": "最近になって"  
+    },
+    "potdSection": {
+        "title": "本日の画像",
+        "seeMore": "もっと見る..."
+    },
+    "joinInSection": {
+        "joinInTitle": "無料ではじめる"
+    }
+}

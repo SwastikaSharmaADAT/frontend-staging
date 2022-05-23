@@ -1,0 +1,20 @@
+{
+    "title": "BAJO",
+    "promoteProfileSection": {
+        "title": "Tallata Shafin Ka",
+        "description": "Binne hanyar zuwa shafin ka na ARTMO a shafukan ka na yanar gizo.",
+        "getLinkButton": "Samu Hanyar"
+    },
+    "badgeSections": {
+        "step1": "Step 1: Zabi kala:",
+        "whiteRadioOption": "Fari",
+        "blackRadioOption": "Baki",
+        "step2": "Step 2: Zabi girma:",
+        "largeRadioOption": "Babba",
+        "smallRadioOption": "Karami",
+        "step3": "Step 3: Kwafa ka sauke code din a shafukan ka na yanar gizo :",
+        "copyButtonText": "Kwafi code din",
+        "copiedButtonText": "An Kwafa!",
+        "helpText": "Taimako"
+    }
+}

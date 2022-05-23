@@ -1,0 +1,27 @@
+{
+    "chooseImage": "Chọn Ảnh",
+    "uploadTab": {
+        "title": "Tải File lên",
+        "dragDropHere": "Kéo và thả các file vào đây",
+        "or": "hoặc",
+        "selectFiles": "+ Chọn File",
+        "supportedFormatsText": "Chỉ chấp nhận các ảnh có định dạng *.jpeg, *.jpg và *.png",
+        "maxLimitPrefix": "Tối đa",
+        "maxLimitSuffix": "ảnh có thể chọn hoặc kéo vào",
+        "moreImagesText": "Có thể chọn hoặc thả thêm {{limit}} ảnh nữa",
+        "maxFileSize": "Kích thước tối đa của File: 2 MB",
+        "minFileSize": "Kích thước tối thiểu của File: 100 kB",
+        "maxLimitText": "Có thể chọn hoặc thả tối đa {{limit}} ảnh"
+    },
+    "mediaTab": {
+        "title": "Thư viện Phương tiện",
+        "pickATag": "Chọn một Thẻ",
+        "loadMore": "Tải Thêm",
+        "deleteImage": "Xóa Ảnh",
+        "choose": "Chọn",
+        "saveAll": "Lưu Tất cả",
+        "placeholderSearch": "Tìm kiếm các mục...",
+        "placeholderDescription": "Thêm mô tả...",
+        "placeholderEnterTag": "Nhập Thẻ"
+    }
+}

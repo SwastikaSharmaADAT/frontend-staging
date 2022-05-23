@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "noContactsFound": "Walang nahanap na mga Kontak",
+        "somethingWentWrong": "May hindi inaaasahang pangyayari, pakisuyong maglog-in para makapagpatuloy",
+        "sessionExpired": "Ang sesyon ay lumipas na, pakisuyong maglog-in muli",
+        "loginToContinue": "Pakisuyong maglog-in para makapagpatuloy."
+    },
+    "mediaLibrary": {
+        "limitMoreImages": "Mga {{limit}} larawan na lamang ang maaaring piliin "
+    },
+    "article": {
+        "articleNotFound": "Ang Artikulo ay hindi mahanap"
+    },
+    "cart": {
+        "alreadyInCart": "Ang produktong ito ay naisama na sa iyong cart",
+        "removeItemError": "Nagkaroon ng error sa pagtatanggal ng item mula sa cart"
+    },
+    "subscriptions": {
+        "planExist": "Nabili mo na ang plan na ito!",
+        "artworkNotFound": "Ang artwork ay hindi mahanap"
+    }
+}

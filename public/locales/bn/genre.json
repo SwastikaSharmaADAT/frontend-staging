@@ -1,0 +1,47 @@
+{
+    "title": "ধরন",
+    "tabs": {
+        "genre": "ধরন",
+        "media": "মাধ্যম",
+        "timePeriod": "সময়কাল",
+        "genreSubTabs": {
+            "definition": "সংজ্ঞা",
+            "abstractExpressionism": "বিমূর্ত ছাপ",
+            "abstract": "বিমূর্ত",
+            "calligraphy": "ক্যালিগ্রাফি",
+            "conceptual": "ধারনাগত",
+            "concrete": "মূর্ত",
+            "constructivism": "গঠনবাদ",
+            "cubism": "কিউবিজম",
+            "documentary": "তথ্যচিত্র",
+            "expressionism": "ভাববাদ",
+            "fantastic": "অসাধারণ",
+            "figurative": "আলংকারিক",
+            "illustration": "চিত্রণ",
+            "impressionism": "প্রতিচ্ছায়াবাদ",
+            "magicalRealism": "জাদুকরি বাস্তববাদ",
+            "minimalism": "ন্যূনতমতা",
+            "naiveArt": "নিরলংকার শিল্প",
+            "pop": "পপ",
+            "realism": "বাস্তববাদ",
+            "surrealism": "পরাবাস্তবতা"
+        },
+        "mediaSubTabs": {
+            "definition": "সংজ্ঞা",
+            "collage": "কোলাজ",
+            "design": "নকশা",
+            "digital": "ডিজিটাল",
+            "drawing": "চিত্রাংকন",
+            "mixed": "পাঁচ মেশালি",
+            "multimedia": "মাল্টিমিডিয়া",
+            "newMedia": "নতুন মিডিয়া",
+            "painting": "অংকন",
+            "sculpture": "ভাস্কর্য"
+        },
+        "timeperiodSubTabs": {
+            "definition": "সংজ্ঞা",
+            "contemporary": "সমসাময়িক",
+            "modern": "আধুনিক"
+        }
+    }
+}

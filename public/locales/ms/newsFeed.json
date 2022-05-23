@@ -1,0 +1,122 @@
+{
+    "addContent": {
+        "placeholderAdd": "Tambah...",
+        "post": "Pos",
+        "video": "Video",
+        "album": "Album",
+        "article": "Artikel",
+        "artwork": "Karya Seni"
+    },
+    "addPhotoAlbumPopup": {
+        "title": "Tambah satu Album Foto",
+        "limitText": "Tambah imej (maks 50)",
+        "addImages": "Tambah imej",
+        "placeholderAddTitle": "Tambah Tajuk",
+        "writeSomething": "Tulis sesuatu...",
+        "firstPhotoInfo": "Foto pertama akan menjadi cover foto album.",
+        "publish": "Terbit",
+        "errorLabels": {
+            "maxCharacter100": "Hanya 100 karakter dibenarkan",
+            "titleRequired": "Tajuk diperlukan",
+            "maxCharacter500": "Hanya 500 karakter dibenarkan"
+        }
+    },
+    "editPhotoAlbumPopup": {
+        "title": "Sunting Foto Album",
+        "updateButton": "Kemas Kini"
+    },
+    "addPostPopup": {
+        "title": "Hasilkan satu Pos",
+        "editPhoto": "Sunting Foto",
+        "addPhoto": "Tambah Foto",
+        "writeSomething": "Tulis sesuatu...",
+        "postDescCount": "/200",
+        "publish": "Terbit"
+    },
+    "editPostPopup": {
+        "title": "Sunting Pos",
+        "updateButton": "Kemas Kini"
+    },
+    "addVideoPopup": {
+        "title": "Tambah satu Video",
+        "validUrlError": "Sila masukkan URL yang sah",
+        "placeholderEnterLink": "Masukkan pautan dari YouTube, Vimeo...",
+        "placeholderWriteSomething": "Tulis sesuatu...",
+        "addCategory": "Tambah Kategori",
+        "next": "Seterusnya",
+        "publish": "Terbit",
+        "update": "Kemas Kini"
+    },
+    "editVideoPopup": {
+        "title": "Sunting Pos Video",
+        "updateButton": "Kemas Kini"
+    },
+    "refreshOverlay": {
+        "newActivityAdded": "Aktiviti baru ditambah",
+        "refresh": "Segarkan Semula"
+    },
+    "hashtags": {
+        "title": "HASHTAG TERATAS",
+        "noHashtagsAdded": "Tiada hashtag ditambah",
+        "post": "pos",
+        "postPlural": "pos-pos"
+    },
+    "manageArtwork": {
+        "follower": "pengikut",
+        "followerPlural": "pengikut-pengikut",
+        "visit": "Lawat",
+        "manage": "Urus",
+        "noPageFound": "Tiada halaman ditemui"
+    },
+    "profile": {
+        "follower": "pengikut",
+        "followerPlural": "pengikut-pengikut",
+        "profileCompleteness": "Kelengkapan Profil",
+        "editProfile": "Sunting Profil"
+    },
+    "singlePost": {
+        "photo": "foto",
+        "photoPlural": "foto-foto",
+        "seeInStore": "Lihat di Kedai",
+        "deleteText": "Adakah anda pasti anda ingin memadam komen anda?",
+        "capsHide": "Sembunyi",
+        "capsUnhide": "Nyahsembunyi",
+        "hide": "sembunyi",
+        "unhide": "nyahsembunyi",
+        "areYouSure": "Adakah anda pasti anda ingin",
+        "thisComment": "komen ini?",
+        "update": "Kemas Kini",
+        "like": "Suka",
+        "comment": "Komen",
+        "liked": "Disukai",
+        "likedBy": "Disukai oleh",
+        "lowerLike": "suka",
+        "lowerLikePlural": "suka",
+        "lowerUnlike": "Nyahsuka",
+        "lowerComment": "komen",
+        "lowerCommentPlural": "komen-komen",
+        "share": "Kongsi",
+        "pending": "Tertangguh",
+        "deleteActivity": "Adakah anda pasti anda ingin memadam aktiviti ini?",
+        "accept": "Terima",
+        "reject": "Tolak",
+        "delete": "Padam",
+        "seeMore": "Lihat Lagi..",
+        "price": "Harga",
+        "priceOnRequest": "Harga atas Permintaan",
+        "placeholderComment": "Masukkan komen anda...",
+        "publish": "Terbit",
+        "loadMoreText": "Muat Turun Lagi...",
+        "loadMoreRepliesText": "Muat Turun lagi banyak balasan...",
+        "edit": "Sunting",
+        "commentRemoved": "Komen ini telah dikeluarkan",
+        "replyRemoved": "Balasan ini telah dikeluarkan"
+    },
+    "singleActivity": {
+        "activityNotAvailable": "Aktiviti ini tidak tersedia",
+        "seeMore": "Lihat Lagi...",
+        "alreadyHaveAnAccount": "Sudah mempunyai akaun?",
+        "signUp": "Daftarlah",
+        "logIn": "Log masuk"
+    }
+}

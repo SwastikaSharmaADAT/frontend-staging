@@ -1,0 +1,27 @@
+{
+    "about": "akan",
+    "labels": {
+        "option1": "Rukunin Zane",
+        "option2": "Shago",
+        "option3": "Kungiya",
+        "option4": "Aiki",
+        "option5": "IP",
+        "option6": "Impressum",
+        "option7": "Sharudda & Sirri",
+        "option8": "Ma'amalan Mai Saka Jari"
+    },
+    "career": {
+        "jobOpening": {
+            "title": "Ayyuka da za'a iya nema"
+        },
+        "lisbonPortugal": {
+            "title": "Lisbon | Portugal",
+            "option1": "Aiti",
+            "option2": "Manajan shafin zumunta & Mai Talle ta Na'ura",
+            "option3": "Gwani a WooCommerce"
+        },
+        "hamburgGermany": {
+            "title": "Hamburg | Jamus"
+        }
+    }
+}

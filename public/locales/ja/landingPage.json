@@ -1,0 +1,68 @@
+{
+    "bannerSection": {
+        "todaysFeature": "今日の特集",
+        "seeMore": "もっと見る..."
+    },
+    "loggedOutBanner": {
+        "title": "ようこそあなたの",
+        "title2": "アートコミュニティ",
+        "descr": "アートがあなたの情熱であれ、職業であれ、あなたは正しい場所に来ています。",
+        "joinInBtnText": "無料ではじめる",
+        "network": "ネットワーク",
+        "blog": "ブログ",
+        "news": "ニュース",
+        "marketplace": "マーケットプレイス",
+        "whatIsArtmo": "ARTMOとは？",
+        "learnMore": "詳しく見る...",
+        "signUp": "無料ではじめる",
+        "logIn": "ログイン",
+        "videos": "ビデオ",
+        "exhibition": "展示会",
+        "gallery": "ギャラリー"
+    },
+    "usersListing": {
+        "title": "アートネットワーク",
+        "follower": "フォロワー",
+        "followers": "フォロワー",
+        "unfollow": "フォロー解除",
+        "follow": "フォロー",
+        "seeMore": "もっと見る",
+        "following": "フォロー中"
+    },
+    "gridSection": {
+        "home": "ホーム",
+        "artists": "アーティスト",
+        "galleries": "ギャラリー",
+        "exhibitions": "展示",
+        "users": "ユーザー",
+        "artwork": "作品",
+        "genres": "ジャンル",
+        "universities": "大学"
+    },
+    "artworkSection": {
+        "title": "新作",
+        "priceOnRequest": "価格はお問い合わせください",
+        "artist": "アーティスト",
+        "member": "メンバー",
+        "seeMore": "もっと見る..."
+    },
+    "buzzSection": {
+        "title": "話題",
+        "seeMore": "もっと見る..."
+    },
+    "videosSection": {
+        "title": "映像",
+        "seeMore": "もっと見る..."
+    },
+    "exhibitionsSection": {
+        "title": "展示",
+        "seeMore": "もっと見る..."
+    },
+    "potdSection": {
+        "title": "本日の画像",
+        "seeMore": "もっと見る..."
+    },
+    "joinInSection": {
+        "joinInTitle": "無料ではじめる"
+    }
+}

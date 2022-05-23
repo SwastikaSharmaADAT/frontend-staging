@@ -1,0 +1,156 @@
+{
+  "tabLabels": {
+    "dashboard": "דשבורד",
+    "mediaLibrary": "ספריית מדיה",
+    "artworks": "יצירות אמנות",
+    "orders": "הזמנות",
+    "customers": "לקוחות",
+    "settings": "הגדרות",
+    "addArtwork": "הוסף יצירה"
+  },
+  "incompletePopup": {
+    "mainText": "נהדר לראות אותך כאן, מתחיל להעלות את יצירות האמנות שלך.",
+    "subText": "לפני שתוכל להעלות ולפרסם יצירות אמנות תצטרך להשלים את הפרופיל שלך."
+  },
+  "knowledgeBase": {
+    "title": "בסיס ידע"
+  },
+  "dashboard": {
+    "title": "דשבורד",
+    "learnMore": "למד עוד",
+    "sections": {
+      "sec1": "אישור יצירה",
+      "sec2": "איך אוכל לאשר את היצירה שלי?",
+      "sec3": "אנא עיין בהוראות להעלאת יצירות אמנות כאן",
+      "sec4": "איך יצירה נמכרת?",
+      "here": "כאן."
+    }
+  },
+  "artworks": {
+    "title": "יצירות אמנות",
+    "addNew": "הוסף חדש",
+    "learnMore": "למד עוד",
+    "draft": "טיוטה",
+    "published": "פורסם",
+    "underReview": "ממתין לאישור",
+    "sold": "נמכר",
+    "pending": "נדרשת עריכה",
+    "show": "הצג",
+    "entries": "רשומות",
+    "placeholderSearch": "חיפוש",
+    "eur": "EUR",
+    "quickEdit": {
+      "title": "עריכה מהירה",
+      "confirmButton": "כן",
+      "markAsSoldText": "האם אתה בטוח שברצונך לסמן את היצירה הזו כנמכרה? זה לא ניתן לביטול",
+      "switchLeft": "נמכר",
+      "switchRight": "זמין",
+      "saveChanges": "שמור שינויים",
+      "selfNotePlaceholder": "הערה עצמית",
+      "titlePlaceholder": "כותרת",
+      "pricePlaceholder": "מחיר",
+      "priceOnRequestPlaceholder": "מחיר לפי בקשה",
+    },
+    "delete": {
+      "confirmButton": "כן",
+      "confirmDeleteText": "האם אתה בטוח שברצונך למחוק את היצירה הזו?"
+    },
+    "hover": {
+      "view": "הצג",
+      "quickEdit": "עריכה מהירה",
+      "edit": "ערוך",
+      "delete": "מחק"
+    }
+  },
+  "orders": {},
+  "settings": {
+    "title": "הגדרות",
+    "learnMore": "למד עוד",
+    "saveChanges": "שמור שינויים",
+    "updateChanges": "עדכן שינויים",
+    "optionTitles": {
+      "general": "כללי",
+      "vacation": "חופשה",
+      "subscription": "מנוי",
+      "payouts": "תשלומים"
+    },
+    "general": {
+      "vendorEmail": "דוא\"ל ספק",
+      "timezone": "איזור זמן",
+      "shippingPolicy": "מדיניות משלוח",
+      "validationErrors": {
+        "email": "אנא הזן כתובת דוא\"ל תקין",
+        "shippingPolicy": "מדיניות המשלוח יכולה לכלול עד 1000 תווים"
+      }
+    },
+    "vacation": {
+      "vacationMode": "הפעל מצב חופשה",
+      "disablePurchase": "השבת רכישה במהלך חופשה",
+      "vacationMessage": "הודעת חופשה",
+      "validationErrors": {
+        "vacationMessage": "הודעת חופשה יכולה להכיל 1000 תווים לכל היותר"
+      }
+    },
+    "subscription": {
+      "paymentsVia": "תשלום באמצעות",
+      "paypalEmail": "דוא\"ל PayPal",
+      "cardNumber": "מספר כרטיס",
+      "changePaymentData": "שנה נתוני תשלום",
+      "subscriptionPeriod": "תקופת מנוי",
+      "price": "מחיר",
+      "eur": "EUR",
+      "upcomingPayment": "התשלום הבא",
+      "upgradeMembership": "שדרג מנוי",
+      "downgradeYourAccount": "הנמך את חשבונך",
+      "cancelSubscription": "בטל את המנוי שלך",
+      "cancelConfirmText": "האם אתה בטוח שאתה רוצה לבטל את המנוי שלך?",
+      "buttonYes": "כן",
+      "changePaymentText": "האם אתה בטוח שאתה רוצה לשנות את סוג התשלום?",
+      "basicPlanText": "זוהי חבילה בחינם. אין צורך בתשלום.",
+    },
+    "payouts": {
+      "wireTransfer": "העברה בנקאית",
+      "payPal": "פייפל",
+      "paymentTypeQuestion": "איך אתה רוצה לקבל כסף ממכירות האמנות שלך?",
+      "country": "מדינה",
+      "bankAccountNumber": "מספר חשבון בנק",
+      "email": "Email", "דוא"ל"
+      "routingNumber": "מספר ניתוב",
+      "validationErrors": {
+        "bankAccountNumber": "מספר חשבון הבנק יכול לכלול 24 ספרות לכל היותר",
+        "routingNumber": "נדרש מספר ניתוב",
+        "country": "נדרשת מדינה",
+        "email": "נדרש דוא"ל",
+        "bankAccountNumberLength": "מספר חשבון בנק יכול להכיל עד 24 ספרות",
+        "routingNumberLength": "מספר ניתוב יכול להכיל עד 24 ספרות",
+        "paymentType": "נדרש סוג תשלום",
+        "invalidEmail": "הזן כתובת דוא"ל תקינה",
+      }
+    }
+  },
+  "knowledgebase": {
+    "accordion1": "כיצד להגדיר מצב חופשה?",
+    "accordion2": "כיצד לשלוח יצירות אמנות?",
+    "accordion3": "מדוע המוצר שלי אינו גלוי באוספים?",
+    "accordion4": "דרישות תצלום",
+    "accordion5": "תעודת מקוריות (הורדה)"
+  },
+  "purchaseSubscriptionMessage": "אנא רכוש מנוי תחילה",
+  "profileCompletionPopup": {
+    "title": "השלם את החשבון שלך",
+    "addProfileImage": "הוסף תמונת פרופיל",
+    "startSellingArt": "התחל למכור אמנות",
+    "placeholder": {
+      "phone": "מספר טלפון",
+      "city": "עיר",
+      "country": "מדינה",
+    },
+    "validationErrors": {
+      "profileImageRequired": "נדרשת תמונת פרופיל",
+      "cityRequired": "נדרשת עיר",
+      "countryRequired": "נדרשת מדינה",
+      "phoneRequired": "נדרש מספר טלפון",
+      "invalidPhone": "מספר טלפון לא חוקי",
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+    "about": "tungkol sa amin",
+    "labels": {
+        "option1": "Ang Art Network",
+        "option2": "Shop",
+        "option3": "Team",
+        "option4": "Karera",
+        "option5": "IP",
+        "option6": "Impressum",
+        "option7": "Mga Termino at Privacy",
+        "option8": "Pakikipag-ugnayan sa mga Investor"
+    },
+    "career": {
+        "jobOpening": {
+            "title": "Mga Bukas na Trabaho"
+        },
+        "lisbonPortugal": {
+            "title": "Lisbon | Portugal",
+            "option1": "Mga Internship",
+            "option2": "Social Media Manager & Digital Marketer",
+            "option3": "WooCommerce Expert"
+        },
+        "hamburgGermany": {
+            "title": "Hamburg | Germany"
+        }
+    }
+}

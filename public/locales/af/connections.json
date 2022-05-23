@@ -1,0 +1,19 @@
+{
+  "myConnectionsLabel": "My Verbindings",
+  "connectionRequests": "Verbindingsversoeke",
+  "connectionRequestsSent": "Verbindingsversoeke Gestuur",
+  "follower": "volgeling",
+  "followerPlural": "volgelinge",
+  "disconnected": "ontkoppel",
+  "disconnect": "ontkoppel",
+  "loadMore": "Laai Meer...",
+  "noConnections": "Geen Verbindings",
+  "ignore": "Ignoreer",
+  "ignored": "Geïgnoreer",
+  "connect": "verbind",
+  "connected": "verbind",
+  "noConnectionRequestsReceived": "No Connection Requests received",
+  "noConnectionRequestsSent": "No Connection Requests sent",
+  "requestDeleted": "Versoek Uitgevee",
+  "deleteRequest": "Vee Versoek Uit"
+}

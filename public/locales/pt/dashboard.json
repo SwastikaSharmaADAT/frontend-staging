@@ -1,0 +1,138 @@
+{
+  "tabLabels": {
+    "dashboard": "DASHBOARD",
+    "mediaLibrary": "GALERIA DE IMAGENS",
+    "artworks": "OBRAS DE ARTE",
+    "orders": "PEDIDOS",
+    "customers": "CLIENTES",
+    "settings": "CONFIGURAÇÕES",
+    "addArtwork": "ADICIONAR OBRA DE ARTE"
+  },
+  "incompletePopup": {
+    "mainText": "Ótimo vê-lo aqui, começando a enviar suas obras de arte.",
+    "subText": "Antes de fazer upload e publicar obras de arte, você precisa completar seu perfil."
+  },
+  "knowledgeBase": {
+    "title": "BASE DE CONHECIMENTO"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "learnMore": "Saiba Mais",
+    "sections": {
+      "sec1": "APROVAÇÃO DE OBRA DE ARTE",
+      "sec2": "COMO POSSO APROVAR MINHA OBRA DE ARTE?",
+      "sec3": "Por favor veja Instruções de Envio de Obras de Arte aqui",
+      "sec4": "COMO AS OBRAS DE ARTE SÃO VENDIDAS?",
+      "here": "aqui."
+    }
+  },
+  "artworks": {
+    "title": "Obras de Arte",
+    "addNew": "Adicionar Nova",
+    "learnMore": "Saiba Mais",
+    "draft": "rascunho",
+    "published": "Publicados",
+    "underReview": "Aprovação pendente",
+    "sold": "Vendido",
+    "pending": "Edição necessária",
+    "show": "Mostrar",
+    "entries": "Itens",
+    "placeholderSearch": "Buscar",
+    "eur": "EUR",
+    "quickEdit": {
+      "title": "Edição Rápida",
+      "confirmButton": "Sim",
+      "markAsSoldText": "Tem certeza que quer marcar essa obra de arte como vendida? Essa ação não pode ser desfeita.",
+      "switchLeft": "vendido",
+      "switchRight": "Disponível",
+      "saveChanges": "Salvar Alterações",
+      "selfNotePlaceholder": "Auto Nota",
+      "titlePlaceholder": "Título",
+      "pricePlaceholder": "Preço",
+      "priceOnRequestPlaceholder": "Preço sob Consulta"
+    },
+    "delete": {
+      "confirmButton": "Sim",
+      "confirmDeleteText": "Tem certeza que quer excluir essa obra de arte?"
+    },
+    "hover": {
+      "view": "Visualizar",
+      "quickEdit": "Edição Rápida",
+      "edit": "Editar",
+      "delete": "Excluir"
+    }
+  },
+  "orders": {},
+  "settings": {
+    "title": "Configurações",
+    "learnMore": "Saiba Mais",
+    "saveChanges": "Salvar Alterações",
+    "updateChanges": "Atualizar modificações",
+    "optionTitles": {
+      "general": "Geral",
+      "vacation": "Modo Férias",
+      "subscription": "Subscrição",
+      "payouts": "Pagamentos"
+    },
+    "general": {
+      "vendorEmail": "Email do vendedor",
+      "timezone": "Fuso Horário",
+      "shippingPolicy": "Política de Envios",
+      "validationErrors": {
+        "email": "Por favor insira um endereço de email válido",
+        "shippingPolicy": "A Política de Envios deve ter no máximo 1000 caracteres"
+      }
+    },
+    "vacation": {
+      "vacationMode": "Ativar Modo Férias",
+      "disablePurchase": "Desabilitar compras durante Modo Férias",
+      "vacationMessage": "Mensagem de Férias",
+      "validationErrors": {
+        "vacationMessage": "A Mensagem de Férias deve ter no máximo 1000 caracteres"
+      }
+    },
+    "subscription": {
+      "paymentsVia": "Pagamentos via",
+      "paypalEmail": "email PayPal",
+      "changePaymentData": "Modificar dados de pagamento",
+      "subscriptionPeriod": "Período de Subscrição",
+      "price": "Preço",
+      "eur": "EUR",
+      "upcomingPayment": "Próximo Pagamento",
+      "upgradeMembership": "Assinatura de atualização.",
+      "downgradeYourAccount": "Diminuir Plano",
+      "cardNumber": "Número do cartão ",
+      "cancelSubscription": "Cancelar sua assinatura",
+      "cancelConfirmText":"Tem certeza que deseja cancelar sua assinatura?",
+      "buttonYes":"Sim",
+      "changePaymentText":"Tem certeza que deseja alterar o modo de pagamento?",
+      "basicPlanText": "Este é um plano gratuito. Nenhum pagamento requerido."
+    },
+    "payouts": {
+      "paymentTypeQuestion": "Como quer receber o dinheiro das vendas das suas obras de arte?",
+      "country": "País",
+      "bankAccountNumber": "Número de Conta Bancária",
+      "routingNumber": "Número de Roteamento",
+      "wireTransfer":"Transferência bancária",
+      "payPal":"PayPal",
+      "email": "E-mail",
+      "validationErrors": {
+        "bankAccountNumber": "O Número de Conta Bancária deve ter no máximo 24 dígitos",
+        "routingNumber": "O Número de Roteamento deve ter no máximo 24 dígitos",
+        "country": "País é obrigatório",
+        "email": "Endereço de e-mail é obrigatório",
+        "bankAccountNumberLength": "O número da conta bancária pode ter no máximo 24 dígitos",
+        "routingNumberLength": "O número identificador pode ter no máximo 24 dígitos",
+        "paymentType": "O tipo de pagamento é obrigatório",
+        "invalidEmail": "Digite um endereço de e-mail válido"
+      }
+    }
+  },
+  "knowledgebase": {
+    "accordion1": "Como ativar o Modo Férias?",
+    "accordion2": "Como enviar uma obra de arte?",
+    "accordion3": "Por que meu produto não está visível em Coleções?",
+    "accordion4": "Requisitos para imagens",
+    "accordion5": "Certificado de Autenticidade (download)"
+  }
+}

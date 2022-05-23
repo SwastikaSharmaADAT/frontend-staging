@@ -1,0 +1,20 @@
+{
+    "myConnectionsLabel": "Hade-hade na",
+    "connectionRequests": "Neman Haduwa",
+    "connectionRequestsSent": "An tura Neman Haduwa",
+    "follower": "masu bi",
+    "followerPlural": "masu biya",
+    "disconnected": "an cire hadi",
+    "disconnect": "cire hadi",
+    "loadMore": "Bude Saura...",
+    "noConnections": "Babu Hadi",
+    "ignore": "Kyale",
+    "ignored": "An Kyale",
+    "connect": "Hada",
+    "connected": "An Hade",
+    "noConnectionRequestsReceived": "Babu Neman Hadaka da Akayi",
+    "noConnectionRequestsSent": "Babu Neman Hadaka da Aka Tura",
+    "requestDeleted": "An Goge Nema",
+    "deleteRequest": "Goge Nema",
+    "noConnectionRequests": "Ba'a Karbi Wani Neman Haduwa Ba"
+}

@@ -1,0 +1,77 @@
+{
+    "groupbarHeading": "KUMPULAN",
+    "placeholderSearchGroups": "Cari Kumpulan",
+    "allCategories": "Semua Kategori",
+    "noCategoriesFound": "Tiada Kategori dijumpa",
+    "allTags": "Semua Tag",
+    "noTagsFound": "tiadaTagDijumpa",
+    "search": "Cari",
+    "clear": "Kosongkan",
+    "groupListing": {
+        "confirmButtonText": "Tinggal",
+        "confirmLeaveText": "Adakah anda pasti anda ingin tinggalkan kumpulan ini?",
+        "sortedBy": "Tapis dengan",
+        "recentActivity": "Aktiviti Terkini",
+        "group": "Kumpulan",
+        "manageGroupLabel": "Urus setting kumpulan",
+        "leaveGroup": "Tinggalkan kumpulan",
+        "cancelRequest": "Batalkan Permintaan",
+        "invitedBy": "Anda telah dijemput oleh",
+        "wouldYouJoin": "Adakah anda ingin menyertai kumpulan ini?",
+        "accept": "Terima",
+        "ignore": "Abai",
+        "lastActive": "Aktiviti Terakhir",
+        "members": "ahli",
+        "posts": "pos",
+        "noGroupsFound": "Tiada Kumpulan Dijumpai",
+        "loadMore": "Muat Turun Lebih..."
+    },
+    "toolTip": {
+        "tip1": "Mana-mana ahli laman web boleh menyertai kumpulan ini.",
+        "tip2": "Kumpulan ini akan disenaraikan dalam direktori kumpulan dan di hasil carian.",
+        "tip3": "Kandungan dan aktiviti kumpulan akan dapat dilihat oleh mana-mana ahli tapak."
+    },
+    "createGroup": {
+        "placeholderName": "Nama",
+        "placeholderDescription": "Huraian",
+        "privacyTitle": "Privasi",
+        "privacyPublic": "Umum",
+        "privacyPublicContent": {
+            "point1": "Mana-mana ahli laman web boleh menyertai kumpulan ini.",
+            "point2": "Kumpulan ini akan disenaraikan dalam direktori kumpulan dan di hasil carian.",
+            "point3": "Kandungan dan aktiviti kumpulan akan dapat dilihat oleh mana-mana ahli tapak."
+        },
+        "privacyPrivate": "Peribadi",
+        "privacyPrivateContent": {
+            "point1": "Hanya pengguna yang meminta keahlian dan diterima boleh menyertai kumpulan ini.",
+            "point2": "Kumpulan ini akan disenaraikan dalam direktori kumpulan dan di hasil carian.",
+            "point3": "Kandungan dan aktiviti kumpulan akan dapat dilihat oleh mana-mana ahli tapak."
+        },
+        "privacyHidden": "Terpendam",
+        "privacyHiddenContent": {
+            "point1": "Hanya pengguna yang dijemput sahaja boleh menyertai kumpulan ini.",
+            "point2": "Kumpulan ini tidak akan disenaraikan dalam direktori kumpulan dan di hasil carian.",
+            "point3": "Kandungan dan aktiviti kumpulan hanya akan dapat dilihat oleh ahli kumpulan ini."
+        },
+        "postModeration": "Moderasi Pos",
+        "moderationTypes": {
+            "option1": "Pilih jenis pos moderasi",
+            "option2": "Diterbit Automatik",
+            "option3": "Diterbit Setelah Disemak"
+        },
+        "inviteFeature": "Membolehkan Ciri Jemputan",
+        "whoCanInvite": "Siapa boleh menjemput ahli ke dalam kumpulan?",
+        "inviteOptions": {
+            "option1": "Pilih jenis jemputan",
+            "option2": "Admin",
+            "option3": "Admin & Moderator",
+            "option4": "Semua Orang"
+        },
+        "category": "Kategori",
+        "placeholderCategory": "Pilih Kategori",
+        "tags": "Tag",
+        "placeholderTags": "Pilih Tag",
+        "save": "Simpan",
+        "update": "Kemas Kini"
+    }
+}

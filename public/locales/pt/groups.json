@@ -1,0 +1,76 @@
+{
+    "groupbarHeading": "GRUPOS",
+    "placeholderSearchGroups": "Buscar Grupos",
+    "allCategories": "Todas as Categorias",
+    "noCategoriesFound": "Nenhuma Categoria encontrada",
+    "allTags": "Todas as Tags",
+    "noTagsFound": "Nenhuma Tag encontrada",
+    "search": "Buscar",
+    "clear": "Limpar",
+    "groupListing": {
+        "confirmButtonText": "Sair",
+        "confirmLeaveText": "Tem certeza que quer sair do grupo?",
+        "sortedBy": "Classificado por",
+        "recentActivity": "Atividade Recente",
+        "group": "Grupo",
+        "manageGroupLabel": "Gerenciar configurações de grupo",
+        "leaveGroup": "Sair do grupo",
+        "cancelRequest": "Cancelar pedido",
+        "invitedBy": "Você foi convidado por",
+        "wouldYouJoin": "Você quer participar desse grupo?",
+        "accept": "Aceitar",
+        "ignore": "Ignorar",
+        "lastActive": "Ativo pela última vez",
+        "members": "membro(s)",
+        "posts": "publicações(s)",
+        "noGroupsFound": "Nenhum Grupo(s) Encontrado",
+        "loadMore": "Carregar mais..."
+    },
+    "toolTip": {
+        "tip1": "Qualquer membro do site pode entrar neste grupo.",
+        "tip2": "Este grupo será listado no diretório de grupos e nos resultados de pesquisa.",
+        "tip3": "O conteúdo e a atividade deste grupo serão visíveis para qualquer membro do site."
+    },
+    "createGroup": {
+        "placeholderName": "Nome",
+        "placeholderDescription": "Descrição",
+        "privacyTitle": "Privacidade",
+        "privacyPublic": "Público",
+        "privacyPublicContent": {
+            "point1": "Qualquer membro do site pode entrar neste grupo.",
+            "point2": "Este grupo será listado no diretório de grupos e nos resultados de pesquisa.",
+            "point3": "O conteúdo e a atividade deste grupo serão visíveis para qualquer membro do site."
+        },
+        "privacyPrivate": "Privado",
+        "privacyPrivateContent": {
+            "point1": "Apenas membros que enviarem uma solicitação e forem aceitos podem entrar neste grupo.",
+            "point2": "Este grupo será listado no diretório de grupos e nos resultados de pesquisa.",
+            "point3": "O conteúdo e a atividade deste grupo serão visíveis apenas para membros deste grupo."
+        },
+        "privacyHidden": "Oculto",
+        "privacyHiddenContent": {
+            "point1": "Apenas membros que forem convidados podem entrar neste grupo.",
+            "point2": "Este grupo não será listado no diretório de grupos e nos resultados de pesquisa.",
+            "point3": "O conteúdo e a atividade deste grupo serão visíveis apenas para membros deste grupo."
+        },
+        "postModeration": "Moderação de Posts",
+        "moderationTypes": {
+            "option1": "Selecione o tipo de moderação de posts",
+            "option2": "Auto Publicados",
+            "option3": "Publicados após revisão"
+        },
+        "inviteFeature": "Ativar recurso de convites",
+        "whoCanInvite": "Quem pode convidar membros para o grupo?",
+        "inviteOptions": {
+            "option1": "Selecionar tipo de convite",
+            "option2": "Admin",
+            "option3": "Admin & Moderadores",
+            "option4": "Todos"
+        },
+        "category": "Categoria",
+        "placeholderCategory": "Selecionar categorias",
+        "tags": "Tags",
+        "placeholderTags": "Selecionar tags",
+        "save": "Salvar"
+    }
+}

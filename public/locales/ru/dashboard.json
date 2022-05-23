@@ -1,0 +1,156 @@
+{
+  "tabLabels": {
+    "dashboard": "ДАШБОРД",
+    "mediaLibrary": "ГАЛЕРЕЯ",
+    "artworks": "ПРОИЗВЕДЕНИЯ",
+    "orders": "ЗАКАЗЫ",
+    "customers": "ПОКУПАТЕЛИ",
+    "settings": "НАСТРОЙКИ",
+    "addArtwork": "Добавить произведение"
+  },
+  "incompletePopup": {
+    "mainText": "Приятно видеть вас здесь, начинаем загружать свои работы.",
+    "subText": "Прежде чем вы сможете загружать и публиковать произведения искусства, вам необходимо заполнить свой профиль."
+  },
+  "knowledgeBase": {
+    "title": "БАЗА ЗНАНИЙ"
+  },
+  "dashboard": {
+    "title": "Дашборд",
+    "learnMore": "Узнать больше",
+    "sections": {
+      "sec1": "ПОДТВЕРЖДЕНИЕ ПРОИЗВЕДЕНИЯ",
+      "sec2": "КАК ПОДТВЕРДИТЬ МОЁ ПРОИЗВЕДЕНИЕ?",
+      "sec3": "Пожалуйста, прочитайте инструкции загрузки произведения",
+      "sec4": "КАК ПРОДАЁТСЯ ПРОИЗВЕДЕНИЕ?",
+      "here": "здесь."
+    }
+  },
+  "artworks": {
+    "title": "Произведения",
+    "addNew": "Добавить Новое",
+    "learnMore": "Узнать Больше",
+    "draft": "черновик",
+    "published": "Опубликовано",
+    "underReview": "Ожидает Рассмотрения",
+    "sold": "Продано",
+    "pending": "Необходимо Редактирование",
+    "show": "Показать",
+    "entries": "Записи",
+    "placeholderSearch": "Поиск",
+    "eur": "евро",
+    "quickEdit": {
+      "title": "Быстрое Редактирование",
+      "confirmButton": "Да",
+      "markAsSoldText": "Вы уверены, что хотите отметить как продано? Данные нельзя будет изменить",
+      "switchLeft": "продано",
+      "switchRight": "Доступно",
+      "saveChanges": "Сохранить Изменения",
+      "selfNotePlaceholder": "Заметка для Себя",
+      "titlePlaceholder": "Название",
+      "pricePlaceholder": "Цена",
+      "priceOnRequestPlaceholder": "Цена по Запросу"
+    },
+    "delete": {
+      "confirmButton": "Да",
+      "confirmDeleteText": "Вы уверены, что хотите удалить это произведение?"
+    },
+    "hover": {
+      "view": "Посмотреть",
+      "quickEdit": "Быстрое Редактирование",
+      "edit": "Редактировать",
+      "delete": "Удалить"
+    }
+  },
+  "orders": {},
+  "settings": {
+    "title": "Настройки",
+    "learnMore": "Узнать Больше",
+    "saveChanges": "Сохранить Изменения",
+    "updateChanges": "Обновить Изменения",
+    "optionTitles": {
+      "general": "Общее",
+      "vacation": "Отпуск",
+      "subscription": "Подписка",
+      "payouts": "Выплаты"
+    },
+    "general": {
+      "vendorEmail": "Электронная Почта Продавца",
+      "timezone": "Часовой Пояс",
+      "shippingPolicy": "Политика Доставки",
+      "validationErrors": {
+        "email": "Пожалуйста, введите корректную электронную почту",
+        "shippingPolicy": "Условия доставки могут содержать максимум 1000 символов"
+      }
+    },
+    "vacation": {
+      "vacationMode": "Включить Режим Отпуска",
+      "disablePurchase": "Отключить Продажи во Время Отпуска",
+      "vacationMessage": "Сообщение на Время Отпуска",
+      "validationErrors": {
+        "vacationMessage": "Сообщение на время отпуска может содержать максимум 1000 символов"
+      }
+    },
+    "subscription": {
+      "paymentsVia": "Оплата через",
+      "paypalEmail": "Электронная почта PayPal ",
+      "cardNumber": "Номер карты ",
+      "changePaymentData": "Изменить Дату Оплаты",
+      "subscriptionPeriod": "Период Подписки",
+      "price": "Цена",
+      "eur": "евро",
+      "upcomingPayment": "Предстоящая Оплата",
+      "upgradeMembership": "Улучшить Тариф",
+      "downgradeYourAccount": "Изменить Подписку",
+      "cancelSubscription": "Отменить Подписку",
+      "cancelConfirmText":"Вы уверены, что хотите отменить Вашу подписку?",
+      "buttonYes":"Да",
+      "changePaymentText":"Вы уверены, что хотите изменить тип оплаты?",
+      "basicPlanText": "Это бесплатный тариф. Оплата не потребуется."
+    },
+    "payouts": {
+      "wireTransfer":"Перевод на Банковский Счёт",
+      "payPal":"PayPal",
+      "paymentTypeQuestion": "Как Вы хотите получать деньги за проданные произведения?",
+      "country": "Страна",
+      "bankAccountNumber": "Номер Банковского Счёта",
+      "email": "Электронная Почта",
+      "routingNumber": "BIC / SWIFT код",
+      "validationErrors": {
+        "bankAccountNumber": "Необходимо указать номер банковского счёта",
+        "routingNumber": "Необходимо указать Код BIC / SWIFT",
+        "country": "Необходимо указать Страну",
+        "email": "Необходимо указать Электронную Почту",
+        "bankAccountNumberLength": "Длина номера банковского счёта максимум 24 цифры",
+        "routingNumberLength": "Длина BIC / SWIFT кода максимум 24 цифры",
+        "paymentType": "Необходимо указать тип оплаты",
+        "invalidEmail": "Введите корректную электронную почту"
+      }
+    }
+  },
+  "knowledgebase": {
+    "accordion1": "Как установить Режим Отпуска?",
+    "accordion2": "Как я могу добавить произведение?",
+    "accordion3": "Почему мой товар не виден в Коллекциях?",
+    "accordion4": "Требования к Фотографиям",
+    "accordion5": "Сертификат Подлинности (скачать)"
+  },
+  "purchaseSubscriptionMessage": "Пожалуйста, сначала оформите подписку",
+  "profileCompletionPopup": {
+    "title": "Заполните Ваш Аккаунт",
+    "addProfileImage": "Добавьте Фотографию Профиля",
+    "startSellingArt": "Начните Продавать Произведения",
+    "placeholder": {
+      "phone": "Телефонный Номер",
+      "city": "Город",
+      "country": "Страна"
+    },
+    "validationErrors": {
+      "profileImageRequired": "Необходимо добавить фотографию профиля",
+      "cityRequired": "Необходимо указать город",
+      "countryRequired": "Необходимо указать страну",
+      "phoneRequired": "Необходимо указать телефонный номер",
+      "invalidPhone": "Некорректный номер телефона"
+    }
+  }
+}

@@ -1,0 +1,362 @@
+{
+    "placeholderIntro":"简短介绍",
+    "about": {
+        "title": "关于",
+        "edit": "编辑",
+        "cancel": "取消",
+        "save": "保存",
+        "noAboutText": "没有文本添加",
+        "placeholderAbout": "在这里添加....",
+        "characterLimit": "/1000",
+        "errorAbout": "超过最大字符长度 1000"
+    },
+    "biography": {
+        "title": "传记",
+        "edit": "编辑",
+        "cancel": "取消",
+        "save": "保存",
+        "noBiographyText": "未添加传记文本",
+        "placeholderBiography": "在此添加传记....",
+        "characterLimit": "/1000"
+    },
+    "activity": {
+        "title": "活动",
+        "descriptionNotAdded": "未添加说明",
+        "reactions": "反应",
+        "noActivityText": "未找到任何活动",
+        "seeAll": "查看所有",
+        "add": "添加"
+    },
+    "album": {
+        "title": "专辑",
+        "seeAll": "查看所有",
+        "add": "添加",
+        "noAlbumFound": "没有找到专辑",
+        "edit": "编辑"
+    },
+    "artwork": {
+        "title": "艺术品",
+        "likedArtworks": "喜欢的艺术品",
+        "noArtworkFound": "没有找到艺术品",
+        "seeAll": "查看所有",
+        "add": "添加"
+    },
+    "award": {
+        "title": "奖项",
+        "noAwardFound": "没有找到奖项",
+        "addImages": "添加图片",
+        "placeholderDescription": "加入对您的艺术奖项的描述.",
+        "characterLimit": "/1000",
+        "edit": "编辑",
+        "cancel": "取消",
+        "save": "保存"
+    },
+    "basicInfo": {
+        "fillDetailsText": "请填写这些字段",
+        "placeholderFirstName": "名字",
+        "placeholderLastName": "姓",
+        "placeholderCity": "城市",
+        "placeholderCountry": "选择城市",
+        "placeholderEmail": "电子邮件",
+        "save": "保存",
+        "cancel": "取消"
+    },
+    "business": {
+        "title": "关于我的业务 | 职业",
+        "noBusinessFound": "没有找到关于我的业务 | 职业的信息",
+        "addImages": "添加图片",
+        "placeholderDescription": "加入您对我的业务的描述 | 职业.",
+        "characterLimit": "/1000",
+        "edit": "编辑",
+        "cancel": "取消",
+        "save": "保存"
+    },
+    "connectionsPopup": {
+        "follower": "粉丝",
+        "followerPlural": "粉丝",
+        "connected": "已连接",
+        "requestPending": "请求待处理",
+        "requestSent": "请求已发送",
+        "connect": "连接",
+        "userConnectionsTitle": "的人脉"
+    },
+    "contact": {
+        "title": "联系信息和社交媒体",
+        "noContactInfoFound": "未添加联系人信息",
+        "email": "邮箱",
+        "skype": "Skype",
+        "phone": "电话",
+        "address": "地址",
+        "openingHours": "办公时间",
+        "socialMedia": "社交媒体",
+        "placeholderEmail": "邮箱",
+        "placeholderSkype": "Skype",
+        "phoneNumber": "电话号码",
+        "placeholderAddress": "地址",
+        "placeholderOpenHours": "办公时间",
+        "edit": "编辑",
+        "cancel": "取消",
+        "save": "保存"
+    },
+    "expertise": {
+        "title": "专长",
+        "noExpertiseFound": "找不到专长",
+        "addImages": "添加图像",
+        "placeholderDescription": "加入您的艺术专长描述.",
+        "characterLimit": "/1000",
+        "edit": "编辑",
+        "cancel": "取消",
+        "save": "保存"
+    },
+    "followersPopup": {
+        "follower": "粉丝",
+        "followerPlural": "粉丝",
+        "followed": "关注",
+        "unfollow": "取消关注",
+        "follow": "未关注",
+        "userFollowersTitle": "'的粉丝"
+    },
+    "followingPopup": {
+        "follower": "粉丝",
+        "followerPlural": "粉丝",
+        "followed": "关注",
+        "unfollow": "取消关注",
+        "follow": "未关注",
+        "noFollowing": "没有粉丝",
+        "userFollowersTitle": "'的粉丝",
+        "followPlural": "粉丝"
+    },
+    "group": {
+        "title": "群组",
+        "noGroupsFound": "用户尚未订阅任何小组",
+        "member": "成员",
+        "memberPlural": "成员",
+        "browseGroups": "浏览组",
+        "create": "创建"
+    },
+    "invite": {
+        "title": "邀请朋友",
+        "desc1": "向联系人发送消息.",
+        "desc2": "告诉他们你在这里.",
+        "invite": "邀请"
+    },
+    "messagePopup": {
+        "or": "OR",
+        "seeMore": "查看更多...",
+        "learnMore": "了解更多"
+    },
+    "pastExhibition": {
+        "title": "过往的展览",
+        "addImages": "添加图像",
+        "noExhibitionsFound": "找不到过往的展览",
+        "placeholderDescription": "加入您过往展览的说明.",
+        "characterLimit": "/1000",
+        "edit": "编辑",
+        "cancel": "取消",
+        "save": "保存"
+    },
+    "personalInfo": {
+        "title": "个人信息",
+        "noInfoFound": "未添加个人信息",
+        "city": "城市",
+        "country": "国家",
+        "profession": "职业",
+        "company": "公司",
+        "industry": "行业",
+        "website": "网址",
+        "languages": "语言",
+        "visibleInfo": "默认公众不可见",
+        "dateOfBirth": "生日",
+        "gender": "性别",
+        "relationshipStatus": "感情状态",
+        "placeholderCity": "城市",
+        "placeholderCountry": "选择国家",
+        "placeholderProfession": "职业",
+        "placeholderCompany": "公司",
+        "placeholderIndustry": "行业",
+        "placeholderLanguages": "选择语言",
+        "placeholderWebsite": "网址",
+        "placeholderDob": "生日",
+        "errorDob": "出生日期必填项",
+        "genderDropdown": {
+            "option1": "选择性别",
+            "option2": "男",
+            "option3": "女",
+            "option4": "不选择"
+        },
+        "relationDropdown": {
+            "option1": "选择感情状态",
+            "option2": "单身",
+            "option3": "已婚",
+            "option4": "有伴侣"
+        },
+        "edit": "编辑",
+        "cancel": "取消",
+        "save": "保存"
+    },
+    "coverImage": {
+        "menuOptions": {
+            "title": "更改封面照片",
+            "upload": "上传照片",
+            "change": "更改照片",
+            "remove": "删除照片"
+        }
+    },
+    "profileHead": {
+        "profileImage": {
+            "menuOptions": {
+                "title": "更改图片",
+                "upload": "上传照片",
+                "change": "更改照片",
+                "remove": "删除照片"
+            }
+        },
+        "connected": "连接",
+        "requestPending": "请求魏处理",
+        "requestSent": "请求已发送",
+        "connect": "连接",
+        "shareProfile": "分享简介",
+        "unblock": "解除阻止",
+        "block": "阻止",
+        "tooltip": {
+            "text": "其他的简介模版有不同的套餐订阅.",
+            "seeMore": "查看更多..."
+        },
+        "profileDesc" : {
+            "artist": {
+                "firstline" : "<b>您是一位艺术家.</b>",
+                "secondline" : "您可以出售您创作的艺术品."
+            },
+            "member": {
+                "firstline": "您 <b>不</b> 是艺术家.",
+                "secondline": "您可以出售您个人拥有的艺术品."
+            }
+        },
+        "edit": "编辑",
+        "cancel": "取消",
+        "save": "保存",
+        "followed": "已关注",
+        "follow": "关注",
+        "message": "消息",
+        "more": "更多...",
+        "artistProfile": "艺术家简介",
+        "memberProfile": "会员简介",
+        "enterName": "请输入你的名字",
+        "enterInstitute": "请输入机构名称",
+        "placeholderFirstName": "名字",
+        "placeholderInstitureName": "机构名称",
+        "placeholderLastName": "姓"
+    },
+    "notices": {
+        "title": "通知",
+        "notNoticesFound": "没有要显示的通知!!"
+    },
+    "profileCompleteness": {
+        "title": "档案的完整性",
+        "incompleteLabel": "填写以下内容",
+        "coverPicUrl": "封面图片",
+        "profilePicUrl": "个人资料图片",
+        "city": "城市",
+        "mobile": "手机号码",
+        "address": "地址",
+        "openingHours": "在线时间",
+        "country": "国家",
+        "aboutMe": "关于我",
+        "profession": "专业",
+        "industry": "行业",
+        "company": "公司",
+        "email": "电子邮件"
+    },
+    "publication": {
+        "title": "出版物",
+        "noPublicationsFound": "未找到任何出版物",
+        "addImages": "添加图像",
+        "placeholderDescription": "加入对您的出版物的描述.",
+        "characterLimit": "/1000",
+        "edit": "编辑",
+        "cancel": "取消",
+        "save": "保存"
+    },
+    "allSectionHeader": {
+        "add": "添加",
+        "seeAll": "查看全部"
+    },
+    "share": {
+        "copiedText": "已复制!",
+        "copyLink": "复制链接",
+        "share": "分享",
+        "profileShareTitle": "的个人资料"
+    },
+    "technique": {
+        "title": "技术",
+        "noTechFound": "没有找到技术",
+        "addImages": "添加图片",
+        "placeholderDescription": "加入对您的艺术技艺的描述.",
+        "characterLimit": "/1000",
+        "edit": "编辑",
+        "cancel": "取消",
+        "save": "保存",
+        "your": "你的",
+        "photo": "照片",
+        "apply": "申请"
+    },
+    "profileNavigator": {
+        "profile": "简介",
+        "see": "查看",
+        "art": "'的艺术",
+        "about": "关于",
+        "contact": "联系方式",
+        "activity": "活动",
+        "videos": "视频",
+        "artworks": "艺术品",
+        "likedArtworks": "Liked Artworks",
+        "albums": "专辑",
+        "groups": "群组",
+        "technique": "技术",
+        "expertise": "专业知识",
+        "awards": "奖项",
+        "pastExhibitions": "以往的展览",
+        "publications": "出版物",
+        "personalInfo": "个人信息",
+        "business": "关于我的业务"
+    },
+    "connections": {
+        "title": "人脉",
+        "noConnectionsFound": "无连接",
+        "seeAll": "查看所有...",
+        "followers": "粉丝",
+        "following": "关注"
+    },
+    "video": {
+        "title": "视频",
+        "noVideosFound": "未找到视频"
+    },
+    "visibility": {
+        "public": "公共(已登陆用户)",
+        "private": "私人",
+        "connectionsOnly": "仅连接"
+    },
+    "blockSection": {
+        "accountUnavailable": "此帐户不可用",
+        "goToHome": "回到主页"
+    },
+    "emailShare": {
+        "bodyText2": "\n保持联系!\n什么是artmo〜了解更多 https://artmo.com/what-is-artmo",
+        "profileShare" : {
+            "subject" : "退房artmo.",
+            "bodyText1": "你好,\n我认为您可能有兴趣查看艺术家并加入艺术网络。\n点击这里查看我的个人资料: "
+        },
+        "articleShare": {
+            "subject" : "在Artmo上查看这篇文章",
+            "bodyText1": "你好,\n我认为您可能有兴趣查看Artmo上的这篇文章.\n点击此处阅读: "
+        },
+        "artworkShare":{
+            "subject" : "查看此艺术品的艺术家",
+            "bodyText1": "你好,\n我认为您可能有兴趣查看Artmo上的这个惊人的艺术品。\n点击此处查看艺术品: "
+        },
+        "postShare": {
+            "subject" : "在Artmo上查看这篇文章",
+            "bodyText1": "你好,\n我认为您可能有兴趣在Artmo上查看这篇文章。\n点击此处阅读: "
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "chooseImage": "画像を選択",
+    "uploadTab": {
+        "title": "ファイルをアップロード",
+        "dragDropHere": "ここにファイルをドラッグ&ドロップ",
+        "or": "もしくは",
+        "selectFiles": "+ ファイルを選択",
+        "supportedFormatsText": "画像は*.jpeg, *.jpg と *.pngが利用可能です",
+        "maxLimitPrefix": "最大",
+        "maxLimitSuffix": "画像が選択もしくはドロップ可能です",
+        "moreImagesText": "あと{{limit}}つの画像を選択可能です",
+        "maxFileSize": "最大ファイルサイズ: 2MB",
+        "minFileSize": "最小ファイルサイズ: 100kB",
+        "maxLimitText": "最大{{limit}}つの画像を選択できます"
+    },
+    "mediaTab": {
+        "title": "メディアライブラリー",
+        "pickATag": "タグを選択",
+        "loadMore": "もっと見る",
+        "deleteImage": "画像を削除",
+        "choose": "選択",
+        "saveAll": "すべて保存",
+        "placeholderSearch": "アイテムを検索...",
+        "placeholderDescription": "説明文を追加...",
+        "placeholderEnterTag": "タグを入力"
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "placeholderIntro": "Maikling Introduksyon",
+    "about": {
+        "title": "TUNGKOL SA",
+        "edit": "Mag-edit",
+        "cancel": "I-cancel",
+        "save": "I-save",
+        "noAboutText": "Walang dinagdag na teksto sa tungkol sa",
+        "placeholderAbout": "Magdagdag ng tungkol sa dito....",
+        "characterLimit": "/1000",
+        "errorAbout": "Lumagpas sa maximum na Haba ng character na 1000"
+    },
+    "biography": {
+        "title": "TALAMBUHAY",
+        "edit": "I-edit",
+        "cancel": "Kanselahin",
+        "save": "I-save",
+        "noBiographyText": "Walang teksto sa talambuhay na naidagdag",
+        "placeholderBiography": "Magdagdag ng talambuhay dito....",
+        "characterLimit": "/1000"
+    },
+    "activity": {
+        "title": "Aktibidad",
+        "descriptionNotAdded": "Ang deskripsyon ay hindi pa naidagdag",
+        "reactions": "mga reaksyon",
+        "noActivityText": "Walang aktibidad na nahanap",
+        "seeAll": "Tignan lahat",
+        "add": "Magdagdag"
+    },
+    "album": {
+        "title": "MGA ALBUM",
+        "seeAll": "Tignan lahat",
+        "add": "Magdagdag",
+        "noAlbumFound": "Walang mga album na nakita",
+        "edit": "Edit"
+    },
+    "artwork": {
+        "title": "MGA ARTWORK",
+        "likedArtworks": "NI-LIKE NA MGA ARTWORK",
+        "noArtworkFound": "Walang nahanap na artwork",
+        "seeAll": "Tignan lahat",
+        "add": "Magdagdag"
+    },
+    "award": {
+        "title": "MGA AWARD",
+        "noAwardFound": "Walang mga award na mahanap",
+        "addImages": "Magdagdag ng mga larawan",
+        "placeholderDescription": "Maglagay ng deskripsyon sa iyong art award.",
+        "characterLimit": "/1000",
+        "edit": "I-edit",
+        "cancel": "I-cancel",
+        "save": "I-save"
+    },
+    "basicInfo": {
+        "fillDetailsText": "Pakisuyong punan ang mga patlang",
+        "placeholderFirstName": "Pangalan",
+        "placeholderLastName": "Apelyido",
+        "placeholderCity": "Siyudad",
+        "placeholderCountry": "Pumili ng Bansa",
+        "placeholderEmail": "Email",
+        "save": "I-save",
+        "cancel": "I-cancel"
+    },
+    "business": {
+        "title": "Tungkol sa Aking Negosyo | Propesyon",
+        "noBusinessFound": "Walang impormasyon tungkol sa aking negosyo | propesyon na nahanap",
+        "addImages": "Magdagdag ng mga larawan",
+        "placeholderDescription": "Maglagay ng deskripsyon ng iyong tungkol sa aking negosyo | propesyon.",
+        "characterLimit": "/1000",
+        "edit": "I-edit",
+        "cancel": "I-cancel",
+        "save": "I-save"
+    },
+    "connectionsPopup": {
+        "follower": "follower",
+        "followerPlural": "mga follower",
+        "connected": "Konektado",
+        "requestPending": "Ang Request ay Nakabinbin",
+        "requestSent": " Naipadala na ang Request",
+        "connect": "Kumunekta",
+        "userConnectionsTitle": "Mga Koneksyon ni"
+    },
+    "contact": {
+        "title": "CONTACT INFO",
+        "noContactInfoFound": "Walang contact information na naidagdag",
+        "email": "Email",
+        "skype": "Skype",
+        "phone": "Telepono",
+        "address": "Address",
+        "openingHours": "Opening Hours",
+        "socialMedia": "Social Media",
+        "placeholderEmail": "Email",
+        "placeholderSkype": "Skype",
+        "phoneNumber": "Numero ng Telepono",
+        "placeholderAddress": "Address",
+        "placeholderOpenHours": "Opening Hours",
+        "edit": "I-edit",
+        "cancel": "I-cancel",
+        "save": "I-save"
+    },
+    "expertise": {
+        "title": "EXPERTISE",
+        "noExpertiseFound": "Walang expertise na nahanap",
+        "addImages": "Magdagdag ng mga larawan",
+        "placeholderDescription": "Magdagdag ng deskripsyon sa iyong art",
+        "characterLimit": "/1000",
+        "edit": "I-edit",
+        "cancel": "I-cancel",
+        "save": "I-save"
+    },
+    "followersPopup": {
+        "follower": "follower",
+        "followerPlural": "mga follower",
+        "followed": "Na-follow",
+        "unfollow": "I-unfollow",
+        "follow": "I-follow",
+        "userFollowersTitle": "mga follower ni"
+    },
+    "followingPopup": {
+        "follower": "follower",
+        "followerPlural": "mga follower",
+        "followed": "Na-follow",
+        "unfollow": "I-unfollow",
+        "follow": "I-follow",
+        "noFollowing": "Walang Following",
+        "userFollowersTitle": "mga follower ni",
+        "followPlural": "Mga follow"
+    },
+    "group": {
+        "title": "MGA GROUP",
+        "noGroupsFound": "Ang user ay hindi naka-subscribe sa alinmang grupo",
+        "member": "miyembro",
+        "memberPlural": "mga miyembro",
+        "browseGroups": "Magtingin ng mga grupo",
+        "create": "Gumawa"
+    },
+    "invite": {
+        "title": "MAG-IMBITA NG MGA KAIBIGAN",
+        "desc1": "Magpadala ng mensahe sa iyong mga contact.",
+        "desc2": "Sabihin sa kanila na nandito ka.",
+        "invite": "Mag-imbita"
+    },
+    "messagePopup": {
+        "or": "o",
+        "seeMore": "Tingnan ang higit pa...",
+        "learnMore": "Alamin nang higit pa"
+    },
+    "pastExhibition": {
+        "title": "NAKARAANG MGA EKSIBISYON",
+        "addImages": "Magdagdag ng mga larawan",
+        "noExhibitionsFound": "Walang nakaraang mga eksibisyon ang nahanap",
+        "placeholderDescription": "Maglagay ng deskripsyon ng iyong mga nakaraang eksibisyon.",
+        "characterLimit": "/1000",
+        "edit": "I-edit",
+        "cancel": "I-cancel",
+        "save": "I-save"
+    },
+    "personalInfo": {
+        "title": "PERSONAL NA IMPORMASYON",
+        "noInfoFound": "Walang personal na impormasyon ang naidagdag",
+        "city": "Siyudad",
+        "country": "Bansa",
+        "profession": "Propesyon",
+        "company": "Kumpanya",
+        "industry": "Industriya",
+        "website": "Website",
+        "languages": "Mga Wika",
+        "visibleInfo": "Hindi makikita sa publiko",
+        "dateOfBirth": "Araw ng Kapanganakan",
+        "gender": "Kasarian",
+        "relationshipStatus": "Estado ng Relasyon",
+        "placeholderCity": "Siyudad",
+        "placeholderCountry": "Pumili ng Bansa",
+        "placeholderProfession": "Propesyon",
+        "placeholderCompany": "Kumpanya",
+        "placeholderIndustry": "Industriya",
+        "placeholderLanguages": "Pumili ng mga Wika",
+        "placeholderWebsite": "Website",
+        "placeholderDob": "Araw ng Kapanganakan",
+        "errorDob": "Ang Araw ng Kapanganakan ay Kailangan",
+        "genderDropdown": {
+            "option1": "Pumili ng Kasarian",
+            "option2": "Lalaki",
+            "option3": "Babae",
+            "option4": "Diverse"
+        },
+        "relationDropdown": {
+            "option1": "Pumili ng Estado ng Relasyon",
+            "option2": "Single",
+            "option3": "Kasal",
+            "option4": "Partnership"
+        },
+        "edit": "I-edit",
+        "cancel": "I-cancel",
+        "save": "I-save"
+    },
+    "coverImage": {
+        "menuOptions": {
+            "title": "Magpalit ng cover photo",
+            "upload": "Mag-upload Photo",
+            "change": "Magpalit ng Larawan",
+            "remove": "Tanggalin ang Larawan"
+        }
+    },
+    "profileHead": {
+        "profileImage": {
+            "menuOptions": {
+                "title": "Magpalit ng cover photo",
+                "upload": "Mag-upload Photo",
+                "change": "Magpalit ng Larawan",
+                "remove": "Tanggalin ang Larawan"
+            }
+        },
+        "connected": "Konektado",
+        "requestPending": "Ang Request ay Pending",
+        "requestSent": "Ang Request ay Naipadala na",
+        "connect": "Kumonekta",
+        "shareProfile": "I-share ang Profile",
+        "unblock": "I-Unblock",
+        "block": "I-Block",
+        "tooltip": {
+            "text": "Ang ibang profile ay may ibang modelo ng subskripsyon.",
+            "seeMore": "Tignan ang iba pa..."
+        },
+        "profileDesc": {
+            "artist": {
+                "firstline": "<b>You are an Artist!</b>",
+                "secondline": "You can sell artworks you have created."
+            },
+            "member": {
+                "firstline": "You are <b><i>NOT<i></b> an Artist!",
+                "secondline": "You can sell artworks you personally own."
+            }
+        },
+        "edit": "I-edit",
+        "cancel": "I-cancel",
+        "save": "I-save",
+        "followed": "Na-follow",
+        "follow": "I-follow",
+        "message": "Mensahe",
+        "more": "Iba pa...",
+        "artistProfile": "Profile ng Artista",
+        "memberProfile": "Profile ng Miyembro",
+        "enterName": "Pakisuyong ilagay ang iyong pangalan",
+        "enterInstitute": "Pakisuyong ilagay ang pangalan ng iyong institusyon",
+        "placeholderFirstName": "Pangalan",
+        "placeholderInstitureName": "Pangalan ng Institusyon",
+        "placeholderLastName": "Apelyido"
+    },
+    "notices": {
+        "title": "MGA NOTICE",
+        "notNoticesFound": "Walang mga Notice na maipakita!"
+    },
+    "profileCompleteness": {
+        "title": "PAGKAKUMPLETO NG PROFILE",
+        "incompleteLabel": "Punan ang mga sumusunod na mga patlang",
+        "coverPicUrl": "Cover Picture",
+        "profilePicUrl": "Profile Picture",
+        "city": "Siyudad",
+        "mobile": "Numero ng telepono",
+        "address": "Adres",
+        "openingHours": "Opening Hours",
+        "country": "Bansa",
+        "aboutMe": "Tungkol sa",
+        "profession": "Propesyon",
+        "industry": "Industriya",
+        "company": "Kumpanya",
+        "email": "Email"
+    },
+    "publication": {
+        "title": "MGA PUBLIKASYON",
+        "noPublicationsFound": "Walang mga Publikasyon na maipakita",
+        "addImages": "Magdagdag ng mga larawan",
+        "placeholderDescription": "Maglagay ng deskripsyon sa iyong mga publikasyon.",
+        "characterLimit": "/1000",
+        "edit": "I-edit",
+        "cancel": "I-cancel",
+        "save": "I-save"
+    },
+    "allSectionHeader": {
+        "add": "Magdagdag",
+        "seeAll": "Tignan Lahat"
+    },
+    "share": {
+        "copiedText": "Nakopya!",
+        "copyLink": "Kopyahin ang Link",
+        "share": "I-share",
+        "profileShareTitle": "Profile ni (name)"
+    },
+    "technique": {
+        "title": "TEKNIK",
+        "noTechFound": "Walang mga teknik na nahanap",
+        "addImages": "Magdagdag ng mga larawan",
+        "placeholderDescription": "Maglagay ng deskripsyon sa teknik ng iyong art.",
+        "characterLimit": "/1000",
+        "edit": "I-edit",
+        "cancel": "I-cancel",
+        "save": "I-save",
+        "your": "iyong",
+        "photo": "larawan",
+        "apply": "I-apply"
+    },
+    "profileNavigator": {
+        "profile": "Profile",
+        "see": "Tignan",
+        "art": "Ang Art ni (name)",
+        "about": "TUNGKOL",
+        "contact": "CONTACT INFO",
+        "activity": "AKTIBIDAD",
+        "videos": "MGA VIDEO",
+        "artworks": "MGA ARTWORK",
+        "likedArtworks": "Liked Artworks",
+        "albums": "MGA ALBUM",
+        "groups": "MGA GROUP",
+        "technique": "TEKNIK",
+        "expertise": "EXPERTISE",
+        "awards": "MGA AWARD",
+        "pastExhibitions": "NAKARAANG MGA EKSIBISYON",
+        "publications": "MGA PUBLIKASYON",
+        "personalInfo": "PERSONAL NA IMPORMASYON",
+        "business": "TUNGKOL SA AKING NEGOSYO"
+    },
+    "connections": {
+        "title": "Mga Koneksyon",
+        "noConnectionsFound": "Walang mga Koneksyon",
+        "seeAll": "Tignan Lahat...",
+        "followers": " Mga Follower",
+        "following": "Following"
+    },
+    "video": {
+        "title": "Mga Video",
+        "noVideosFound": "Walang mga video na nahanap"
+    },
+    "visibility": {
+        "public": "Publiko(nakalog-in na user)",
+        "private": "Pribado",
+        "connectionsOnly": "Mga Koneksyon lamang"
+    },
+    "blockSection": {
+        "accountUnavailable": "Ang account na ito ay hindi available",
+        "goToHome": "Pumunta sa Home"
+    },
+    "emailShare": {
+        "bodyText2": "\nKumonekta sa amin!\nAno ang ARTMO ~ Matuto mula sa https://artmo.com/what-is-artmo",
+        "profileShare" : {
+            "subject" : "Tignan ang ARTMO",
+            "bodyText1": "Hello,\nsa tingin ko ay interesado kang tignan ang ARTMO sumali sa Art Network.\nI-Click dito para makita ang aking profile: "
+        },
+        "articleShare": {
+            "subject" : "Tignan ang artikulong ito sa ARTMO",
+            "bodyText1": "Hello,\nsa tingin ko ay interesado kang makita ang artikulong ito sa ARTMO.\nI-Click dito para mabasa ito: "
+        },
+        "artworkShare":{
+            "subject" : "Tignan ang artwork na ito sa ARTMO",
+            "bodyText1": "Hello,\nsa tingin ko ay interesado kang makita ang kakaibang artwork sa ARTMO.\nI-Click dito para makita ang artwork: "
+        },
+        "postShare": {
+            "subject" : "Tignan ang post na ito sa ARTMO",
+            "bodyText1": "Hello,\nsa tingin ko ay interesado kang makita ang post na ito sa ARTMO.\nI-Click dito para mabasa ito: "
+        }
+    }
+}

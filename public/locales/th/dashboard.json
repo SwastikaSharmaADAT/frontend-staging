@@ -1,0 +1,156 @@
+{
+  "tabLabels": {
+    "dashboard": "หน้ารวม",
+    "mediaLibrary": "คลังสื่อ",
+    "artworks": "ผลงานศิลปะ",
+    "orders": "คำสั่งซื้อ",
+    "customers": "ลูกค้า",
+    "settings": "ตั้งค่า",
+    "addArtwork": "เพิ่มผลงานศิลปะ"
+  },
+  "incompletePopup": {
+    "mainText": "ดีใจที่ได้พบคุณที่นี่ กำลังเริ่มอัปโหลดงานศิลปะของคุณ",
+    "subText": "ก่อนที่คุณจะสามารถอัปโหลดและเผยแพร่งานศิลปะ คุณจะต้องกรอกโปรไฟล์ของคุณให้สมบูรณ์"
+  },
+  "knowledgeBase": {
+    "title": "รากฐานความรู้"
+  },
+  "dashboard": {
+    "title": "หน้ารวม",
+    "learnMore": "เรียนรู้เพิ่มเติม",
+    "sections": {
+      "sec1": "การอนุมัติผลงานศิลปะ",
+      "sec2": "ทำอย่างไรให้ผลงานศิลปะของฉันได้รับการอนุมัติ?",
+      "sec3": "ดูวิธีการอัพโหลดผลงานศิลปะที่นี่",
+      "sec4": "ขายผลงานศิลปะได้อย่างไร?",
+      "here": "ที่นี่."
+    }
+  },
+  "artworks": {
+    "title": "ผลงานศิลปะ",
+    "addNew": "เพิ่มใหม่",
+    "learnMore": "เรียนรู้เพิ่มเติม",
+    "draft": "ร่างแบบ",
+    "published": "ที่ตีพิมพ์",
+    "underReview": "รออนุมัติ",
+    "sold": "ขายแล้ว",
+    "pending": "แก้ไขที่จำเป็น",
+    "show": "แสดง",
+    "entries": "ข้อมูลที่กรอก",
+    "placeholderSearch": "ค้นหา",
+    "eur": "EUR",
+    "quickEdit": {
+      "title": "แก้ไขด่วน",
+      "confirmButton": "ใช่",
+      "markAsSoldText": "คุณแน่ใจแล้วใช่ไหมว่าจะขึ้นสถานะว่าขายแล้วกับผลงานศิลปะชิ้นนี้? กลับมาแก้ไขไม่ได้แล้วนะ",
+      "switchLeft": "ขายแล้ว",
+      "switchRight": "มีสินค้า",
+      "saveChanges": "บันทึกการเปลี่ยนแปลง",
+      "selfNotePlaceholder": "บันทึกช่วยจำ",
+      "titlePlaceholder": "ชื่อ",
+      "pricePlaceholder": "ราคา",
+      "priceOnRequestPlaceholder": "สอบถามราคา"
+    },
+    "delete": {
+      "confirmButton": "ใช่",
+      "confirmDeleteText": "คุณแน่ใจใช่ไหมว่าจะลบผลงานศิลปะชิ้นนี้?"
+    },
+    "hover": {
+      "view": "ดู",
+      "quickEdit": "แก้ไขด่วน",
+      "edit": "แก้ไข",
+      "delete": "ลบ"
+    }
+  },
+  "orders": {},
+  "settings": {
+    "title": "ตั้งค่า",
+    "learnMore": "เรียนรู้เพิ่มเติม",
+    "saveChanges": "บันทึกการเปลี่ยนแปลง",
+    "updateChanges": "อัพเดทการเปลี่ยนแปลง",
+    "optionTitles": {
+      "general": "ทั่วไป",
+      "vacation": "พักผ่อน",
+      "subscription": "การติดตาม",
+      "payouts": "การชำระเงิน"
+    },
+    "general": {
+      "vendorEmail": "อีเมลล์ผู้ขาย",
+      "timezone": "Timezone",
+      "shippingPolicy": "นโยบายการจัดส่ง",
+      "validationErrors": {
+        "email": "กรุณากรอกอีเมลล์ที่สามารถใช้ได้",
+        "shippingPolicy": "นโยบายการจัดส่งใส่ได้สูงสุด 1000 ตัวอักษร"
+      }
+    },
+    "vacation": {
+      "vacationMode": "เปิดโหมดพักผ่อน",
+      "disablePurchase": "ไม่รับการสั่งซื้อระหว่างการพักผ่อน",
+      "vacationMessage": "ข้อความระหว่างพักผ่อน",
+      "validationErrors": {
+        "vacationMessage": "ข้อความระหว่างพักผ่อนใส่ได้สูงสุด 1000 ตัวอักษร"
+      }
+    },
+    "subscription": {
+      "paymentsVia": "ชำระเงินผ่านทาง",
+      "paypalEmail": "อีเมลล์ PayPal",
+      "cardNumber": "เลขบัตร",
+      "changePaymentData": "แก้ไขข้อมูลการชำระเงิน",
+      "subscriptionPeriod": "ระยะเวลาการติดตาม",
+      "price": "ราคา",
+      "eur": "ยูโร",
+      "upcomingPayment": "การชำระเงินรายการถัดไป",
+      "upgradeMembership": "อัพเกรดการสมัครสมาชิก",
+      "downgradeYourAccount": "ปรับลดรุ่นการสมัครของคุณ",
+      "cancelSubscription": "ยกเลิกการสมัครติดตาม",
+      "cancelConfirmText": "แน่ใจไหมว่าจะยกเลิกการสมัครติดตาม?",
+      "buttonYes": "ใช่",
+      "changePaymentText": "แน่ใจไหมว่าจะเปลี่ยนวิธีการชำระเงิน?",
+      "basicPlanText": "นี่เป็นการติดตามแบบไม่เสียค่าบริกร ไม่ต้องชำระเงิน"
+    },
+    "payouts": {
+      "wireTransfer": "โอนเงิน",
+      "payPal": "PayPal",
+      "paymentTypeQuestion": "คุณต้องการรับเงินจากการขายงานศิลปะอย่างไร?",
+      "country": "ประเทศ",
+      "bankAccountNumber": "เลขบัญชี",
+      "email": "อีเมลล์",
+      "routingNumber": "รหัสธนาคาร",
+      "validationErrors": {
+        "bankAccountNumber": "เลขบัญชีใส่ได้สูงสุด 24 หลัก",
+        "routingNumber": "รหัสธนาคารใส่ได้สูงสุด 24 หลัก",
+        "country": "ต้องใส่ประเทศ",
+        "email": "ต้องใส่อีเมลล์",
+        "bankAccountNumberLength": "ใส่เลขบัญชีได้สูงสุด24หลัก",
+        "routingNumberLength": "ใส่รหัสตัวแทนธนาคารได้สูงสุด24หลัก",
+        "paymentType": "ต้องใส่วิธีการชำระเงิน",
+        "invalidEmail": "กรอกอีเมลล์ให้ถูกต้อง"
+      }
+    }
+  },
+  "knowledgebase": {
+    "accordion1": "ตั้งค่าโหมดพักผ่อนยังไง?",
+    "accordion2": "ส่งผลงานศิลปะอย่างไร?",
+    "accordion3": "ทำไมผลงานของฉันไม่โชว์ในคอลเล็คชั่น?",
+    "accordion4": "ต้องใส่รูป",
+    "accordion5": "การรับรองความน่าเชื่อถือ (ดาวน์โหลด)"
+  },
+  "purchaseSubscriptionMessage": "กรุณาซื้อแพ็คเกจสมัครติดามก่อน",
+  "profileCompletionPopup": {
+    "title": "กรอกข้อมูลให้ครบถ้วน",
+    "addProfileImage": "เพิ่มรูปโพรไฟล์",
+    "startSellingArt": "เริ่มขายงาน",
+    "placeholder": {
+      "phone": "เบอร์โทรศัพท์",
+      "city": "เมือง",
+      "country": "ประเทศ"
+    },
+    "validationErrors": {
+      "profileImageRequired": "ต้องมีรูปโพรไฟล์",
+      "cityRequired": "ต้องใส่เมือง",
+      "countryRequired": "ต้องใส่ประเทศ",
+      "phoneRequired": "ต้องใส่เบอร์โทรศัพท์",
+      "invalidPhone": "เบอร์โทรศัพท์ไม่ถูกต้อง"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "heading": "ANG ART NETWORK",
+    "listing": {
+        "country": "Bansa:",
+        "placeholderCity": "Siyudad",
+        "userType": "Tipo ng User:",
+        "sortBy": "Ayusin ayon sa:",
+        "search": "Maghanap",
+        "searchUsers": "Maghanap ng mga user...",
+        "searchbyname": "Hanapin ayon sa pangalan..."
+    },
+    "follower": "follower",
+    "followers": "mga follower",
+    "unfollow": "I-unfollow",
+    "follow": "I-follow",
+    "editProfile": "I-edit ang Profile"
+}

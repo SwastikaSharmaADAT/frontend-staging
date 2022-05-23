@@ -1,0 +1,17 @@
+{
+    "heading": "רשת האמנות",
+    "listing": {
+        "country": "מדינה",
+        "placeholderCity": "עיר",
+        "userType": "סוג משתמש:",
+        "sortBy": "סדר לפי:",
+        "search": "חפש",
+        "searchUsers": "חפש משתמשים...",
+        "searchbyname": "חפש לפי שם...",
+    },
+    "follower": "עוקב",
+    "followers": "עוקבים",
+    "unfollow": "בטל עוקב",
+    "follow": "עקוב",
+    "editProfile": "ערוך פרופיל",
+}
